@@ -1,0 +1,188 @@
+# Source Hebrew family-wide features - MASTER FILE
+# To ensure consistency, all features for both Roman and Italic fonts should
+# be written here, with Roman-only and Italic-only content commented-out.
+# This file can be duplicated for Roman and Italic features, with the
+# correspondent content un-commented.
+#
+# Roman comment: #-[roman]
+# Italic comment: #-[italic]
+#
+#
+#---------------------------------------
+@FIGS_LAT = [
+zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat zero.slash
+ ];
+
+@PNUM_LAT = [
+zero.pnumlat one.pnumlat two.pnumlat three.pnumlat four.pnumlat five.pnumlat six.pnumlat seven.pnumlat eight.pnumlat nine.pnumlat zero.slashpnum
+];
+
+@HEBREW_SORTS = [
+exclam quotedbl numbersign dollar percent ampersand quoteright parenleft parenright asterisk slash zero one two three four five six seven eight nine question at bracketleft backslash bracketright asciicircum quoteleft braceleft braceright exclamdown cent florin sterling fraction yen section quotesingle quotedblleft guillemotleft guilsinglleft guilsinglright endash dagger daggerdbl periodcentered paragraph bullet quotedblright guillemotright perthousand questiondown emdash trademark onehalf onequarter degree threequarters registered copyright hyphentwo onesuperior twosuperior threesuperior Euro
+zero.pnumheb one.pnumheb two.pnumheb three.pnumheb four.pnumheb five.pnumheb six.pnumheb seven.pnumheb eight.pnumheb nine.pnumheb newsheqel
+];
+
+@LATIN_SORTS = [
+exclam.lat quotedbl.lat numbersign.lat dollar.lat percent.lat ampersand.lat quoteright.lat parenleft.lat parenright.lat asterisk.lat slash.lat zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat question.lat at.lat bracketleft.lat backslash.lat bracketright.lat asciicircum.lat quoteleft.lat braceleft.lat braceright.lat exclamdown.lat cent.lat florin.lat sterling.lat fraction.lat yen.lat section.lat quotesingle.lat quotedblleft.lat guillemotleft.lat guilsinglleft.lat guilsinglright.lat endash.lat dagger.lat daggerdbl.lat periodcentered.lat paragraph.lat bullet.lat quotedblright.lat guillemotright.lat perthousand.lat questiondown.lat emdash.lat trademark.lat onehalf.lat onequarter.lat degree.lat threequarters.lat registered.lat copyright.lat hyphentwo.lat onesuperior.lat twosuperior.lat threesuperior.lat Euro.lat
+zero.pnumlat one.pnumlat two.pnumlat three.pnumlat four.pnumlat five.pnumlat six.pnumlat seven.pnumlat eight.pnumlat nine.pnumlat newsheqel.lat];
+
+@JALT_ONE = [
+heAlef heDalet heHe heKaf heLamed heMemFin heResh heTav
+];
+
+@JALT_TWO = [
+heAlefWide heDaletWide heHeWide heKafWide heLamedWide heMemFinWide heReshWide heTavWide
+];
+
+@NIKKUD = [
+heSheva heHatafSegol heHatafPatah heHatafQamats heHiriq heTsere heSegol hePatah heQamats heQubuts heMeteg heQamatsQatan heDagesh heHolam heHolamHaser heShinDot heSinDot heRafe];
+
+@COMBINING_MARKS_LATN = [gravecmb acutecmb circumflexcmb caroncmb tildecmb dieresiscmb macroncmb brevecmb ringcmb hungarumlautcmb dotaccentcmb];
+
+@COMBINING_MARKS_LATN_CAP = [gravecmb.cap acutecmb.cap circumflexcmb.cap caroncmb.cap tildecmb.cap dieresiscmb.cap macroncmb.cap brevecmb.cap ringcmb.cap hungarumlautcmb.cap dotaccentcmb.cap];
+
+#---------------------------------------
+languagesystem DFLT dflt;
+
+languagesystem hebr dflt;
+	languagesystem hebr JII;
+
+languagesystem latn dflt;
+
+#--------------------------------------
+feature ccmp {
+
+lookup DECOMPOSE_HEBREW {
+	lookupflag RightToLeft;
+	sub heShinDotted by heShin heShinDot;
+	sub heSinDotted by heShin heSinDot;
+	sub heShinDageshDotted by heShin heShinDot heDagesh.shin;
+	sub heSinDageshDotted by heShin heSinDot heDagesh.shin;
+	sub heAlefPatah by heAlef hePatah;
+	sub heAlefQamats by heAlef heQamats;
+	sub heAlefMapiq by heAlef heDagesh;
+	sub heBetDagesh by heBet heDagesh;
+	sub heGimelDagesh by heGimel heDagesh;
+	sub heDaletDagesh by heDalet heDagesh;
+	sub heHeMapiq by heHe heDagesh;
+	sub heVavDagesh by heVav heDagesh;
+	sub heZayinDagesh by heZayin heDagesh;
+	sub heTetDagesh by heTet heDagesh;
+	sub heYodDagesh by heYod heDagesh;
+	sub heKafDageshFin by heKafFin heDagesh;
+	sub heKafDagesh by heKaf heDagesh;
+	sub heLamedDagesh by heLamed heDagesh;
+	sub heMemDagesh by heMem heDagesh;
+	sub heNunDagesh by heNun heDagesh;
+	sub heSamekhDagesh by heSamekh heDagesh;
+	sub hePeDageshFin by hePeFin heDagesh;
+	sub hePeDagesh by hePe heDagesh;
+	sub heTsadiDagesh by heTsadi heDagesh;
+	sub heQofDagesh by heQof heDagesh;
+	sub heReshDagesh by heResh heDagesh;
+	sub heShinDagesh by heShin heDagesh.shin;
+	sub heTavDagesh by heTav heDagesh;
+	sub heVavHolam by heVav heHolam;
+	sub heBetRafe by heBet heRafe;
+	sub heKafRafe by heKaf heRafe;
+	sub hePeRafe by hePe heRafe;
+} DECOMPOSE_HEBREW;
+	
+lookup SUB_HEBREW_MARKS {
+	lookupflag RightToLeft;
+	sub heSheva' heQamatsQatan' by heHatafQamatsQatan;
+	sub [hePatah heQamats heQamatsQatan]' heMeteg by [hePatah.short heQamats.short heQamatsQatan.short];
+	sub heKafFin heQamats' heMeteg by heQamats.short;
+	sub heKafFin heDagesh [heSheva heQamats]' by [heSheva.kaf heQamats.kaf];
+	sub heKafFin [heSheva heQamats]' by [heSheva.kaf heQamats.kaf];
+	sub heShin @NIKKUD @NIKKUD @NIKKUD heDagesh' by heDagesh.shin;
+	sub heShin @NIKKUD @NIKKUD heDagesh' by heDagesh.shin;
+	sub heShin @NIKKUD heDagesh' by heDagesh.shin;
+	sub heShin heDagesh' by heDagesh.shin;
+} SUB_HEBREW_MARKS;	
+	
+	
+#	sub heHatafSegol heMeteg by heHatafSegolMeteg;
+#	sub heHatafPatah heMeteg by heHatafPatahMeteg;
+#	sub heHatafQamats heMeteg by heHatafQamatsMeteg;
+lookup SWAP_DIACRITICS {
+#	lookupflag LeftToRight;
+	sub [A-Z AE Ccedilla Eogonek @COMBINING_MARKS_LATN_CAP] @COMBINING_MARKS_LATN' by @COMBINING_MARKS_LATN_CAP;
+} SWAP_DIACRITICS;
+
+} ccmp;
+
+#--------------------------------------
+#OK
+feature aalt{
+	feature locl;
+	feature lnum;
+	feature pnum;
+	feature sups;
+	feature jalt;
+	feature ss01;
+	feature ss02;
+	feature salt;
+	feature zero;
+} aalt;
+
+feature locl {
+	script latn;
+	language dflt;
+	sub @HEBREW_SORTS by @LATIN_SORTS;
+} locl;
+
+feature lnum {
+	sub [ampersand zero one two three four five six seven eight nine numbersign newsheqel dollar sterling yen Euro cent florin onesuperior twosuperior threesuperior onequarter onehalf threequarters percent perthousand] by [ampersand.heb zero.heb one.heb two.heb three.heb four.heb five.heb six.heb seven.heb eight.heb nine.heb numbersign.heb newsheqel.heb dollar.heb sterling.heb yen.heb Euro.heb cent.heb florin.heb onesuperior.heb twosuperior.heb threesuperior.heb onequarter.heb onehalf.heb threequarters.heb percent.heb perthousand.heb];
+} lnum;
+
+feature pnum {
+	sub @FIGS_LAT by @PNUM_LAT;
+	sub [zero.heb one.heb two.heb three.heb four.heb five.heb six.heb seven.heb eight.heb nine.heb] by [zero.pnumheb one.pnumheb two.pnumheb three.pnumheb four.pnumheb five.pnumheb six.pnumheb seven.pnumheb eight.pnumheb nine.pnumheb];
+} pnum;
+
+feature sups {
+	sub [a e j o eogonek] by [a.superior e.superior jsupmod o.superior eogonek.superior];
+} sups;
+
+#--------------------------------------
+feature case {
+	sub @COMBINING_MARKS_LATN by @COMBINING_MARKS_LATN_CAP;
+	sub hlinebelow by H macronbelowcmb;
+} case;
+
+feature dlig { # discretionary ligatures
+	lookupflag RightToLeft IgnoreMarks;
+	sub heAlef heLamed by heAlefLamed;
+} dlig;
+
+feature jalt { # justification alternates
+	lookup jalt1 {
+	lookupflag RightToLeft;
+	sub @JALT_ONE by @JALT_TWO;
+} jalt1;
+} jalt;
+
+feature ss01 { # stylistic set 1
+	lookup FIGS_LAT {
+		sub [zero one two three four five six seven eight nine numbersign newsheqel dollar sterling yen Euro cent florin degree onesuperior twosuperior threesuperior fraction divisionslash onehalf onequarter threequarters percent perthousand] by [zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat numbersign.lat newsheqel.lat dollar.lat sterling.lat yen.lat Euro.lat cent.lat florin.lat degree.lat onesuperior.lat twosuperior.lat threesuperior.lat fraction.lat divisionslash.lat onehalf.lat onequarter.lat threequarters.lat percent.lat perthousand.lat];
+		sub [zero.heb one.heb two.heb three.heb four.heb five.heb six.heb seven.heb eight.heb nine.heb zero.pnumheb one.pnumheb two.pnumheb three.pnumheb four.pnumheb five.pnumheb six.pnumheb seven.pnumheb eight.pnumheb nine.pnumheb numbersign.heb newsheqel.heb dollar.heb sterling.heb yen.heb Euro.heb cent.heb florin.heb onesuperior.heb twosuperior.heb threesuperior.heb onehalf.heb onequarter.heb threequarters.heb percent.heb perthousand.heb] by [zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat zero.pnumlat one.pnumlat two.pnumlat three.pnumlat four.pnumlat five.pnumlat six.pnumlat seven.pnumlat eight.pnumlat nine.pnumlat numbersign.lat newsheqel.lat dollar.lat sterling.lat yen.lat Euro.lat cent.lat florin.lat onesuperior.lat twosuperior.lat threesuperior.lat onehalf.lat onequarter.lat threequarters.lat percent.lat perthousand.lat];
+	} FIGS_LAT;
+} ss01;
+
+feature ss02 { # stylistic set 2
+	lookup jalt1;
+} ss02;
+
+feature salt { # stylistic alternates
+	lookup jalt1;
+	lookup FIGS_LAT;
+} salt;
+
+feature zero {
+	sub [zero.lat zero.pnumlat] by [zero.slash zero.slashpnum];
+} zero;
+
+feature size {
+	parameters 12.0 0; # design size, subfamily
+} size;

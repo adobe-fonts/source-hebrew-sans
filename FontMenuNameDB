@@ -1,0 +1,147 @@
+# [PostScriptName]
+# 	f=FamilyName
+# 	s=StyleName
+# 	l=Windows_Compatible_MenuName
+# 	m=1,Macintosh_Compatible_MenuName
+
+[SourceHebrewSans-Light]
+	f=Source Hebrew Sans
+	s=Light
+	l=Source Hebrew Sans Light
+	m=1,Source Hebrew Sans Light
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Light
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans Light
+
+[SourceHebrewSans-LightIt]
+	f=Source Hebrew Sans
+	s=Light Italic
+	l=Source Hebrew Sans Light
+	m=1,Source Hebrew Sans Light Italic
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Light Italic
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans Light
+
+[SourceHebrewSans-LightItAlt]
+	f=Source Hebrew Sans
+	s=Light Italic Alt
+	l=Source Hebrew Sans Light Italic Alt
+	m=1,Source Hebrew Sans Light Italic Alt
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Light Italic Alt
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans Light Italic Alt
+	wpff= Source Hebrew Sans Alt
+	wpff=1, Source Hebrew Sans Alt
+	wpfs=Light Italic
+	wpfs=1, Light Italic
+
+[SourceHebrewSans-Regular]
+	f=Source Hebrew Sans
+	s=Regular
+	l=Source Hebrew Sans
+	m=1,Source Hebrew Sans Regular
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Regular
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+
+[SourceHebrewSans-It]
+	f=Source Hebrew Sans
+	s=Italic
+	l=Source Hebrew Sans
+	m=1,Source Hebrew Sans Italic
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Italic
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+
+[SourceHebrewSans-ItAlt]
+	f=Source Hebrew Sans
+	s=Italic Alt
+	l=Source Hebrew Sans Italic Alt
+	m=1,Source Hebrew Sans Italic Alt
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Italic Alt
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans Italic Alt
+	wpff= Source Hebrew Sans Alt
+	wpff=1, Source Hebrew Sans Alt
+	wpfs=Italic
+	wpfs=1, Italic
+
+[SourceHebrewSans-Semibold]
+	f=Source Hebrew Sans
+	s=Semibold
+	l=Source Hebrew Sans Semibold
+	m=1,Source Hebrew Sans Semibold
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Semibold
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans Semibold
+
+[SourceHebrewSans-SemiboldIt]
+	f=Source Hebrew Sans
+	s=Semibold Italic
+	l=Source Hebrew Sans Semibold
+	m=1,Source Hebrew Sans Semibold Italic
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Semibold
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans Semibold
+
+[SourceHebrewSans-SemiboldItAlt]
+	f=Source Hebrew Sans
+	s=Semibold Italic Alt
+	l=Source Hebrew Sans Smbd Italic Alt
+	m=1,Source Hebrew Sans Smbd Italic Alt
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Semibold Italic Alt
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans Smbd Italic Alt
+	wpff= Source Hebrew Sans Alt
+	wpff=1, Source Hebrew Sans Alt
+	wpfs=Semibold Italic
+	wpfs=1, Semibold Italic
+
+[SourceHebrewSans-Bold]
+	f=Source Hebrew Sans
+	s=Bold
+	l=Source Hebrew Sans
+	m=1,Source Hebrew Sans Bold
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Bold
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+
+[SourceHebrewSans-BoldIt]
+	f=Source Hebrew Sans
+	s=Bold Italic
+	l=Source Hebrew Sans
+	m=1,Source Hebrew Sans Bold Italic
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Bold Italic
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+
+[SourceHebrewSans-BoldItAlt]
+	f=Source Hebrew Sans
+	s=Bold Italic Alt
+	l=Source Hebrew Sans Italic Alt
+	m=1,Source Hebrew Sans Bold Italic Alt
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Bold Italic Alt
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans Italic Alt
+	wpff= Source Hebrew Sans Alt
+	wpff=1, Source Hebrew Sans Alt
+	wpfs=Bold Italic
+	wpfs=1, Bold Italic
+
+[SourceHebrewSans-Black]
+	f=Source Hebrew Sans
+	s=Black
+	l=Source Hebrew Sans Black
+	m=1,Source Hebrew Sans Black
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Black
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans Black
+
+[SourceHebrewSans-BlackIt]
+	f=Source Hebrew Sans
+	s=Black Italic
+	l=Source Hebrew Sans Black
+	m=1,Source Hebrew Sans Black Italic
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,Black Italic
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans Black
