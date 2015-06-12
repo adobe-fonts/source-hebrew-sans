@@ -26,11 +26,11 @@ zero.pnumheb one.pnumheb two.pnumheb three.pnumheb four.pnumheb five.pnumheb six
 exclam.lat quotedbl.lat numbersign.lat dollar.lat percent.lat ampersand.lat quoteright.lat parenleft.lat parenright.lat asterisk.lat slash.lat zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat question.lat at.lat bracketleft.lat backslash.lat bracketright.lat asciicircum.lat quoteleft.lat braceleft.lat braceright.lat exclamdown.lat cent.lat florin.lat sterling.lat fraction.lat yen.lat section.lat quotesingle.lat quotedblleft.lat guillemotleft.lat guilsinglleft.lat guilsinglright.lat endash.lat dagger.lat daggerdbl.lat periodcentered.lat paragraph.lat bullet.lat quotedblright.lat guillemotright.lat perthousand.lat questiondown.lat emdash.lat trademark.lat onehalf.lat onequarter.lat degree.lat threequarters.lat registered.lat copyright.lat hyphentwo.lat onesuperior.lat twosuperior.lat threesuperior.lat Euro.lat
 zero.pnumlat one.pnumlat two.pnumlat three.pnumlat four.pnumlat five.pnumlat six.pnumlat seven.pnumlat eight.pnumlat nine.pnumlat newsheqel.lat];
 
-@JALT_ONE = [
+@JALT_REGULAR = [
 heAlef heDalet heHe heKaf heLamed heMemFin heResh heTav
 ];
 
-@JALT_TWO = [
+@JALT_WIDE = [
 heAlefWide heDaletWide heHeWide heKafWide heLamedWide heMemFinWide heReshWide heTavWide
 ];
 
@@ -159,7 +159,7 @@ feature dlig { # discretionary ligatures
 feature jalt { # justification alternates
 	lookup jalt1 {
 	lookupflag RightToLeft;
-	sub @JALT_ONE by @JALT_TWO;
+	sub @JALT_REGULAR by @JALT_WIDE;
 } jalt1;
 } jalt;
 

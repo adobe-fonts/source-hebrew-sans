@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hlinebelow" format="1">
+  <advance width="582"/>
+  <note>
+    No casing form in font.
+  </note>
+  <outline>
+    <component base="h"/>
+    <component base="macronbelowcmb" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.79411764705882359</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

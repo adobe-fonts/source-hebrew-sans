@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="668"/>
+  <outline>
+    <contour>
+      <point x="24" y="294" type="line"/>
+      <point x="386" y="294" type="line"/>
+      <point x="386" y="374" type="line"/>
+      <point x="100" y="374" type="line"/>
+      <point x="24" y="368" type="line"/>
+    </contour>
+    <component base="D" xOffset="26"/>
+    <contour>
+      <point x="334" y="670" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="334" y="-20" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.80000000000000004</real>
+        <real>0.80000000000000004</real>
+        <real>0.59999999999999998</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -104,6 +104,43 @@ uni05C7.s	heQamatsQatan.short
 uni05BC.s	heDagesh.shin
 uni05B0.k	heSheva.kaf
 uni05B8.k	heQamats.kaf
+ampersand.heb	ampersand.heb
+zero.heb	zero.heb
+one.heb	one.heb
+two.heb	two.heb
+three.heb	three.heb
+four.heb	four.heb
+five.heb	five.heb
+six.heb	six.heb
+seven.heb	seven.heb
+eight.heb	eight.heb
+nine.heb	nine.heb
+zero.pnumheb	zero.pnumheb
+one.pnumheb	one.pnumheb
+two.pnumheb	two.pnumheb
+three.pnumheb	three.pnumheb
+four.pnumheb	four.pnumheb
+five.pnumheb	five.pnumheb
+six.pnumheb	six.pnumheb
+seven.pnumheb	seven.pnumheb
+eight.pnumheb	eight.pnumheb
+nine.pnumheb	nine.pnumheb
+numbersign.heb	numbersign.heb
+uni20AA.heb	newsheqel.heb
+dollar.heb	dollar.heb
+sterling.heb	sterling.heb
+yen.heb	yen.heb
+Euro.heb	Euro.heb
+cent.heb	cent.heb
+uni0192.heb	florin.heb
+one.supsheb	one.supsheb
+two.supsheb	two.supsheb
+three.supsheb	three.supsheb
+onequarter.heb	onequarter.heb
+onehalf.heb	onehalf.heb
+threequarters.heb	threequarters.heb
+percent.heb	percent.heb
+perthousand.heb	perthousand.heb
 A	A
 B	B
 C	C
@@ -387,9 +424,9 @@ onehalf	onehalf
 threequarters	threequarters
 percent	percent
 perthousand	perthousand
-onesuperior	onesuperior	uni00B9
-twosuperior	twosuperior	uni00B2
-threesuperior	threesuperior	uni00B3
+one.sups	one.sups	uni00B9
+two.sups	two.sups	uni00B2
+three.sups	three.sups	uni00B3
 ordfeminine	ordfeminine
 ordmasculine	ordmasculine
 degree	degree
@@ -461,6 +498,7 @@ uni0306	brevecmb
 uni030A	ringcmb
 uni030B	hungarumlautcmb
 uni0307	dotaccentcmb
+uni0327	cedillacmb
 dotbelowcomb	dotbelowcmb
 uni031E	downtackbelowcmb
 uni032E	brevebelowcmb
@@ -477,43 +515,6 @@ uni202D	lefttorightoverride
 uni202E	righttoleftoverride
 uni25CC	circledotted
 uni00A0	nbspace
-ampersand.heb	ampersand.heb
-zero.heb	zero.heb
-one.heb	one.heb
-two.heb	two.heb
-three.heb	three.heb
-four.heb	four.heb
-five.heb	five.heb
-six.heb	six.heb
-seven.heb	seven.heb
-eight.heb	eight.heb
-nine.heb	nine.heb
-zero.pnumheb	zero.pnumheb
-one.pnumheb	one.pnumheb
-two.pnumheb	two.pnumheb
-three.pnumheb	three.pnumheb
-four.pnumheb	four.pnumheb
-five.pnumheb	five.pnumheb
-six.pnumheb	six.pnumheb
-seven.pnumheb	seven.pnumheb
-eight.pnumheb	eight.pnumheb
-nine.pnumheb	nine.pnumheb
-numbersign.heb	numbersign.heb
-uni20AA.heb	newsheqel.heb
-dollar.heb	dollar.heb
-sterling.heb	sterling.heb
-yen.heb	yen.heb
-Euro.heb	Euro.heb
-cent.heb	cent.heb
-uni0192.heb	florin.heb
-onesuperior.heb	onesuperior.heb
-twosuperior.heb	twosuperior.heb
-threesuperior.heb	threesuperior.heb
-onequarter.heb	onequarter.heb
-onehalf.heb	onehalf.heb
-threequarters.heb	threequarters.heb
-percent.heb	percent.heb
-perthousand.heb	perthousand.heb
 ampersand.lat	ampersand.lat
 zero.lat	zero.lat
 one.lat	one.lat
@@ -582,9 +583,9 @@ Euro.lat	Euro.lat
 cent.lat	cent.lat
 uni0192.lat	florin.lat
 degree.lat	degree.lat
-onesuperior.lat	onesuperior.lat
-twosuperior.lat	twosuperior.lat
-threesuperior.lat	threesuperior.lat
+one.supslat	one.supslat
+two.supslat	two.supslat
+three.supslat	three.supslat
 fraction.lat	fraction.lat
 uni2215.lat	divisionslash.lat
 onehalf.lat	onehalf.lat
@@ -606,4 +607,3 @@ uni0306.cap	brevecmb.cap
 uni030A.cap	ringcmb.cap
 uni030B.cap	hungarumlautcmb.cap
 uni0307.cap	dotaccentcmb.cap
-uni0327	cedillacmb
