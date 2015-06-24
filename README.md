@@ -6,4 +6,4 @@ While we hope that this project will someday become a full-fledged typeface fami
 
 ## Further information
 
-For information about the design and background of the parent project,[Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro), please refer to the [official font readme file](https://rawgit.com/adobe-fonts/source-sans-pro/master/SourceSansProReadMe.html).
+For information about the design and background of the parent project, [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro), please refer to the [official font readme file](https://rawgit.com/adobe-fonts/source-sans-pro/master/SourceSansProReadMe.html).
