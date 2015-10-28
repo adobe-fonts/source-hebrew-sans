@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
-  <advance width="290"/>
-  <outline>
-    <component base="dotlessj"/>
-    <component base="dotaccentcmb" xOffset="146"/>
-    <contour>
-      <point x="146" y="730" type="move" name="aboveUC"/>
-    </contour>
-    <contour>
-      <point x="145" y="-20" type="move" name="belowLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="290"/>
+	<outline>
+		<component base="dotlessj"/>
+		<component base="dotaccentcmb" xOffset="146"/>
+		<contour>
+			<point name="aboveUC" x="146" y="730" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="145" y="-20" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

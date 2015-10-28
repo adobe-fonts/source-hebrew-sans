@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dezh" format="1">
-  <advance width="956"/>
-  <outline>
-    <contour>
-      <point x="411" y="366" type="line"/>
-      <point x="646" y="366" type="line"/>
-      <point x="646" y="500" type="line"/>
-      <point x="411" y="500" type="line"/>
-    </contour>
-    <component base="ezh" xOffset="482"/>
-    <component base="d"/>
-    <contour>
-      <point x="478" y="730" type="move" name="aboveUC"/>
-    </contour>
-    <contour>
-      <point x="478" y="-20" type="move" name="belowLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.80000000000000004</real>
-        <real>0.80000000000000004</real>
-        <real>0.59999999999999998</real>
-        <real>1</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="956"/>
+	<outline>
+		<contour>
+			<point x="411" y="366" type="line"/>
+			<point x="646" y="366" type="line"/>
+			<point x="646" y="500" type="line"/>
+			<point x="411" y="500" type="line"/>
+		</contour>
+		<component base="ezh" xOffset="482"/>
+		<component base="d"/>
+		<contour>
+			<point name="aboveUC" x="478" y="730" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="478" y="-20" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.8</real>
+				<real>0.8</real>
+				<real>0.6</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>
