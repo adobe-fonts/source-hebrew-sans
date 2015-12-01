@@ -1,48 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter.lat" format="1">
-	<advance width="860"/>
+	<advance width="820"/>
 	<outline>
-		<contour>
-			<point x="162" y="0" type="line"/>
-			<point x="288" y="0" type="line"/>
-			<point x="288" y="390" type="line"/>
-			<point x="190" y="390" type="line"/>
-			<point x="154" y="366"/>
-			<point x="130" y="354"/>
-			<point x="72" y="346" type="curve"/>
-			<point x="72" y="270" type="line"/>
-			<point x="162" y="270" type="line"/>
-		</contour>
-		<contour>
-			<point x="208" y="-12" type="line"/>
-			<point x="304" y="-12" type="line"/>
-			<point x="652" y="662" type="line"/>
-			<point x="556" y="662" type="line"/>
-		</contour>
-		<contour>
-			<point x="692" y="0" type="line"/>
-			<point x="802" y="0" type="line"/>
-			<point x="802" y="390" type="line"/>
-			<point x="644" y="390" type="line"/>
-			<point x="512" y="142" type="line"/>
-			<point x="512" y="80" type="line"/>
-			<point x="860" y="80" type="line"/>
-			<point x="860" y="160" type="line"/>
-			<point x="624" y="160" type="line"/>
-			<point x="658" y="234" type="line"/>
-			<point x="694" y="310" type="line"/>
-			<point x="698" y="310" type="line"/>
-			<point x="692" y="190" type="line"/>
-		</contour>
+		<component base="one.dnom" xOffset="-32" yOffset="260"/>
+		<component base="fraction" xOffset="360"/>
+		<component base="four.dnom" xOffset="440"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.typemytype.robofont.mark</key>
 			<array>
-				<real>1</real>
-				<real>0</real>
-				<real>0</real>
-				<real>1</real>
+				<real>0.3</real>
+				<real>0.6294117647</real>
+				<integer>1</integer>
+				<integer>1</integer>
 			</array>
 		</dict>
 	</lib>

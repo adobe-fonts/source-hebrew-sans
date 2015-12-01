@@ -729,6 +729,14 @@
 					<string>ringcmb.cap</string>
 					<string>hungarumlautcmb.cap</string>
 					<string>dotaccentcmb.cap</string>
+					<string>cedillacmb.cap</string>
+					<string>tildeoverlaycmb</string>
+					<string>ogonekcmb</string>
+					<string>zero.dnom</string>
+					<string>two.dnom</string>
+					<string>three.dnom</string>
+					<string>four.dnom</string>
+					<string>one.dnom</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -3656,7 +3664,7 @@
 1443733938.0 glyphs/K_dotbelow.glif
 1443733938.0 glyphs/K_linebelow.glif
 1443733938.0 glyphs/L_.glif
-1449004259.0 glyphs/L_slash.glif
+1449005501.0 glyphs/L_slash.glif
 1443733938.0 glyphs/M_.glif
 1443733938.0 glyphs/N_.glif
 1443733938.0 glyphs/N_tilde.glif
@@ -3710,13 +3718,13 @@
 1443733938.0 glyphs/abreve.glif
 1443733938.0 glyphs/acircumflex.glif
 1443733938.0 glyphs/acute.glif
-1449004259.0 glyphs/acutecmb.cap.glif
-1449004259.0 glyphs/acutecmb.glif
+1449005501.0 glyphs/acutecmb.cap.glif
+1449005501.0 glyphs/acutecmb.glif
 1443733938.0 glyphs/adieresis.glif
 1443733938.0 glyphs/adotbelow.glif
 1443733938.0 glyphs/ae.glif
 1443733938.0 glyphs/agrave.glif
-1449004259.0 glyphs/alphalatin.glif
+1449005501.0 glyphs/alphalatin.glif
 1443733938.0 glyphs/amacron.glif
 1443733938.0 glyphs/ampersand.glif
 1443733938.0 glyphs/ampersand.heb.glif
@@ -3746,9 +3754,9 @@
 1443733938.0 glyphs/bracketright.glif
 1443733938.0 glyphs/bracketright.lat.glif
 1443733938.0 glyphs/breve.glif
-1449004259.0 glyphs/brevebelowcmb.glif
-1449004259.0 glyphs/brevecmb.cap.glif
-1449004259.0 glyphs/brevecmb.glif
+1449005501.0 glyphs/brevebelowcmb.glif
+1449005501.0 glyphs/brevecmb.cap.glif
+1449005501.0 glyphs/brevecmb.glif
 1443733938.0 glyphs/breveinverteddoublecmb.glif
 1443733938.0 glyphs/brokenbar.glif
 1443733938.0 glyphs/bullet.glif
@@ -3756,21 +3764,21 @@
 1443733938.0 glyphs/bulletoperator.glif
 1443733938.0 glyphs/c.glif
 1443733938.0 glyphs/caron.glif
-1449004259.0 glyphs/caroncmb.cap.glif
-1449004259.0 glyphs/caroncmb.glif
+1449005501.0 glyphs/caroncmb.cap.glif
+1449005501.0 glyphs/caroncmb.glif
 1443733938.0 glyphs/ccaron.glif
 1443733938.0 glyphs/ccedilla.glif
 1443733938.0 glyphs/cedilla.glif
-1449004259.0 glyphs/cedillacmb.cap.glif
-1449004259.0 glyphs/cedillacmb.glif
+1449005501.0 glyphs/cedillacmb.cap.glif
+1449005501.0 glyphs/cedillacmb.glif
 1443733938.0 glyphs/cent.glif
 1443733938.0 glyphs/cent.heb.glif
 1443733938.0 glyphs/cent.lat.glif
 1443733938.0 glyphs/chi.glif
 1443733938.0 glyphs/circledotted.glif
 1443733938.0 glyphs/circumflex.glif
-1449004259.0 glyphs/circumflexcmb.cap.glif
-1449004259.0 glyphs/circumflexcmb.glif
+1449005501.0 glyphs/circumflexcmb.cap.glif
+1449005501.0 glyphs/circumflexcmb.glif
 1443733938.0 glyphs/colon.glif
 1443733938.0 glyphs/colontriangularmod.glif
 1443733938.0 glyphs/comma.glif
@@ -3787,8 +3795,8 @@
 1443733938.0 glyphs/degree.lat.glif
 1443733938.0 glyphs/dezh.glif
 1443733938.0 glyphs/dieresis.glif
-1449004259.0 glyphs/dieresiscmb.cap.glif
-1449004259.0 glyphs/dieresiscmb.glif
+1449005501.0 glyphs/dieresiscmb.cap.glif
+1449005501.0 glyphs/dieresiscmb.glif
 1443733938.0 glyphs/divide.glif
 1443733938.0 glyphs/divisionslash.glif
 1443733938.0 glyphs/divisionslash.lat.glif
@@ -3799,10 +3807,10 @@
 1443733938.0 glyphs/dotaccent.glif
 1443733938.0 glyphs/dotaccentcmb.cap.glif
 1443733938.0 glyphs/dotaccentcmb.glif
-1449004259.0 glyphs/dotbelowcmb.glif
+1449005501.0 glyphs/dotbelowcmb.glif
 1443733938.0 glyphs/dotlessi.glif
 1443733939.0 glyphs/downtackbelowcmb.glif
-1449004259.0 glyphs/e.glif
+1449005501.0 glyphs/e.glif
 1443733939.0 glyphs/e.sups.glif
 1443733939.0 glyphs/eacute.glif
 1443733939.0 glyphs/ebreve.glif
@@ -3844,6 +3852,7 @@
 1443733939.0 glyphs/florin.glif
 1443733939.0 glyphs/florin.heb.glif
 1443733939.0 glyphs/florin.lat.glif
+1449005501.0 glyphs/four.dnom.glif
 1443733939.0 glyphs/four.glif
 1443733939.0 glyphs/four.heb.glif
 1443733939.0 glyphs/four.lat.glif
@@ -3861,8 +3870,8 @@
 1443733939.0 glyphs/glottalstopreversedsupmod.glif
 1443733939.0 glyphs/gmacron.glif
 1443733939.0 glyphs/grave.glif
-1449004259.0 glyphs/gravecmb.cap.glif
-1449004259.0 glyphs/gravecmb.glif
+1449005501.0 glyphs/gravecmb.cap.glif
+1449005501.0 glyphs/gravecmb.glif
 1443733939.0 glyphs/greater.glif
 1443733939.0 glyphs/greaterequal.glif
 1443733939.0 glyphs/gscript.glif
@@ -3984,8 +3993,8 @@
 1443733939.0 glyphs/heZ_ayinD_agesh.glif
 1443733939.0 glyphs/hlinebelow.glif
 1443733939.0 glyphs/hungarumlaut.glif
-1449004259.0 glyphs/hungarumlautcmb.cap.glif
-1449004259.0 glyphs/hungarumlautcmb.glif
+1449005501.0 glyphs/hungarumlautcmb.cap.glif
+1449005501.0 glyphs/hungarumlautcmb.glif
 1443733939.0 glyphs/hyphen.glif
 1443733939.0 glyphs/hyphentwo.glif
 1443733939.0 glyphs/hyphentwo.lat.glif
@@ -4010,15 +4019,15 @@
 1443733939.0 glyphs/less.glif
 1443733939.0 glyphs/lessequal.glif
 1443733939.0 glyphs/litre.glif
-1443733939.0 glyphs/lmiddletilde.glif
+1449004683.0 glyphs/lmiddletilde.glif
 1443733939.0 glyphs/logicalnot.glif
 1443733939.0 glyphs/lozenge.glif
-1449004259.0 glyphs/lslash.glif
+1449005501.0 glyphs/lslash.glif
 1443733939.0 glyphs/m.glif
 1443733939.0 glyphs/macron.glif
-1449004259.0 glyphs/macronbelowcmb.glif
-1449004259.0 glyphs/macroncmb.cap.glif
-1449004259.0 glyphs/macroncmb.glif
+1449005501.0 glyphs/macronbelowcmb.glif
+1449005501.0 glyphs/macroncmb.cap.glif
+1449005501.0 glyphs/macroncmb.glif
 1443733939.0 glyphs/minus.glif
 1449004075.0 glyphs/mu.math.glif
 1443733939.0 glyphs/multiply.glif
@@ -4045,23 +4054,25 @@
 1443733939.0 glyphs/odieresis.glif
 1443733939.0 glyphs/odotbelow.glif
 1443733939.0 glyphs/oe.glif
-1443733939.0 glyphs/ogonek.glif
+1449005501.0 glyphs/ogonek.glif
+1449005501.0 glyphs/ogonekcmb.glif
 1443733940.0 glyphs/ograve.glif
 1443733940.0 glyphs/omacron.glif
+1449005501.0 glyphs/one.dnom.glif
 1443733940.0 glyphs/one.glif
 1443733940.0 glyphs/one.heb.glif
 1443733940.0 glyphs/one.lat.glif
 1443733940.0 glyphs/one.pnumheb.glif
 1443733940.0 glyphs/one.pnumlat.glif
-1443733940.0 glyphs/one.sups.glif
+1449005501.0 glyphs/one.sups.glif
 1443733940.0 glyphs/one.supsheb.glif
 1443733940.0 glyphs/one.supslat.glif
-1443733940.0 glyphs/onehalf.glif
+1449005501.0 glyphs/onehalf.glif
 1443733940.0 glyphs/onehalf.heb.glif
-1443733940.0 glyphs/onehalf.lat.glif
-1443733940.0 glyphs/onequarter.glif
+1449005501.0 glyphs/onehalf.lat.glif
+1449005501.0 glyphs/onequarter.glif
 1443733940.0 glyphs/onequarter.heb.glif
-1443733940.0 glyphs/onequarter.lat.glif
+1449005501.0 glyphs/onequarter.lat.glif
 1443733940.0 glyphs/oopen.glif
 1443733940.0 glyphs/ordfeminine.glif
 1443733940.0 glyphs/ordmasculine.glif
@@ -4075,20 +4086,20 @@
 1443733940.0 glyphs/parenright.glif
 1443733940.0 glyphs/parenright.lat.glif
 1443733940.0 glyphs/partialdiff.glif
-1443733940.0 glyphs/percent.glif
+1449005501.0 glyphs/percent.glif
 1443733940.0 glyphs/percent.heb.glif
-1443733940.0 glyphs/percent.lat.glif
+1449005501.0 glyphs/percent.lat.glif
 1443733940.0 glyphs/period.glif
 1443733940.0 glyphs/periodcentered.glif
 1443733940.0 glyphs/periodcentered.lat.glif
-1443733940.0 glyphs/perthousand.glif
+1449005501.0 glyphs/perthousand.glif
 1443733940.0 glyphs/perthousand.heb.glif
-1443733940.0 glyphs/perthousand.lat.glif
+1449005501.0 glyphs/perthousand.lat.glif
 1443733940.0 glyphs/pi.glif
 1443733940.0 glyphs/plus.glif
 1443733940.0 glyphs/plusminus.glif
 1443733940.0 glyphs/popdirectionformat.glif
-1443733940.0 glyphs/primemod.glif
+1449005501.0 glyphs/primemod.glif
 1443733940.0 glyphs/product.glif
 1443733940.0 glyphs/q.glif
 1443733940.0 glyphs/question.glif
@@ -4120,9 +4131,9 @@
 1443733940.0 glyphs/righttoleftoverride.glif
 1443733940.0 glyphs/ring.glif
 1443733940.0 glyphs/ringcmb.cap.glif
-1449004259.0 glyphs/ringcmb.glif
-1449004259.0 glyphs/ringhalfleftmod.glif
-1449004259.0 glyphs/ringhalfrightmod.glif
+1449005501.0 glyphs/ringcmb.glif
+1449005501.0 glyphs/ringhalfleftmod.glif
+1449005501.0 glyphs/ringhalfrightmod.glif
 1443733940.0 glyphs/rsmall.glif
 1443733940.0 glyphs/rsmallinverted.glif
 1443733940.0 glyphs/s.glif
@@ -4156,30 +4167,33 @@
 1443733940.0 glyphs/tesh.glif
 1443733940.0 glyphs/theta.glif
 1443733940.0 glyphs/thorn.glif
+1449005501.0 glyphs/three.dnom.glif
 1443733940.0 glyphs/three.glif
 1443733940.0 glyphs/three.heb.glif
 1443733940.0 glyphs/three.lat.glif
 1443733940.0 glyphs/three.pnumheb.glif
 1443733940.0 glyphs/three.pnumlat.glif
-1443733940.0 glyphs/three.sups.glif
+1449005501.0 glyphs/three.sups.glif
 1443733940.0 glyphs/three.supsheb.glif
 1443733940.0 glyphs/three.supslat.glif
-1443733940.0 glyphs/threequarters.glif
+1449005501.0 glyphs/threequarters.glif
 1443733940.0 glyphs/threequarters.heb.glif
-1443733940.0 glyphs/threequarters.lat.glif
+1449005501.0 glyphs/threequarters.lat.glif
 1443733940.0 glyphs/tilde.glif
-1449004259.0 glyphs/tildecmb.cap.glif
-1449004259.0 glyphs/tildecmb.glif
+1449005501.0 glyphs/tildecmb.cap.glif
+1449005501.0 glyphs/tildecmb.glif
+1449005501.0 glyphs/tildeoverlaycmb.glif
 1443733940.0 glyphs/tlinebelow.glif
 1443733940.0 glyphs/trademark.glif
 1443733940.0 glyphs/trademark.lat.glif
 1443733940.0 glyphs/ts.glif
+1449005501.0 glyphs/two.dnom.glif
 1443733940.0 glyphs/two.glif
 1443733940.0 glyphs/two.heb.glif
 1443733940.0 glyphs/two.lat.glif
 1443733940.0 glyphs/two.pnumheb.glif
 1443733940.0 glyphs/two.pnumlat.glif
-1443733940.0 glyphs/two.sups.glif
+1449005501.0 glyphs/two.sups.glif
 1443733940.0 glyphs/two.supsheb.glif
 1443733940.0 glyphs/two.supslat.glif
 1443733940.0 glyphs/u.glif
@@ -4205,6 +4219,7 @@
 1443733940.0 glyphs/z.glif
 1443733940.0 glyphs/zcaron.glif
 1443733940.0 glyphs/zdotbelow.glif
+1449005501.0 glyphs/zero.dnom.glif
 1443733940.0 glyphs/zero.glif
 1443733940.0 glyphs/zero.heb.glif
 1443733940.0 glyphs/zero.lat.glif
@@ -4213,9 +4228,9 @@
 1443733940.0 glyphs/zero.slash.glif
 1443733940.0 glyphs/zero.slashpnum.glif
 1443733940.0 glyphs/zlinebelow.glif
-1449004259.0 groups.plist
+1449005501.0 groups.plist
 1443733940.0 kerning.plist
-1449004259.0 metainfo.plist</string>
+1449005501.0 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.notdef</string>
@@ -4828,6 +4843,13 @@
 			<string>hungarumlautcmb.cap</string>
 			<string>dotaccentcmb.cap</string>
 			<string>cedillacmb.cap</string>
+			<string>tildeoverlaycmb</string>
+			<string>ogonekcmb</string>
+			<string>zero.dnom</string>
+			<string>two.dnom</string>
+			<string>three.dnom</string>
+			<string>four.dnom</string>
+			<string>one.dnom</string>
 		</array>
 	</dict>
 </plist>

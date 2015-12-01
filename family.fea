@@ -18,12 +18,12 @@ zero.pnumlat one.pnumlat two.pnumlat three.pnumlat four.pnumlat five.pnumlat six
 ];
 
 @HEBREW_SORTS = [
-exclam quotedbl numbersign dollar percent ampersand quoteright parenleft parenright asterisk slash zero one two three four five six seven eight nine question at bracketleft backslash bracketright asciicircum quoteleft braceleft braceright exclamdown cent florin sterling fraction yen section quotesingle quotedblleft guillemotleft guilsinglleft guilsinglright endash dagger daggerdbl periodcentered paragraph bullet quotedblright guillemotright perthousand questiondown emdash trademark onehalf onequarter degree threequarters registered copyright hyphentwo onesuperior twosuperior threesuperior Euro
+exclam quotedbl numbersign dollar percent ampersand quoteright parenleft parenright asterisk slash zero one two three four five six seven eight nine question at bracketleft backslash bracketright asciicircum quoteleft braceleft braceright exclamdown cent florin sterling fraction yen section quotesingle quotedblleft guillemotleft guilsinglleft guilsinglright endash dagger daggerdbl periodcentered paragraph bullet quotedblright guillemotright perthousand questiondown emdash trademark onehalf onequarter degree threequarters registered copyright hyphentwo one.sups two.sups three.sups Euro
 zero.pnumheb one.pnumheb two.pnumheb three.pnumheb four.pnumheb five.pnumheb six.pnumheb seven.pnumheb eight.pnumheb nine.pnumheb newsheqel
 ];
 
 @LATIN_SORTS = [
-exclam.lat quotedbl.lat numbersign.lat dollar.lat percent.lat ampersand.lat quoteright.lat parenleft.lat parenright.lat asterisk.lat slash.lat zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat question.lat at.lat bracketleft.lat backslash.lat bracketright.lat asciicircum.lat quoteleft.lat braceleft.lat braceright.lat exclamdown.lat cent.lat florin.lat sterling.lat fraction.lat yen.lat section.lat quotesingle.lat quotedblleft.lat guillemotleft.lat guilsinglleft.lat guilsinglright.lat endash.lat dagger.lat daggerdbl.lat periodcentered.lat paragraph.lat bullet.lat quotedblright.lat guillemotright.lat perthousand.lat questiondown.lat emdash.lat trademark.lat onehalf.lat onequarter.lat degree.lat threequarters.lat registered.lat copyright.lat hyphentwo.lat onesuperior.lat twosuperior.lat threesuperior.lat Euro.lat
+exclam.lat quotedbl.lat numbersign.lat dollar.lat percent.lat ampersand.lat quoteright.lat parenleft.lat parenright.lat asterisk.lat slash.lat zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat question.lat at.lat bracketleft.lat backslash.lat bracketright.lat asciicircum.lat quoteleft.lat braceleft.lat braceright.lat exclamdown.lat cent.lat florin.lat sterling.lat fraction.lat yen.lat section.lat quotesingle.lat quotedblleft.lat guillemotleft.lat guilsinglleft.lat guilsinglright.lat endash.lat dagger.lat daggerdbl.lat periodcentered.lat paragraph.lat bullet.lat quotedblright.lat guillemotright.lat perthousand.lat questiondown.lat emdash.lat trademark.lat onehalf.lat onequarter.lat degree.lat threequarters.lat registered.lat copyright.lat hyphentwo.lat one.supslat two.supslat three.supslat Euro.lat
 zero.pnumlat one.pnumlat two.pnumlat three.pnumlat four.pnumlat five.pnumlat six.pnumlat seven.pnumlat eight.pnumlat nine.pnumlat newsheqel.lat];
 
 @JALT_REGULAR = [
@@ -133,7 +133,7 @@ feature locl {
 } locl;
 
 feature lnum {
-	sub [ampersand zero one two three four five six seven eight nine numbersign newsheqel dollar sterling yen Euro cent florin onesuperior twosuperior threesuperior onequarter onehalf threequarters percent perthousand] by [ampersand.heb zero.heb one.heb two.heb three.heb four.heb five.heb six.heb seven.heb eight.heb nine.heb numbersign.heb newsheqel.heb dollar.heb sterling.heb yen.heb Euro.heb cent.heb florin.heb onesuperior.heb twosuperior.heb threesuperior.heb onequarter.heb onehalf.heb threequarters.heb percent.heb perthousand.heb];
+	sub [ampersand zero one two three four five six seven eight nine numbersign newsheqel dollar sterling yen Euro cent florin one.sups two.sups three.sups onequarter onehalf threequarters percent perthousand] by [ampersand.heb zero.heb one.heb two.heb three.heb four.heb five.heb six.heb seven.heb eight.heb nine.heb numbersign.heb newsheqel.heb dollar.heb sterling.heb yen.heb Euro.heb cent.heb florin.heb one.supsheb two.supsheb three.supsheb onequarter.heb onehalf.heb threequarters.heb percent.heb perthousand.heb];
 } lnum;
 
 feature pnum {
@@ -142,7 +142,7 @@ feature pnum {
 } pnum;
 
 feature sups {
-	sub [a e j o eogonek] by [a.superior e.superior jsupmod o.superior eogonek.superior];
+	sub [a e j o eogonek] by [a.sups e.sups j.sups o.sups eogonek.sups];
 } sups;
 
 #--------------------------------------
@@ -165,8 +165,8 @@ feature jalt { # justification alternates
 
 feature ss01 { # stylistic set 1
 	lookup FIGS_LAT {
-		sub [zero one two three four five six seven eight nine numbersign newsheqel dollar sterling yen Euro cent florin degree onesuperior twosuperior threesuperior fraction divisionslash onehalf onequarter threequarters percent perthousand] by [zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat numbersign.lat newsheqel.lat dollar.lat sterling.lat yen.lat Euro.lat cent.lat florin.lat degree.lat onesuperior.lat twosuperior.lat threesuperior.lat fraction.lat divisionslash.lat onehalf.lat onequarter.lat threequarters.lat percent.lat perthousand.lat];
-		sub [zero.heb one.heb two.heb three.heb four.heb five.heb six.heb seven.heb eight.heb nine.heb zero.pnumheb one.pnumheb two.pnumheb three.pnumheb four.pnumheb five.pnumheb six.pnumheb seven.pnumheb eight.pnumheb nine.pnumheb numbersign.heb newsheqel.heb dollar.heb sterling.heb yen.heb Euro.heb cent.heb florin.heb onesuperior.heb twosuperior.heb threesuperior.heb onehalf.heb onequarter.heb threequarters.heb percent.heb perthousand.heb] by [zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat zero.pnumlat one.pnumlat two.pnumlat three.pnumlat four.pnumlat five.pnumlat six.pnumlat seven.pnumlat eight.pnumlat nine.pnumlat numbersign.lat newsheqel.lat dollar.lat sterling.lat yen.lat Euro.lat cent.lat florin.lat onesuperior.lat twosuperior.lat threesuperior.lat onehalf.lat onequarter.lat threequarters.lat percent.lat perthousand.lat];
+		sub [zero one two three four five six seven eight nine numbersign newsheqel dollar sterling yen Euro cent florin degree one.sups two.sups three.sups fraction divisionslash onehalf onequarter threequarters percent perthousand] by [zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat numbersign.lat newsheqel.lat dollar.lat sterling.lat yen.lat Euro.lat cent.lat florin.lat degree.lat one.supslat two.supslat three.supslat fraction.lat divisionslash.lat onehalf.lat onequarter.lat threequarters.lat percent.lat perthousand.lat];
+		sub [zero.heb one.heb two.heb three.heb four.heb five.heb six.heb seven.heb eight.heb nine.heb zero.pnumheb one.pnumheb two.pnumheb three.pnumheb four.pnumheb five.pnumheb six.pnumheb seven.pnumheb eight.pnumheb nine.pnumheb numbersign.heb newsheqel.heb dollar.heb sterling.heb yen.heb Euro.heb cent.heb florin.heb one.supsheb two.supsheb three.supsheb onehalf.heb onequarter.heb threequarters.heb percent.heb perthousand.heb] by [zero.lat one.lat two.lat three.lat four.lat five.lat six.lat seven.lat eight.lat nine.lat zero.pnumlat one.pnumlat two.pnumlat three.pnumlat four.pnumlat five.pnumlat six.pnumlat seven.pnumlat eight.pnumlat nine.pnumlat numbersign.lat newsheqel.lat dollar.lat sterling.lat yen.lat Euro.lat cent.lat florin.lat one.supslat two.supslat three.supslat onehalf.lat onequarter.lat threequarters.lat percent.lat perthousand.lat];
 	} FIGS_LAT;
 } ss01;
 

@@ -4,6 +4,24 @@
 # 	l=Windows_Compatible_MenuName
 # 	m=1,Macintosh_Compatible_MenuName
 
+[SourceHebrewSans-ExtraLight]
+	f=Source Hebrew Sans
+	s=ExtraLight
+	l=Source Hebrew Sans ExtraLight
+	m=1,Source Hebrew Sans ExtraLight
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,ExtraLight
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans ExtraLight
+
+[SourceHebrewSans-ExtraLightIt]
+	f=Source Hebrew Sans
+	s=ExtraLight Italic
+	l=Source Hebrew Sans ExtraLight
+	m=1,Source Hebrew Sans ExtraLight Italic
+	f=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans
+	s=3,1,0x40D,ExtraLight Italic
+	l=3,1,0x40D,Source \05E2\05D1\05E8\05D9\05EA Sans ExtraLight
+
 [SourceHebrewSans-Light]
 	f=Source Hebrew Sans
 	s=Light
