@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heTsadiFin" format="1">
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="425" y="-200" type="line"/>
+			<point x="91" y="545" type="line"/>
+			<point x="57" y="545" type="line"/>
+			<point x="390" y="-200" type="line"/>
+		</contour>
+		<contour>
+			<point x="346" y="545" type="line"/>
+			<point x="200" y="235" type="line"/>
+			<point x="219" y="200" type="line"/>
+			<point x="378" y="545" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0</real>
+				<real>1</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
+</glyph>
