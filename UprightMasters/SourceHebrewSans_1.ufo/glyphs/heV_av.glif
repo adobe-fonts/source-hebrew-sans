@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heVav" format="1">
-	<advance width="217"/>
-	<outline>
-		<contour>
-			<point x="115" y="545" type="line"/>
-			<point x="129" y="428" type="line"/>
-			<point x="129" y="0" type="line"/>
-			<point x="97" y="0" type="line"/>
-			<point x="97" y="428" type="line"/>
-			<point x="83" y="545" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>1</real>
-				<real>0</real>
-				<real>1</real>
-				<real>1</real>
-			</array>
-		</dict>
-	</lib>
+  <advance width="217"/>
+  <outline>
+    <contour>
+      <point x="115" y="545" type="line"/>
+      <point x="129" y="428" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="97" y="428" type="line"/>
+      <point x="83" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

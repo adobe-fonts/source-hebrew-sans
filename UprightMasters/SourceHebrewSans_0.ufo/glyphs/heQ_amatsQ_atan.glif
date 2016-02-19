@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQamatsQatan" format="1">
-	<advance width="540"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>0.8</real>
-				<real>1</real>
-				<real>0.4</real>
-				<real>1</real>
-			</array>
-		</dict>
-	</lib>
+  <advance width="540"/>
+  <unicode hex="05C7"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>
