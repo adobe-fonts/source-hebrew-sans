@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threequarters" format="1">
-	<advance width="860"/>
-	<outline>
-		<component base="three.dnom"/>
-		<component base="fraction" xOffset="380"/>
-		<component base="four.dnom" xOffset="480"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>1</real>
-				<real>0</real>
-				<real>0</real>
-				<real>1</real>
-			</array>
-		</dict>
-	</lib>
+  <advance width="860"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="three.dnom"/>
+    <component base="fraction" xOffset="380"/>
+    <component base="four.dnom" xOffset="480"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

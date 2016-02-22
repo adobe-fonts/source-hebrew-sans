@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="ellipsis">
+  <advance width="1000" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="166" y="-12" />
+      <point x="184" y="-12" />
+      <point x="202" y="2" />
+      <point type="curve" x="202" y="26" />
+      <point x="202" y="52" />
+      <point x="184" y="66" />
+      <point type="curve" x="166" y="66" />
+      <point x="148" y="66" />
+      <point x="130" y="52" />
+      <point type="curve" x="130" y="26" />
+      <point x="130" y="2" />
+      <point x="148" y="-12" />
+    </contour>
+    <contour>
+      <point type="curve" x="500" y="-12" />
+      <point x="518" y="-12" />
+      <point x="536" y="2" />
+      <point type="curve" x="536" y="26" />
+      <point x="536" y="52" />
+      <point x="518" y="66" />
+      <point type="curve" x="500" y="66" />
+      <point x="482" y="66" />
+      <point x="464" y="52" />
+      <point type="curve" x="464" y="26" />
+      <point x="464" y="2" />
+      <point x="482" y="-12" />
+    </contour>
+    <contour>
+      <point type="curve" x="834" y="-12" />
+      <point x="852" y="-12" />
+      <point x="870" y="2" />
+      <point type="curve" x="870" y="26" />
+      <point x="870" y="52" />
+      <point x="852" y="66" />
+      <point type="curve" x="834" y="66" />
+      <point x="816" y="66" />
+      <point x="798" y="52" />
+      <point type="curve" x="798" y="26" />
+      <point x="798" y="2" />
+      <point x="816" y="-12" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>211f270f449ddefb1b2bfb0770b5ff566f0cc2f8c96ee1f2f5781142c2a7c4ac015124a7cc056ebe84c3002d08f486db1137690c8f72c260944fcbbb92e301a9</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -12 78</string>
+              <string>vstem3 130 72 464 72 798 72</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

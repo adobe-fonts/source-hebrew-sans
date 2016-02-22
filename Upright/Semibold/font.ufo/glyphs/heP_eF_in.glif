@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hePeFin" format="1">
+	<unicode hex="05E3"/>
+	<advance width="595"/>
+	<outline>
+		<contour>
+			<point x="405" y="-200" type="line"/>
+			<point x="505" y="-200" type="line"/>
+			<point x="505" y="296" type="line" smooth="yes"/>
+			<point x="505" y="463"/>
+			<point x="458" y="523"/>
+			<point x="326" y="540" type="curve" smooth="yes"/>
+			<point x="96" y="571" type="line"/>
+			<point x="61" y="433"/>
+			<point x="54" y="403"/>
+			<point x="54" y="356" type="curve" smooth="yes"/>
+			<point x="54" y="237"/>
+			<point x="110" y="198"/>
+			<point x="246" y="178" type="curve"/>
+			<point x="278" y="292" type="line"/>
+			<point x="185" y="303"/>
+			<point x="156" y="324"/>
+			<point x="156" y="370" type="curve" smooth="yes"/>
+			<point x="156" y="390"/>
+			<point x="159" y="403"/>
+			<point x="171" y="450" type="curve"/>
+			<point x="284" y="434" type="line" smooth="yes"/>
+			<point x="373" y="422"/>
+			<point x="405" y="390"/>
+			<point x="405" y="290" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

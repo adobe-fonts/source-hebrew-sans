@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="U">
+  <advance width="645" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="323" y="-12" />
+      <point x="457" y="-12" />
+      <point x="558" y="60" />
+      <point type="curve" x="558" y="271" />
+      <point type="line" x="558" y="656" />
+      <point type="line" x="478" y="656" />
+      <point type="line" x="478" y="269" />
+      <point x="478" y="111" />
+      <point x="410" y="61" />
+      <point type="curve" x="323" y="61" />
+      <point x="237" y="61" />
+      <point x="170" y="111" />
+      <point type="curve" x="170" y="269" />
+      <point type="line" x="170" y="656" />
+      <point type="line" x="87" y="656" />
+      <point type="line" x="87" y="271" />
+      <point x="87" y="60" />
+      <point x="189" y="-12" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w645c323-12457-1255860c558271l558656l478656l47826947811141061c3236123761170111c170269l170656l87656l872718760189-12</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -12 73</string>
+              <string>hstem 656 -20</string>
+              <string>vstem 87 83</string>
+              <string>vstem 478 80</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

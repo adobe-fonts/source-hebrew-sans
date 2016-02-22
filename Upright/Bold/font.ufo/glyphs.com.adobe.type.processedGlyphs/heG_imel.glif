@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="heGimel">
+  <advance width="444" />
+  <unicode hex="05D2" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="261" y="0" />
+      <point type="line" x="388" y="0" />
+      <point type="line" x="352" y="428" />
+      <point x="346" y="506" />
+      <point x="325" y="548" />
+      <point type="curve" x="257" y="558" />
+      <point type="line" x="124" y="576" />
+      <point type="line" x="93" y="429" />
+      <point type="line" x="173" y="419" />
+      <point x="225" y="413" />
+      <point x="231" y="403" />
+      <point type="curve" x="237" y="327" />
+      <point name="hintSet0008" type="line" x="243" y="244" />
+      <point x="223" y="184" />
+      <point x="154" y="153" />
+      <point type="curve" x="70" y="147" />
+      <point type="line" x="45" y="-8" />
+      <point x="141" y="-3" />
+      <point x="222" y="52" />
+      <point type="curve" x="253" y="113" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w444l2610l3880l352428346506325548c257558l124576l93429l173419225413231403c237327l243244223184154153c70147l45-8141-322252c253113</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -8 584</string>
+              <string>vstem 45 343</string>
+            </array>
+          </dict>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0008</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -8 155</string>
+              <string>vstem 45 343</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

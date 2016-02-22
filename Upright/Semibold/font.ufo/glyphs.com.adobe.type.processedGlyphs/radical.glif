@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="radical">
+  <advance width="573" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="279" y="-88" />
+      <point type="line" x="362" y="-88" />
+      <point type="line" x="578" y="820" />
+      <point type="line" x="499" y="820" />
+      <point type="line" x="332" y="103" />
+      <point x="326" y="79" />
+      <point x="322" y="54" />
+      <point type="curve" x="318" y="30" />
+      <point type="line" x="314" y="30" />
+      <point x="309" y="54" />
+      <point x="302" y="79" />
+      <point type="curve" x="295" y="103" />
+      <point type="line" x="188" y="423" />
+      <point type="line" x="34" y="358" />
+      <point type="line" x="56" y="301" />
+      <point type="line" x="129" y="332" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w573l279-88l362-88l578820l499820l3321033267932254c31830l314303095430279c295103l188423l34358l56301l129332</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -88 118</string>
+              <string>vstem 34 544</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

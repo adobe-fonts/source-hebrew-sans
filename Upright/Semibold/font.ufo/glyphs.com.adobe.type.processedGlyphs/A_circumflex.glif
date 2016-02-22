@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Acircumflex">
+  <advance width="558" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="217" y="348" />
+      <point x="238" y="417" />
+      <point x="257" y="491" />
+      <point type="curve" x="275" y="564" />
+      <point type="line" x="279" y="564" />
+      <point x="298" y="492" />
+      <point x="317" y="417" />
+      <point type="curve" x="338" y="348" />
+      <point type="line" x="361" y="268" />
+      <point type="line" x="194" y="268" />
+    </contour>
+    <contour>
+      <point type="line" x="-2" y="0" />
+      <point type="line" x="116" y="0" />
+      <point type="line" x="167" y="177" />
+      <point type="line" x="387" y="177" />
+      <point type="line" x="438" y="0" />
+      <point type="line" x="560" y="0" />
+      <point type="line" x="347" y="654" />
+      <point type="line" x="211" y="654" />
+    </contour>
+    <contour>
+      <point type="line" x="168" y="692" />
+      <point type="line" x="275" y="780" />
+      <point type="line" x="279" y="780" />
+      <point type="line" x="386" y="692" />
+      <point type="line" x="436" y="725" />
+      <point type="line" x="339" y="836" />
+      <point type="line" x="215" y="836" />
+      <point type="line" x="118" y="725" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>fe5a2c565a32e0bb490215a62fcae6af7d2d8aff73c522294daf591afedb4e336fded67e394f0124e3593eb55c06e020a908c28bf4ba06afe86aaabf8dccd65d</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 177 91</string>
+              <string>hstem 564 90</string>
+              <string>hstem 780 56</string>
+              <string>vstem -2 562</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

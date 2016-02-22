@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="caroncmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-62" y="704" />
+      <point type="line" x="62" y="704" />
+      <point type="line" x="159" y="816" />
+      <point type="line" x="109" y="848" />
+      <point type="line" x="2" y="760" />
+      <point type="line" x="-2" y="760" />
+      <point type="line" x="-109" y="848" />
+      <point type="line" x="-159" y="816" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l-62704l62704l159816l109848l2760l-2760l-109848l-159816</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 704 56</string>
+              <string>vstem -159 318</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

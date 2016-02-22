@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heResh" format="1">
+	<unicode hex="05E8"/>
+	<advance width="588"/>
+	<outline>
+		<contour>
+			<point x="358" y="0" type="line"/>
+			<point x="506" y="0" type="line"/>
+			<point x="506" y="362" type="line" smooth="yes"/>
+			<point x="506" y="511"/>
+			<point x="430" y="568"/>
+			<point x="320" y="568" type="curve"/>
+			<point x="50" y="568" type="line"/>
+			<point x="14" y="396" type="line"/>
+			<point x="228" y="396" type="line"/>
+			<point x="308" y="396"/>
+			<point x="358" y="363"/>
+			<point x="358" y="250" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

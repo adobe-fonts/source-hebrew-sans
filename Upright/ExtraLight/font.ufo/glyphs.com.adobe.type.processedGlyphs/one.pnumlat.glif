@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="one.pnumlat">
+  <advance width="336" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="174" y="0" />
+      <point type="line" x="204" y="0" />
+      <point type="line" x="204" y="640" />
+      <point type="line" x="178" y="640" />
+      <point x="150" y="624" />
+      <point x="110" y="610" />
+      <point type="curve" x="60" y="602" />
+      <point type="line" x="60" y="580" />
+      <point type="line" x="174" y="580" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w336l1740l2040l204640l178640150624110610c60602l60580l174580</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 580 22</string>
+              <string>vstem 174 30</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

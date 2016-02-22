@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="heSamekh">
+  <advance width="682" />
+  <unicode hex="05E1" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="238" y="-12" />
+      <point x="451" y="8" />
+      <point x="636" y="194" />
+      <point type="curve" x="636" y="419" />
+      <point x="636" y="519" />
+      <point x="590" y="559" />
+      <point type="curve" x="448" y="559" />
+      <point type="line" x="46" y="559" />
+      <point type="line" x="22" y="444" />
+      <point type="line" x="132" y="444" />
+      <point x="121" y="421" />
+      <point x="112" y="392" />
+      <point type="curve" x="112" y="357" />
+      <point x="112" y="283" />
+      <point x="175" y="110" />
+    </contour>
+    <contour>
+      <point type="curve" x="300" y="121" />
+      <point x="258" y="195" />
+      <point x="218" y="305" />
+      <point type="curve" x="218" y="366" />
+      <point x="218" y="397" />
+      <point x="226" y="421" />
+      <point type="curve" x="238" y="444" />
+      <point type="line" x="424" y="444" />
+      <point x="497" y="444" />
+      <point x="524" y="429" />
+      <point type="curve" x="524" y="370" />
+      <point x="524" y="236" />
+      <point x="429" y="134" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>715605739862bd7f64106c8761261e6b7ba63c7dce6ae224b664d7f6c7f4741252f3f0481504bd9dc49dd45c5b2449cdd62bcf94081accdb632044afd9fd6d36</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 444 115</string>
+              <string>vstem 112 106</string>
+              <string>vstem 524 112</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

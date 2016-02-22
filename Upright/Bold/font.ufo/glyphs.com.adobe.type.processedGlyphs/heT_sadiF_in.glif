@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="heTsadiFin">
+  <advance width="498" />
+  <unicode hex="05E5" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="438" y="-200" />
+      <point type="line" x="267" y="178" />
+      <point x="334" y="207" />
+      <point x="426" y="427" />
+      <point type="curve" x="392" y="551" />
+      <point type="line" x="363" y="544" />
+      <point x="391" y="436" />
+      <point x="312" y="232" />
+      <point type="curve" x="255" y="205" />
+      <point type="line" x="95" y="558" />
+      <point type="line" x="68" y="546" />
+      <point type="line" x="403" y="-200" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w498l438-200l267178334207426427c392551l363544391436312232c255205l95558l68546l403-200</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem -200 758</string>
+              <string>vstem 369 30</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

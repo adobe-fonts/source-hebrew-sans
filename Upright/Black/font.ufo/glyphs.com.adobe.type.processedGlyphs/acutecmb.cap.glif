@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="acutecmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-8" y="674" />
+      <point type="line" x="188" y="794" />
+      <point type="line" x="98" y="904" />
+      <point type="line" x="-84" y="760" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l-8674l188794l98904l-84760</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 674 230</string>
+              <string>vstem -84 272</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

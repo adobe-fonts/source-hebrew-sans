@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="heResh">
+  <advance width="506" />
+  <unicode hex="05E8" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="376" y="0" />
+      <point type="line" x="404" y="0" />
+      <point type="line" x="404" y="360" />
+      <point x="404" y="496" />
+      <point x="339" y="545" />
+      <point type="curve" x="239" y="545" />
+      <point type="line" x="34" y="545" />
+      <point type="line" x="28" y="515" />
+      <point type="line" x="237" y="515" />
+      <point x="319" y="515" />
+      <point x="376" y="477" />
+      <point type="curve" x="376" y="360" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w506l3760l4040l404360404496339545c239545l34545l28515l237515319515376477c376360</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 515 30</string>
+              <string>vstem 376 28</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

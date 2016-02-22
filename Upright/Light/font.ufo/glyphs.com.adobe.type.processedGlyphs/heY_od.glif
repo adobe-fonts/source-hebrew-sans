@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="heYod">
+  <advance width="272" />
+  <unicode hex="05D9" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="134" y="229" />
+      <point x="177" y="300" />
+      <point x="214" y="389" />
+      <point type="curve" x="214" y="445" />
+      <point x="214" y="516" />
+      <point x="192" y="539" />
+      <point type="curve" x="129" y="548" />
+      <point type="line" x="34" y="560" />
+      <point type="line" x="25" y="516" />
+      <point type="line" x="109" y="506" />
+      <point x="164" y="500" />
+      <point x="174" y="484" />
+      <point type="curve" x="174" y="438" />
+      <point x="174" y="387" />
+      <point x="140" y="313" />
+      <point type="curve" x="96" y="248" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w272l134229177300214389c214445214516192539c129548l34560l25516l109506164500174484c174438174387140313c96248</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 229 331</string>
+              <string>vstem 174 40</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

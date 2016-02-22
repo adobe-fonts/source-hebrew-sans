@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="F">
+  <advance width="524" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="77" y="0" />
+      <point type="line" x="224" y="0" />
+      <point type="line" x="224" y="253" />
+      <point type="line" x="450" y="253" />
+      <point type="line" x="450" y="377" />
+      <point type="line" x="224" y="377" />
+      <point type="line" x="224" y="528" />
+      <point type="line" x="488" y="528" />
+      <point type="line" x="488" y="652" />
+      <point type="line" x="77" y="652" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w524l770l2240l224253l450253l450377l224377l224528l488528l488652l77652</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 253 124</string>
+              <string>hstem 528 124</string>
+              <string>vstem 77 147</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

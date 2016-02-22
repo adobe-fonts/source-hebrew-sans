@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="gravecmb">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="29" y="574" />
+      <point type="line" x="53" y="597" />
+      <point type="line" x="-81" y="754" />
+      <point type="line" x="-115" y="725" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000l29574l53597l-81754l-115725</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 574 180</string>
+              <string>vstem -115 168</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

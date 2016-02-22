@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="V">
+  <advance width="482" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="226" y="0" />
+      <point type="line" x="258" y="0" />
+      <point type="line" x="476" y="660" />
+      <point type="line" x="444" y="660" />
+      <point type="line" x="316" y="264" />
+      <point x="290" y="182" />
+      <point x="272" y="122" />
+      <point type="curve" x="244" y="41" />
+      <point type="line" x="240" y="41" />
+      <point x="212" y="122" />
+      <point x="194" y="182" />
+      <point type="curve" x="168" y="264" />
+      <point type="line" x="40" y="660" />
+      <point type="line" x="6" y="660" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w482l2260l2580l476660l444660l316264290182272122c24441l24041212122194182c168264l40660l6660</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 41</string>
+              <string>hstem 660 -20</string>
+              <string>vstem 6 470</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

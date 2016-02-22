@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lmiddletilde" format="1">
+	<unicode hex="026B"/>
+	<advance width="271"/>
+	<outline>
+		<component base="l"/>
+		<component base="tildeoverlaycmb" xOffset="132" yOffset="-30"/>
+		<contour>
+			<point name="aboveUC" x="130" y="730" type="move"/>
+		</contour>
+		<contour>
+			<point name="aboveLC" x="149" y="604" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="156" y="-20" type="move"/>
+		</contour>
+	</outline>
+</glyph>

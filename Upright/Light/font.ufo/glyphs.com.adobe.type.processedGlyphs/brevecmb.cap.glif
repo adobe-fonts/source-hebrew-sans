@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="brevecmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="0" y="710" />
+      <point x="89" y="710" />
+      <point x="129" y="775" />
+      <point type="curve" x="136" y="834" />
+      <point type="line" x="103" y="839" />
+      <point x="96" y="789" />
+      <point x="64" y="743" />
+      <point type="curve" x="0" y="743" />
+      <point x="-64" y="743" />
+      <point x="-96" y="789" />
+      <point type="curve" x="-103" y="839" />
+      <point type="line" x="-136" y="834" />
+      <point x="-129" y="775" />
+      <point x="-89" y="710" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w1000c071089710129775c136834l1038399678964743c0743-64743-96789c-103839l-136834-129775-89710</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 710 33</string>
+              <string>vstem -136 33</string>
+              <string>vstem 103 33</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

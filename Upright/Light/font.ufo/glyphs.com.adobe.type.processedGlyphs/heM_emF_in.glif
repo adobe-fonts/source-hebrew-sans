@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="heMemFin">
+  <advance width="654" />
+  <unicode hex="05DD" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="152" y="326" />
+      <point x="152" y="401" />
+      <point x="166" y="468" />
+      <point type="curve" x="188" y="503" />
+      <point type="line" x="376" y="503" />
+      <point x="458" y="503" />
+      <point x="514" y="466" />
+      <point type="curve" x="514" y="349" />
+      <point type="line" x="514" y="44" />
+      <point type="line" x="152" y="44" />
+    </contour>
+    <contour>
+      <point type="line" x="112" y="0" />
+      <point type="line" x="554" y="0" />
+      <point type="line" x="554" y="360" />
+      <point x="554" y="498" />
+      <point x="488" y="547" />
+      <point type="curve" x="387" y="547" />
+      <point type="line" x="59" y="547" />
+      <point type="line" x="50" y="503" />
+      <point type="line" x="150" y="503" />
+      <point x="128" y="468" />
+      <point x="112" y="403" />
+      <point type="curve" x="112" y="326" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>4287d712b2699732b1ee6d0a042d3464f9f802261b5f869eea757aa7335f874ac454891596fb014b7f39b20ec8408d30413f8a1c4323f788b6b0148553e7ccd7</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 44</string>
+              <string>hstem 503 44</string>
+              <string>vstem 112 40</string>
+              <string>vstem 514 40</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

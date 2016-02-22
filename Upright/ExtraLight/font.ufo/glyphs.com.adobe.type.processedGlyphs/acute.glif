@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="acute">
+  <advance width="532" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="232" y="574" />
+      <point type="line" x="370" y="724" />
+      <point type="line" x="346" y="744" />
+      <point type="line" x="214" y="590" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w532l232574l370724l346744l214590</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 574 170</string>
+              <string>vstem 214 156</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

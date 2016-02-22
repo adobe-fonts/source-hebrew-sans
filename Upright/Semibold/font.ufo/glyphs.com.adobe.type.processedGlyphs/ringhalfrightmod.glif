@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="ringhalfrightmod">
+  <advance width="171" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="28" y="549" />
+      <point x="116" y="546" />
+      <point x="158" y="588" />
+      <point type="curve" x="158" y="650" />
+      <point x="158" y="712" />
+      <point x="116" y="753" />
+      <point type="curve" x="28" y="750" />
+      <point type="line" x="28" y="705" />
+      <point x="79" y="706" />
+      <point x="98" y="682" />
+      <point type="curve" x="98" y="650" />
+      <point x="98" y="617" />
+      <point x="79" y="593" />
+      <point type="curve" x="28" y="594" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint.v2</key>
+      <dict>
+        <key>id</key>
+        <string>w171l28549116546158588c158650158712116753c28750l287057970698682c986509861779593c28594</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>pointTag</key>
+            <string>hintSet0000</string>
+            <key>stems</key>
+            <array>
+              <string>hstem 549 45</string>
+              <string>hstem 705 45</string>
+              <string>vstem 98 60</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
