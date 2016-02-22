@@ -1,53 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="heShin">
-  <advance width="796" />
+  <advance width="766" />
   <unicode hex="05E9" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="164" y="-12" />
-      <point x="548" y="2" />
-      <point x="758" y="190" />
-      <point type="curve" x="758" y="428" />
-      <point x="758" y="522" />
-      <point x="726" y="580" />
-      <point type="curve" x="628" y="580" />
-      <point x="606" y="580" />
-      <point x="578" y="580" />
-      <point type="curve" x="548" y="574" />
-      <point type="line" x="514" y="400" />
-      <point x="530" y="403" />
-      <point x="543" y="406" />
-      <point type="curve" x="554" y="406" />
-      <point x="578" y="406" />
-      <point x="590" y="396" />
-      <point type="curve" x="590" y="364" />
-      <point x="590" y="260" />
-      <point x="503" y="188" />
-      <point type="curve" x="264" y="176" />
-      <point type="line" x="160" y="574" />
-      <point type="line" x="12" y="538" />
-    </contour>
-    <contour>
-      <point type="line" x="428" y="250" />
-      <point x="464" y="316" />
-      <point x="484" y="388" />
-      <point type="curve" x="484" y="428" />
-      <point x="484" y="522" />
-      <point x="452" y="580" />
-      <point type="curve" x="354" y="580" />
-      <point x="332" y="580" />
-      <point x="304" y="580" />
+      <point name="hintSet0000" type="line" x="194" y="-12" />
+      <point x="521" y="0" />
+      <point x="728" y="190" />
+      <point type="curve" x="728" y="428" />
+      <point x="728" y="522" />
+      <point x="696" y="580" />
+      <point type="curve" x="598" y="580" />
+      <point x="579" y="580" />
+      <point x="554" y="579" />
+      <point type="curve" x="528" y="574" />
+      <point type="line" x="494" y="400" />
+      <point x="506" y="402" />
+      <point x="516" y="406" />
+      <point type="curve" x="524" y="406" />
+      <point x="548" y="406" />
+      <point x="560" y="396" />
+      <point type="curve" x="560" y="364" />
+      <point x="560" y="260" />
+      <point x="471" y="186" />
+      <point type="curve" x="294" y="176" />
+      <point type="line" x="286" y="200" />
+      <point x="429" y="258" />
+      <point x="474" y="345" />
+      <point type="curve" x="474" y="458" />
+      <point x="474" y="530" />
+      <point x="442" y="580" />
+      <point type="curve" x="344" y="580" />
+      <point x="325" y="580" />
+      <point x="300" y="579" />
       <point type="curve" x="274" y="574" />
       <point type="line" x="240" y="400" />
-      <point x="256" y="403" />
-      <point x="269" y="406" />
-      <point type="curve" x="280" y="406" />
-      <point x="304" y="406" />
-      <point x="316" y="396" />
-      <point type="curve" x="316" y="364" />
-      <point x="316" y="342" />
-      <point x="310" y="316" />
-      <point type="curve" x="296" y="286" />
+      <point x="252" y="402" />
+      <point x="262" y="406" />
+      <point type="curve" x="270" y="406" />
+      <point x="294" y="406" />
+      <point x="306" y="398" />
+      <point type="curve" x="306" y="374" />
+      <point x="306" y="355" />
+      <point x="296" y="326" />
+      <point type="curve" x="250" y="305" />
+      <point type="line" x="160" y="574" />
+      <point type="line" x="12" y="538" />
     </contour>
   </outline>
   <lib>
@@ -55,7 +53,7 @@
       <key>com.adobe.type.autohint.v2</key>
       <dict>
         <key>id</key>
-        <string>23f7c034e177691024704e1bca2641b780058113fa451e24aa5668af0af81d89131ba99d3742f506324d43c9b536e67f4381a0dbec7a70762ea20d21af173258</string>
+        <string>25ef2c15a28ea076509a44315727078af1372401471eb2f3107f427114cabcc04e1f9b85a70caf5fe0359dd097945cd0a7c2a8eb0d83bded4bde216af76b8eac</string>
         <key>hintSetList</key>
         <array>
           <dict>
@@ -65,8 +63,8 @@
             <array>
               <string>hstem -12 188</string>
               <string>hstem 406 174</string>
-              <string>vstem 316 168</string>
-              <string>vstem 590 168</string>
+              <string>vstem 306 168</string>
+              <string>vstem 560 168</string>
             </array>
           </dict>
         </array>
