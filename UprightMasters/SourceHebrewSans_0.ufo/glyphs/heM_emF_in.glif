@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heMemFin" format="1">
-  <advance width="646"/>
+  <advance width="656"/>
   <unicode hex="05DD"/>
   <outline>
     <contour>
       <point x="132" y="0" type="line"/>
-      <point x="544" y="0" type="line"/>
-      <point x="544" y="360" type="line" smooth="yes"/>
-      <point x="544" y="496"/>
-      <point x="479" y="545"/>
-      <point x="379" y="545" type="curve"/>
+      <point x="554" y="0" type="line"/>
+      <point x="554" y="360" type="line" smooth="yes"/>
+      <point x="554" y="496"/>
+      <point x="489" y="545"/>
+      <point x="389" y="545" type="curve"/>
       <point x="54" y="545" type="line"/>
       <point x="48" y="515" type="line"/>
-      <point x="377" y="515" type="line"/>
-      <point x="459" y="515"/>
-      <point x="516" y="477"/>
-      <point x="516" y="360" type="curve" smooth="yes"/>
-      <point x="516" y="30" type="line"/>
+      <point x="387" y="515" type="line"/>
+      <point x="469" y="515"/>
+      <point x="526" y="477"/>
+      <point x="526" y="360" type="curve" smooth="yes"/>
+      <point x="526" y="30" type="line"/>
       <point x="132" y="30" type="line"/>
     </contour>
     <contour>
@@ -293,7 +293,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>646</integer>
+          <integer>656</integer>
         </dict>
       </dict>
     </dict>
