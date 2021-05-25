@@ -66,6 +66,8 @@
 		<string>E_th.glif</string>
 		<key>Euro</key>
 		<string>E_uro.glif</string>
+		<key>Euro.he</key>
+		<string>E_uro.he.glif</string>
 		<key>Euro.lat</key>
 		<string>E_uro.lat.glif</string>
 		<key>F</key>
@@ -324,6 +326,8 @@
 		<string>cedillacmb.cap.glif</string>
 		<key>cent</key>
 		<string>cent.glif</string>
+		<key>cent.he</key>
+		<string>cent.he.glif</string>
 		<key>cent.lat</key>
 		<string>cent.lat.glif</string>
 		<key>chi</key>
@@ -382,6 +386,8 @@
 		<string>dlinebelow.glif</string>
 		<key>dollar</key>
 		<string>dollar.glif</string>
+		<key>dollar.he</key>
+		<string>dollar.he.glif</string>
 		<key>dollar.lat</key>
 		<string>dollar.lat.glif</string>
 		<key>dotaccent</key>
@@ -414,8 +420,12 @@
 		<string>egrave.glif</string>
 		<key>eight</key>
 		<string>eight.glif</string>
+		<key>eight.he</key>
+		<string>eight.he.glif</string>
 		<key>eight.lat</key>
 		<string>eight.lat.glif</string>
+		<key>eight.ph</key>
+		<string>eight.ph.glif</string>
 		<key>eight.pnumlat</key>
 		<string>eight.pnumlat.glif</string>
 		<key>ellipsis</key>
@@ -460,8 +470,12 @@
 		<string>fi.glif</string>
 		<key>five</key>
 		<string>five.glif</string>
+		<key>five.he</key>
+		<string>five.he.glif</string>
 		<key>five.lat</key>
 		<string>five.lat.glif</string>
+		<key>five.ph</key>
+		<string>five.ph.glif</string>
 		<key>five.pnumlat</key>
 		<string>five.pnumlat.glif</string>
 		<key>fl</key>
@@ -474,8 +488,12 @@
 		<string>four.glif</string>
 		<key>four.dnom</key>
 		<string>four.dnom.glif</string>
+		<key>four.he</key>
+		<string>four.he.glif</string>
 		<key>four.lat</key>
 		<string>four.lat.glif</string>
+		<key>four.ph</key>
+		<string>four.ph.glif</string>
 		<key>four.pnumlat</key>
 		<string>four.pnumlat.glif</string>
 		<key>fraction</key>
@@ -832,8 +850,12 @@
 		<string>newsheqel.lat.glif</string>
 		<key>nine</key>
 		<string>nine.glif</string>
+		<key>nine.he</key>
+		<string>nine.he.glif</string>
 		<key>nine.lat</key>
 		<string>nine.lat.glif</string>
+		<key>nine.ph</key>
+		<string>nine.ph.glif</string>
 		<key>nine.pnumlat</key>
 		<string>nine.pnumlat.glif</string>
 		<key>notequal</key>
@@ -842,6 +864,8 @@
 		<string>ntilde.glif</string>
 		<key>numbersign</key>
 		<string>numbersign.glif</string>
+		<key>numbersign.he</key>
+		<string>numbersign.he.glif</string>
 		<key>numbersign.lat</key>
 		<string>numbersign.lat.glif</string>
 		<key>o</key>
@@ -872,8 +896,12 @@
 		<string>one.glif</string>
 		<key>one.dnom</key>
 		<string>one.dnom.glif</string>
+		<key>one.he</key>
+		<string>one.he.glif</string>
 		<key>one.lat</key>
 		<string>one.lat.glif</string>
+		<key>one.ph</key>
+		<string>one.ph.glif</string>
 		<key>one.pnumlat</key>
 		<string>one.pnumlat.glif</string>
 		<key>one.sups</key>
@@ -1074,16 +1102,24 @@
 		<string>semicolon.glif</string>
 		<key>seven</key>
 		<string>seven.glif</string>
+		<key>seven.he</key>
+		<string>seven.he.glif</string>
 		<key>seven.lat</key>
 		<string>seven.lat.glif</string>
+		<key>seven.ph</key>
+		<string>seven.ph.glif</string>
 		<key>seven.pnumlat</key>
 		<string>seven.pnumlat.glif</string>
 		<key>sfthyphen</key>
 		<string>sfthyphen.glif</string>
 		<key>six</key>
 		<string>six.glif</string>
+		<key>six.he</key>
+		<string>six.he.glif</string>
 		<key>six.lat</key>
 		<string>six.lat.glif</string>
+		<key>six.ph</key>
+		<string>six.ph.glif</string>
 		<key>six.pnumlat</key>
 		<string>six.pnumlat.glif</string>
 		<key>slash</key>
@@ -1094,6 +1130,8 @@
 		<string>space.glif</string>
 		<key>sterling</key>
 		<string>sterling.glif</string>
+		<key>sterling.he</key>
+		<string>sterling.he.glif</string>
 		<key>sterling.lat</key>
 		<string>sterling.lat.glif</string>
 		<key>summation</key>
@@ -1112,8 +1150,12 @@
 		<string>three.glif</string>
 		<key>three.dnom</key>
 		<string>three.dnom.glif</string>
+		<key>three.he</key>
+		<string>three.he.glif</string>
 		<key>three.lat</key>
 		<string>three.lat.glif</string>
+		<key>three.ph</key>
+		<string>three.ph.glif</string>
 		<key>three.pnumlat</key>
 		<string>three.pnumlat.glif</string>
 		<key>three.sups</key>
@@ -1146,8 +1188,12 @@
 		<string>two.glif</string>
 		<key>two.dnom</key>
 		<string>two.dnom.glif</string>
+		<key>two.he</key>
+		<string>two.he.glif</string>
 		<key>two.lat</key>
 		<string>two.lat.glif</string>
+		<key>two.ph</key>
+		<string>two.ph.glif</string>
 		<key>two.pnumlat</key>
 		<string>two.pnumlat.glif</string>
 		<key>two.sups</key>
@@ -1204,8 +1250,12 @@
 		<string>zero.glif</string>
 		<key>zero.dnom</key>
 		<string>zero.dnom.glif</string>
+		<key>zero.he</key>
+		<string>zero.he.glif</string>
 		<key>zero.lat</key>
 		<string>zero.lat.glif</string>
+		<key>zero.ph</key>
+		<string>zero.ph.glif</string>
 		<key>zero.pnumlat</key>
 		<string>zero.pnumlat.glif</string>
 		<key>zero.slash</key>

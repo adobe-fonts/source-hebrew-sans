@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
+		<key>Euro.he</key>
+		<string>E_uro.he.glif</string>
 		<key>Lslash</key>
 		<string>L_slash.glif</string>
 		<key>acutecmb</key>
@@ -32,6 +34,8 @@
 		<string>dieresiscmb.glif</string>
 		<key>dieresiscmb.cap</key>
 		<string>dieresiscmb.cap.glif</string>
+		<key>dollar.he</key>
+		<string>dollar.he.glif</string>
 		<key>dotbelowcmb</key>
 		<string>dotbelowcmb.glif</string>
 		<key>e</key>
@@ -156,11 +160,17 @@
 		<string>ringhalfleftmod.glif</string>
 		<key>ringhalfrightmod</key>
 		<string>ringhalfrightmod.glif</string>
+		<key>sterling.he</key>
+		<string>sterling.he.glif</string>
 		<key>tildecmb</key>
 		<string>tildecmb.glif</string>
 		<key>tildecmb.cap</key>
 		<string>tildecmb.cap.glif</string>
 		<key>tildeoverlaycmb</key>
 		<string>tildeoverlaycmb.glif</string>
+		<key>two.he</key>
+		<string>two.he.glif</string>
+		<key>two.ph</key>
+		<string>two.ph.glif</string>
 	</dict>
 </plist>
