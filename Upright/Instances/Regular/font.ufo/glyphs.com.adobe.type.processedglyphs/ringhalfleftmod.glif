@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringhalfleftmod" format="2">
+	<unicode hex="02BF"/>
+	<advance width="166"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="136" y="549" type="curve"/>
+			<point x="136" y="584" type="line"/>
+			<point x="83" y="583"/>
+			<point x="63" y="609"/>
+			<point x="63" y="646" type="curve"/>
+			<point x="63" y="683"/>
+			<point x="83" y="708"/>
+			<point x="136" y="708" type="curve"/>
+			<point x="136" y="743" type="line"/>
+			<point x="57" y="746"/>
+			<point x="15" y="707"/>
+			<point x="15" y="646" type="curve"/>
+			<point x="15" y="585"/>
+			<point x="57" y="546"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 549 35</string>
+							<string>hstem 708 35</string>
+							<string>vstem 15 48</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w166c136549l1365848358363609c636466368383708c136708l1367435774615707c156461558557546</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

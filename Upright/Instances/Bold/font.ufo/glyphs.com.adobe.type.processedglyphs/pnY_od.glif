@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnYod" format="2">
+	<advance width="393"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="89" y="213" type="line"/>
+			<point x="274" y="213" type="line"/>
+			<point x="274" y="321" type="line"/>
+			<point x="89" y="321" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 213 108</string>
+							<string>vstem 89 185</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w393l89213l274213l274321l89321</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

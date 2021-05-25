@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hePatah" format="2">
+	<unicode hex="05B7"/>
+	<outline>
+		<contour>
+			<point x="-101" y="-128" type="line"/>
+			<point x="101" y="-128" type="line"/>
+			<point x="101" y="-89" type="line"/>
+			<point x="-101" y="-89" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-100" y="-30"/>
+	<anchor name="_belowRightHE" x="100" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-160" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="20" y="-30"/>
+	<guideline x="-150" y="0" angle="90" identifier="QGO5vhQEkK"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guideline.magnetic.QGO5vhQEkK</key>
+			<integer>5</integer>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>

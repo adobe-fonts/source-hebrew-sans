@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalstopreversedsupmod" format="2">
+	<unicode hex="02E4"/>
+	<advance width="279"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="135" y="406" type="line"/>
+			<point x="172" y="406" type="line"/>
+			<point x="172" y="622" type="line"/>
+			<point x="93" y="665"/>
+			<point x="56" y="702"/>
+			<point x="56" y="764" type="curve"/>
+			<point x="56" y="818"/>
+			<point x="92" y="855"/>
+			<point x="156" y="855" type="curve"/>
+			<point x="202" y="855"/>
+			<point x="232" y="831"/>
+			<point x="253" y="805" type="curve"/>
+			<point x="274" y="830" type="line"/>
+			<point x="250" y="858"/>
+			<point x="213" y="887"/>
+			<point x="154" y="887" type="curve"/>
+			<point x="77" y="887"/>
+			<point x="18" y="844"/>
+			<point x="18" y="763" type="curve"/>
+			<point x="18" y="687"/>
+			<point x="67" y="645"/>
+			<point x="135" y="602" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 855 32</string>
+							<string>vstem 18 38</string>
+							<string>vstem 135 37</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>281dae45459e9905705836e03d579c5cf2c0fd0da5ca290eac5cb2f1335ac981d1cad5c50667566ff40e11754d859c955bd008d643ab90417fdf906f6d2534cf</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

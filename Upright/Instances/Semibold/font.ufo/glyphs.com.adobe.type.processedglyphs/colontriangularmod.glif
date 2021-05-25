@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colontriangularmod" format="2">
+	<unicode hex="02D0"/>
+	<advance width="275"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="46" y="0" type="line"/>
+			<point x="229" y="0" type="line"/>
+			<point x="144" y="164" type="line"/>
+			<point x="131" y="164" type="line"/>
+		</contour>
+		<contour>
+			<point x="131" y="313" type="line"/>
+			<point x="144" y="313" type="line"/>
+			<point x="229" y="477" type="line"/>
+			<point x="46" y="477" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 164</string>
+							<string>hstem 313 164</string>
+							<string>vstem 46 183</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w275l460l2290l144164l131164l131313l144313l229477l46477</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

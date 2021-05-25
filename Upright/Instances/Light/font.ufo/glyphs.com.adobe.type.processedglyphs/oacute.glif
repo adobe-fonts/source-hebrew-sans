@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oacute" format="2">
+	<unicode hex="00F3"/>
+	<advance width="535"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="267" y="-12" type="curve"/>
+			<point x="383" y="-12"/>
+			<point x="483" y="80"/>
+			<point x="483" y="239" type="curve"/>
+			<point x="483" y="400"/>
+			<point x="383" y="492"/>
+			<point x="267" y="492" type="curve"/>
+			<point x="152" y="492"/>
+			<point x="52" y="400"/>
+			<point x="52" y="239" type="curve"/>
+			<point x="52" y="80"/>
+			<point x="152" y="-12"/>
+		</contour>
+		<contour>
+			<point x="267" y="27" type="curve"/>
+			<point x="170" y="27"/>
+			<point x="98" y="113"/>
+			<point x="98" y="239" type="curve"/>
+			<point x="98" y="366"/>
+			<point x="170" y="453"/>
+			<point x="267" y="453" type="curve"/>
+			<point x="364" y="453"/>
+			<point x="437" y="366"/>
+			<point x="437" y="239" type="curve"/>
+			<point x="437" y="113"/>
+			<point x="364" y="27"/>
+		</contour>
+		<contour>
+			<point x="238" y="574" type="line"/>
+			<point x="382" y="725" type="line"/>
+			<point x="348" y="754" type="line"/>
+			<point x="214" y="597" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 39</string>
+							<string>hstem 453 39</string>
+							<string>hstem 725 -20</string>
+							<string>vstem 52 46</string>
+							<string>vstem 437 46</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>0ed8be7b71009864b7fa40e7663fe64bf30ea4897bb8264ac2b904a278f57eb04683980188122622aa0cc607a25f8df4a385f82b560ddae2f871011c974bf026</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

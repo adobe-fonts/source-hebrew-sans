@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heAyin" format="2">
+	<unicode hex="05E2"/>
+	<advance width="657"/>
+	<outline>
+		<contour>
+			<point x="219" y="16" type="curve"/>
+			<point x="342" y="38" type="line"/>
+			<point x="318" y="226"/>
+			<point x="251" y="440"/>
+			<point x="191" y="570" type="curve"/>
+			<point x="62" y="539" type="line"/>
+			<point x="123" y="405"/>
+			<point x="196" y="198"/>
+		</contour>
+		<contour>
+			<point x="54" y="0" type="line"/>
+			<point x="154" y="0" type="line" smooth="yes"/>
+			<point x="464" y="0"/>
+			<point x="607" y="195"/>
+			<point x="607" y="367" type="curve" smooth="yes"/>
+			<point x="607" y="506"/>
+			<point x="559" y="564"/>
+			<point x="419" y="564" type="curve" smooth="yes"/>
+			<point x="349" y="564" type="line"/>
+			<point x="349" y="417" type="line"/>
+			<point x="382" y="417" type="line" smooth="yes"/>
+			<point x="454" y="417"/>
+			<point x="480" y="392"/>
+			<point x="480" y="334" type="curve" smooth="yes"/>
+			<point x="480" y="244"/>
+			<point x="390" y="147"/>
+			<point x="199" y="147" type="curve" smooth="yes"/>
+			<point x="54" y="147" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcaron" format="2">
+	<unicode hex="01E6"/>
+	<advance width="628"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="357" y="-12" type="curve"/>
+			<point x="446" y="-12"/>
+			<point x="522" y="22"/>
+			<point x="566" y="66" type="curve"/>
+			<point x="566" y="354" type="line"/>
+			<point x="338" y="354" type="line"/>
+			<point x="338" y="259" type="line"/>
+			<point x="462" y="259" type="line"/>
+			<point x="462" y="118" type="line"/>
+			<point x="441" y="99"/>
+			<point x="405" y="89"/>
+			<point x="368" y="89" type="curve"/>
+			<point x="237" y="89"/>
+			<point x="168" y="179"/>
+			<point x="168" y="328" type="curve"/>
+			<point x="168" y="475"/>
+			<point x="246" y="565"/>
+			<point x="362" y="565" type="curve"/>
+			<point x="423" y="565"/>
+			<point x="461" y="540"/>
+			<point x="494" y="508" type="curve"/>
+			<point x="556" y="583" type="line"/>
+			<point x="515" y="625"/>
+			<point x="451" y="666"/>
+			<point x="358" y="666" type="curve"/>
+			<point x="184" y="666"/>
+			<point x="49" y="539"/>
+			<point x="49" y="325" type="curve"/>
+			<point x="49" y="108"/>
+			<point x="180" y="-12"/>
+		</contour>
+		<contour>
+			<point x="298" y="704" type="line"/>
+			<point x="422" y="704" type="line"/>
+			<point x="519" y="816" type="line"/>
+			<point x="469" y="848" type="line"/>
+			<point x="362" y="760" type="line"/>
+			<point x="358" y="760" type="line"/>
+			<point x="251" y="848" type="line"/>
+			<point x="201" y="816" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 101</string>
+							<string>hstem 259 95</string>
+							<string>hstem 565 101</string>
+							<string>hstem 704 56</string>
+							<string>vstem 49 119</string>
+							<string>vstem 462 104</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>9d103c537a07d185f7971fdb4f5803577eb483fcf543fa6a2ced6d54a374b792ad0adb076f9b14d21fa9dd9a4b144782ee8fa499a99d80244993b560d2113ff1</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

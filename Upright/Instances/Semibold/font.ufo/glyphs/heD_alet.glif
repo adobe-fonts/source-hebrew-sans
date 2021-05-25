@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heDalet" format="2">
+	<unicode hex="05D3"/>
+	<advance width="542"/>
+	<outline>
+		<contour>
+			<point x="10" y="444" type="line"/>
+			<point x="499" y="444" type="line"/>
+			<point x="499" y="559" type="line"/>
+			<point x="10" y="559" type="line"/>
+		</contour>
+		<contour>
+			<point x="300" y="0" type="line"/>
+			<point x="400" y="0" type="line"/>
+			<point x="400" y="444" type="line"/>
+			<point x="317" y="444" type="line"/>
+			<point x="306" y="407"/>
+			<point x="300" y="368"/>
+			<point x="300" y="318" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

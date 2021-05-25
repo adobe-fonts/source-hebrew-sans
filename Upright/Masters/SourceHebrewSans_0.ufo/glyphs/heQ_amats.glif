@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heQamats" format="2">
+	<unicode hex="05B8"/>
+	<outline>
+		<component base="downtackbelowcmb"/>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-95" y="-30"/>
+	<anchor name="_belowRightHE" x="95" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-160" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<guideline x="0" y="46" angle="0" identifier="Ota23jXeoc"/>
+	<guideline x="-87" y="0" angle="90" identifier="sFmUGK18RC"/>
+	<guideline x="-160" y="0" angle="90" identifier="prZ02GHauW"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guideline.magnetic.Ota23jXeoc</key>
+			<integer>5</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.prZ02GHauW</key>
+			<integer>5</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.sFmUGK18RC</key>
+			<integer>5</integer>
+			<key>public.markColor</key>
+			<string>0.4,0.8,0.9989,1</string>
+		</dict>
+	</lib>
+</glyph>

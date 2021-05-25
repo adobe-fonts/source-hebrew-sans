@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecmb" format="2">
+	<unicode hex="0306"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="0" y="572" type="curve"/>
+			<point x="115" y="572"/>
+			<point x="166" y="641"/>
+			<point x="169" y="729" type="curve"/>
+			<point x="85" y="743" type="line"/>
+			<point x="79" y="700"/>
+			<point x="53" y="664"/>
+			<point x="0" y="664" type="curve"/>
+			<point x="-53" y="664"/>
+			<point x="-79" y="700"/>
+			<point x="-85" y="743" type="curve"/>
+			<point x="-169" y="729" type="line"/>
+			<point x="-166" y="641"/>
+			<point x="-114" y="572"/>
+		</contour>
+	</outline>
+	<anchor name="_aboveLC" x="0" y="516"/>
+	<anchor name="aboveLC" x="0" y="516"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 572 92</string>
+							<string>vstem -169 84</string>
+							<string>vstem 85 84</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0c0572115572166641c169729l857437970053664c0664-53664-79700c-85743l-169729-166641-114572</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

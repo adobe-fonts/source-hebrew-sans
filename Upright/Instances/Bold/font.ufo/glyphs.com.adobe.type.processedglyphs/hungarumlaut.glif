@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+	<unicode hex="02DD"/>
+	<advance width="555"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="226" y="565" type="line"/>
+			<point x="335" y="737" type="line"/>
+			<point x="236" y="781" type="line"/>
+			<point x="149" y="600" type="line"/>
+		</contour>
+		<contour>
+			<point x="405" y="565" type="line"/>
+			<point x="514" y="737" type="line"/>
+			<point x="415" y="781" type="line"/>
+			<point x="328" y="600" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 565 216</string>
+							<string>vstem 149 365</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w555l226565l335737l236781l149600l405565l514737l415781l328600</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

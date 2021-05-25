@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heZayin" format="2">
+	<unicode hex="05D6"/>
+	<advance width="380"/>
+	<outline>
+		<contour>
+			<point x="10" y="444" type="line"/>
+			<point x="338" y="444" type="line"/>
+			<point x="338" y="560" type="line"/>
+			<point x="10" y="560" type="line"/>
+		</contour>
+		<contour>
+			<point x="145" y="0" type="line"/>
+			<point x="245" y="0" type="line"/>
+			<point x="245" y="444" type="line"/>
+			<point x="162" y="444" type="line"/>
+			<point x="151" y="407"/>
+			<point x="145" y="368"/>
+			<point x="145" y="318" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

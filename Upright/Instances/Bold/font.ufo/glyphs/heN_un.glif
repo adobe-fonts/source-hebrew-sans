@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heNun" format="2">
+	<unicode hex="05E0"/>
+	<advance width="458"/>
+	<outline>
+		<contour>
+			<point x="54" y="0" type="line"/>
+			<point x="372" y="0" type="line"/>
+			<point x="372" y="375" type="line" smooth="yes"/>
+			<point x="372" y="514"/>
+			<point x="302" y="564"/>
+			<point x="195" y="564" type="curve" smooth="yes"/>
+			<point x="90" y="564" type="line"/>
+			<point x="90" y="417" type="line"/>
+			<point x="135" y="417" type="line" smooth="yes"/>
+			<point x="205" y="417"/>
+			<point x="246" y="394"/>
+			<point x="246" y="307" type="curve" smooth="yes"/>
+			<point x="246" y="147" type="line"/>
+			<point x="54" y="147" type="line"/>
+		</contour>
+	</outline>
+</glyph>

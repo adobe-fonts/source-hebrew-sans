@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heMemFin" format="2">
+	<unicode hex="05DD"/>
+	<advance width="710"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="106" y="0" type="line"/>
+			<point x="633" y="0" type="line"/>
+			<point x="633" y="352" type="line"/>
+			<point x="633" y="506"/>
+			<point x="552" y="564"/>
+			<point x="432" y="564" type="curve"/>
+			<point name="hintSet0004" x="42" y="564" type="line"/>
+			<point x="42" y="417" type="line"/>
+			<point name="hintSet0006" x="127" y="417" type="line"/>
+			<point x="114" y="376"/>
+			<point x="106" y="333"/>
+			<point x="106" y="278" type="curve"/>
+		</contour>
+		<contour>
+			<point x="372" y="417" type="line"/>
+			<point x="454" y="417"/>
+			<point x="506" y="387"/>
+			<point x="506" y="283" type="curve"/>
+			<point x="506" y="147" type="line"/>
+			<point x="233" y="147" type="line"/>
+			<point x="233" y="417" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 147</string>
+							<string>hstem 417 147</string>
+							<string>vstem 106 127</string>
+							<string>vstem 506 127</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0004</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 147</string>
+							<string>hstem 417 147</string>
+							<string>vstem 42 191</string>
+							<string>vstem 506 127</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0006</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 147</string>
+							<string>hstem 417 147</string>
+							<string>vstem 106 127</string>
+							<string>vstem 506 127</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w710l1060l6330l633352633506552564c432564l42564l42417l127417114376106333c106278l372417454417506387c506283l506147l233147l233417</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

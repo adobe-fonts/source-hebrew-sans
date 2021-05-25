@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="2">
+	<unicode hex="0074"/>
+	<advance width="383"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="256" y="-12" type="curve"/>
+			<point x="304" y="-12"/>
+			<point x="340" y="-2"/>
+			<point x="366" y="6" type="curve"/>
+			<point x="343" y="113" type="line"/>
+			<point x="330" y="108"/>
+			<point x="312" y="103"/>
+			<point x="296" y="103" type="curve"/>
+			<point x="257" y="103"/>
+			<point x="232" y="126"/>
+			<point x="232" y="182" type="curve"/>
+			<point x="232" y="381" type="line"/>
+			<point x="351" y="381" type="line"/>
+			<point x="351" y="496" type="line"/>
+			<point x="232" y="496" type="line"/>
+			<point x="232" y="628" type="line"/>
+			<point x="110" y="628" type="line"/>
+			<point x="93" y="496" type="line"/>
+			<point x="17" y="490" type="line"/>
+			<point x="17" y="381" type="line"/>
+			<point x="85" y="381" type="line"/>
+			<point x="85" y="180" type="line"/>
+			<point x="85" y="65"/>
+			<point x="133" y="-12"/>
+		</contour>
+	</outline>
+	<anchor name="aboveLC" x="167" y="655"/>
+	<anchor name="belowLC" x="224" y="-20"/>
+	<anchor name="baseLC" x="233" y="0"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 115</string>
+							<string>hstem 381 115</string>
+							<string>vstem 85 147</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>40933bd0a50312df54453e6689775e16259f9fbba4277141b1d6a06e5ff80b4eb755e27d2fca731b7e29729eb4bd5fda7538fc639bed89abb6d0cff16566cb4a</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcmb.cap" format="2">
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="0" y="700" type="curve"/>
+			<point x="48" y="700"/>
+			<point x="88" y="734"/>
+			<point x="88" y="785" type="curve"/>
+			<point x="88" y="838"/>
+			<point x="48" y="871"/>
+			<point x="0" y="871" type="curve"/>
+			<point x="-50" y="871"/>
+			<point x="-88" y="838"/>
+			<point x="-88" y="785" type="curve"/>
+			<point x="-88" y="734"/>
+			<point x="-50" y="700"/>
+		</contour>
+		<contour>
+			<point x="0" y="726" type="curve"/>
+			<point x="-32" y="726"/>
+			<point x="-58" y="746"/>
+			<point x="-58" y="785" type="curve"/>
+			<point x="-58" y="823"/>
+			<point x="-32" y="845"/>
+			<point x="0" y="845" type="curve"/>
+			<point x="30" y="845"/>
+			<point x="56" y="823"/>
+			<point x="56" y="785" type="curve"/>
+			<point x="56" y="746"/>
+			<point x="30" y="726"/>
+		</contour>
+	</outline>
+	<anchor name="_aboveUC" x="0" y="679"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 700 26</string>
+							<string>hstem 845 26</string>
+							<string>vstem -88 30</string>
+							<string>vstem 56 32</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>72661cb80d9b26dc7f11ecdaf6fa8d7cab7dbb762f4ffe1ccdf9c9659935389d6bc7e352825d4cc4645ebbe73ea48f7bad118cf39108b5378ee9c89a9292c236</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

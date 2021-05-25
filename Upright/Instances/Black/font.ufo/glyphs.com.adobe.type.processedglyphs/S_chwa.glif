@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa" format="2">
+	<unicode hex="018F"/>
+	<advance width="682"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="340" y="-12" type="curve"/>
+			<point x="518" y="-12"/>
+			<point x="638" y="104"/>
+			<point x="638" y="326" type="curve"/>
+			<point x="638" y="548"/>
+			<point x="516" y="662"/>
+			<point x="344" y="662" type="curve"/>
+			<point x="238" y="662"/>
+			<point x="162" y="628"/>
+			<point x="108" y="580" type="curve"/>
+			<point x="186" y="462" type="line"/>
+			<point x="220" y="492"/>
+			<point x="262" y="522"/>
+			<point x="322" y="522" type="curve"/>
+			<point x="406" y="522"/>
+			<point x="453" y="479"/>
+			<point x="465" y="380" type="curve"/>
+			<point x="52" y="380" type="line"/>
+			<point x="50" y="360"/>
+			<point x="48" y="340"/>
+			<point x="48" y="322" type="curve"/>
+			<point x="48" y="100"/>
+			<point x="162" y="-12"/>
+		</contour>
+		<contour>
+			<point x="340" y="128" type="curve"/>
+			<point x="274" y="128"/>
+			<point x="232" y="160"/>
+			<point x="224" y="256" type="curve"/>
+			<point x="463" y="256" type="line"/>
+			<point x="448" y="164"/>
+			<point x="402" y="128"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 140</string>
+							<string>hstem 256 124</string>
+							<string>hstem 522 140</string>
+							<string>vstem 48 176</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>f377ccd3efd0392e9cb81ab26ed2c2e6da19952d7d9c4ac409a94c5dda4ef46331dd7e569a3e16d31b546226474274ef254a58bbbcbdb1da2938461014f8fcdb</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

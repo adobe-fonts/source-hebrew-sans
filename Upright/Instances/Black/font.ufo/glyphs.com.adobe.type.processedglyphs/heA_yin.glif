@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heAyin" format="2">
+	<unicode hex="05E2"/>
+	<advance width="672"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="54" y="0" type="line"/>
+			<point x="152" y="0" type="line"/>
+			<point x="480" y="0"/>
+			<point x="624" y="193"/>
+			<point x="624" y="364" type="curve"/>
+			<point x="624" y="506"/>
+			<point x="575" y="568"/>
+			<point x="426" y="568" type="curve"/>
+			<point name="hintSet0004" x="354" y="568" type="line"/>
+			<point x="354" y="396" type="line"/>
+			<point name="hintSet0006" x="382" y="396" type="line"/>
+			<point x="452" y="396"/>
+			<point x="476" y="372"/>
+			<point x="476" y="324" type="curve"/>
+			<point x="476" y="271"/>
+			<point x="432" y="214"/>
+			<point x="337" y="188" type="curve"/>
+			<point x="305" y="333"/>
+			<point x="257" y="477"/>
+			<point x="212" y="574" type="curve"/>
+			<point x="62" y="538" type="line"/>
+			<point x="106" y="441"/>
+			<point x="156" y="307"/>
+			<point x="189" y="172" type="curve"/>
+			<point x="54" y="172" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 172</string>
+							<string>hstem 396 172</string>
+							<string>vstem 476 148</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0004</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 172</string>
+							<string>hstem 396 172</string>
+							<string>vstem 354 270</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0006</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 172</string>
+							<string>hstem 396 172</string>
+							<string>vstem 476 148</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>522edb961178e387daa5d45d56c1ed0348bf5ccfdbb0ed4a166e18812e8465c4befc2f627039da7c973467415ee831522dbe17b7dfd9a92abbb9bdec4e2e5548</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

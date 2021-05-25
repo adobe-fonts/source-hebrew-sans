@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnYod" format="2">
+	<advance width="376"/>
+	<outline>
+		<contour>
+			<point x="82" y="224" type="line"/>
+			<point x="254" y="224" type="line"/>
+			<point x="254" y="348" type="line"/>
+			<point x="82" y="348" type="line"/>
+		</contour>
+		<component base="pnZai"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>

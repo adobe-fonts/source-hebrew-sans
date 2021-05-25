@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heDagesh" format="2">
+	<unicode hex="05BC"/>
+	<outline>
+		<contour>
+			<point x="0" y="250" type="curve" smooth="yes"/>
+			<point x="20" y="250"/>
+			<point x="35" y="265"/>
+			<point x="35" y="285" type="curve" smooth="yes"/>
+			<point x="35" y="305"/>
+			<point x="20" y="320"/>
+			<point x="0" y="320" type="curve" smooth="yes"/>
+			<point x="-20" y="320"/>
+			<point x="-35" y="305"/>
+			<point x="-35" y="285" type="curve" smooth="yes"/>
+			<point x="-35" y="265"/>
+			<point x="-20" y="250"/>
+		</contour>
+	</outline>
+	<anchor name="_centerHE" x="0" y="285"/>
+	<anchor name="centerSecondaryHE" x="0" y="235"/>
+	<anchor name="_centerSecondaryHE" x="0" y="375"/>
+	<guideline x="0" y="285" angle="0" identifier="znpAucETLd"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guideline.magnetic.znpAucETLd</key>
+			<integer>5</integer>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>

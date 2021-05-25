@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+	<unicode hex="02D9"/>
+	<advance width="555"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="278" y="569" type="curve"/>
+			<point x="326" y="569"/>
+			<point x="359" y="601"/>
+			<point x="359" y="646" type="curve"/>
+			<point x="359" y="691"/>
+			<point x="326" y="723"/>
+			<point x="278" y="723" type="curve"/>
+			<point x="230" y="723"/>
+			<point x="197" y="691"/>
+			<point x="197" y="646" type="curve"/>
+			<point x="197" y="601"/>
+			<point x="230" y="569"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 569 154</string>
+							<string>vstem 197 162</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w555c278569326569359601c359646359691326723c278723230723197691c197646197601230569</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

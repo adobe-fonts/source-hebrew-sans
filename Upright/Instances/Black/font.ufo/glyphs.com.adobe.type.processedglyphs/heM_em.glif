@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heMem" format="2">
+	<unicode hex="05DE"/>
+	<advance width="728"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="344" y="-12" type="line"/>
+			<point x="426" y="-1"/>
+			<point x="540" y="0"/>
+			<point x="656" y="0" type="curve"/>
+			<point x="660" y="68"/>
+			<point x="664" y="144"/>
+			<point x="664" y="200" type="curve"/>
+			<point x="664" y="483"/>
+			<point x="574" y="580"/>
+			<point x="422" y="580" type="curve"/>
+			<point x="345" y="580"/>
+			<point x="279" y="543"/>
+			<point x="226" y="483" type="curve"/>
+			<point x="212" y="521"/>
+			<point x="195" y="556"/>
+			<point x="180" y="580" type="curve"/>
+			<point x="34" y="530" type="line"/>
+			<point x="74" y="477"/>
+			<point x="117" y="388"/>
+			<point x="133" y="325" type="curve"/>
+			<point x="96" y="229"/>
+			<point x="76" y="116"/>
+			<point x="76" y="0" type="curve"/>
+			<point x="224" y="0" type="line"/>
+			<point x="224" y="213"/>
+			<point x="296" y="406"/>
+			<point x="400" y="406" type="curve"/>
+			<point x="469" y="406"/>
+			<point x="512" y="356"/>
+			<point x="512" y="200" type="curve"/>
+			<point x="512" y="191"/>
+			<point x="511" y="182"/>
+			<point x="510" y="172" type="curve"/>
+			<point x="458" y="172"/>
+			<point x="396" y="167"/>
+			<point x="350" y="162" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 172</string>
+							<string>hstem 406 174</string>
+							<string>vstem 76 148</string>
+							<string>vstem 512 152</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>0b9f9ceaeb27a516f7d7e1b0ffa143b2015a50bc82df7f5598f9b0001813f9b31f83bcd1c0f6642db03f690bc67d3db8d212f5c921a6e930573dfb15913acd76</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

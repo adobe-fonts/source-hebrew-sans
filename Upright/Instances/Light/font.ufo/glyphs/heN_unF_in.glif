@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heNunFin" format="2">
+	<unicode hex="05DF"/>
+	<advance width="285"/>
+	<outline>
+		<contour>
+			<point x="146" y="-200" type="line"/>
+			<point x="186" y="-200" type="line"/>
+			<point x="186" y="388" type="line" smooth="yes"/>
+			<point x="186" y="514"/>
+			<point x="139" y="548"/>
+			<point x="45" y="548" type="curve" smooth="yes"/>
+			<point x="5" y="548" type="line"/>
+			<point x="5" y="504" type="line"/>
+			<point x="32" y="504" type="line" smooth="yes"/>
+			<point x="109" y="504"/>
+			<point x="146" y="483"/>
+			<point x="146" y="375" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

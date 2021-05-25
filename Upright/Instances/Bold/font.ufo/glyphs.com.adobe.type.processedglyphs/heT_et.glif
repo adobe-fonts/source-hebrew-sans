@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heTet" format="2">
+	<unicode hex="05D8"/>
+	<advance width="646"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="320" y="-12" type="curve"/>
+			<point x="480" y="-12"/>
+			<point x="596" y="129"/>
+			<point x="596" y="363" type="curve"/>
+			<point x="596" y="505"/>
+			<point x="548" y="564"/>
+			<point x="409" y="564" type="curve"/>
+			<point x="330" y="564" type="line"/>
+			<point x="330" y="417" type="line"/>
+			<point x="372" y="417" type="line"/>
+			<point x="443" y="417"/>
+			<point x="470" y="391"/>
+			<point x="470" y="330" type="curve"/>
+			<point x="470" y="210"/>
+			<point x="408" y="139"/>
+			<point x="334" y="139" type="curve"/>
+			<point x="257" y="139"/>
+			<point x="208" y="188"/>
+			<point x="208" y="319" type="curve"/>
+			<point x="208" y="407" type="line"/>
+			<point x="208" y="529"/>
+			<point x="148" y="564"/>
+			<point x="46" y="564" type="curve"/>
+			<point x="8" y="564" type="line"/>
+			<point x="8" y="417" type="line"/>
+			<point x="19" y="417" type="line"/>
+			<point x="64" y="417"/>
+			<point x="81" y="408"/>
+			<point x="81" y="338" type="curve"/>
+			<point x="81" y="266" type="line"/>
+			<point x="81" y="75"/>
+			<point x="180" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 151</string>
+							<string>hstem 417 147</string>
+							<string>vstem 81 127</string>
+							<string>vstem 470 126</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>3d912d9bf2cc4b7800ba16269561244fc7c407fbced6812d1d124d3058f29bccab1fd1c399f21a24adbcf847faa9a91135493e54a17baf32efc01ddcfa7853c7</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

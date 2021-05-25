@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnHe" format="2">
+	<advance width="456"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="46" y="0" type="line"/>
+			<point x="328" y="0" type="line"/>
+			<point x="328" y="-120" type="line"/>
+			<point x="356" y="-120" type="line"/>
+			<point x="356" y="510" type="line"/>
+			<point x="56" y="510" type="line"/>
+			<point x="56" y="480" type="line"/>
+			<point x="328" y="480" type="line"/>
+			<point x="328" y="288" type="line"/>
+			<point x="98" y="288" type="line"/>
+			<point x="98" y="258" type="line"/>
+			<point x="328" y="258" type="line"/>
+			<point x="328" y="30" type="line"/>
+			<point x="46" y="30" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 30</string>
+							<string>hstem 258 30</string>
+							<string>hstem 480 30</string>
+							<string>vstem 328 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w456l460l3280l328-120l356-120l356510l56510l56480l328480l328288l98288l98258l328258l32830l4630</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

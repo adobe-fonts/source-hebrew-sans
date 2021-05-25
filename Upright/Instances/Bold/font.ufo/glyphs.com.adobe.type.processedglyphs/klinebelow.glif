@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="klinebelow" format="2">
+	<unicode hex="1E35"/>
+	<advance width="548"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="65" y="0" type="line"/>
+			<point x="208" y="0" type="line"/>
+			<point x="208" y="122" type="line"/>
+			<point x="271" y="193" type="line"/>
+			<point x="383" y="0" type="line"/>
+			<point x="542" y="0" type="line"/>
+			<point x="355" y="292" type="line"/>
+			<point x="529" y="496" type="line"/>
+			<point x="369" y="496" type="line"/>
+			<point x="212" y="299" type="line"/>
+			<point x="208" y="299" type="line"/>
+			<point x="208" y="701" type="line"/>
+			<point x="65" y="701" type="line"/>
+		</contour>
+		<contour>
+			<point name="hintSet0013" x="147" y="-188" type="line"/>
+			<point x="443" y="-188" type="line"/>
+			<point x="443" y="-95" type="line"/>
+			<point x="147" y="-95" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -188 93</string>
+							<string>hstem 21 -21</string>
+							<string>hstem 496 -20</string>
+							<string>hstem 701 -20</string>
+							<string>vstem 65 143</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0013</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -188 93</string>
+							<string>hstem 21 -21</string>
+							<string>hstem 496 -20</string>
+							<string>hstem 701 -20</string>
+							<string>vstem 147 61</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w548l650l2080l208122l271193l3830l5420l355292l529496l369496l212299l208299l208701l65701l147-188l443-188l443-95l147-95</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heTav" format="2">
+	<unicode hex="05EA"/>
+	<advance width="758"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="554" y="0" type="line"/>
+			<point x="681" y="0" type="line"/>
+			<point x="681" y="352" type="line"/>
+			<point x="681" y="506"/>
+			<point x="599" y="564"/>
+			<point x="480" y="564" type="curve"/>
+			<point x="90" y="564" type="line"/>
+			<point x="90" y="417" type="line"/>
+			<point x="160" y="417" type="line"/>
+			<point x="156" y="392"/>
+			<point x="154" y="364"/>
+			<point x="154" y="334" type="curve"/>
+			<point x="154" y="283"/>
+			<point x="160" y="223"/>
+			<point x="172" y="147" type="curve"/>
+			<point x="54" y="147" type="line"/>
+			<point x="54" y="0" type="line"/>
+			<point x="312" y="0" type="line"/>
+			<point x="295" y="130"/>
+			<point x="280" y="240"/>
+			<point x="280" y="332" type="curve"/>
+			<point x="280" y="362"/>
+			<point x="282" y="391"/>
+			<point x="286" y="417" type="curve"/>
+			<point x="420" y="417" type="line"/>
+			<point x="502" y="417"/>
+			<point x="554" y="387"/>
+			<point x="554" y="283" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 147</string>
+							<string>hstem 417 147</string>
+							<string>vstem 154 126</string>
+							<string>vstem 554 127</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>cf35cecd6edfde4f9170a90df8a422ebb20acd488874f3221b3b276d4435c0f22a9a7fd7a0afddb36d8246b6f5e3fd83d7d3aee5bddf256a4e81550ff588eb81</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
