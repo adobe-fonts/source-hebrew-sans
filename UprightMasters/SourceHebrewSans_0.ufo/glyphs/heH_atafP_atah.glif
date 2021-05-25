@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="heHatafPatah" format="1">
-  <advance width="540"/>
-  <unicode hex="05B2"/>
-  <outline>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+<glyph name="heHatafPatah" format="2">
+	<unicode hex="05B2"/>
+	<advance width="540"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8,1,0.4,1</string>
+		</dict>
+	</lib>
 </glyph>

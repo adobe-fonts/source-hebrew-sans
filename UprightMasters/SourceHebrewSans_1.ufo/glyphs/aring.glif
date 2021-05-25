@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aring" format="1">
-  <advance width="536"/>
-  <unicode hex="00E5"/>
-  <outline>
-    <component base="a"/>
-    <component base="ringcmb" xOffset="290"/>
-    <contour>
-      <point x="370" y="0" type="move" name="ogonekLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.7941176471</real>
-        <real>0.3</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
+<glyph name="aring" format="2">
+	<unicode hex="00E5"/>
+	<advance width="536"/>
+	<outline>
+		<component base="a"/>
+		<component base="ringcmb" xOffset="290"/>
+	</outline>
+	<anchor name="ogonekLC" x="370" y="0"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.79412,0.3,1,1</string>
+		</dict>
+	</lib>
 </glyph>

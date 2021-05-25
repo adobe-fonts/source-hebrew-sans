@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Edotbelow" format="1">
-  <advance width="510"/>
-  <unicode hex="1EB8"/>
-  <outline>
-    <component base="E"/>
-    <component base="dotbelowcmb" xOffset="290"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.7941176471</real>
-        <real>0.3</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
+<glyph name="Edotbelow" format="2">
+	<unicode hex="1EB8"/>
+	<advance width="510"/>
+	<outline>
+		<component base="E"/>
+		<component base="dotbelowcmb" xOffset="290"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.79412,0.3,1,1</string>
+		</dict>
+	</lib>
 </glyph>

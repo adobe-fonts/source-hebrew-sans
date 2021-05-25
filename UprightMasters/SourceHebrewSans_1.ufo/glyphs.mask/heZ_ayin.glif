@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heZayin" format="2">
+	<advance width="432"/>
+	<outline>
+		<contour>
+			<point x="294" y="517" type="curve"/>
+			<point x="300" y="547" type="line"/>
+			<point x="205" y="547"/>
+			<point x="104" y="548"/>
+			<point x="36" y="558" type="curve"/>
+			<point x="30" y="528" type="line"/>
+			<point x="99" y="518"/>
+			<point x="198" y="517"/>
+		</contour>
+		<contour>
+			<point x="234" y="0" type="line"/>
+			<point x="190" y="244" type="line" smooth="yes"/>
+			<point x="177" y="314"/>
+			<point x="170" y="372"/>
+			<point x="170" y="416" type="curve" smooth="yes"/>
+			<point x="170" y="470"/>
+			<point x="182" y="502"/>
+			<point x="210" y="518" type="curve"/>
+			<point x="180" y="518" type="line"/>
+			<point x="154" y="502"/>
+			<point x="142" y="468"/>
+			<point x="142" y="412" type="curve" smooth="yes"/>
+			<point x="142" y="370"/>
+			<point x="147" y="314"/>
+			<point x="160" y="244" type="curve" smooth="yes"/>
+			<point x="204" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="384" y="416" type="curve"/>
+			<point x="420" y="570" type="line"/>
+			<point x="285" y="570"/>
+			<point x="141" y="566"/>
+			<point x="46" y="580" type="curve"/>
+			<point x="10" y="426" type="line"/>
+			<point x="108" y="412"/>
+			<point x="248" y="416"/>
+		</contour>
+		<contour>
+			<point x="184" y="0" type="line"/>
+			<point x="334" y="0" type="line"/>
+			<point x="308" y="142" type="line" smooth="yes"/>
+			<point x="294" y="216"/>
+			<point x="278" y="270"/>
+			<point x="278" y="314" type="curve" smooth="yes"/>
+			<point x="278" y="370"/>
+			<point x="289" y="405"/>
+			<point x="316" y="420" type="curve"/>
+			<point x="166" y="420" type="line"/>
+			<point x="141" y="405"/>
+			<point x="130" y="368"/>
+			<point x="130" y="310" type="curve" smooth="yes"/>
+			<point x="130" y="268"/>
+			<point x="144" y="216"/>
+			<point x="158" y="142" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

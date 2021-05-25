@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Vdotbelow" format="1">
-  <advance width="572"/>
-  <unicode hex="1E7E"/>
-  <outline>
-    <component base="V"/>
-    <component base="dotbelowcmb" xOffset="282"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+<glyph name="Vdotbelow" format="2">
+	<unicode hex="1E7E"/>
+	<advance width="572"/>
+	<outline>
+		<component base="V"/>
+		<component base="dotbelowcmb" xOffset="282"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8,1,0.4,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heGimel" format="2">
+	<advance width="460"/>
+	<outline>
+		<contour>
+			<point x="308" y="0" type="line"/>
+			<point x="274" y="426" type="line" smooth="yes"/>
+			<point x="268" y="514"/>
+			<point x="252" y="538"/>
+			<point x="194" y="546" type="curve" smooth="yes"/>
+			<point x="110" y="558" type="line"/>
+			<point x="104" y="528" type="line"/>
+			<point x="184" y="518" type="line" smooth="yes"/>
+			<point x="234" y="512"/>
+			<point x="242" y="491"/>
+			<point x="248" y="426" type="curve" smooth="yes"/>
+			<point x="280" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="286" y="159" type="curve"/>
+			<point x="276" y="178" type="line"/>
+			<point x="284" y="146"/>
+			<point x="160" y="30"/>
+			<point x="64" y="22" type="curve"/>
+			<point x="69" y="-8" type="line"/>
+			<point x="178" y="6"/>
+			<point x="291" y="120"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tildeoverlaycmb" format="1">
+<glyph name="tildeoverlaycmb" format="2">
 	<unicode hex="0334"/>
 	<outline>
 		<component base="tildecmb" yOffset="-384"/>
-		<contour>
-			<point name="_center" x="0" y="240" type="move"/>
-		</contour>
 	</outline>
+	<anchor name="_center" x="0" y="240"/>
 	<lib>
 		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>0.3</real>
-				<integer>1</integer>
-				<real>0.5470588235</real>
-				<integer>1</integer>
-			</array>
+			<key>public.markColor</key>
+			<string>0.3,1,0.54706,1</string>
 		</dict>
 	</lib>
 </glyph>

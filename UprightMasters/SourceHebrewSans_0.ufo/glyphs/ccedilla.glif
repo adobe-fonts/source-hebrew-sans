@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ccedilla" format="1">
-  <advance width="446"/>
-  <unicode hex="00E7"/>
-  <outline>
-    <component base="c"/>
-    <component base="cedillacmb" xOffset="266"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.7941176471</real>
-        <real>0.3</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
+<glyph name="ccedilla" format="2">
+	<unicode hex="00E7"/>
+	<advance width="446"/>
+	<outline>
+		<component base="c"/>
+		<component base="cedillacmb" xOffset="266"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.79412,0.3,1,1</string>
+		</dict>
+	</lib>
 </glyph>

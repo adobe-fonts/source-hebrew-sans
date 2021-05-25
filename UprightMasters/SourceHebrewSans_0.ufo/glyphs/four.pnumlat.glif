@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="four.pnumlat" format="1">
+<glyph name="four.pnumlat" format="2">
 	<advance width="486"/>
 	<outline>
 		<component base="four" xOffset="16"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>0.3</real>
-				<integer>1</integer>
-				<real>0.5470588235</real>
-				<integer>1</integer>
-			</array>
+			<key>public.markColor</key>
+			<string>0.3,1,0.54706,1</string>
 		</dict>
 	</lib>
 </glyph>

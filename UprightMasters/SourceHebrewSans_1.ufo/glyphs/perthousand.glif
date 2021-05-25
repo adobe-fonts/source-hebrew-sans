@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="perthousand" format="1">
-  <advance width="1240"/>
-  <unicode hex="2030"/>
-  <outline>
-    <component base="fraction"/>
-    <component base="zero.dnom" xOffset="100"/>
-    <component base="zero.dnom" xOffset="480"/>
-    <component base="zero.dnom" xOffset="860"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+<glyph name="perthousand" format="2">
+	<unicode hex="2030"/>
+	<advance width="1240"/>
+	<outline>
+		<component base="fraction"/>
+		<component base="zero.dnom" xOffset="100"/>
+		<component base="zero.dnom" xOffset="480"/>
+		<component base="zero.dnom" xOffset="860"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
 </glyph>

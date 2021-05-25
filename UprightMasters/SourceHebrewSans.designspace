@@ -1,59 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <designspace format="3">
+	<axes>
+		<axis default="0.0" maximum="1000.0" minimum="0.0" name="weight" tag="wght"/>
+	</axes>
 	<sources>
 		<source filename="SourceHebrewSans_0.ufo" name="master_0">
 			<lib copy="1"/>
 			<groups copy="1"/>
 			<info copy="1"/>
 			<location>
-				<dimension name="weight" xvalue="0.000000"/>
+				<dimension name="weight" xvalue="0"/>
 			</location>
 		</source>
 		<source filename="SourceHebrewSans_1.ufo" name="master_1">
 			<location>
-				<dimension name="weight" xvalue="1000.000000"/>
+				<dimension name="weight" xvalue="1000"/>
 			</location>
 		</source>
 	</sources>
 	<instances>
 		<instance familyname="Source Hebrew Sans" filename="../Upright/ExtraLight/font.ufo" postscriptfontname="SourceHebrewSans-ExtraLight" stylename="ExtraLight">
 			<location>
-				<dimension name="weight" xvalue="0.000000"/>
+				<dimension name="weight" xvalue="0"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
 		<instance familyname="Source Hebrew Sans" filename="../Upright/Light/font.ufo" postscriptfontname="SourceHebrewSans-Light" stylename="Light">
 			<location>
-				<dimension name="weight" xvalue="100.000000"/>
+				<dimension name="weight" xvalue="100"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
 		<instance familyname="Source Hebrew Sans" filename="../Upright/Regular/font.ufo" postscriptfontname="SourceHebrewSans-Regular" stylename="Regular">
 			<location>
-				<dimension name="weight" xvalue="368.000000"/>
+				<dimension name="weight" xvalue="368"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
 		<instance familyname="Source Hebrew Sans" filename="../Upright/Semibold/font.ufo" postscriptfontname="SourceHebrewSans-Semibold" stylename="Semibold">
 			<location>
-				<dimension name="weight" xvalue="600.000000"/>
+				<dimension name="weight" xvalue="600"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
 		<instance familyname="Source Hebrew Sans" filename="../Upright/Bold/font.ufo" postscriptfontname="SourceHebrewSans-Bold" stylename="Bold">
 			<location>
-				<dimension name="weight" xvalue="824.000000"/>
+				<dimension name="weight" xvalue="824"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
 		<instance familyname="Source Hebrew Sans" filename="../Upright/Black/font.ufo" postscriptfontname="SourceHebrewSans-Black" stylename="Black">
 			<location>
-				<dimension name="weight" xvalue="1000.000000"/>
+				<dimension name="weight" xvalue="1000"/>
 			</location>
 			<kerning/>
 			<info/>

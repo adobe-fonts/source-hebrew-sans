@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="heShinDotted" format="1">
+<glyph name="heShinDotted" format="2">
 	<advance width="540"/>
 	<lib>
 		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>0.8</real>
-				<real>1</real>
-				<real>0.4</real>
-				<real>1</real>
-			</array>
+			<key>public.markColor</key>
+			<string>0.8,1,0.4,1</string>
 		</dict>
 	</lib>
 </glyph>

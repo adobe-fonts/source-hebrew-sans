@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Eth" format="1">
-  <advance width="620"/>
-  <unicode hex="00D0"/>
-  <outline>
-    <contour>
-      <point x="38" y="336" type="line"/>
-      <point x="320" y="336" type="line"/>
-      <point x="320" y="364" type="line"/>
-      <point x="122" y="364" type="line"/>
-      <point x="38" y="362" type="line"/>
-    </contour>
-    <component base="D" xOffset="20"/>
-    <contour>
-      <point x="310" y="680" type="move" name="aboveUC"/>
-    </contour>
-    <contour>
-      <point x="310" y="-20" type="move" name="belowLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+<glyph name="Eth" format="2">
+	<unicode hex="00D0"/>
+	<advance width="620"/>
+	<outline>
+		<contour>
+			<point x="38" y="336" type="line"/>
+			<point x="320" y="336" type="line"/>
+			<point x="320" y="364" type="line"/>
+			<point x="122" y="364" type="line"/>
+			<point x="38" y="362" type="line"/>
+		</contour>
+		<component base="D" xOffset="20"/>
+	</outline>
+	<anchor name="aboveUC" x="310" y="680"/>
+	<anchor name="belowLC" x="310" y="-20"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8,0.8,0.6,1</string>
+		</dict>
+	</lib>
 </glyph>

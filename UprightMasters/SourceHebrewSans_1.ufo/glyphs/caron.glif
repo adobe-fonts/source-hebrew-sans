@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron" format="1">
-  <advance width="560"/>
-  <unicode hex="02C7"/>
-  <outline>
-    <component base="caroncmb" xOffset="280"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.3</real>
-        <real>0.6294117647</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
+<glyph name="caron" format="2">
+	<unicode hex="02C7"/>
+	<advance width="560"/>
+	<outline>
+		<component base="caroncmb" xOffset="280"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.3,0.62941,1,1</string>
+		</dict>
+	</lib>
 </glyph>

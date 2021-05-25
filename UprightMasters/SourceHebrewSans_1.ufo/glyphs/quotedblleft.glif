@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotedblleft" format="1">
-  <advance width="580"/>
-  <unicode hex="201C"/>
-  <outline>
-    <component base="quoteleft"/>
-    <component base="quoteleft" xOffset="260"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.3</real>
-        <real>0.6294117647</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
+<glyph name="quotedblleft" format="2">
+	<unicode hex="201C"/>
+	<advance width="580"/>
+	<outline>
+		<component base="quoteleft"/>
+		<component base="quoteleft" xOffset="260"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.3,0.62941,1,1</string>
+		</dict>
+	</lib>
 </glyph>

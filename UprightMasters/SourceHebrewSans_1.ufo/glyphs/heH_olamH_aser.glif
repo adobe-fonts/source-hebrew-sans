@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="heHolamHaser" format="1">
-  <advance width="540"/>
-  <unicode hex="05BA"/>
-  <outline>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+<glyph name="heHolamHaser" format="2">
+	<unicode hex="05BA"/>
+	<advance width="540"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.8,1,0.4,1</string>
+		</dict>
+	</lib>
 </glyph>

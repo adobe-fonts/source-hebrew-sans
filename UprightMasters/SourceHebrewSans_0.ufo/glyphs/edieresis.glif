@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="edieresis" format="1">
-  <advance width="478"/>
-  <unicode hex="00EB"/>
-  <outline>
-    <component base="e"/>
-    <component base="dieresiscmb" xOffset="260"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.7941176471</real>
-        <real>0.3</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
+<glyph name="edieresis" format="2">
+	<unicode hex="00EB"/>
+	<advance width="478"/>
+	<outline>
+		<component base="e"/>
+		<component base="dieresiscmb" xOffset="260"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.79412,0.3,1,1</string>
+		</dict>
+	</lib>
 </glyph>
