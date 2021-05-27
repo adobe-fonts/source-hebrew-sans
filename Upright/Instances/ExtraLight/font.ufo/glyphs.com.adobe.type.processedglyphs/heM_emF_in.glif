@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heMemFin" format="2">
 	<unicode hex="05DD"/>
-	<advance width="656"/>
+	<advance width="636"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="114" y="0" type="line"/>
-			<point x="554" y="0" type="line"/>
-			<point x="554" y="350" type="line"/>
-			<point x="554" y="494"/>
-			<point x="485" y="546"/>
-			<point x="378" y="546" type="curve"/>
+			<point x="534" y="0" type="line"/>
+			<point x="534" y="350" type="line"/>
+			<point x="534" y="494"/>
+			<point x="465" y="546"/>
+			<point x="358" y="546" type="curve"/>
 			<point x="34" y="546" type="line"/>
 			<point x="34" y="516" type="line"/>
 			<point x="120" y="516" type="line"/>
@@ -18,12 +18,12 @@
 			<point x="114" y="426" type="curve"/>
 		</contour>
 		<contour>
-			<point x="372" y="516" type="line"/>
-			<point x="466" y="516"/>
-			<point x="526" y="475"/>
-			<point x="526" y="344" type="curve"/>
-			<point x="526" y="30" type="line"/>
-			<point x="142" y="30" type="line"/>
+			<point x="352" y="516" type="line"/>
+			<point x="446" y="516"/>
+			<point x="506" y="475"/>
+			<point x="506" y="344" type="curve"/>
+			<point x="506" y="28" type="line"/>
+			<point x="142" y="28" type="line"/>
 			<point x="142" y="516" type="line"/>
 		</contour>
 	</outline>
@@ -38,15 +38,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 30</string>
+							<string>hstem 0 28</string>
 							<string>hstem 516 30</string>
 							<string>vstem 114 28</string>
-							<string>vstem 526 28</string>
+							<string>vstem 506 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w656l1140l5540l554350554494485546c378546l34546l34516l120516114490114462c114426l372516466516526475c526344l52630l14230l142516</string>
+				<string>w636l1140l5340l534350534494465546c358546l34546l34516l120516114490114462c114426l352516446516506475c506344l50628l14228l142516</string>
 			</dict>
 		</dict>
 	</lib>

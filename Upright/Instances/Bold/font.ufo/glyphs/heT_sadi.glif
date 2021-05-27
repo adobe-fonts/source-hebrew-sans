@@ -1,41 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heTsadi" format="2">
 	<unicode hex="05E6"/>
-	<advance width="679"/>
+	<advance width="588"/>
 	<outline>
 		<contour>
 			<point x="45" y="0" type="line"/>
-			<point x="571" y="0" type="line"/>
-			<point x="596" y="147" type="line"/>
-			<point x="45" y="147" type="line"/>
+			<point x="533" y="0" type="line"/>
+			<point x="559" y="140" type="line"/>
+			<point x="45" y="140" type="line"/>
 		</contour>
 		<contour>
-			<point x="485" y="68" type="curve"/>
-			<point x="596" y="147" type="line"/>
-			<point x="379" y="244"/>
-			<point x="258" y="373"/>
+			<point x="448" y="74" type="curve"/>
+			<point x="559" y="140" type="line"/>
+			<point x="358" y="230"/>
+			<point x="221" y="378"/>
 			<point x="138" y="566" type="curve"/>
-			<point x="26" y="488" type="line"/>
-			<point x="147" y="289"/>
-			<point x="273" y="157"/>
+			<point x="26" y="489" type="line"/>
+			<point x="109" y="299"/>
+			<point x="253" y="159"/>
 		</contour>
 		<contour>
-			<point x="464" y="217" type="line"/>
-			<point x="559" y="298"/>
-			<point x="592" y="357"/>
-			<point x="592" y="420" type="curve" smooth="yes"/>
-			<point x="592" y="521"/>
-			<point x="544" y="564"/>
-			<point x="428" y="564" type="curve" smooth="yes"/>
-			<point x="340" y="564" type="line"/>
-			<point x="340" y="417" type="line"/>
-			<point x="373" y="417" type="line" smooth="yes"/>
-			<point x="443" y="417"/>
-			<point x="465" y="399"/>
-			<point x="465" y="363" type="curve" smooth="yes"/>
-			<point x="465" y="334"/>
-			<point x="442" y="306"/>
-			<point x="353" y="258" type="curve"/>
+			<point x="426" y="200" type="line"/>
+			<point x="524" y="285"/>
+			<point x="554" y="352"/>
+			<point x="554" y="420" type="curve" smooth="yes"/>
+			<point x="554" y="521"/>
+			<point x="506" y="564"/>
+			<point x="390" y="564" type="curve" smooth="yes"/>
+			<point x="302" y="564" type="line"/>
+			<point x="302" y="417" type="line"/>
+			<point x="335" y="417" type="line" smooth="yes"/>
+			<point x="405" y="417"/>
+			<point x="428" y="399"/>
+			<point x="428" y="363" type="curve" smooth="yes"/>
+			<point x="428" y="334"/>
+			<point x="404" y="306"/>
+			<point x="315" y="258" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="242" y="541"/>
+	<anchor name="belowPrimaryHE" x="252" y="-30"/>
+	<anchor name="centerHE" x="94" y="224"/>
+	<anchor name="aboveLeftHE" x="-5" y="541"/>
 </glyph>

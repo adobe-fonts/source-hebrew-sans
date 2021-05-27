@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heBet" format="2">
 	<unicode hex="05D1"/>
-	<advance width="590"/>
+	<advance width="560"/>
 	<outline>
 		<contour>
-			<point x="54" y="0" type="line"/>
-			<point x="556" y="0" type="line"/>
-			<point x="556" y="172" type="line"/>
-			<point x="54" y="172" type="line"/>
+			<point x="44" y="0" type="line"/>
+			<point x="526" y="0" type="line"/>
+			<point x="526" y="166" type="line"/>
+			<point x="44" y="166" type="line"/>
 		</contour>
 		<contour>
-			<point x="494" y="0" type="line"/>
-			<point x="506" y="102"/>
-			<point x="514" y="190"/>
-			<point x="514" y="302" type="curve" smooth="yes"/>
-			<point x="514" y="486"/>
-			<point x="436" y="568"/>
-			<point x="278" y="568" type="curve" smooth="yes"/>
-			<point x="72" y="568" type="line"/>
-			<point x="72" y="396" type="line"/>
-			<point x="198" y="396" type="line" smooth="yes"/>
-			<point x="328" y="396"/>
-			<point x="366" y="344"/>
-			<point x="366" y="200" type="curve" smooth="yes"/>
-			<point x="366" y="190"/>
-			<point x="365" y="182"/>
-			<point x="364" y="172" type="curve"/>
+			<point x="464" y="0" type="line"/>
+			<point x="476" y="102"/>
+			<point x="484" y="190"/>
+			<point x="484" y="302" type="curve" smooth="yes"/>
+			<point x="484" y="486"/>
+			<point x="406" y="568"/>
+			<point x="248" y="568" type="curve" smooth="yes"/>
+			<point x="62" y="568" type="line"/>
+			<point x="62" y="396" type="line"/>
+			<point x="168" y="396" type="line" smooth="yes"/>
+			<point x="298" y="396"/>
+			<point x="336" y="344"/>
+			<point x="336" y="200" type="curve" smooth="yes"/>
+			<point x="336" y="188"/>
+			<point x="335" y="178"/>
+			<point x="334" y="166" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="230" y="530"/>
-	<anchor name="belowPrimaryHE" x="205" y="-30"/>
-	<anchor name="centerHE" x="190" y="250"/>
-	<anchor name="aboveLeftHE" x="5" y="530"/>
+	<anchor name="aboveHE" x="220" y="530"/>
+	<anchor name="belowPrimaryHE" x="195" y="-30"/>
+	<anchor name="centerHE" x="180" y="250"/>
+	<anchor name="aboveLeftHE" x="-5" y="530"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

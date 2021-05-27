@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heMeteg" format="2">
+	<unicode hex="05BD"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="-18" y="-269" type="line"/>
+			<point x="18" y="-269" type="line"/>
+			<point x="18" y="-86" type="line"/>
+			<point x="-18" y="-86" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-23" y="-30"/>
+	<anchor name="_belowRightHE" x="23" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -269 183</string>
+							<string>vstem -18 36</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l-18-269l18-269l18-86l-18-86</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

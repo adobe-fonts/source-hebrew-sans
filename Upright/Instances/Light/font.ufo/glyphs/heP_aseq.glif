@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePaseq" format="2">
 	<unicode hex="05C0"/>
-	<advance width="540"/>
+	<advance width="265"/>
+	<outline>
+		<contour>
+			<point x="100" y="-106" type="line"/>
+			<point x="152" y="-106" type="line"/>
+			<point x="152" y="660" type="line"/>
+			<point x="100" y="661" type="line"/>
+		</contour>
+	</outline>
 </glyph>

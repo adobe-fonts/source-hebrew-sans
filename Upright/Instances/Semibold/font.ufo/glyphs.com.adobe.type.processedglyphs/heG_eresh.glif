@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heGeresh" format="2">
+	<unicode hex="05F3"/>
+	<advance width="253"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="39" y="352" type="line"/>
+			<point x="119" y="356" type="line"/>
+			<point x="224" y="603" type="line"/>
+			<point x="113" y="597" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 352 251</string>
+							<string>vstem 39 185</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w253l39352l119356l224603l113597</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

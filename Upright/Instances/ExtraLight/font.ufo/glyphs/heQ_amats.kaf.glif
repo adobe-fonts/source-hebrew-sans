@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQamats.kaf" format="2">
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="75" y="-89" type="line"/>
+			<point x="-76" y="-89" type="line"/>
+			<point x="-76" y="-128" type="line"/>
+			<point x="-16" y="-128" type="line"/>
+			<point x="-24" y="-215" type="line"/>
+			<point x="24" y="-215" type="line"/>
+			<point x="16" y="-128" type="line"/>
+			<point x="75" y="-128" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_centerSecondaryHE" x="0" y="-30"/>
 </glyph>

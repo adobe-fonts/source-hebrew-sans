@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heLamed" format="2">
 	<unicode hex="05DC"/>
-	<advance width="472"/>
+	<advance width="456"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="112" y="-12" type="line"/>
-			<point x="352" y="104"/>
-			<point x="414" y="262"/>
-			<point x="414" y="396" type="curve"/>
-			<point x="414" y="500"/>
-			<point x="374" y="546"/>
-			<point x="252" y="546" type="curve"/>
+			<point name="hintSet0000" x="102" y="-12" type="line"/>
+			<point x="336" y="104"/>
+			<point x="398" y="262"/>
+			<point x="398" y="396" type="curve"/>
+			<point x="398" y="500"/>
+			<point x="358" y="546"/>
+			<point x="236" y="546" type="curve"/>
 			<point x="76" y="546" type="line"/>
 			<point x="76" y="720" type="line"/>
 			<point x="48" y="720" type="line"/>
 			<point x="48" y="516" type="line"/>
-			<point x="246" y="516" type="line"/>
-			<point x="346" y="516"/>
-			<point x="386" y="490"/>
-			<point x="386" y="398" type="curve"/>
-			<point x="386" y="270"/>
-			<point x="336" y="130"/>
-			<point x="96" y="14" type="curve"/>
+			<point x="230" y="516" type="line"/>
+			<point x="330" y="516"/>
+			<point x="370" y="490"/>
+			<point x="370" y="398" type="curve"/>
+			<point x="370" y="270"/>
+			<point x="320" y="130"/>
+			<point x="86" y="14" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="200" y="590"/>
+	<anchor name="belowLeftHE" x="110" y="-30"/>
+	<anchor name="centerHE" x="160" y="315"/>
+	<anchor name="aboveLeftHE" x="-80" y="590"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -37,12 +41,12 @@
 						<array>
 							<string>hstem 516 30</string>
 							<string>vstem 48 28</string>
-							<string>vstem 386 28</string>
+							<string>vstem 370 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w472l112-12352104414262c414396414500374546c252546l76546l76720l48720l48516l246516346516386490c386398386270336130c9614</string>
+				<string>w456l102-12336104398262c398396398500358546c236546l76546l76720l48720l48516l230516330516370490c370398370270320130c8614</string>
 			</dict>
 		</dict>
 	</lib>

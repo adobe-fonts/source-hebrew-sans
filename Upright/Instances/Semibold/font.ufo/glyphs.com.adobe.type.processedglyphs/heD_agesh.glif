@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heDagesh" format="2">
+	<unicode hex="05BC"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="0" y="224" type="curve"/>
+			<point x="22" y="224"/>
+			<point x="40" y="239"/>
+			<point x="40" y="264" type="curve"/>
+			<point x="40" y="288"/>
+			<point x="22" y="304"/>
+			<point x="0" y="304" type="curve"/>
+			<point x="-22" y="304"/>
+			<point x="-40" y="288"/>
+			<point x="-40" y="264" type="curve"/>
+			<point x="-40" y="240"/>
+			<point x="-22" y="224"/>
+		</contour>
+	</outline>
+	<anchor name="_centerHE" x="0" y="264"/>
+	<anchor name="centerSecondaryHE" x="0" y="208"/>
+	<anchor name="_centerSecondaryHE" x="0" y="351"/>
+	<guideline y="285" identifier="znpAucETLd"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 224 80</string>
+							<string>vstem -40 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0c02242222440239c402644028822304c0304-22304-40288c-40264-40240-22224</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heHe" format="2">
 	<unicode hex="05D4"/>
-	<advance width="691"/>
+	<advance width="663"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="487" y="0" type="line"/>
-			<point x="614" y="0" type="line"/>
-			<point x="614" y="352" type="line"/>
-			<point x="614" y="506"/>
-			<point x="533" y="564"/>
-			<point x="413" y="564" type="curve"/>
-			<point x="61" y="564" type="line"/>
-			<point x="61" y="417" type="line"/>
-			<point x="353" y="417" type="line"/>
-			<point x="436" y="417"/>
-			<point x="487" y="387"/>
-			<point x="487" y="283" type="curve"/>
+			<point name="hintSet0000" x="459" y="0" type="line"/>
+			<point x="586" y="0" type="line"/>
+			<point x="586" y="352" type="line"/>
+			<point x="586" y="506"/>
+			<point x="505" y="564"/>
+			<point x="385" y="564" type="curve"/>
+			<point x="69" y="564" type="line"/>
+			<point x="69" y="417" type="line"/>
+			<point x="325" y="417" type="line"/>
+			<point x="407" y="417"/>
+			<point x="459" y="387"/>
+			<point x="459" y="283" type="curve"/>
 		</contour>
 		<contour>
-			<point x="106" y="0" type="line"/>
-			<point x="233" y="0" type="line"/>
-			<point x="233" y="320" type="line"/>
-			<point x="127" y="320" type="line"/>
-			<point x="114" y="279"/>
-			<point x="106" y="236"/>
-			<point x="106" y="180" type="curve"/>
+			<point x="98" y="0" type="line"/>
+			<point x="224" y="0" type="line"/>
+			<point x="224" y="320" type="line"/>
+			<point x="118" y="320" type="line"/>
+			<point x="106" y="279"/>
+			<point x="98" y="236"/>
+			<point x="98" y="180" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="266" y="541"/>
+	<anchor name="belowPrimaryHE" x="276" y="-30"/>
+	<anchor name="centerHE" x="276" y="201"/>
+	<anchor name="aboveLeftHE" x="-8" y="541"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -40,13 +44,13 @@
 						<array>
 							<string>hstem 0 320</string>
 							<string>hstem 417 147</string>
-							<string>vstem 106 127</string>
-							<string>vstem 487 127</string>
+							<string>vstem 98 126</string>
+							<string>vstem 459 127</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w691l4870l6140l614352614506533564c413564l61564l61417l353417436417487387c487283l1060l2330l233320l127320114279106236c106180</string>
+				<string>w663l4590l5860l586352586506505564c385564l69564l69417l325417407417459387c459283l980l2240l224320l11832010627998236c98180</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heGershayim" format="2">
+	<unicode hex="05F4"/>
+	<advance width="413"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="215" y="382" type="line"/>
+			<point x="279" y="385" type="line"/>
+			<point x="382" y="620" type="line"/>
+			<point x="292" y="614" type="line"/>
+		</contour>
+		<contour>
+			<point x="37" y="382" type="line"/>
+			<point x="102" y="385" type="line"/>
+			<point x="204" y="620" type="line"/>
+			<point x="114" y="614" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 382 238</string>
+							<string>vstem 37 345</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w413l215382l279385l382620l292614l37382l102385l204620l114614</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

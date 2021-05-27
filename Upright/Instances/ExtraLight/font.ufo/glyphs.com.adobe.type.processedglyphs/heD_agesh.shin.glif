@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heDagesh.shin" format="2">
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="0" y="320" type="curve"/>
+			<point x="-20" y="320"/>
+			<point x="-35" y="305"/>
+			<point x="-35" y="285" type="curve"/>
+			<point x="-35" y="265"/>
+			<point x="-20" y="250"/>
+			<point x="0" y="250" type="curve"/>
+			<point x="20" y="250"/>
+			<point x="35" y="265"/>
+			<point x="35" y="285" type="curve"/>
+			<point x="35" y="305"/>
+			<point x="20" y="320"/>
+		</contour>
+	</outline>
+	<anchor name="_centerHE" x="0" y="285"/>
+	<guideline y="285" identifier="0UuHlBomrk"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 250 70</string>
+							<string>vstem -35 70</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0c0320-20320-35305c-35285-35265-20250c02502025035265c352853530520320</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

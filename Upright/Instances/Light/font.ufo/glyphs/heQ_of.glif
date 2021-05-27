@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQof" format="2">
 	<unicode hex="05E7"/>
-	<advance width="588"/>
+	<advance width="557"/>
 	<outline>
 		<contour>
 			<point x="233" y="-12" type="line"/>
-			<point x="469" y="105"/>
-			<point x="532" y="262"/>
-			<point x="532" y="399" type="curve" smooth="yes"/>
-			<point x="532" y="503"/>
-			<point x="491" y="548"/>
-			<point x="365" y="548" type="curve" smooth="yes"/>
-			<point x="88" y="548" type="line"/>
-			<point x="88" y="504" type="line"/>
-			<point x="356" y="504" type="line" smooth="yes"/>
-			<point x="452" y="504"/>
-			<point x="490" y="480"/>
-			<point x="490" y="393" type="curve" smooth="yes"/>
-			<point x="490" y="271"/>
-			<point x="439" y="140"/>
+			<point x="443" y="100"/>
+			<point x="502" y="262"/>
+			<point x="502" y="399" type="curve" smooth="yes"/>
+			<point x="502" y="503"/>
+			<point x="460" y="548"/>
+			<point x="335" y="548" type="curve" smooth="yes"/>
+			<point x="91" y="548" type="line"/>
+			<point x="91" y="504" type="line"/>
+			<point x="326" y="504" type="line" smooth="yes"/>
+			<point x="421" y="504"/>
+			<point x="460" y="480"/>
+			<point x="460" y="393" type="curve" smooth="yes"/>
+			<point x="460" y="271"/>
+			<point x="412" y="136"/>
 			<point x="213" y="29" type="curve"/>
 		</contour>
 		<contour>
@@ -31,4 +31,9 @@
 			<point x="112" y="238" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="284" y="584"/>
+	<anchor name="belowLeftHE" x="229" y="-30"/>
+	<anchor name="centerHE" x="279" y="301"/>
+	<anchor name="aboveLeftHE" x="0" y="584"/>
+	<anchor name="belowLeftHECXT" x="296" y="-30"/>
 </glyph>

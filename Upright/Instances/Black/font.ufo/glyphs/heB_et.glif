@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heBet" format="2">
 	<unicode hex="05D1"/>
-	<advance width="610"/>
+	<advance width="560"/>
 	<outline>
 		<contour>
-			<point x="576" y="0" type="line"/>
-			<point x="576" y="172" type="line"/>
-			<point x="54" y="172" type="line"/>
-			<point x="54" y="0" type="line"/>
+			<point x="44" y="0" type="line"/>
+			<point x="526" y="0" type="line"/>
+			<point x="526" y="166" type="line"/>
+			<point x="44" y="166" type="line"/>
 		</contour>
 		<contour>
-			<point x="514" y="0" type="line"/>
-			<point x="526" y="102"/>
-			<point x="534" y="190"/>
-			<point x="534" y="302" type="curve" smooth="yes"/>
-			<point x="534" y="486"/>
-			<point x="438" y="568"/>
-			<point x="278" y="568" type="curve" smooth="yes"/>
-			<point x="74" y="568" type="line"/>
-			<point x="74" y="396" type="line"/>
-			<point x="198" y="396" type="line" smooth="yes"/>
-			<point x="332" y="396"/>
-			<point x="386" y="344"/>
-			<point x="386" y="200" type="curve" smooth="yes"/>
-			<point x="386" y="190"/>
-			<point x="385" y="182"/>
-			<point x="384" y="172" type="curve"/>
+			<point x="464" y="0" type="line"/>
+			<point x="476" y="102"/>
+			<point x="484" y="190"/>
+			<point x="484" y="302" type="curve" smooth="yes"/>
+			<point x="484" y="486"/>
+			<point x="406" y="568"/>
+			<point x="248" y="568" type="curve" smooth="yes"/>
+			<point x="62" y="568" type="line"/>
+			<point x="62" y="396" type="line"/>
+			<point x="168" y="396" type="line" smooth="yes"/>
+			<point x="298" y="396"/>
+			<point x="336" y="344"/>
+			<point x="336" y="200" type="curve" smooth="yes"/>
+			<point x="336" y="188"/>
+			<point x="335" y="178"/>
+			<point x="334" y="166" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="220" y="530"/>
+	<anchor name="belowPrimaryHE" x="195" y="-30"/>
+	<anchor name="centerHE" x="180" y="250"/>
+	<anchor name="aboveLeftHE" x="-5" y="530"/>
 </glyph>

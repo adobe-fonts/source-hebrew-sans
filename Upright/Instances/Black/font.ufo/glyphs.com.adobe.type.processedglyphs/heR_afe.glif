@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heRafe" format="2">
+	<unicode hex="05BF"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="-111" y="580" type="line"/>
+			<point x="111" y="580" type="line"/>
+			<point x="111" y="632" type="line"/>
+			<point x="-111" y="632" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_aboveHE" x="0" y="525"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 580 52</string>
+							<string>vstem -111 222</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l-111580l111580l111632l-111632</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

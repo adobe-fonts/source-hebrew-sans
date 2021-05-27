@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQof" format="2">
 	<unicode hex="05E7"/>
-	<advance width="580"/>
+	<advance width="548"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="220" y="-12" type="line"/>
-			<point x="460" y="104"/>
-			<point x="522" y="262"/>
-			<point x="522" y="396" type="curve"/>
-			<point x="522" y="500"/>
-			<point x="482" y="546"/>
-			<point x="360" y="546" type="curve"/>
+			<point x="432" y="100"/>
+			<point x="490" y="262"/>
+			<point x="490" y="396" type="curve"/>
+			<point x="490" y="500"/>
+			<point x="450" y="546"/>
+			<point x="328" y="546" type="curve"/>
 			<point x="94" y="546" type="line"/>
 			<point x="94" y="516" type="line"/>
-			<point x="354" y="516" type="line"/>
-			<point x="454" y="516"/>
-			<point x="494" y="490"/>
-			<point x="494" y="398" type="curve"/>
-			<point x="494" y="270"/>
-			<point x="444" y="130"/>
+			<point x="322" y="516" type="line"/>
+			<point x="422" y="516"/>
+			<point x="462" y="490"/>
+			<point x="462" y="398" type="curve"/>
+			<point x="462" y="270"/>
+			<point x="415" y="126"/>
 			<point x="204" y="14" type="curve"/>
 		</contour>
 		<contour>
@@ -31,6 +31,11 @@
 			<point x="114" y="246" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="285" y="590"/>
+	<anchor name="belowLeftHE" x="225" y="-30"/>
+	<anchor name="centerHE" x="280" y="305"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
+	<anchor name="belowLeftHECXT" x="290" y="-30"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -44,12 +49,12 @@
 						<array>
 							<string>hstem 516 30</string>
 							<string>vstem 114 28</string>
-							<string>vstem 494 28</string>
+							<string>vstem 462 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>45cbc10126f4f79a996324c6ca1e12d70795dbeea384c0dbe64eed6ba6bb8c8b28972d2fe0eac0af089b54c4d5c9ea8a29eae988f6d6dc8bfab9c7a71cd4a9dd</string>
+				<string>ef9819c18a0955a1693e9e2eae84ca4ee74d26831bfff98d34c7378cb3ba43227afd251b88111ba43eb33508014640ece0784d88c7ac561ef74ac8597090cca2</string>
 			</dict>
 		</dict>
 	</lib>

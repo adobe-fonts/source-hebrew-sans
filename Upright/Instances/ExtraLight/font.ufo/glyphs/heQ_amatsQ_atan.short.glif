@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQamatsQatan.short" format="2">
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="75" y="-89" type="line"/>
+			<point x="-77" y="-89" type="line"/>
+			<point x="-77" y="-128" type="line"/>
+			<point x="-17" y="-128" type="line"/>
+			<point x="-21" y="-295" type="line"/>
+			<point x="21" y="-295" type="line"/>
+			<point x="17" y="-128" type="line"/>
+			<point x="75" y="-128" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-75" y="-30"/>
+	<anchor name="_belowRightHE" x="75" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-135" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
 </glyph>

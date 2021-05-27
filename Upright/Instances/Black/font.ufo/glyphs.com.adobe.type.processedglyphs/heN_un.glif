@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heNun" format="2">
 	<unicode hex="05E0"/>
-	<advance width="472"/>
+	<advance width="452"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="54" y="0" type="line"/>
-			<point x="390" y="0" type="line"/>
-			<point x="390" y="372" type="line"/>
-			<point x="390" y="514"/>
-			<point x="314" y="568"/>
-			<point x="204" y="568" type="curve"/>
-			<point x="92" y="568" type="line"/>
-			<point x="92" y="396" type="line"/>
-			<point x="132" y="396" type="line"/>
-			<point x="200" y="396"/>
-			<point x="242" y="372"/>
-			<point x="242" y="290" type="curve"/>
-			<point x="242" y="172" type="line"/>
-			<point x="54" y="172" type="line"/>
+			<point name="hintSet0000" x="44" y="0" type="line"/>
+			<point x="380" y="0" type="line"/>
+			<point x="380" y="372" type="line"/>
+			<point x="380" y="514"/>
+			<point x="304" y="568"/>
+			<point x="194" y="568" type="curve"/>
+			<point x="82" y="568" type="line"/>
+			<point x="82" y="396" type="line"/>
+			<point x="122" y="396" type="line"/>
+			<point x="190" y="396"/>
+			<point x="232" y="372"/>
+			<point x="232" y="290" type="curve"/>
+			<point x="232" y="166" type="line"/>
+			<point x="44" y="166" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="180" y="530"/>
+	<anchor name="belowPrimaryHE" x="170" y="-30"/>
+	<anchor name="centerHE" x="115" y="245"/>
+	<anchor name="aboveLeftHE" x="15" y="530"/>
+	<anchor name="belowPrimaryHECXT" x="210" y="-30"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -31,14 +36,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 172</string>
+							<string>hstem 0 166</string>
 							<string>hstem 396 172</string>
-							<string>vstem 242 148</string>
+							<string>vstem 232 148</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w472l540l3900l390372390514314568c204568l92568l92396l132396200396242372c242290l242172l54172</string>
+				<string>w452l440l3800l380372380514304568c194568l82568l82396l122396190396232372c232290l232166l44166</string>
 			</dict>
 		</dict>
 	</lib>

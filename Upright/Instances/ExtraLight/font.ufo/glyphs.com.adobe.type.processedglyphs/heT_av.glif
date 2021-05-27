@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heTav" format="2">
 	<unicode hex="05EA"/>
-	<advance width="692"/>
+	<advance width="672"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="562" y="0" type="line"/>
-			<point x="590" y="0" type="line"/>
-			<point x="590" y="350" type="line"/>
-			<point x="590" y="494"/>
-			<point x="521" y="546"/>
-			<point x="414" y="546" type="curve"/>
-			<point x="78" y="546" type="line"/>
-			<point x="78" y="516" type="line"/>
+			<point name="hintSet0000" x="542" y="0" type="line"/>
+			<point x="570" y="0" type="line"/>
+			<point x="570" y="350" type="line"/>
+			<point x="570" y="494"/>
+			<point x="501" y="546"/>
+			<point x="394" y="546" type="curve"/>
+			<point x="94" y="546" type="line"/>
+			<point x="94" y="516" type="line"/>
 			<point x="181" y="516" type="line"/>
 			<point x="159" y="483"/>
 			<point x="142" y="414"/>
 			<point x="142" y="334" type="curve"/>
-			<point x="142" y="252"/>
-			<point x="158" y="150"/>
-			<point x="172" y="30" type="curve"/>
-			<point x="54" y="30" type="line"/>
+			<point x="142" y="251"/>
+			<point x="158" y="149"/>
+			<point x="172" y="28" type="curve"/>
+			<point x="54" y="28" type="line"/>
 			<point x="54" y="0" type="line"/>
 			<point x="202" y="0" type="line"/>
 			<point x="186" y="130"/>
@@ -28,10 +28,10 @@
 			<point x="170" y="411"/>
 			<point x="185" y="480"/>
 			<point x="209" y="516" type="curve"/>
-			<point x="408" y="516" type="line"/>
-			<point x="502" y="516"/>
-			<point x="562" y="475"/>
-			<point x="562" y="344" type="curve"/>
+			<point x="388" y="516" type="line"/>
+			<point x="482" y="516"/>
+			<point x="542" y="475"/>
+			<point x="542" y="344" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -45,15 +45,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 30</string>
+							<string>hstem 0 28</string>
 							<string>hstem 516 30</string>
 							<string>vstem 142 28</string>
-							<string>vstem 562 28</string>
+							<string>vstem 542 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>623412e692cbbdfe55e23f798064b8a63bacabe168360b28ffd57d3195813a38e27e6be9879750d9bc8c27f98821b061e722153980f1b67711b8d51ba27486ee</string>
+				<string>77124aa6d97a5cfa7f77d2ad06a940c26f0d200bd95f92f7b6989678f9dca351eddb4dfec9033ad7694ec80bee47ca5e975ed6a64e0164582a865436ad13b1c7</string>
 			</dict>
 		</dict>
 	</lib>

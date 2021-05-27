@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQamatsQatan" format="2">
 	<unicode hex="05C7"/>
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="-22" y="-296" type="line"/>
+			<point x="22" y="-296" type="line"/>
+			<point x="18" y="-128" type="line"/>
+			<point x="86" y="-128" type="line"/>
+			<point x="86" y="-88" type="line"/>
+			<point x="-88" y="-88" type="line"/>
+			<point x="-88" y="-128" type="line"/>
+			<point x="-18" y="-128" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-96" y="-30"/>
+	<anchor name="_belowRightHE" x="96" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-143" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<guideline y="46" identifier="0QQY0Nsl6b"/>
 </glyph>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heGimel" format="2">
 	<unicode hex="05D2"/>
-	<advance width="403"/>
+	<advance width="392"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="263" y="0" type="line"/>
-			<point x="335" y="0" type="line"/>
-			<point x="300" y="427" type="line"/>
-			<point x="294" y="510"/>
-			<point x="276" y="542"/>
-			<point x="213" y="551" type="curve"/>
-			<point x="107" y="566" type="line"/>
-			<point x="90" y="484" type="line"/>
-			<point x="170" y="474" type="line"/>
-			<point x="221" y="468"/>
-			<point x="228" y="452"/>
-			<point x="234" y="382" type="curve"/>
-			<point x="248" y="201" type="line"/>
-			<point x="227" y="132"/>
-			<point x="148" y="85"/>
-			<point x="61" y="78" type="curve"/>
-			<point x="47" y="-8" type="line"/>
-			<point x="142" y="-3"/>
-			<point x="225" y="56"/>
-			<point x="254" y="119" type="curve"/>
+			<point name="hintSet0000" x="255" y="0" type="line"/>
+			<point x="327" y="0" type="line"/>
+			<point x="293" y="419" type="line"/>
+			<point x="287" y="509"/>
+			<point x="263" y="554"/>
+			<point x="184" y="554" type="curve"/>
+			<point x="81" y="554" type="line"/>
+			<point x="81" y="472" type="line"/>
+			<point x="163" y="472" type="line"/>
+			<point x="210" y="472"/>
+			<point x="221" y="450"/>
+			<point x="227" y="382" type="curve"/>
+			<point x="240" y="200" type="line"/>
+			<point x="219" y="129"/>
+			<point x="139" y="83"/>
+			<point x="50" y="76" type="curve"/>
+			<point x="50" y="-8" type="line"/>
+			<point x="141" y="-3"/>
+			<point x="218" y="56"/>
+			<point x="246" y="118" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -37,13 +37,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -8 86</string>
-							<string>vstem 47 288</string>
+							<string>hstem -8 84</string>
+							<string>hstem 472 82</string>
+							<string>vstem 50 277</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w403l2630l3350l300427294510276542c213551l107566l90484l170474221468228452c234382l24820122713214885c6178l47-8142-322556c254119</string>
+				<string>w392l2550l3270l293419287509263554c184554l81554l81472l163472210472221450c227382l24020021912913983c5076l50-8141-321856c246118</string>
 			</dict>
 		</dict>
 	</lib>

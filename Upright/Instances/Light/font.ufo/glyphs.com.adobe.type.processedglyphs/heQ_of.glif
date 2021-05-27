@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQof" format="2">
 	<unicode hex="05E7"/>
-	<advance width="588"/>
+	<advance width="557"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="233" y="-12" type="line"/>
-			<point x="469" y="105"/>
-			<point x="532" y="262"/>
-			<point x="532" y="399" type="curve"/>
-			<point x="532" y="503"/>
-			<point x="491" y="548"/>
-			<point x="365" y="548" type="curve"/>
-			<point x="88" y="548" type="line"/>
-			<point x="88" y="504" type="line"/>
-			<point x="356" y="504" type="line"/>
-			<point x="452" y="504"/>
-			<point x="490" y="480"/>
-			<point x="490" y="393" type="curve"/>
-			<point x="490" y="271"/>
-			<point x="439" y="140"/>
+			<point x="443" y="100"/>
+			<point x="502" y="262"/>
+			<point x="502" y="399" type="curve"/>
+			<point x="502" y="503"/>
+			<point x="460" y="548"/>
+			<point x="335" y="548" type="curve"/>
+			<point x="91" y="548" type="line"/>
+			<point x="91" y="504" type="line"/>
+			<point x="326" y="504" type="line"/>
+			<point x="421" y="504"/>
+			<point x="460" y="480"/>
+			<point x="460" y="393" type="curve"/>
+			<point x="460" y="271"/>
+			<point x="412" y="136"/>
 			<point x="213" y="29" type="curve"/>
 		</contour>
 		<contour>
@@ -31,6 +31,11 @@
 			<point x="112" y="238" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="284" y="584"/>
+	<anchor name="belowLeftHE" x="229" y="-30"/>
+	<anchor name="centerHE" x="279" y="301"/>
+	<anchor name="aboveLeftHE" x="0" y="584"/>
+	<anchor name="belowLeftHECXT" x="296" y="-30"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -44,12 +49,12 @@
 						<array>
 							<string>hstem 504 44</string>
 							<string>vstem 112 40</string>
-							<string>vstem 490 42</string>
+							<string>vstem 460 42</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>6f766d2d282da631643ed2bd93b2ac57b4e78541e71f38bd600c6065ba8560d83b6f5fae3963f2469b9cf32d47028cb0d5c6a74d983b4f6b1d695fd26de2de0e</string>
+				<string>304ffc3c21b51b0a0c5dd4eab19348700393fd85e6b6d1cb52746ca8a36a2d0d5e1583e25dcc8c21e781a78d6d3ce154ba56ed4dd2bfad7e58e1c0adff59844a</string>
 			</dict>
 		</dict>
 	</lib>

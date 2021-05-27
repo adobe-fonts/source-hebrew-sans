@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heHolam" format="2">
 	<unicode hex="05B9"/>
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="0" y="612" type="curve" smooth="yes"/>
+			<point x="21" y="612"/>
+			<point x="38" y="627"/>
+			<point x="38" y="650" type="curve" smooth="yes"/>
+			<point x="38" y="672"/>
+			<point x="21" y="688"/>
+			<point x="0" y="688" type="curve" smooth="yes"/>
+			<point x="-21" y="688"/>
+			<point x="-38" y="672"/>
+			<point x="-38" y="650" type="curve" smooth="yes"/>
+			<point x="-38" y="627"/>
+			<point x="-21" y="612"/>
+		</contour>
+	</outline>
+	<anchor name="_aboveLeftHE" x="0" y="568"/>
 </glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heHolam" format="2">
+	<unicode hex="05B9"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="0" y="612" type="curve"/>
+			<point x="21" y="612"/>
+			<point x="38" y="627"/>
+			<point x="38" y="650" type="curve"/>
+			<point x="38" y="672"/>
+			<point x="21" y="688"/>
+			<point x="0" y="688" type="curve"/>
+			<point x="-21" y="688"/>
+			<point x="-38" y="672"/>
+			<point x="-38" y="650" type="curve"/>
+			<point x="-38" y="627"/>
+			<point x="-21" y="612"/>
+		</contour>
+	</outline>
+	<anchor name="_aboveLeftHE" x="0" y="568"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 612 76</string>
+							<string>vstem -38 76</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0c06122161238627c386503867221688c0688-21688-38672c-38650-38627-21612</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

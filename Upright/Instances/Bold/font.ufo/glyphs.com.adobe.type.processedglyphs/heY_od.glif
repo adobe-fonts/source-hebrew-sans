@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heYod" format="2">
 	<unicode hex="05D9"/>
-	<advance width="314"/>
+	<advance width="298"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="185" y="182" type="line"/>
@@ -22,6 +22,10 @@
 			<point x="78" y="231" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="121" y="541"/>
+	<anchor name="belowPrimaryHE" x="145" y="-30"/>
+	<anchor name="centerHE" x="29" y="298"/>
+	<anchor name="aboveLeftHE" x="-10" y="541"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -57,7 +61,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w314l185182232262265343c265404265516221564c92564l12564l12417l46417116417138397c138356138322110276c78231</string>
+				<string>w298l185182232262265343c265404265516221564c92564l12564l12417l46417116417138397c138356138322110276c78231</string>
 			</dict>
 		</dict>
 	</lib>

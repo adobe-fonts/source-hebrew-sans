@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePeFin" format="2">
 	<unicode hex="05E3"/>
-	<advance width="605"/>
+	<advance width="604"/>
 	<outline>
 		<contour>
-			<point x="531" y="-200" type="line"/>
-			<point x="531" y="352" type="line" smooth="yes"/>
-			<point x="531" y="506"/>
-			<point x="450" y="564"/>
-			<point x="331" y="564" type="curve" smooth="yes"/>
-			<point x="70" y="564" type="line"/>
-			<point x="70" y="417" type="line"/>
-			<point x="270" y="417" type="line" smooth="yes"/>
-			<point x="353" y="417"/>
-			<point x="404" y="387"/>
-			<point x="404" y="283" type="curve" smooth="yes"/>
-			<point x="404" y="-200" type="line"/>
+			<point x="530" y="-200" type="line"/>
+			<point x="530" y="352" type="line" smooth="yes"/>
+			<point x="530" y="506"/>
+			<point x="448" y="564"/>
+			<point x="329" y="564" type="curve" smooth="yes"/>
+			<point x="71" y="564" type="line"/>
+			<point x="71" y="417" type="line"/>
+			<point x="268" y="417" type="line" smooth="yes"/>
+			<point x="351" y="417"/>
+			<point x="403" y="387"/>
+			<point x="403" y="283" type="curve" smooth="yes"/>
+			<point x="403" y="-200" type="line"/>
 		</contour>
 		<contour>
 			<point x="247" y="172" type="curve" smooth="yes"/>
@@ -36,4 +36,8 @@
 			<point x="131" y="172"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="264" y="541"/>
+	<anchor name="belowRightHE" x="295" y="-30"/>
+	<anchor name="centerHE" x="287" y="169"/>
+	<anchor name="aboveLeftHE" x="16" y="541"/>
 </glyph>

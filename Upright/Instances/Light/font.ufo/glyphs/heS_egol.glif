@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heSegol" format="2">
 	<unicode hex="05B6"/>
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="-62" y="-156" type="curve" smooth="yes"/>
+			<point x="-41" y="-156"/>
+			<point x="-26" y="-140"/>
+			<point x="-26" y="-120" type="curve" smooth="yes"/>
+			<point x="-26" y="-99"/>
+			<point x="-41" y="-84"/>
+			<point x="-62" y="-84" type="curve" smooth="yes"/>
+			<point x="-82" y="-84"/>
+			<point x="-98" y="-99"/>
+			<point x="-98" y="-120" type="curve" smooth="yes"/>
+			<point x="-98" y="-140"/>
+			<point x="-82" y="-156"/>
+		</contour>
+		<contour>
+			<point x="62" y="-156" type="curve" smooth="yes"/>
+			<point x="82" y="-156"/>
+			<point x="97" y="-140"/>
+			<point x="97" y="-120" type="curve" smooth="yes"/>
+			<point x="97" y="-99"/>
+			<point x="82" y="-84"/>
+			<point x="62" y="-84" type="curve" smooth="yes"/>
+			<point x="41" y="-84"/>
+			<point x="26" y="-99"/>
+			<point x="26" y="-120" type="curve" smooth="yes"/>
+			<point x="26" y="-140"/>
+			<point x="41" y="-156"/>
+		</contour>
+		<contour>
+			<point x="0" y="-266" type="curve" smooth="yes"/>
+			<point x="20" y="-266"/>
+			<point x="36" y="-251"/>
+			<point x="36" y="-230" type="curve" smooth="yes"/>
+			<point x="36" y="-209"/>
+			<point x="20" y="-194"/>
+			<point x="0" y="-194" type="curve" smooth="yes"/>
+			<point x="-20" y="-194"/>
+			<point x="-36" y="-209"/>
+			<point x="-36" y="-230" type="curve" smooth="yes"/>
+			<point x="-36" y="-250"/>
+			<point x="-20" y="-266"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-86" y="-30"/>
+	<anchor name="_belowRightHE" x="86" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-162" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
 </glyph>

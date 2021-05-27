@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heDalet" format="2">
 	<unicode hex="05D3"/>
-	<advance width="512"/>
+	<advance width="470"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="4" y="516" type="line"/>
-			<point x="330" y="516" type="line"/>
-			<point x="324" y="490"/>
-			<point x="324" y="462"/>
-			<point x="324" y="426" type="curve"/>
-			<point x="324" y="0" type="line"/>
-			<point x="352" y="0" type="line"/>
-			<point x="352" y="516" type="line"/>
-			<point x="456" y="516" type="line"/>
-			<point x="456" y="546" type="line"/>
+			<point x="310" y="516" type="line"/>
+			<point x="304" y="490"/>
+			<point x="304" y="462"/>
+			<point x="304" y="426" type="curve"/>
+			<point x="304" y="0" type="line"/>
+			<point x="332" y="0" type="line"/>
+			<point x="332" y="516" type="line"/>
+			<point x="426" y="516" type="line"/>
+			<point x="426" y="546" type="line"/>
 			<point x="4" y="546" type="line"/>
 		</contour>
 	</outline>
@@ -29,12 +29,12 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 516 30</string>
-							<string>vstem 324 28</string>
+							<string>vstem 304 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w512l4516l330516324490324462c324426l3240l3520l352516l456516l456546l4546</string>
+				<string>w470l4516l310516304490304462c304426l3040l3320l332516l426516l426546l4546</string>
 			</dict>
 		</dict>
 	</lib>

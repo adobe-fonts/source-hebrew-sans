@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heZayin" format="2">
 	<unicode hex="05D6"/>
-	<advance width="401"/>
+	<advance width="399"/>
 	<outline>
 		<contour>
 			<point x="12" y="417" type="line"/>
@@ -19,4 +19,8 @@
 			<point x="144" y="278" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="177" y="539"/>
+	<anchor name="belowPrimaryHE" x="166" y="-30"/>
+	<anchor name="centerHE" x="18" y="202"/>
+	<anchor name="aboveLeftHE" x="-8" y="541"/>
 </glyph>

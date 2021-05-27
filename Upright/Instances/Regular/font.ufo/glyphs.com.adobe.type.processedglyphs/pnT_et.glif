@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnTet" format="2">
+	<advance width="589"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="184" y="253" type="line"/>
+			<point x="270" y="253" type="line"/>
+			<point x="270" y="159" type="line"/>
+			<point x="320" y="159" type="line"/>
+			<point x="320" y="253" type="line"/>
+			<point x="406" y="253" type="line"/>
+			<point x="406" y="311" type="line"/>
+			<point x="320" y="311" type="line"/>
+			<point x="320" y="403" type="line"/>
+			<point x="270" y="403" type="line"/>
+			<point x="270" y="311" type="line"/>
+			<point x="184" y="311" type="line"/>
+		</contour>
+		<contour>
+			<point x="297" y="73" type="curve"/>
+			<point x="193" y="73"/>
+			<point x="126" y="152"/>
+			<point x="126" y="278" type="curve"/>
+			<point x="126" y="406"/>
+			<point x="193" y="481"/>
+			<point x="297" y="481" type="curve"/>
+			<point x="399" y="481"/>
+			<point x="466" y="406"/>
+			<point x="466" y="278" type="curve"/>
+			<point x="466" y="152"/>
+			<point x="399" y="73"/>
+		</contour>
+		<contour>
+			<point x="297" y="-12" type="curve"/>
+			<point x="438" y="-12"/>
+			<point x="539" y="99"/>
+			<point x="539" y="278" type="curve"/>
+			<point x="539" y="458"/>
+			<point x="438" y="566"/>
+			<point x="297" y="566" type="curve"/>
+			<point x="153" y="566"/>
+			<point x="53" y="458"/>
+			<point x="53" y="278" type="curve"/>
+			<point x="53" y="99"/>
+			<point x="153" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 85</string>
+							<string>hstem 253 58</string>
+							<string>hstem 481 85</string>
+							<string>vstem 53 73</string>
+							<string>vstem 270 50</string>
+							<string>vstem 466 73</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>e88515c2ad4ad47bf921adca713c5581f2c090368f3f2c7dc09fd68c7dd255fa1f52b9eb29bcad39eea90cd5c929a23b07403720bad942cf856ce339c4b50538</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

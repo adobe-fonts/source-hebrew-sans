@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heHiriq" format="2">
+	<unicode hex="05B4"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="0" y="-155" type="curve"/>
+			<point x="20" y="-155"/>
+			<point x="35" y="-140"/>
+			<point x="35" y="-120" type="curve"/>
+			<point x="35" y="-100"/>
+			<point x="20" y="-85"/>
+			<point x="0" y="-85" type="curve"/>
+			<point x="-20" y="-85"/>
+			<point x="-35" y="-100"/>
+			<point x="-35" y="-120" type="curve"/>
+			<point x="-35" y="-140"/>
+			<point x="-20" y="-155"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-25" y="-30"/>
+	<anchor name="_belowRightHE" x="25" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-100" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<guideline y="-133" identifier="4QcKMXi29o"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -155 70</string>
+							<string>vstem -35 70</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0c0-15520-15535-140c35-12035-10020-85c0-85-20-85-35-100c-35-120-35-140-20-155</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

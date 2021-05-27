@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heVavYod" format="2">
+	<advance width="576"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="134" y="214" type="line"/>
+			<point x="179" y="287"/>
+			<point x="214" y="372"/>
+			<point x="214" y="428" type="curve"/>
+			<point x="214" y="516"/>
+			<point x="182" y="554"/>
+			<point x="83" y="554" type="curve"/>
+			<point x="8" y="554" type="line"/>
+			<point x="8" y="472" type="line"/>
+			<point x="55" y="472" type="line"/>
+			<point x="125" y="472"/>
+			<point x="142" y="451"/>
+			<point x="142" y="408" type="curve"/>
+			<point x="142" y="364"/>
+			<point x="111" y="301"/>
+			<point x="71" y="245" type="curve"/>
+		</contour>
+		<contour>
+			<point x="412" y="0" type="line"/>
+			<point x="484" y="0" type="line"/>
+			<point x="484" y="383" type="line"/>
+			<point x="484" y="514"/>
+			<point x="429" y="554"/>
+			<point x="330" y="554" type="curve"/>
+			<point x="278" y="554" type="line"/>
+			<point x="278" y="472" type="line"/>
+			<point x="300" y="472" type="line"/>
+			<point x="374" y="472"/>
+			<point x="412" y="450"/>
+			<point x="412" y="349" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 472 82</string>
+							<string>vstem 142 72</string>
+							<string>vstem 412 72</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>73e7497a33eec8e55a36132d7d4e619c67b6b6b925e0f39d3fbabdeae96b5faae95cf25306c3a9ca517861c7f5f42cf7db7eb4b8c2875ee6809cef8d5f745bab</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

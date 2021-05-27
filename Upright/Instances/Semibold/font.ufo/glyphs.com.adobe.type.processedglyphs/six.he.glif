@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="six.he" format="2">
-	<advance width="472"/>
+	<advance width="513"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="250" y="356" type="curve"/>
-			<point x="354" y="356"/>
-			<point x="396" y="282"/>
-			<point x="396" y="186" type="curve"/>
-			<point x="396" y="92"/>
-			<point x="338" y="16"/>
-			<point x="260" y="16" type="curve"/>
-			<point name="hintSet0003" x="147" y="16"/>
-			<point x="94" y="116"/>
-			<point x="87" y="255" type="curve"/>
-			<point name="hintSet0004" x="142" y="328"/>
-			<point x="203" y="356"/>
+			<point name="hintSet0000" x="268" y="310" type="curve"/>
+			<point x="331" y="310"/>
+			<point x="368" y="272"/>
+			<point x="368" y="197" type="curve"/>
+			<point x="368" y="119"/>
+			<point x="326" y="76"/>
+			<point x="273" y="76" type="curve"/>
+			<point x="211" y="76"/>
+			<point x="166" y="124"/>
+			<point x="154" y="237" type="curve"/>
+			<point x="190" y="290"/>
+			<point x="232" y="310"/>
 		</contour>
 		<contour>
-			<point x="258" y="-12" type="curve"/>
-			<point x="350" y="-12"/>
-			<point x="428" y="72"/>
-			<point x="428" y="186" type="curve"/>
-			<point x="428" y="314"/>
-			<point x="364" y="384"/>
-			<point x="252" y="384" type="curve"/>
-			<point x="190" y="384"/>
-			<point x="131" y="348"/>
-			<point x="86" y="293" type="curve"/>
-			<point x="86" y="538"/>
-			<point x="178" y="624"/>
-			<point x="284" y="624" type="curve"/>
-			<point x="326" y="624"/>
-			<point x="365" y="606"/>
-			<point x="394" y="570" type="curve"/>
-			<point x="414" y="592" type="line"/>
-			<point x="382" y="628"/>
-			<point x="342" y="652"/>
-			<point x="286" y="652" type="curve"/>
-			<point x="164" y="652"/>
-			<point x="54" y="560"/>
-			<point x="54" y="288" type="curve"/>
-			<point x="54" y="98"/>
-			<point x="130" y="-12"/>
+			<point x="275" y="-12" type="curve"/>
+			<point x="384" y="-12"/>
+			<point x="475" y="70"/>
+			<point x="475" y="197" type="curve"/>
+			<point x="475" y="330"/>
+			<point x="399" y="394"/>
+			<point x="289" y="394" type="curve"/>
+			<point x="243" y="394"/>
+			<point x="188" y="366"/>
+			<point x="151" y="319" type="curve"/>
+			<point x="156" y="495"/>
+			<point x="221" y="554"/>
+			<point x="301" y="554" type="curve"/>
+			<point x="339" y="554"/>
+			<point x="379" y="534"/>
+			<point x="402" y="506" type="curve"/>
+			<point x="464" y="576" type="line"/>
+			<point x="426" y="616"/>
+			<point x="371" y="648"/>
+			<point x="294" y="648" type="curve"/>
+			<point x="164" y="648"/>
+			<point x="44" y="546"/>
+			<point x="44" y="299" type="curve"/>
+			<point x="44" y="85"/>
+			<point x="150" y="-12"/>
 		</contour>
 	</outline>
 	<lib>
@@ -55,40 +55,16 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -12 28</string>
-							<string>hstem 356 28</string>
-							<string>hstem 624 28</string>
-							<string>vstem 54 32</string>
-							<string>vstem 396 32</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0003</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -12 28</string>
-							<string>hstem 356 28</string>
-							<string>hstem 624 28</string>
-							<string>vstem 54 33</string>
-							<string>vstem 396 32</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0004</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -12 28</string>
-							<string>hstem 356 28</string>
-							<string>hstem 624 28</string>
-							<string>vstem 54 32</string>
-							<string>vstem 396 32</string>
+							<string>hstem -12 88</string>
+							<string>hstem 310 84</string>
+							<string>hstem 554 94</string>
+							<string>vstem 44 107</string>
+							<string>vstem 368 107</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>b455beca5fadbbd52f2dfa7c5e8aefef9e8d311b07495266652ead216467853c988ee557b3d81ee25d00970632dd0b9b20fdc7f0a80f76e89fbf6443372fe50d</string>
+				<string>21e7688e6a24c6343c3adba6a9af2a3277f804c2f99a03ac5dbed651adde84073f01038c11bd576445ec879a63e71fa8167053925c00574551a152b5040405cf</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heQamatsQatan" format="2">
+	<unicode hex="05C7"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="-24" y="-298" type="line"/>
+			<point x="24" y="-298" type="line"/>
+			<point x="19" y="-129" type="line"/>
+			<point x="91" y="-129" type="line"/>
+			<point x="91" y="-86" type="line"/>
+			<point x="-93" y="-86" type="line"/>
+			<point x="-93" y="-129" type="line"/>
+			<point x="-19" y="-129" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-101" y="-30"/>
+	<anchor name="_belowRightHE" x="101" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-151" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<guideline y="46" identifier="0QQY0Nsl6b"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -129 43</string>
+							<string>vstem -21.5 43</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l-24-298l24-298l19-129l91-129l91-86l-93-86l-93-129l-19-129</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

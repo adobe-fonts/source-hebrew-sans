@@ -9,8 +9,8 @@
 			<point x="550" y="508"/>
 			<point x="466" y="568"/>
 			<point x="344" y="568" type="curve"/>
-			<point x="72" y="568" type="line"/>
-			<point x="72" y="396" type="line"/>
+			<point x="74" y="568" type="line"/>
+			<point x="74" y="396" type="line"/>
 			<point name="hintSet0005" x="115" y="396" type="line"/>
 			<point x="95" y="370"/>
 			<point x="82" y="338"/>
@@ -46,7 +46,7 @@
 						<array>
 							<string>hstem 158 172</string>
 							<string>hstem 396 172</string>
-							<string>vstem 72 240</string>
+							<string>vstem 74 238</string>
 							<string>vstem 402 148</string>
 						</array>
 					</dict>
@@ -68,13 +68,13 @@
 						<array>
 							<string>hstem 158 172</string>
 							<string>hstem 396 172</string>
-							<string>vstem 72 158</string>
+							<string>vstem 74 156</string>
 							<string>vstem 402 148</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>997f45b989db47c74fdc7c548700424842886b483e28ddf4dc7c1e1451dc73d4158aba5145f6934cc8e2ec1e796abcd44e7690e22d129fe20a7f077d281419c7</string>
+				<string>fc36faf1b66f119692d66c2a32ab3520ba43f5792dfedcb67eececb488b093d3fd829dee121e0360cd8601edcb04fac0eaffc183e2f5bb9d39696454220190f0</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heKaf" format="2">
 	<unicode hex="05DB"/>
-	<advance width="608"/>
+	<advance width="568"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="54" y="0" type="line"/>
-			<point x="524" y="0" type="line"/>
-			<point x="536" y="102"/>
-			<point x="544" y="190"/>
-			<point x="544" y="302" type="curve"/>
-			<point x="544" y="486"/>
-			<point x="448" y="568"/>
-			<point x="288" y="568" type="curve"/>
-			<point x="72" y="568" type="line"/>
-			<point x="72" y="396" type="line"/>
-			<point x="208" y="396" type="line"/>
-			<point x="342" y="396"/>
-			<point x="396" y="344"/>
-			<point x="396" y="200" type="curve"/>
-			<point x="396" y="190"/>
-			<point x="395" y="182"/>
-			<point x="394" y="172" type="curve"/>
-			<point x="54" y="172" type="line"/>
+			<point name="hintSet0000" x="44" y="0" type="line"/>
+			<point x="484" y="0" type="line"/>
+			<point x="496" y="102"/>
+			<point x="504" y="190"/>
+			<point x="504" y="302" type="curve"/>
+			<point x="504" y="486"/>
+			<point x="426" y="568"/>
+			<point x="268" y="568" type="curve"/>
+			<point x="62" y="568" type="line"/>
+			<point x="62" y="396" type="line"/>
+			<point x="188" y="396" type="line"/>
+			<point x="318" y="396"/>
+			<point x="356" y="344"/>
+			<point x="356" y="200" type="curve"/>
+			<point x="356" y="188"/>
+			<point x="355" y="178"/>
+			<point x="354" y="166" type="curve"/>
+			<point x="44" y="166" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="220" y="530"/>
+	<anchor name="belowPrimaryHE" x="225" y="-30"/>
+	<anchor name="centerHE" x="185" y="250"/>
+	<anchor name="aboveLeftHE" x="5" y="530"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -35,14 +39,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 172</string>
+							<string>hstem 0 166</string>
 							<string>hstem 396 172</string>
-							<string>vstem 396 148</string>
+							<string>vstem 356 148</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w608l540l5240536102544190c544302544486448568c288568l72568l72396l208396342396396344c396200396190395182c394172l54172</string>
+				<string>w568l440l4840496102504190c504302504486426568c268568l62568l62396l188396318396356344c356200356188355178c354166l44166</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heBet" format="2">
 	<unicode hex="05D1"/>
-	<advance width="610"/>
+	<advance width="560"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="576" y="0" type="line"/>
-			<point x="576" y="172" type="line"/>
-			<point x="530" y="172" type="line"/>
-			<point x="533" y="213"/>
-			<point x="534" y="255"/>
-			<point x="534" y="302" type="curve"/>
-			<point x="534" y="486"/>
-			<point x="438" y="568"/>
-			<point x="278" y="568" type="curve"/>
-			<point x="74" y="568" type="line"/>
-			<point x="74" y="396" type="line"/>
-			<point x="198" y="396" type="line"/>
-			<point x="332" y="396"/>
-			<point x="386" y="344"/>
-			<point x="386" y="200" type="curve"/>
-			<point x="386" y="190"/>
-			<point x="385" y="182"/>
-			<point x="384" y="172" type="curve"/>
-			<point x="54" y="172" type="line"/>
-			<point x="54" y="0" type="line"/>
+			<point name="hintSet0000" x="44" y="0" type="line"/>
+			<point x="526" y="0" type="line"/>
+			<point x="526" y="166" type="line"/>
+			<point x="480" y="166" type="line"/>
+			<point x="482" y="209"/>
+			<point x="484" y="253"/>
+			<point x="484" y="302" type="curve"/>
+			<point x="484" y="486"/>
+			<point x="406" y="568"/>
+			<point x="248" y="568" type="curve"/>
+			<point x="62" y="568" type="line"/>
+			<point x="62" y="396" type="line"/>
+			<point x="168" y="396" type="line"/>
+			<point x="298" y="396"/>
+			<point x="336" y="344"/>
+			<point x="336" y="200" type="curve"/>
+			<point x="336" y="188"/>
+			<point x="335" y="178"/>
+			<point x="334" y="166" type="curve"/>
+			<point x="44" y="166" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -37,14 +37,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 172</string>
+							<string>hstem 0 166</string>
 							<string>hstem 396 172</string>
-							<string>vstem 386 148</string>
+							<string>vstem 336 148</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>e4bc6a15fc0d2a500fa22a910b1792e1b740d4dd6a6839538b7eae64f069522806017baa976d49461662f968b3a31454039e3d3a38f7b8d130d536235a9c8822</string>
+				<string>b8c93fa623ab0f6b1ab88e8a4e66917ccec572f069e83153fb5a9409accb5d56b65054e9a88846d809dd514ffb875da5c85de198cfb1d2eee5506d73aff570f6</string>
 			</dict>
 		</dict>
 	</lib>

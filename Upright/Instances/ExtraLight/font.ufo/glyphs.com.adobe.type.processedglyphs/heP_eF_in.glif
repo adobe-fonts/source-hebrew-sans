@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePeFin" format="2">
 	<unicode hex="05E3"/>
-	<advance width="546"/>
+	<advance width="536"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="444" y="-200" type="line"/>
-			<point x="444" y="350" type="line"/>
-			<point x="444" y="494"/>
-			<point x="375" y="546"/>
-			<point x="268" y="546" type="curve"/>
+			<point name="hintSet0000" x="434" y="-200" type="line"/>
+			<point x="434" y="350" type="line"/>
+			<point x="434" y="494"/>
+			<point x="365" y="546"/>
+			<point x="258" y="546" type="curve"/>
 			<point x="58" y="546" type="line"/>
 			<point x="58" y="516" type="line"/>
 			<point x="145" y="516" type="line"/>
@@ -27,11 +27,11 @@
 			<point x="84" y="454"/>
 			<point x="146" y="516"/>
 			<point x="232" y="516" type="curve"/>
-			<point x="262" y="516" type="line"/>
-			<point x="356" y="516"/>
-			<point x="416" y="475"/>
-			<point x="416" y="344" type="curve"/>
-			<point x="416" y="-200" type="line"/>
+			<point x="252" y="516" type="line"/>
+			<point x="346" y="516"/>
+			<point x="406" y="475"/>
+			<point x="406" y="344" type="curve"/>
+			<point x="406" y="-200" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -48,12 +48,12 @@
 							<string>hstem 240 32</string>
 							<string>hstem 516 30</string>
 							<string>vstem 56 28</string>
-							<string>vstem 416 28</string>
+							<string>vstem 406 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>282d2db19e35f23a343fff62e08f680c1efa82bb0269ebaa1ba04e33172e14d11b047d79f078ba6d3a85440974f7d4c6af660cfef1c49c6fcda7892f80ada975</string>
+				<string>8d5d47e774821096ccdf4d3c7beed5fc94aa73162401b8632f27c801ef72c11935e31440dc11304a1dc240da7ee0ac8e6d78b69c67a2628d11909e166663b3a6</string>
 			</dict>
 		</dict>
 	</lib>

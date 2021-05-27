@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heBet" format="2">
 	<unicode hex="05D1"/>
-	<advance width="565"/>
+	<advance width="533"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="522" y="0" type="line"/>
-			<point x="522" y="44" type="line"/>
-			<point x="451" y="44" type="line"/>
-			<point x="461" y="126"/>
-			<point x="467" y="207"/>
-			<point x="467" y="300" type="curve"/>
-			<point x="467" y="481"/>
-			<point x="377" y="548"/>
-			<point x="237" y="548" type="curve"/>
-			<point x="79" y="548" type="line"/>
-			<point x="79" y="504" type="line"/>
-			<point x="223" y="504" type="line"/>
-			<point x="349" y="504"/>
-			<point x="427" y="451"/>
-			<point x="427" y="285" type="curve"/>
-			<point x="427" y="195"/>
-			<point x="420" y="123"/>
-			<point x="410" y="44" type="curve"/>
-			<point x="50" y="44" type="line"/>
-			<point x="50" y="0" type="line"/>
+			<point name="hintSet0000" x="53" y="0" type="line"/>
+			<point x="490" y="0" type="line"/>
+			<point x="490" y="42" type="line"/>
+			<point x="419" y="42" type="line"/>
+			<point x="428" y="125"/>
+			<point x="435" y="206"/>
+			<point x="435" y="300" type="curve"/>
+			<point x="435" y="481"/>
+			<point x="364" y="548"/>
+			<point x="225" y="548" type="curve"/>
+			<point x="73" y="548" type="line"/>
+			<point x="73" y="504" type="line"/>
+			<point x="211" y="504" type="line"/>
+			<point x="336" y="504"/>
+			<point x="395" y="452"/>
+			<point x="395" y="285" type="curve"/>
+			<point x="395" y="194"/>
+			<point x="388" y="121"/>
+			<point x="378" y="42" type="curve"/>
+			<point x="53" y="42" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -37,14 +37,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 44</string>
+							<string>hstem 0 42</string>
 							<string>hstem 504 44</string>
-							<string>vstem 427 40</string>
+							<string>vstem 395 40</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w565l5220l52244l45144461126467207c467300467481377548c237548l79548l79504l223504349504427451c427285427195420123c41044l5044l500</string>
+				<string>w533l530l4900l49042l41942428125435206c435300435481364548c225548l73548l73504l211504336504395452c395285395194388121c37842l5342</string>
 			</dict>
 		</dict>
 	</lib>

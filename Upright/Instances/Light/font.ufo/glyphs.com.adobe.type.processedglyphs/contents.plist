@@ -412,6 +412,8 @@
 		<string>eight.he.glif</string>
 		<key>eight.lat</key>
 		<string>eight.lat.glif</string>
+		<key>eight.ph</key>
+		<string>eight.ph.glif</string>
 		<key>ellipsis</key>
 		<string>ellipsis.glif</string>
 		<key>emacron</key>
@@ -458,6 +460,8 @@
 		<string>five.he.glif</string>
 		<key>five.lat</key>
 		<string>five.lat.glif</string>
+		<key>five.ph</key>
+		<string>five.ph.glif</string>
 		<key>fl</key>
 		<string>fl.glif</string>
 		<key>florin</key>
@@ -472,6 +476,8 @@
 		<string>four.he.glif</string>
 		<key>four.lat</key>
 		<string>four.lat.glif</string>
+		<key>four.ph</key>
+		<string>four.ph.glif</string>
 		<key>fraction</key>
 		<string>fraction.glif</string>
 		<key>fraction.lat</key>
@@ -536,40 +542,94 @@
 		<string>heA_yin.glif</string>
 		<key>heBet</key>
 		<string>heB_et.glif</string>
+		<key>heDagesh</key>
+		<string>heD_agesh.glif</string>
+		<key>heDagesh.shin</key>
+		<string>heD_agesh.shin.glif</string>
 		<key>heDalet</key>
 		<string>heD_alet.glif</string>
+		<key>heGeresh</key>
+		<string>heG_eresh.glif</string>
+		<key>heGershayim</key>
+		<string>heG_ershayim.glif</string>
 		<key>heGimel</key>
 		<string>heG_imel.glif</string>
+		<key>heHatafPatah</key>
+		<string>heH_atafP_atah.glif</string>
+		<key>heHatafQamatsQatan</key>
+		<string>heH_atafQ_amatsQ_atan.glif</string>
+		<key>heHatafSegol</key>
+		<string>heH_atafS_egol.glif</string>
 		<key>heHe</key>
 		<string>heH_e.glif</string>
 		<key>heHet</key>
 		<string>heH_et.glif</string>
+		<key>heHiriq</key>
+		<string>heH_iriq.glif</string>
+		<key>heHolam</key>
+		<string>heH_olam.glif</string>
+		<key>heHolamHaser</key>
+		<string>heH_olamH_aser.glif</string>
 		<key>heKaf</key>
 		<string>heK_af.glif</string>
 		<key>heKafFin</key>
 		<string>heK_afF_in.glif</string>
 		<key>heLamed</key>
 		<string>heL_amed.glif</string>
+		<key>heMaqaf</key>
+		<string>heM_aqaf.glif</string>
 		<key>heMem</key>
 		<string>heM_em.glif</string>
 		<key>heMemFin</key>
 		<string>heM_emF_in.glif</string>
+		<key>heMeteg</key>
+		<string>heM_eteg.glif</string>
 		<key>heNun</key>
 		<string>heN_un.glif</string>
 		<key>heNunFin</key>
 		<string>heN_unF_in.glif</string>
+		<key>hePaseq</key>
+		<string>heP_aseq.glif</string>
+		<key>hePatah</key>
+		<string>heP_atah.glif</string>
+		<key>hePatah.short</key>
+		<string>heP_atah.short.glif</string>
 		<key>hePe</key>
 		<string>heP_e.glif</string>
 		<key>hePeFin</key>
 		<string>heP_eF_in.glif</string>
+		<key>heQamats.kaf</key>
+		<string>heQ_amats.kaf.glif</string>
+		<key>heQamats.short</key>
+		<string>heQ_amats.short.glif</string>
+		<key>heQamatsQatan</key>
+		<string>heQ_amatsQ_atan.glif</string>
+		<key>heQamatsQatan.short</key>
+		<string>heQ_amatsQ_atan.short.glif</string>
 		<key>heQof</key>
 		<string>heQ_of.glif</string>
+		<key>heQubuts</key>
+		<string>heQ_ubuts.glif</string>
+		<key>heRafe</key>
+		<string>heR_afe.glif</string>
 		<key>heResh</key>
 		<string>heR_esh.glif</string>
 		<key>heSamekh</key>
 		<string>heS_amekh.glif</string>
+		<key>heSegol</key>
+		<string>heS_egol.glif</string>
+		<key>heSheva</key>
+		<string>heS_heva.glif</string>
+		<key>heSheva.kaf</key>
+		<string>heS_heva.kaf.glif</string>
 		<key>heShin</key>
 		<string>heS_hin.glif</string>
+		<key>heShinDot</key>
+		<string>heS_hinD_ot.glif</string>
+		<key>heSinDot</key>
+		<string>heS_inD_ot.glif</string>
+		<key>heSofPasuq</key>
+		<string>heS_ofP_asuq.glif</string>
 		<key>heTav</key>
 		<string>heT_av.glif</string>
 		<key>heTet</key>
@@ -578,10 +638,20 @@
 		<string>heT_sadi.glif</string>
 		<key>heTsadiFin</key>
 		<string>heT_sadiF_in.glif</string>
+		<key>heTsere</key>
+		<string>heT_sere.glif</string>
+		<key>heVarikaJud</key>
+		<string>heV_arikaJ_ud.glif</string>
 		<key>heVav</key>
 		<string>heV_av.glif</string>
+		<key>heVavYod</key>
+		<string>heV_avY_od.glif</string>
+		<key>heVavdbl</key>
+		<string>heV_avdbl.glif</string>
 		<key>heYod</key>
 		<string>heY_od.glif</string>
+		<key>heYoddbl</key>
+		<string>heY_oddbl.glif</string>
 		<key>heZayin</key>
 		<string>heZ_ayin.glif</string>
 		<key>hlinebelow</key>
@@ -664,12 +734,16 @@
 		<string>multiply.glif</string>
 		<key>n</key>
 		<string>n.glif</string>
+		<key>newsheqel.he</key>
+		<string>newsheqel.he.glif</string>
 		<key>nine</key>
 		<string>nine.glif</string>
 		<key>nine.he</key>
 		<string>nine.he.glif</string>
 		<key>nine.lat</key>
 		<string>nine.lat.glif</string>
+		<key>nine.ph</key>
+		<string>nine.ph.glif</string>
 		<key>notequal</key>
 		<string>notequal.glif</string>
 		<key>ntilde</key>
@@ -710,6 +784,8 @@
 		<string>one.he.glif</string>
 		<key>one.lat</key>
 		<string>one.lat.glif</string>
+		<key>one.ph</key>
+		<string>one.ph.glif</string>
 		<key>one.pnumlat</key>
 		<string>one.pnumlat.glif</string>
 		<key>one.supsheb</key>
@@ -768,18 +844,20 @@
 		<string>pnA_lf.glif</string>
 		<key>pnBet</key>
 		<string>pnB_et.glif</string>
-		<key>pnGaml</key>
-		<string>pnG_aml.glif</string>
 		<key>pnLamd</key>
 		<string>pnL_amd.glif</string>
-		<key>pnMem</key>
-		<string>pnM_em.glif</string>
+		<key>pnQof</key>
+		<string>pnQ_of.glif</string>
 		<key>pnSade</key>
 		<string>pnS_ade.glif</string>
+		<key>pnTet</key>
+		<string>pnT_et.glif</string>
 		<key>pnWau</key>
 		<string>pnW_au.glif</string>
 		<key>pnYod</key>
 		<string>pnY_od.glif</string>
+		<key>pnZai</key>
+		<string>pnZ_ai.glif</string>
 		<key>popdirectionformat</key>
 		<string>popdirectionformat.glif</string>
 		<key>primemod</key>
@@ -870,6 +948,8 @@
 		<string>seven.he.glif</string>
 		<key>seven.lat</key>
 		<string>seven.lat.glif</string>
+		<key>seven.ph</key>
+		<string>seven.ph.glif</string>
 		<key>seven.pnumlat</key>
 		<string>seven.pnumlat.glif</string>
 		<key>sfthyphen</key>
@@ -880,6 +960,8 @@
 		<string>six.he.glif</string>
 		<key>six.lat</key>
 		<string>six.lat.glif</string>
+		<key>six.ph</key>
+		<string>six.ph.glif</string>
 		<key>slash</key>
 		<string>slash.glif</string>
 		<key>slash.lat</key>
@@ -908,6 +990,8 @@
 		<string>three.he.glif</string>
 		<key>three.lat</key>
 		<string>three.lat.glif</string>
+		<key>three.ph</key>
+		<string>three.ph.glif</string>
 		<key>three.pnumlat</key>
 		<string>three.pnumlat.glif</string>
 		<key>three.supsheb</key>
@@ -936,6 +1020,8 @@
 		<string>two.he.glif</string>
 		<key>two.lat</key>
 		<string>two.lat.glif</string>
+		<key>two.ph</key>
+		<string>two.ph.glif</string>
 		<key>two.pnumlat</key>
 		<string>two.pnumlat.glif</string>
 		<key>two.supsheb</key>
@@ -994,6 +1080,8 @@
 		<string>zero.he.glif</string>
 		<key>zero.lat</key>
 		<string>zero.lat.glif</string>
+		<key>zero.ph</key>
+		<string>zero.ph.glif</string>
 		<key>zero.pnumlat</key>
 		<string>zero.pnumlat.glif</string>
 		<key>zlinebelow</key>

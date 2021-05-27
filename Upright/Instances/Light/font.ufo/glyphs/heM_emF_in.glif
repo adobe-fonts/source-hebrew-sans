@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heMemFin" format="2">
 	<unicode hex="05DD"/>
-	<advance width="663"/>
+	<advance width="641"/>
 	<outline>
 		<contour>
-			<point x="136" y="0" type="line"/>
-			<point x="564" y="0" type="line"/>
-			<point x="564" y="350" type="line" smooth="yes"/>
-			<point x="564" y="495"/>
-			<point x="493" y="548"/>
-			<point x="385" y="548" type="curve" smooth="yes"/>
-			<point x="35" y="548" type="line"/>
-			<point x="35" y="504" type="line"/>
-			<point x="372" y="504" type="line" smooth="yes"/>
-			<point x="465" y="504"/>
-			<point x="524" y="464"/>
-			<point x="524" y="337" type="curve" smooth="yes"/>
-			<point x="524" y="44" type="line"/>
-			<point x="136" y="44" type="line"/>
+			<point x="135" y="0" type="line"/>
+			<point x="542" y="0" type="line"/>
+			<point x="542" y="350" type="line" smooth="yes"/>
+			<point x="542" y="495"/>
+			<point x="471" y="548"/>
+			<point x="363" y="548" type="curve" smooth="yes"/>
+			<point x="37" y="548" type="line"/>
+			<point x="37" y="504" type="line"/>
+			<point x="350" y="504" type="line" smooth="yes"/>
+			<point x="443" y="504"/>
+			<point x="502" y="464"/>
+			<point x="502" y="337" type="curve" smooth="yes"/>
+			<point x="502" y="42" type="line"/>
+			<point x="135" y="42" type="line"/>
 		</contour>
 		<contour>
-			<point x="113" y="0" type="line"/>
-			<point x="153" y="0" type="line"/>
-			<point x="153" y="504" type="line"/>
-			<point x="121" y="504" type="line"/>
-			<point x="114" y="476"/>
-			<point x="113" y="446"/>
-			<point x="113" y="408" type="curve" smooth="yes"/>
+			<point x="112" y="0" type="line"/>
+			<point x="152" y="0" type="line"/>
+			<point x="152" y="504" type="line"/>
+			<point x="120" y="504" type="line"/>
+			<point x="113" y="476"/>
+			<point x="112" y="446"/>
+			<point x="112" y="408" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="315" y="584"/>
+	<anchor name="belowPrimaryHE" x="325" y="-30"/>
+	<anchor name="centerHE" x="325" y="282"/>
+	<anchor name="aboveLeftHE" x="-2" y="584"/>
 </glyph>

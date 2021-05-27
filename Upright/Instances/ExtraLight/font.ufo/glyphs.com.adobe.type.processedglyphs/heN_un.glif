@@ -10,16 +10,21 @@
 			<point x="290" y="514"/>
 			<point x="246" y="546"/>
 			<point x="154" y="546" type="curve"/>
-			<point x="78" y="546" type="line"/>
-			<point x="78" y="516" type="line"/>
+			<point x="74" y="546" type="line"/>
+			<point x="74" y="516" type="line"/>
 			<point x="148" y="516" type="line"/>
 			<point x="226" y="516"/>
 			<point x="262" y="495"/>
 			<point x="262" y="384" type="curve"/>
-			<point x="262" y="30" type="line"/>
-			<point x="54" y="30" type="line"/>
+			<point x="262" y="28" type="line"/>
+			<point x="54" y="28" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="175" y="590"/>
+	<anchor name="belowPrimaryHE" x="160" y="-30"/>
+	<anchor name="centerHE" x="130" y="285"/>
+	<anchor name="aboveLeftHE" x="10" y="590"/>
+	<anchor name="belowPrimaryHECXT" x="180" y="-30"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -31,14 +36,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 30</string>
+							<string>hstem 0 28</string>
 							<string>hstem 516 30</string>
 							<string>vstem 262 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w392l540l2900l290390290514246546c154546l78546l78516l148516226516262495c262384l26230l5430</string>
+				<string>w392l540l2900l290390290514246546c154546l74546l74516l148516226516262495c262384l26228l5428</string>
 			</dict>
 		</dict>
 	</lib>

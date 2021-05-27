@@ -10,14 +10,19 @@
 			<point x="290" y="514"/>
 			<point x="246" y="546"/>
 			<point x="154" y="546" type="curve" smooth="yes"/>
-			<point x="78" y="546" type="line"/>
-			<point x="78" y="516" type="line"/>
+			<point x="74" y="546" type="line"/>
+			<point x="74" y="516" type="line"/>
 			<point x="148" y="516" type="line" smooth="yes"/>
 			<point x="226" y="516"/>
 			<point x="262" y="495"/>
 			<point x="262" y="384" type="curve" smooth="yes"/>
-			<point x="262" y="30" type="line"/>
-			<point x="54" y="30" type="line"/>
+			<point x="262" y="28" type="line"/>
+			<point x="54" y="28" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="175" y="590"/>
+	<anchor name="belowPrimaryHE" x="160" y="-30"/>
+	<anchor name="centerHE" x="130" y="285"/>
+	<anchor name="aboveLeftHE" x="10" y="590"/>
+	<anchor name="belowPrimaryHECXT" x="180" y="-30"/>
 </glyph>

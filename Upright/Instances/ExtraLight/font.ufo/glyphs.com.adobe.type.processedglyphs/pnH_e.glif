@@ -7,14 +7,14 @@
 			<point x="328" y="0" type="line"/>
 			<point x="328" y="-120" type="line"/>
 			<point x="356" y="-120" type="line"/>
-			<point x="356" y="510" type="line"/>
-			<point x="56" y="510" type="line"/>
-			<point x="56" y="480" type="line"/>
-			<point x="328" y="480" type="line"/>
-			<point x="328" y="288" type="line"/>
-			<point x="98" y="288" type="line"/>
-			<point x="98" y="258" type="line"/>
-			<point x="328" y="258" type="line"/>
+			<point x="356" y="546" type="line"/>
+			<point x="56" y="546" type="line"/>
+			<point x="56" y="516" type="line"/>
+			<point x="328" y="516" type="line"/>
+			<point x="328" y="306" type="line"/>
+			<point x="98" y="306" type="line"/>
+			<point x="98" y="276" type="line"/>
+			<point x="328" y="276" type="line"/>
 			<point x="328" y="30" type="line"/>
 			<point x="46" y="30" type="line"/>
 		</contour>
@@ -31,14 +31,14 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 30</string>
-							<string>hstem 258 30</string>
-							<string>hstem 480 30</string>
+							<string>hstem 276 30</string>
+							<string>hstem 516 30</string>
 							<string>vstem 328 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w456l460l3280l328-120l356-120l356510l56510l56480l328480l328288l98288l98258l328258l32830l4630</string>
+				<string>w456l460l3280l328-120l356-120l356546l56546l56516l328516l328306l98306l98276l328276l32830l4630</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heTav" format="2">
 	<unicode hex="05EA"/>
-	<advance width="721"/>
+	<advance width="698"/>
 	<outline>
 		<contour>
 			<point x="54" y="0" type="line"/>
@@ -16,24 +16,28 @@
 			<point x="164" y="483"/>
 			<point x="147" y="414"/>
 			<point x="147" y="334" type="curve" smooth="yes"/>
-			<point x="147" y="266"/>
-			<point x="159" y="182"/>
-			<point x="172" y="82" type="curve"/>
-			<point x="54" y="82" type="line"/>
+			<point x="147" y="265"/>
+			<point x="158" y="180"/>
+			<point x="172" y="78" type="curve"/>
+			<point x="54" y="78" type="line"/>
 		</contour>
 		<contour>
-			<point x="558" y="0" type="line"/>
-			<point x="630" y="0" type="line"/>
-			<point x="630" y="351" type="line" smooth="yes"/>
-			<point x="630" y="499"/>
-			<point x="556" y="554"/>
-			<point x="443" y="554" type="curve" smooth="yes"/>
-			<point x="83" y="554" type="line"/>
-			<point x="83" y="472" type="line"/>
-			<point x="413" y="472" type="line" smooth="yes"/>
-			<point x="502" y="472"/>
-			<point x="558" y="436"/>
-			<point x="558" y="317" type="curve" smooth="yes"/>
+			<point x="535" y="0" type="line"/>
+			<point x="607" y="0" type="line"/>
+			<point x="607" y="351" type="line" smooth="yes"/>
+			<point x="607" y="499"/>
+			<point x="532" y="554"/>
+			<point x="420" y="554" type="curve" smooth="yes"/>
+			<point x="93" y="554" type="line"/>
+			<point x="93" y="472" type="line"/>
+			<point x="389" y="472" type="line" smooth="yes"/>
+			<point x="478" y="472"/>
+			<point x="535" y="436"/>
+			<point x="535" y="317" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="308" y="568"/>
+	<anchor name="belowPrimaryHE" x="325" y="-30"/>
+	<anchor name="centerHE" x="335" y="231"/>
+	<anchor name="aboveLeftHE" x="-4" y="568"/>
 </glyph>

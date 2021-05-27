@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heMeteg" format="2">
 	<unicode hex="05BD"/>
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="-15" y="-263" type="line"/>
+			<point x="15" y="-263" type="line"/>
+			<point x="15" y="-93" type="line"/>
+			<point x="-15" y="-93" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-20" y="-30"/>
+	<anchor name="_belowRightHE" x="20" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
 </glyph>

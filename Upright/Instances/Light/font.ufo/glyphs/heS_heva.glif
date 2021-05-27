@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heSheva" format="2">
 	<unicode hex="05B0"/>
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="0" y="-156" type="curve" smooth="yes"/>
+			<point x="20" y="-156"/>
+			<point x="36" y="-140"/>
+			<point x="36" y="-120" type="curve" smooth="yes"/>
+			<point x="36" y="-99"/>
+			<point x="20" y="-84"/>
+			<point x="0" y="-84" type="curve" smooth="yes"/>
+			<point x="-20" y="-84"/>
+			<point x="-36" y="-99"/>
+			<point x="-36" y="-120" type="curve" smooth="yes"/>
+			<point x="-36" y="-140"/>
+			<point x="-20" y="-156"/>
+		</contour>
+		<contour>
+			<point x="0" y="-277" type="curve" smooth="yes"/>
+			<point x="20" y="-277"/>
+			<point x="36" y="-262"/>
+			<point x="36" y="-241" type="curve" smooth="yes"/>
+			<point x="36" y="-221"/>
+			<point x="20" y="-205"/>
+			<point x="0" y="-205" type="curve" smooth="yes"/>
+			<point x="-20" y="-205"/>
+			<point x="-36" y="-221"/>
+			<point x="-36" y="-241" type="curve" smooth="yes"/>
+			<point x="-36" y="-262"/>
+			<point x="-20" y="-277"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-26" y="-30"/>
+	<anchor name="_belowRightHE" x="26" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-101" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
 </glyph>

@@ -4,9 +4,11 @@
 	<advance width="522"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="182" y="103" type="line"/>
-			<point x="350" y="210"/>
-			<point x="464" y="342"/>
+			<point name="hintSet0000" x="126" y="-200" type="line"/>
+			<point x="154" y="-200" type="line"/>
+			<point x="154" y="84" type="line"/>
+			<point x="360" y="210"/>
+			<point x="464" y="336"/>
 			<point x="464" y="448" type="curve"/>
 			<point x="464" y="516"/>
 			<point x="440" y="546"/>
@@ -19,11 +21,7 @@
 			<point x="436" y="450" type="curve"/>
 			<point x="436" y="342"/>
 			<point x="338" y="230"/>
-			<point x="154" y="119" type="curve"/>
-		</contour>
-		<contour>
-			<point x="126" y="-200" type="line"/>
-			<point x="154" y="-200" type="line"/>
+			<point x="154" y="118" type="curve"/>
 			<point x="154" y="410" type="line"/>
 			<point x="154" y="518"/>
 			<point x="116" y="546"/>
@@ -54,7 +52,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>371cdf28f750982b049c8ae7f83b5e3d2e13e024c2196abbbcd0323c6bd37efc91d0b71282c46c707fa3ad51ea9d2a2296fb18e3feec4f1dc1d6847bde885a56</string>
+				<string>45da17e3e76d9c3b81e0db3799a5922ab3f5291383aa8925425e3f5ca46018d2df433daa19ccebcd57fbf247a53ca31420f0d1c535c47ddc3ee41aadb04e253c</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heNun" format="2">
 	<unicode hex="05E0"/>
-	<advance width="400"/>
+	<advance width="398"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="54" y="0" type="line"/>
-			<point x="300" y="0" type="line"/>
-			<point x="300" y="388" type="line"/>
-			<point x="300" y="514"/>
-			<point x="253" y="548"/>
-			<point x="159" y="548" type="curve"/>
-			<point x="79" y="548" type="line"/>
-			<point x="79" y="504" type="line"/>
-			<point x="146" y="504" type="line"/>
-			<point x="223" y="504"/>
-			<point x="260" y="483"/>
-			<point x="260" y="375" type="curve"/>
-			<point x="260" y="44" type="line"/>
-			<point x="54" y="44" type="line"/>
+			<point name="hintSet0000" x="53" y="0" type="line"/>
+			<point x="299" y="0" type="line"/>
+			<point x="299" y="388" type="line"/>
+			<point x="299" y="514"/>
+			<point x="252" y="548"/>
+			<point x="158" y="548" type="curve"/>
+			<point x="75" y="548" type="line"/>
+			<point x="75" y="504" type="line"/>
+			<point x="145" y="504" type="line"/>
+			<point x="222" y="504"/>
+			<point x="259" y="483"/>
+			<point x="259" y="375" type="curve"/>
+			<point x="259" y="42" type="line"/>
+			<point x="53" y="42" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="176" y="584"/>
+	<anchor name="belowPrimaryHE" x="161" y="-30"/>
+	<anchor name="centerHE" x="128" y="281"/>
+	<anchor name="aboveLeftHE" x="10" y="584"/>
+	<anchor name="belowPrimaryHECXT" x="183" y="-30"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -31,14 +36,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 44</string>
+							<string>hstem 0 42</string>
 							<string>hstem 504 44</string>
-							<string>vstem 260 40</string>
+							<string>vstem 259 40</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w400l540l3000l300388300514253548c159548l79548l79504l146504223504260483c260375l26044l5444</string>
+				<string>w398l530l2990l299388299514252548c158548l75548l75504l145504222504259483c259375l25942l5342</string>
 			</dict>
 		</dict>
 	</lib>

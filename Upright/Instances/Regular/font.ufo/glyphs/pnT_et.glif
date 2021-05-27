@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnTet" format="2">
+	<advance width="589"/>
+	<outline>
+		<contour>
+			<point x="184" y="253" type="line"/>
+			<point x="406" y="253" type="line"/>
+			<point x="406" y="311" type="line"/>
+			<point x="184" y="311" type="line"/>
+		</contour>
+		<contour>
+			<point x="270" y="159" type="line"/>
+			<point x="320" y="159" type="line"/>
+			<point x="320" y="403" type="line"/>
+			<point x="270" y="403" type="line"/>
+		</contour>
+		<component base="pnAin"/>
+	</outline>
+</glyph>

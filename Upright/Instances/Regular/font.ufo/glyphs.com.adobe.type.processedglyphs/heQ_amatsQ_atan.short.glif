@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heQamatsQatan.short" format="2">
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="79" y="-86" type="line"/>
+			<point x="-81" y="-86" type="line"/>
+			<point x="-81" y="-129" type="line"/>
+			<point x="-19" y="-129" type="line"/>
+			<point x="-24" y="-298" type="line"/>
+			<point x="24" y="-298" type="line"/>
+			<point x="19" y="-129" type="line"/>
+			<point x="79" y="-129" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-79" y="-30"/>
+	<anchor name="_belowRightHE" x="79" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-142" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -129 43</string>
+							<string>vstem -21.5 43</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l79-86l-81-86l-81-129l-19-129l-24-298l24-298l19-129l79-129</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

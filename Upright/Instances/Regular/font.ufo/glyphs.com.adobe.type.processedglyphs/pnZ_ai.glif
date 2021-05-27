@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnZai" format="2">
+	<advance width="476"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="45" y="0" type="line"/>
+			<point x="454" y="0" type="line"/>
+			<point x="454" y="82" type="line"/>
+			<point x="157" y="82" type="line"/>
+			<point x="451" y="504" type="line"/>
+			<point x="451" y="554" type="line"/>
+			<point x="72" y="554" type="line"/>
+			<point x="72" y="472" type="line"/>
+			<point x="339" y="472" type="line"/>
+			<point x="45" y="50" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 82</string>
+							<string>hstem 472 82</string>
+							<string>vstem 45 409</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w476l450l4540l45482l15782l451504l451554l72554l72472l339472l4550</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

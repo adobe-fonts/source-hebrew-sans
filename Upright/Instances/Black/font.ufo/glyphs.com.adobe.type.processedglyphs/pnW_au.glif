@@ -5,28 +5,26 @@
 		<contour>
 			<point name="hintSet0000" x="262" y="0" type="line"/>
 			<point x="394" y="0" type="line"/>
-			<point x="394" y="161" type="line"/>
-			<point x="527" y="172"/>
-			<point x="608" y="241"/>
-			<point x="608" y="400" type="curve"/>
-			<point x="608" y="532" type="line"/>
-			<point x="468" y="532" type="line"/>
-			<point x="468" y="410" type="line"/>
-			<point x="468" y="324"/>
-			<point x="441" y="298"/>
-			<point x="394" y="292" type="curve"/>
-			<point x="394" y="532" type="line"/>
-			<point x="262" y="532" type="line"/>
-			<point x="262" y="292" type="line"/>
-			<point x="215" y="298"/>
-			<point x="188" y="324"/>
-			<point x="188" y="410" type="curve"/>
-			<point x="188" y="532" type="line"/>
-			<point x="48" y="532" type="line"/>
-			<point x="48" y="400" type="line"/>
-			<point x="48" y="241"/>
-			<point x="129" y="172"/>
-			<point x="262" y="161" type="curve"/>
+			<point x="394" y="181" type="line"/>
+			<point x="496" y="199"/>
+			<point x="568" y="269"/>
+			<point x="568" y="416" type="curve"/>
+			<point x="568" y="568" type="line"/>
+			<point x="428" y="568" type="line"/>
+			<point x="428" y="468" type="line"/>
+			<point x="428" y="366"/>
+			<point x="392" y="348"/>
+			<point x="332" y="348" type="curve"/>
+			<point x="324" y="348" type="line"/>
+			<point x="263" y="348"/>
+			<point x="228" y="366"/>
+			<point x="228" y="468" type="curve"/>
+			<point x="228" y="568" type="line"/>
+			<point x="88" y="568" type="line"/>
+			<point x="88" y="416" type="line"/>
+			<point x="88" y="269"/>
+			<point x="160" y="199"/>
+			<point x="262" y="181" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -40,15 +38,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 532</string>
-							<string>vstem 48 140</string>
+							<string>hstem 0 568</string>
+							<string>vstem 88 140</string>
 							<string>vstem 262 132</string>
-							<string>vstem 468 140</string>
+							<string>vstem 428 140</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>4e2040dcd0d7ca94f534a325133129344ad111ac710e8bbb7e80a6cc1c86d8a531ec6ceefe4e49e512f2ea1652c9e168b9162230a68a32c6fdad99b189dde08d</string>
+				<string>89cb238171a3cfd9f3a2bd3a37a8ebb7556dac2d64c51c84541686243c014f756912434258887e6b9073b2d45a16baea497a5d27532ac57b302dda38d68defc4</string>
 			</dict>
 		</dict>
 	</lib>

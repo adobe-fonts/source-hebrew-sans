@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heQamats.kaf" format="2">
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="85" y="-80" type="line"/>
+			<point x="-87" y="-80" type="line"/>
+			<point x="-87" y="-132" type="line"/>
+			<point x="-22" y="-132" type="line"/>
+			<point name="hintSet0004" x="-31" y="-234" type="line"/>
+			<point x="31" y="-234" type="line"/>
+			<point name="hintSet0006" x="22" y="-132" type="line"/>
+			<point x="85" y="-132" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_centerSecondaryHE" x="0" y="-30"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -132 52</string>
+							<string>vstem -26.5 53</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0004</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -234 154</string>
+							<string>vstem -26.5 53</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0006</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -132 52</string>
+							<string>vstem -26.5 53</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l85-80l-87-80l-87-132l-22-132l-31-234l31-234l22-132l85-132</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

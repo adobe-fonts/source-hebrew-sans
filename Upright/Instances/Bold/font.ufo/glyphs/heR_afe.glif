@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heRafe" format="2">
 	<unicode hex="05BF"/>
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="-109" y="591" type="line"/>
+			<point x="109" y="591" type="line"/>
+			<point x="109" y="641" type="line"/>
+			<point x="-109" y="641" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_aboveHE" x="0" y="536"/>
 </glyph>

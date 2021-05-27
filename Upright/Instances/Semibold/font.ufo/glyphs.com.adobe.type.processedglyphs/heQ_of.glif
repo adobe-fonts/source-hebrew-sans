@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQof" format="2">
 	<unicode hex="05E7"/>
-	<advance width="630"/>
+	<advance width="600"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="300" y="-12" type="line"/>
-			<point x="516" y="108"/>
-			<point x="584" y="263"/>
-			<point x="584" y="415" type="curve"/>
-			<point x="584" y="516"/>
-			<point x="537" y="559"/>
-			<point x="392" y="559" type="curve"/>
-			<point x="58" y="559" type="line"/>
-			<point x="58" y="444" type="line"/>
-			<point x="368" y="444" type="line"/>
-			<point x="443" y="444"/>
-			<point x="472" y="428"/>
-			<point x="472" y="367" type="curve"/>
-			<point x="472" y="277"/>
-			<point x="414" y="188"/>
+			<point x="499" y="102"/>
+			<point x="560" y="263"/>
+			<point x="560" y="415" type="curve"/>
+			<point x="560" y="516"/>
+			<point x="512" y="559"/>
+			<point x="368" y="559" type="curve"/>
+			<point x="76" y="559" type="line"/>
+			<point x="76" y="444" type="line"/>
+			<point x="344" y="444" type="line"/>
+			<point x="418" y="444"/>
+			<point x="448" y="428"/>
+			<point x="448" y="367" type="curve"/>
+			<point x="448" y="277"/>
+			<point x="398" y="183"/>
 			<point x="260" y="104" type="curve"/>
 		</contour>
 		<contour>
@@ -31,6 +31,11 @@
 			<point x="102" y="198" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="279" y="554"/>
+	<anchor name="belowLeftHE" x="249" y="-30"/>
+	<anchor name="centerHE" x="274" y="281"/>
+	<anchor name="aboveLeftHE" x="0" y="554"/>
+	<anchor name="belowLeftHECXT" x="326" y="-30"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -44,12 +49,12 @@
 						<array>
 							<string>hstem 444 115</string>
 							<string>vstem 102 100</string>
-							<string>vstem 472 112</string>
+							<string>vstem 448 112</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>8a602504a569aa01ede0c4919bf2b169083db3d6b7b5777e4e32541c6a82215407c1bf4faa48d2fdb3d005336cb62992c8e620dcf8e7cc40158ccab8a5695ea8</string>
+				<string>1aa10c7541aa414ef9a945d9532743f23d19fcaafdfd9a976223e16c94be4cdd87a1764ecd5813d3837bfe8ea49e9f8b0138a84cb3ce4dbc6b4f003c2ab24199</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heShinDot" format="2">
+	<unicode hex="05C1"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="0" y="630" type="curve"/>
+			<point x="20" y="630"/>
+			<point x="36" y="645"/>
+			<point x="36" y="666" type="curve"/>
+			<point x="36" y="687"/>
+			<point x="20" y="702"/>
+			<point x="0" y="702" type="curve"/>
+			<point x="-20" y="702"/>
+			<point x="-36" y="687"/>
+			<point x="-36" y="666" type="curve"/>
+			<point x="-36" y="645"/>
+			<point x="-20" y="630"/>
+		</contour>
+	</outline>
+	<anchor name="_shinHE" x="0" y="584"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 630 72</string>
+							<string>vstem -36 72</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0c06302063036645c366663668720702c0702-20702-36687c-36666-36645-20630</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

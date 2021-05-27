@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heHe" format="2">
 	<unicode hex="05D4"/>
-	<advance width="678"/>
+	<advance width="652"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="494" y="0" type="line"/>
-			<point x="594" y="0" type="line"/>
-			<point x="594" y="351" type="line"/>
-			<point x="594" y="502"/>
-			<point x="516" y="559"/>
-			<point x="400" y="559" type="curve"/>
-			<point x="70" y="559" type="line"/>
-			<point x="70" y="444" type="line"/>
-			<point x="354" y="444" type="line"/>
-			<point x="440" y="444"/>
-			<point x="494" y="411"/>
-			<point x="494" y="300" type="curve"/>
+			<point name="hintSet0000" x="468" y="0" type="line"/>
+			<point x="568" y="0" type="line"/>
+			<point x="568" y="351" type="line"/>
+			<point x="568" y="502"/>
+			<point x="490" y="559"/>
+			<point x="374" y="559" type="curve"/>
+			<point x="76" y="559" type="line"/>
+			<point x="76" y="444" type="line"/>
+			<point x="328" y="444" type="line"/>
+			<point x="414" y="444"/>
+			<point x="468" y="411"/>
+			<point x="468" y="300" type="curve"/>
 		</contour>
 		<contour>
-			<point x="108" y="0" type="line"/>
-			<point x="208" y="0" type="line"/>
-			<point x="208" y="324" type="line"/>
-			<point x="125" y="324" type="line"/>
-			<point x="114" y="287"/>
-			<point x="108" y="248"/>
-			<point x="108" y="198" type="curve"/>
+			<point x="102" y="0" type="line"/>
+			<point x="202" y="0" type="line"/>
+			<point x="202" y="324" type="line"/>
+			<point x="119" y="324" type="line"/>
+			<point x="108" y="287"/>
+			<point x="102" y="248"/>
+			<point x="102" y="198" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="274" y="554"/>
+	<anchor name="belowPrimaryHE" x="284" y="-30"/>
+	<anchor name="centerHE" x="284" y="216"/>
+	<anchor name="aboveLeftHE" x="-6" y="554"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -39,13 +43,13 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 444 115</string>
-							<string>vstem 108 100</string>
-							<string>vstem 494 100</string>
+							<string>vstem 102 100</string>
+							<string>vstem 468 100</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w678l4940l5940l594351594502516559c400559l70559l70444l354444440444494411c494300l1080l2080l208324l125324114287108248c108198</string>
+				<string>w652l4680l5680l568351568502490559c374559l76559l76444l328444414444468411c468300l1020l2020l202324l119324108287102248c102198</string>
 			</dict>
 		</dict>
 	</lib>

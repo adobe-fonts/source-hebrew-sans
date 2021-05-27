@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hePatah" format="2">
+	<unicode hex="05B7"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="-109" y="-131" type="line"/>
+			<point x="109" y="-131" type="line"/>
+			<point x="109" y="-82" type="line"/>
+			<point x="-109" y="-82" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-108" y="-30"/>
+	<anchor name="_belowRightHE" x="108" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-176" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="12" y="-30"/>
+	<guideline x="-166" identifier="QGO5vhQEkK"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -131 49</string>
+							<string>vstem -109 218</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l-109-131l109-131l109-82l-109-82</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

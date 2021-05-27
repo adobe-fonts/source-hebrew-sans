@@ -10,8 +10,8 @@
 			<point x="460" y="190"/>
 			<point x="460" y="300" type="curve"/>
 			<point x="460" y="480"/>
-			<point x="370" y="546"/>
-			<point x="232" y="546" type="curve"/>
+			<point x="388" y="546"/>
+			<point x="252" y="546" type="curve"/>
 			<point x="58" y="546" type="line"/>
 			<point x="58" y="516" type="line"/>
 			<point x="145" y="516" type="line"/>
@@ -27,16 +27,17 @@
 			<point x="126" y="272"/>
 			<point x="84" y="294"/>
 			<point x="84" y="370" type="curve"/>
-			<point x="84" y="453"/>
-			<point x="145" y="515"/>
-			<point x="230" y="516" type="curve"/>
-			<point x="351" y="516"/>
+			<point x="84" y="454"/>
+			<point x="146" y="516"/>
+			<point x="232" y="516" type="curve"/>
+			<point x="246" y="516" type="line"/>
+			<point x="370" y="516"/>
 			<point x="432" y="463"/>
 			<point x="432" y="294" type="curve"/>
-			<point x="432" y="196"/>
-			<point x="424" y="116"/>
-			<point x="413" y="30" type="curve"/>
-			<point x="54" y="30" type="line"/>
+			<point x="432" y="195"/>
+			<point x="424" y="115"/>
+			<point x="413" y="28" type="curve"/>
+			<point x="54" y="28" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -50,7 +51,7 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 30</string>
+							<string>hstem 0 28</string>
 							<string>hstem 240 32</string>
 							<string>hstem 516 30</string>
 							<string>vstem 56 28</string>
@@ -59,7 +60,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>855872f1aff96ad8df4cb3a7210ea951c2af6eec04f7b87feecaa5f4564072ee723004f0ffb280ebabd50e0a31ac76cde50ae9b0d6af3c91b4ca34b5f4d91f9b</string>
+				<string>7df6850cd5257d68cb3efed455ec73f99aecebf9646d16287b12785591cfff81430b64944f20f4af528556032bf9e994741f4d5fc8b1662783073184bcc07868</string>
 			</dict>
 		</dict>
 	</lib>

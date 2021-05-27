@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heHatafSegol" format="2">
+	<unicode hex="05B1"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="122" y="-271" type="curve"/>
+			<point x="141" y="-271"/>
+			<point x="155" y="-256"/>
+			<point x="155" y="-238" type="curve"/>
+			<point x="155" y="-220"/>
+			<point x="141" y="-206"/>
+			<point x="122" y="-206" type="curve"/>
+			<point x="103" y="-206"/>
+			<point x="90" y="-220"/>
+			<point x="90" y="-238" type="curve"/>
+			<point x="90" y="-256"/>
+			<point x="103" y="-271"/>
+		</contour>
+		<contour>
+			<point x="122" y="-148" type="curve"/>
+			<point x="141" y="-148"/>
+			<point x="155" y="-135"/>
+			<point x="155" y="-117" type="curve"/>
+			<point x="155" y="-98"/>
+			<point x="141" y="-84"/>
+			<point x="122" y="-84" type="curve"/>
+			<point x="103" y="-84"/>
+			<point x="90" y="-98"/>
+			<point x="90" y="-117" type="curve"/>
+			<point x="90" y="-135"/>
+			<point x="103" y="-148"/>
+		</contour>
+		<contour>
+			<point x="1" y="-148" type="curve"/>
+			<point x="20" y="-148"/>
+			<point x="33" y="-135"/>
+			<point x="33" y="-117" type="curve"/>
+			<point x="33" y="-98"/>
+			<point x="20" y="-84"/>
+			<point x="1" y="-84" type="curve"/>
+			<point x="-17" y="-84"/>
+			<point x="-32" y="-98"/>
+			<point x="-32" y="-117" type="curve"/>
+			<point x="-32" y="-135"/>
+			<point x="-17" y="-148"/>
+		</contour>
+		<contour>
+			<point name="hintSet0015" x="-59" y="-271" type="curve"/>
+			<point x="-42" y="-271"/>
+			<point x="-29" y="-256"/>
+			<point x="-29" y="-238" type="curve"/>
+			<point x="-29" y="-220"/>
+			<point x="-42" y="-206"/>
+			<point x="-59" y="-206" type="curve"/>
+			<point x="-78" y="-206"/>
+			<point x="-92" y="-220"/>
+			<point x="-92" y="-238" type="curve"/>
+			<point x="-92" y="-256"/>
+			<point x="-78" y="-271"/>
+		</contour>
+		<contour>
+			<point name="hintSet0020" x="-122" y="-148" type="curve"/>
+			<point x="-103" y="-148"/>
+			<point x="-91" y="-135"/>
+			<point x="-91" y="-117" type="curve"/>
+			<point x="-91" y="-98"/>
+			<point x="-103" y="-84"/>
+			<point x="-122" y="-84" type="curve"/>
+			<point x="-140" y="-84"/>
+			<point x="-154" y="-98"/>
+			<point x="-154" y="-117" type="curve"/>
+			<point x="-154" y="-135"/>
+			<point x="-140" y="-148"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-136" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-222" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="70" y="-30"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -271 65</string>
+							<string>hstem -148 64</string>
+							<string>vstem -154 63</string>
+							<string>vstem -32 65</string>
+							<string>vstem 90 65</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0015</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -271 65</string>
+							<string>hstem -148 64</string>
+							<string>vstem -92 63</string>
+							<string>vstem 90 65</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0020</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -271 65</string>
+							<string>hstem -148 64</string>
+							<string>vstem -154 63</string>
+							<string>vstem -32 65</string>
+							<string>vstem 90 65</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>b074782e5b006e1a1077e92155acb96d4a779ab23c74cab1b2523c9213191d5fe677f1f55880347b99c86975d4ce5b613afcfade87cd71cb569a3bc2f9336ca4</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

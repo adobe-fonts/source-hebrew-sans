@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQamats.short" format="2">
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="85" y="-80" type="line"/>
+			<point x="-87" y="-80" type="line"/>
+			<point x="-87" y="-132" type="line"/>
+			<point x="-22" y="-132" type="line"/>
+			<point x="-31" y="-234" type="line"/>
+			<point x="31" y="-234" type="line"/>
+			<point x="22" y="-132" type="line"/>
+			<point x="85" y="-132" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-85" y="-30"/>
+	<anchor name="_belowRightHE" x="85" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-155" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
 </glyph>

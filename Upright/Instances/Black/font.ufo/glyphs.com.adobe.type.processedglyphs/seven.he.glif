@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.he" format="2">
-	<advance width="472"/>
+	<advance width="540"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="192" y="-94" type="curve"/>
-			<point x="226" y="-94" type="line"/>
-			<point x="236" y="156"/>
-			<point x="276" y="322"/>
-			<point x="430" y="528" type="curve"/>
-			<point x="430" y="546" type="line"/>
-			<point x="44" y="546" type="line"/>
-			<point x="44" y="518" type="line"/>
-			<point x="388" y="518" type="line"/>
-			<point x="258" y="336"/>
-			<point x="202" y="170"/>
+			<point name="hintSet0000" x="152" y="-66" type="curve"/>
+			<point x="324" y="-66" type="line"/>
+			<point x="336" y="181"/>
+			<point x="352" y="291"/>
+			<point x="498" y="462" type="curve"/>
+			<point x="498" y="568" type="line"/>
+			<point x="44" y="568" type="line"/>
+			<point x="44" y="424" type="line"/>
+			<point x="316" y="424" type="line"/>
+			<point x="198" y="261"/>
+			<point x="164" y="134"/>
 		</contour>
 	</outline>
 	<lib>
@@ -27,13 +27,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 518 28</string>
-							<string>vstem 192 34</string>
+							<string>hstem 424 144</string>
+							<string>vstem 152 172</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w472c192-94l226-94236156276322c430528l430546l44546l44518l388518258336202170</string>
+				<string>w540c152-66l324-66336181352291c498462l498568l44568l44424l316424198261164134</string>
 			</dict>
 		</dict>
 	</lib>

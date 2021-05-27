@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePatah.short" format="2">
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="84" y="-82" type="line"/>
+			<point x="-84" y="-82" type="line"/>
+			<point x="-84" y="-131" type="line"/>
+			<point x="84" y="-131" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-83" y="-30"/>
+	<anchor name="_belowRightHE" x="83" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-151" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="12" y="-30"/>
 </glyph>

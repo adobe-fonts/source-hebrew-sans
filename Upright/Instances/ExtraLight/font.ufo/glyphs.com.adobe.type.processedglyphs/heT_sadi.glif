@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heTsadi" format="2">
 	<unicode hex="05E6"/>
-	<advance width="498"/>
+	<advance width="502"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="50" y="0" type="line"/>
 			<point x="452" y="0" type="line"/>
-			<point x="458" y="30" type="line"/>
-			<point x="392" y="89"/>
-			<point x="333" y="148"/>
-			<point x="280" y="208" type="curve"/>
-			<point x="378" y="295"/>
-			<point x="444" y="388"/>
+			<point x="458" y="28" type="line"/>
+			<point x="392" y="87"/>
+			<point x="332" y="146"/>
+			<point x="278" y="206" type="curve"/>
+			<point x="375" y="291"/>
+			<point x="444" y="387"/>
 			<point x="444" y="448" type="curve"/>
 			<point x="444" y="516"/>
 			<point x="420" y="546"/>
@@ -22,17 +22,17 @@
 			<point x="403" y="516"/>
 			<point x="416" y="495"/>
 			<point x="416" y="450" type="curve"/>
-			<point x="416" y="391"/>
-			<point x="361" y="315"/>
-			<point x="261" y="230" type="curve"/>
-			<point x="176" y="330"/>
-			<point x="108" y="434"/>
+			<point x="416" y="390"/>
+			<point x="361" y="314"/>
+			<point x="259" y="228" type="curve"/>
+			<point x="173" y="328"/>
+			<point x="106" y="432"/>
 			<point x="56" y="548" type="curve"/>
-			<point x="26" y="536" type="line"/>
-			<point x="113" y="347"/>
-			<point x="247" y="178"/>
-			<point x="413" y="30" type="curve"/>
-			<point x="50" y="30" type="line"/>
+			<point x="26" y="538" type="line"/>
+			<point x="113" y="346"/>
+			<point x="249" y="178"/>
+			<point x="416" y="28" type="curve"/>
+			<point x="50" y="28" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -46,14 +46,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 30</string>
+							<string>hstem 0 28</string>
 							<string>hstem 516 30</string>
 							<string>vstem 416 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>99195f64a27684af679beb1df29973a1963d682f4b6836626d2d66da305d4b59840ecde6cc6cdccadc3e8cfbc9917608dc7b7eb8b3c7949f36e0c5c89dd78862</string>
+				<string>0889fd35df822bb8bb82ee58ebaca9379ccbad8e57da6376f8d7fb95624b680359b1838af362f68d29e5628e46b61652ee75badfe7c9e5a6abad07921d280bd5</string>
 			</dict>
 		</dict>
 	</lib>

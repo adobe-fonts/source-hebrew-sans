@@ -5,28 +5,26 @@
 		<contour>
 			<point name="hintSet0000" x="261" y="-21" type="line"/>
 			<point x="375" y="-21" type="line"/>
-			<point x="375" y="161" type="line"/>
-			<point x="504" y="171"/>
-			<point x="583" y="240"/>
-			<point x="583" y="397" type="curve"/>
-			<point x="583" y="528" type="line"/>
-			<point x="463" y="528" type="line"/>
-			<point x="463" y="405" type="line"/>
-			<point x="463" y="312"/>
-			<point x="431" y="280"/>
-			<point x="375" y="274" type="curve"/>
-			<point x="375" y="470" type="line"/>
-			<point x="261" y="470" type="line"/>
-			<point x="261" y="274" type="line"/>
-			<point x="204" y="280"/>
-			<point x="173" y="311"/>
-			<point x="173" y="405" type="curve"/>
-			<point x="173" y="528" type="line"/>
-			<point x="52" y="528" type="line"/>
-			<point x="52" y="397" type="line"/>
-			<point x="52" y="240"/>
-			<point x="131" y="170"/>
-			<point x="261" y="161" type="curve"/>
+			<point x="375" y="182" type="line"/>
+			<point x="477" y="198"/>
+			<point x="550" y="267"/>
+			<point x="550" y="415" type="curve"/>
+			<point x="550" y="564" type="line"/>
+			<point x="430" y="564" type="line"/>
+			<point x="430" y="458" type="line"/>
+			<point x="430" y="352"/>
+			<point x="388" y="325"/>
+			<point x="321" y="325" type="curve"/>
+			<point x="314" y="325" type="line"/>
+			<point x="246" y="325"/>
+			<point x="205" y="352"/>
+			<point x="205" y="458" type="curve"/>
+			<point x="205" y="564" type="line"/>
+			<point x="85" y="564" type="line"/>
+			<point x="85" y="415" type="line"/>
+			<point x="85" y="267"/>
+			<point x="158" y="197"/>
+			<point x="261" y="182" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -40,15 +38,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -21 549</string>
-							<string>vstem 52 121</string>
+							<string>hstem -21 585</string>
+							<string>vstem 85 120</string>
 							<string>vstem 261 114</string>
-							<string>vstem 463 120</string>
+							<string>vstem 430 120</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>ac99ae98f5a7126decbabc6a704ecd4e3e621ae96b19687995e799bcd355cdef1bdd34cfc344dd53742c2e207479b6ad642e79aca2ba91d0c185346c22048ded</string>
+				<string>9a20782e5a67e031e5e109791020ead0def53df7813e47dee32cf81286bcfbb3d8b47b7744abcdf47806cdb9e2ac8f1ecd088853de14aa138df27a2cf1057e84</string>
 			</dict>
 		</dict>
 	</lib>

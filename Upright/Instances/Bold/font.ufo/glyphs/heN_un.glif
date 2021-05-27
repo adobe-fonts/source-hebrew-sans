@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heNun" format="2">
 	<unicode hex="05E0"/>
-	<advance width="458"/>
+	<advance width="441"/>
 	<outline>
 		<contour>
-			<point x="54" y="0" type="line"/>
-			<point x="372" y="0" type="line"/>
-			<point x="372" y="375" type="line" smooth="yes"/>
-			<point x="372" y="514"/>
-			<point x="302" y="564"/>
-			<point x="195" y="564" type="curve" smooth="yes"/>
-			<point x="90" y="564" type="line"/>
-			<point x="90" y="417" type="line"/>
-			<point x="135" y="417" type="line" smooth="yes"/>
-			<point x="205" y="417"/>
-			<point x="246" y="394"/>
-			<point x="246" y="307" type="curve" smooth="yes"/>
-			<point x="246" y="147" type="line"/>
-			<point x="54" y="147" type="line"/>
+			<point x="46" y="0" type="line"/>
+			<point x="364" y="0" type="line"/>
+			<point x="364" y="375" type="line" smooth="yes"/>
+			<point x="364" y="514"/>
+			<point x="294" y="564"/>
+			<point x="187" y="564" type="curve" smooth="yes"/>
+			<point x="81" y="564" type="line"/>
+			<point x="81" y="417" type="line"/>
+			<point x="127" y="417" type="line" smooth="yes"/>
+			<point x="196" y="417"/>
+			<point x="237" y="394"/>
+			<point x="237" y="307" type="curve" smooth="yes"/>
+			<point x="237" y="142" type="line"/>
+			<point x="46" y="142" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="179" y="541"/>
+	<anchor name="belowPrimaryHE" x="168" y="-30"/>
+	<anchor name="centerHE" x="118" y="252"/>
+	<anchor name="aboveLeftHE" x="14" y="541"/>
+	<anchor name="belowPrimaryHECXT" x="205" y="-30"/>
 </glyph>

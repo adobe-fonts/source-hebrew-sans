@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heSheva.kaf" format="2">
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="0" y="-75" type="curve"/>
+			<point x="-22" y="-75"/>
+			<point x="-42" y="-93"/>
+			<point x="-42" y="-118" type="curve"/>
+			<point x="-42" y="-143"/>
+			<point x="-22" y="-160"/>
+			<point x="0" y="-160" type="curve"/>
+			<point x="22" y="-160"/>
+			<point x="42" y="-144"/>
+			<point x="42" y="-118" type="curve"/>
+			<point x="42" y="-93"/>
+			<point x="22" y="-75"/>
+		</contour>
+		<contour>
+			<point x="0" y="-200" type="curve"/>
+			<point x="-22" y="-200"/>
+			<point x="-42" y="-218"/>
+			<point x="-42" y="-243" type="curve"/>
+			<point x="-42" y="-268"/>
+			<point x="-22" y="-285"/>
+			<point x="0" y="-285" type="curve"/>
+			<point x="22" y="-285"/>
+			<point x="42" y="-269"/>
+			<point x="42" y="-243" type="curve"/>
+			<point x="42" y="-218"/>
+			<point x="22" y="-200"/>
+		</contour>
+	</outline>
+	<anchor name="_centerSecondaryHE" x="0" y="-30"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -285 85</string>
+							<string>hstem -160 85</string>
+							<string>vstem -42 84</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>16e75ba8fec5b71848d7092c3bbfaa26131f477e295ea6488169b7d55432d1d83bcdb15202315384d20c7c723483b088e537e11025f293f0f076b4fc469a6601</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

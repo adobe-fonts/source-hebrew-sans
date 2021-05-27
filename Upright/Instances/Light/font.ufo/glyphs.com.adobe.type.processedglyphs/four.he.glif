@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.he" format="2">
-	<advance width="472"/>
+	<advance width="479"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="58" y="130" type="line"/>
-			<point x="260" y="412" type="line"/>
-			<point x="278" y="440"/>
-			<point x="296" y="462"/>
-			<point x="312" y="488" type="curve"/>
-			<point x="316" y="488" type="line"/>
-			<point x="314" y="460"/>
-			<point x="312" y="410"/>
-			<point x="312" y="382" type="curve"/>
-			<point x="312" y="130" type="line"/>
+			<point name="hintSet0000" x="70" y="138" type="line"/>
+			<point x="258" y="402" type="line"/>
+			<point x="276" y="431"/>
+			<point x="294" y="455"/>
+			<point x="310" y="482" type="curve"/>
+			<point x="314" y="482" type="line"/>
+			<point x="312" y="452"/>
+			<point x="310" y="401"/>
+			<point x="310" y="372" type="curve"/>
+			<point x="310" y="138" type="line"/>
 		</contour>
 		<contour>
-			<point x="312" y="-94" type="line"/>
-			<point x="342" y="-94" type="line"/>
-			<point x="342" y="102" type="line"/>
-			<point x="440" y="102" type="line"/>
-			<point x="440" y="130" type="line"/>
-			<point x="342" y="130" type="line"/>
-			<point x="342" y="546" type="line"/>
-			<point x="322" y="546" type="line"/>
-			<point x="16" y="118" type="line"/>
-			<point x="16" y="102" type="line"/>
-			<point x="312" y="102" type="line"/>
+			<point x="310" y="-91" type="line"/>
+			<point x="353" y="-91" type="line"/>
+			<point x="353" y="99" type="line"/>
+			<point x="448" y="99" type="line"/>
+			<point x="448" y="138" type="line"/>
+			<point x="353" y="138" type="line"/>
+			<point x="353" y="548" type="line"/>
+			<point x="313" y="548" type="line"/>
+			<point x="16" y="126" type="line"/>
+			<point x="16" y="99" type="line"/>
+			<point x="310" y="99" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -39,14 +39,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 102 28</string>
-							<string>hstem 488 58</string>
-							<string>vstem 312 30</string>
+							<string>hstem 99 39</string>
+							<string>hstem 482 66</string>
+							<string>vstem 310 43</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>dbbff2f43a221197369acde1239585092d9e58d2194c099d6e8ec7e12f5234e229778d8771dc2d012d89bd4f631e23b9d4b912a58cdb9415627319424fdb649c</string>
+				<string>300a52c1078099a06fc2bab49a5301bf8c1f0e8b91a64d98f2e347ada2bd2102b583e6ae3fc7deee581bc7e57c5000e1b95ec4db74d83e7265caaa65daf3c429</string>
 			</dict>
 		</dict>
 	</lib>

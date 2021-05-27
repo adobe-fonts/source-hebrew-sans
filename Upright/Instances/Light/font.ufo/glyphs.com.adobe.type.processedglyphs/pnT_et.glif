@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnTet" format="2">
+	<advance width="574"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="270" y="151" type="line"/>
+			<point x="304" y="151" type="line"/>
+			<point x="304" y="261" type="line"/>
+			<point x="406" y="261" type="line"/>
+			<point x="406" y="300" type="line"/>
+			<point x="304" y="300" type="line"/>
+			<point x="304" y="408" type="line"/>
+			<point x="270" y="408" type="line"/>
+			<point x="270" y="300" type="line"/>
+			<point x="168" y="300" type="line"/>
+			<point x="168" y="261" type="line"/>
+			<point x="270" y="261" type="line"/>
+		</contour>
+		<contour>
+			<point x="287" y="36" type="curve"/>
+			<point x="172" y="36"/>
+			<point x="97" y="128"/>
+			<point x="97" y="275" type="curve"/>
+			<point x="97" y="423"/>
+			<point x="172" y="512"/>
+			<point x="287" y="512" type="curve"/>
+			<point x="401" y="512"/>
+			<point x="478" y="423"/>
+			<point x="478" y="275" type="curve"/>
+			<point x="478" y="128"/>
+			<point x="401" y="36"/>
+		</contour>
+		<contour>
+			<point x="287" y="-12" type="curve"/>
+			<point x="422" y="-12"/>
+			<point x="519" y="100"/>
+			<point x="519" y="275" type="curve"/>
+			<point x="519" y="451"/>
+			<point x="422" y="560"/>
+			<point x="287" y="560" type="curve"/>
+			<point x="152" y="560"/>
+			<point x="55" y="451"/>
+			<point x="55" y="275" type="curve"/>
+			<point x="55" y="100"/>
+			<point x="152" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 48</string>
+							<string>hstem 261 39</string>
+							<string>hstem 512 48</string>
+							<string>vstem 55 42</string>
+							<string>vstem 270 34</string>
+							<string>vstem 478 41</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>1104bc9d208264c61bd294eca43332083228a2e68d9751b7434d79eb0c1c089b2bcf38d3941b6f324da4e9e6721e52f7cd494b1eae38480fe9fd627bfbe4581b</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

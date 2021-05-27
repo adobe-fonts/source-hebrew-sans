@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heLamed" format="2">
 	<unicode hex="05DC"/>
-	<advance width="478"/>
+	<advance width="461"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="113" y="-12" type="line"/>
-			<point x="357" y="103"/>
-			<point x="422" y="262"/>
-			<point x="422" y="399" type="curve"/>
-			<point x="422" y="503"/>
-			<point x="380" y="548"/>
-			<point x="255" y="548" type="curve"/>
-			<point x="86" y="548" type="line"/>
-			<point x="86" y="722" type="line"/>
-			<point x="46" y="722" type="line"/>
-			<point x="46" y="504" type="line"/>
-			<point x="246" y="504" type="line"/>
-			<point x="341" y="504"/>
-			<point x="380" y="480"/>
-			<point x="380" y="393" type="curve"/>
-			<point x="380" y="271"/>
-			<point x="326" y="137"/>
-			<point x="93" y="29" type="curve"/>
+			<point name="hintSet0000" x="105" y="-12" type="line"/>
+			<point x="342" y="103"/>
+			<point x="406" y="262"/>
+			<point x="406" y="399" type="curve"/>
+			<point x="406" y="503"/>
+			<point x="365" y="548"/>
+			<point x="239" y="548" type="curve"/>
+			<point x="87" y="548" type="line"/>
+			<point x="87" y="722" type="line"/>
+			<point x="47" y="722" type="line"/>
+			<point x="47" y="504" type="line"/>
+			<point x="230" y="504" type="line"/>
+			<point x="326" y="504"/>
+			<point x="364" y="480"/>
+			<point x="364" y="393" type="curve"/>
+			<point x="364" y="271"/>
+			<point x="312" y="137"/>
+			<point x="85" y="29" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="206" y="584"/>
+	<anchor name="belowLeftHE" x="112" y="-30"/>
+	<anchor name="centerHE" x="162" y="311"/>
+	<anchor name="aboveLeftHE" x="-78" y="584"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -36,13 +40,13 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 504 44</string>
-							<string>vstem 46 40</string>
-							<string>vstem 380 42</string>
+							<string>vstem 47 40</string>
+							<string>vstem 364 42</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w478l113-12357103422262c422399422503380548c255548l86548l86722l46722l46504l246504341504380480c380393380271326137c9329</string>
+				<string>w461l105-12342103406262c406399406503365548c239548l87548l87722l47722l47504l230504326504364480c364393364271312137c8529</string>
 			</dict>
 		</dict>
 	</lib>

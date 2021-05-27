@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heYod" format="2">
 	<unicode hex="05D9"/>
-	<advance width="242"/>
+	<advance width="240"/>
 	<outline>
 		<contour>
 			<point x="105" y="233" type="line"/>
@@ -22,4 +22,8 @@
 			<point x="67" y="253" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="85" y="584"/>
+	<anchor name="belowPrimaryHE" x="123" y="-30"/>
+	<anchor name="centerHE" x="26" y="392"/>
+	<anchor name="aboveLeftHE" x="-10" y="584"/>
 </glyph>

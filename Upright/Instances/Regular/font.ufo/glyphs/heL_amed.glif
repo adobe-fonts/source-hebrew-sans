@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heLamed" format="2">
 	<unicode hex="05DC"/>
-	<advance width="493"/>
+	<advance width="475"/>
 	<outline>
 		<contour>
-			<point x="114" y="-12" type="line"/>
-			<point x="370" y="102"/>
-			<point x="442" y="263"/>
-			<point x="442" y="408" type="curve" smooth="yes"/>
-			<point x="442" y="510"/>
-			<point x="398" y="554"/>
-			<point x="262" y="554" type="curve" smooth="yes"/>
-			<point x="111" y="554" type="line"/>
-			<point x="111" y="728" type="line"/>
-			<point x="39" y="728" type="line"/>
-			<point x="39" y="472" type="line"/>
-			<point x="245" y="472" type="line" smooth="yes"/>
-			<point x="329" y="472"/>
-			<point x="362" y="452"/>
-			<point x="362" y="379" type="curve" smooth="yes"/>
-			<point x="362" y="274"/>
-			<point x="301" y="157"/>
-			<point x="83" y="69" type="curve"/>
+			<point x="112" y="-12" type="line"/>
+			<point x="359" y="100"/>
+			<point x="428" y="263"/>
+			<point x="428" y="408" type="curve" smooth="yes"/>
+			<point x="428" y="510"/>
+			<point x="384" y="554"/>
+			<point x="248" y="554" type="curve" smooth="yes"/>
+			<point x="115" y="554" type="line"/>
+			<point x="115" y="728" type="line"/>
+			<point x="43" y="728" type="line"/>
+			<point x="43" y="472" type="line"/>
+			<point x="231" y="472" type="line" smooth="yes"/>
+			<point x="315" y="472"/>
+			<point x="349" y="452"/>
+			<point x="349" y="379" type="curve" smooth="yes"/>
+			<point x="349" y="274"/>
+			<point x="289" y="156"/>
+			<point x="81" y="69" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="224" y="568"/>
+	<anchor name="belowLeftHE" x="117" y="-30"/>
+	<anchor name="centerHE" x="169" y="300"/>
+	<anchor name="aboveLeftHE" x="-74" y="568"/>
 </glyph>

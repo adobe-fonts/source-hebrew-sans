@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePatah" format="2">
 	<unicode hex="05B7"/>
-	<advance width="540"/>
+	<outline>
+		<contour>
+			<point x="-105" y="-129" type="line"/>
+			<point x="105" y="-129" type="line"/>
+			<point x="105" y="-86" type="line"/>
+			<point x="-105" y="-86" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-104" y="-30"/>
+	<anchor name="_belowRightHE" x="104" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-167" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="16" y="-30"/>
+	<guideline x="-157" identifier="QGO5vhQEkK"/>
 </glyph>

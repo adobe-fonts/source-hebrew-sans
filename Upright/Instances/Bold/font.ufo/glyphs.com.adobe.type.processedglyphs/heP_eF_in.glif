@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePeFin" format="2">
 	<unicode hex="05E3"/>
-	<advance width="605"/>
+	<advance width="604"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="531" y="-200" type="line"/>
-			<point x="531" y="352" type="line"/>
-			<point x="531" y="506"/>
-			<point x="450" y="564"/>
-			<point x="331" y="564" type="curve"/>
-			<point x="70" y="564" type="line"/>
-			<point x="70" y="417" type="line"/>
+			<point name="hintSet0000" x="530" y="-200" type="line"/>
+			<point x="530" y="352" type="line"/>
+			<point x="530" y="506"/>
+			<point x="448" y="564"/>
+			<point x="329" y="564" type="curve"/>
+			<point x="71" y="564" type="line"/>
+			<point x="71" y="417" type="line"/>
 			<point name="hintSet0005" x="117" y="417" type="line"/>
 			<point x="92" y="389"/>
 			<point x="77" y="354"/>
@@ -27,11 +27,11 @@
 			<point x="204" y="393"/>
 			<point x="228" y="417"/>
 			<point x="265" y="417" type="curve"/>
-			<point x="270" y="417" type="line"/>
-			<point x="353" y="417"/>
-			<point x="404" y="387"/>
-			<point x="404" y="283" type="curve"/>
-			<point x="404" y="-200" type="line"/>
+			<point x="268" y="417" type="line"/>
+			<point x="351" y="417"/>
+			<point x="403" y="387"/>
+			<point x="403" y="283" type="curve"/>
+			<point x="403" y="-200" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -47,8 +47,8 @@
 						<array>
 							<string>hstem 172 148</string>
 							<string>hstem 417 147</string>
-							<string>vstem 70 134</string>
-							<string>vstem 404 127</string>
+							<string>vstem 71 133</string>
+							<string>vstem 403 127</string>
 						</array>
 					</dict>
 					<dict>
@@ -59,7 +59,7 @@
 							<string>hstem 172 148</string>
 							<string>hstem 417 147</string>
 							<string>vstem 77 220</string>
-							<string>vstem 404 127</string>
+							<string>vstem 403 127</string>
 						</array>
 					</dict>
 					<dict>
@@ -69,13 +69,13 @@
 						<array>
 							<string>hstem 172 148</string>
 							<string>hstem 417 147</string>
-							<string>vstem 70 134</string>
-							<string>vstem 404 127</string>
+							<string>vstem 71 133</string>
+							<string>vstem 403 127</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>4e6881d98fc626fb0c60b9cedc9460f07bdfb7480416f987da7a0fe3de395ff3b46b2f97258cf9cf65cc2559b45593454c67895a15011980e83e744f0b19ef04</string>
+				<string>3bd192b23acb765730dc1f732ed8e06e07b37c405f8a39662c01f8277eb574c6b18b5fdd1c7eec85e94bebef1aa201728efd384c60bf86c1bfc90cf9202ae0fb</string>
 			</dict>
 		</dict>
 	</lib>

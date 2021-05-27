@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heQamats.kaf" format="2">
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="79" y="-86" type="line"/>
+			<point x="-80" y="-86" type="line"/>
+			<point x="-80" y="-129" type="line"/>
+			<point x="-18" y="-129" type="line"/>
+			<point x="-27" y="-222" type="line"/>
+			<point x="27" y="-222" type="line"/>
+			<point x="18" y="-129" type="line"/>
+			<point x="79" y="-129" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_centerSecondaryHE" x="0" y="-30"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -129 43</string>
+							<string>vstem -22.5 45</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l79-86l-80-86l-80-129l-18-129l-27-222l27-222l18-129l79-129</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heTsere" format="2">
+	<unicode hex="05B5"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="-65" y="-159" type="curve"/>
+			<point x="-43" y="-159"/>
+			<point x="-25" y="-143"/>
+			<point x="-25" y="-118" type="curve"/>
+			<point x="-25" y="-95"/>
+			<point x="-43" y="-78"/>
+			<point x="-65" y="-78" type="curve"/>
+			<point x="-87" y="-78"/>
+			<point x="-106" y="-95"/>
+			<point x="-106" y="-118" type="curve"/>
+			<point x="-106" y="-142"/>
+			<point x="-87" y="-159"/>
+		</contour>
+		<contour>
+			<point x="64" y="-159" type="curve"/>
+			<point x="86" y="-159"/>
+			<point x="104" y="-143"/>
+			<point x="104" y="-118" type="curve"/>
+			<point x="104" y="-95"/>
+			<point x="86" y="-78"/>
+			<point x="64" y="-78" type="curve"/>
+			<point x="42" y="-78"/>
+			<point x="24" y="-95"/>
+			<point x="24" y="-118" type="curve"/>
+			<point x="24" y="-142"/>
+			<point x="42" y="-159"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
+	<anchor name="_belowLeftHE" x="-94" y="-30"/>
+	<anchor name="_belowRightHE" x="94" y="-30"/>
+	<anchor name="belowPrimaryHE" x="-172" y="-30"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -159 81</string>
+							<string>vstem -106 81</string>
+							<string>vstem 24 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>3b7e6ba77c1f4564f91d29451d20a32530d3ecd36612611c2e0b0a9341b558ce7ed39c14afe730f69c9f03efeb721e14689e94015dc79ea7a07a01c855ee1fcc</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
