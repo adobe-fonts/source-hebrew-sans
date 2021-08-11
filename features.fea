@@ -11,3 +11,19 @@ table name {
 
 #include (../../../familyGSUB.fea);
 #include (../../../familyGPOS.fea);
+
+
+### DEVELOPMENT FEATURES TO BE MOVED TO familyGSUB.fea and deleted ###
+
+#---------------------------------------
+languagesystem DFLT dflt;
+
+languagesystem hebr dflt;
+	languagesystem hebr JII;
+
+languagesystem latn dflt;
+
+#--------------------------------------
+#feature ss01 { # stylistic set 1
+#	sub [ heBet heTet heMemFin heSamekh heAyin heTsadi heShin ] by [ heBet.a heTet.a heMemFin.a heSamekh.a heAyin.a heTsadi.a heShin.a ];
+#} ss01;

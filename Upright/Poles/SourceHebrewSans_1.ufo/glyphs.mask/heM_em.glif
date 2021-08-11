@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heMem" format="2">
-	<advance width="770"/>
+	<advance width="704"/>
 	<outline>
 		<contour>
 			<point x="338" y="0" type="line"/>
@@ -27,8 +27,6 @@
 			<point x="344" y="166" type="line"/>
 		</contour>
 		<contour>
-			<point x="146" y="326"/>
-			<point x="143" y="315"/>
 			<point x="138" y="304" type="curve"/>
 			<point x="208" y="255" type="line"/>
 			<point x="231" y="306"/>
@@ -43,6 +41,8 @@
 			<point x="120" y="396"/>
 			<point x="146" y="376"/>
 			<point x="146" y="336" type="curve" smooth="yes"/>
+			<point x="146" y="326"/>
+			<point x="143" y="315"/>
 		</contour>
 	</outline>
 </glyph>
