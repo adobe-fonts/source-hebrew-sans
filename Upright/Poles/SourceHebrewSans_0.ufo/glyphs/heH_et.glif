@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heHet" format="2">
+	<unicode hex="05D7"/>
+	<advance width="630"/>
+	<outline>
+		<contour>
+			<point x="500" y="0" type="line"/>
+			<point x="528" y="0" type="line"/>
+			<point x="528" y="350" type="line" smooth="yes"/>
+			<point x="528" y="494"/>
+			<point x="459" y="546"/>
+			<point x="352" y="546" type="curve" smooth="yes"/>
+			<point x="34" y="546" type="line"/>
+			<point x="34" y="516" type="line"/>
+			<point x="346" y="516" type="line" smooth="yes"/>
+			<point x="440" y="516"/>
+			<point x="500" y="475"/>
+			<point x="500" y="344" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="114" y="0" type="line"/>
+			<point x="142" y="0" type="line"/>
+			<point x="142" y="516" type="line"/>
+			<point x="120" y="516" type="line"/>
+			<point x="114" y="490"/>
+			<point x="114" y="462"/>
+			<point x="114" y="426" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="305" y="590"/>
+	<anchor name="belowPrimaryHE" x="315" y="-30"/>
+	<anchor name="centerHE" x="320" y="255"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
+</glyph>

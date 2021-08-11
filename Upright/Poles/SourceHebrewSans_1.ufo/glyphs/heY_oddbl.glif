@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heYoddbl" format="2">
+	<unicode hex="05F2"/>
+	<advance width="644"/>
+	<outline>
+		<component base="heYod"/>
+		<component base="heYod" xOffset="312"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>

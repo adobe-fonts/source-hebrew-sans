@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heLamed" format="2">
+	<unicode hex="05DC"/>
+	<advance width="498"/>
+	<outline>
+		<contour>
+			<point x="128" y="-12" type="line"/>
+			<point x="382" y="98"/>
+			<point x="460" y="258"/>
+			<point x="460" y="418" type="curve" smooth="yes"/>
+			<point x="460" y="523"/>
+			<point x="408" y="568"/>
+			<point x="248" y="568" type="curve" smooth="yes"/>
+			<point x="182" y="568" type="line"/>
+			<point x="182" y="742" type="line"/>
+			<point x="34" y="742" type="line"/>
+			<point x="34" y="396" type="line"/>
+			<point x="232" y="396" type="line" smooth="yes"/>
+			<point x="290" y="396"/>
+			<point x="312" y="386"/>
+			<point x="312" y="346" type="curve" smooth="yes"/>
+			<point x="312" y="272"/>
+			<point x="239" y="196"/>
+			<point x="72" y="138" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="265" y="530"/>
+	<anchor name="belowLeftHE" x="130" y="-30"/>
+	<anchor name="centerHE" x="185" y="275"/>
+	<anchor name="aboveLeftHE" x="-65" y="530"/>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnHet" format="2">
+	<unicode hex="10907"/>
+	<advance width="572"/>
+	<outline>
+		<contour>
+			<point x="444" y="-120" type="line"/>
+			<point x="472" y="-120" type="line"/>
+			<point x="472" y="546" type="line"/>
+			<point x="128" y="546" type="line"/>
+			<point x="128" y="660" type="line"/>
+			<point x="100" y="660" type="line"/>
+			<point x="100" y="0" type="line"/>
+			<point x="444" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="128" y="306" type="line"/>
+			<point x="128" y="516" type="line"/>
+			<point x="444" y="516" type="line"/>
+			<point x="444" y="306" type="line"/>
+		</contour>
+		<contour>
+			<point x="128" y="30" type="line"/>
+			<point x="128" y="276" type="line"/>
+			<point x="444" y="276" type="line"/>
+			<point x="444" y="30" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

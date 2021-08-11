@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnSemk" format="2">
+	<unicode hex="1090E"/>
+	<advance width="468"/>
+	<outline>
+		<contour>
+			<point x="220" y="-120" type="line"/>
+			<point x="248" y="-120" type="line"/>
+			<point x="248" y="176" type="line"/>
+			<point x="438" y="176" type="line"/>
+			<point x="438" y="206" type="line"/>
+			<point x="248" y="206" type="line"/>
+			<point x="248" y="350" type="line"/>
+			<point x="406" y="350" type="line"/>
+			<point x="406" y="380" type="line"/>
+			<point x="248" y="380" type="line"/>
+			<point x="248" y="516" type="line"/>
+			<point x="438" y="516" type="line"/>
+			<point x="438" y="546" type="line"/>
+			<point x="30" y="546" type="line"/>
+			<point x="30" y="516" type="line"/>
+			<point x="220" y="516" type="line"/>
+			<point x="220" y="380" type="line"/>
+			<point x="62" y="380" type="line"/>
+			<point x="62" y="350" type="line"/>
+			<point x="220" y="350" type="line"/>
+			<point x="220" y="206" type="line"/>
+			<point x="30" y="206" type="line"/>
+			<point x="30" y="176" type="line"/>
+			<point x="220" y="176" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

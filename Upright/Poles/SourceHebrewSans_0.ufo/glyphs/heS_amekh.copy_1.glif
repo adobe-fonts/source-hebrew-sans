@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heSamekh.copy_1" format="2">
+	<advance width="604"/>
+	<outline>
+		<contour>
+			<point x="318" y="-12" type="curve" smooth="yes"/>
+			<point x="442" y="-12"/>
+			<point x="546" y="118"/>
+			<point x="546" y="316" type="curve" smooth="yes"/>
+			<point x="546" y="468"/>
+			<point x="452" y="546"/>
+			<point x="310" y="546" type="curve" smooth="yes"/>
+			<point x="94" y="546" type="line"/>
+			<point x="94" y="516" type="line"/>
+			<point x="304" y="516" type="line" smooth="yes"/>
+			<point x="436" y="516"/>
+			<point x="518" y="450"/>
+			<point x="518" y="316" type="curve" smooth="yes"/>
+			<point x="518" y="135"/>
+			<point x="428" y="20"/>
+			<point x="318" y="20" type="curve" smooth="yes"/>
+			<point x="214" y="20"/>
+			<point x="122" y="125"/>
+			<point x="122" y="292" type="curve" smooth="yes"/>
+			<point x="122" y="407"/>
+			<point x="188" y="516"/>
+			<point x="302" y="516" type="curve"/>
+			<point x="302" y="536" type="line"/>
+			<point x="163" y="536"/>
+			<point x="94" y="419"/>
+			<point x="94" y="292" type="curve" smooth="yes"/>
+			<point x="94" y="104"/>
+			<point x="200" y="-12"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="305" y="590"/>
+	<anchor name="belowPrimaryHE" x="315" y="-30"/>
+	<anchor name="centerHE" x="325" y="300"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>

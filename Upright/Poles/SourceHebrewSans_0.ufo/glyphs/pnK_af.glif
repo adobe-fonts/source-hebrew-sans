@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnKaf" format="2">
+	<unicode hex="1090A"/>
+	<advance width="556"/>
+	<outline>
+		<contour>
+			<point x="394" y="-120" type="line"/>
+			<point x="394" y="546" type="line"/>
+			<point x="366" y="546" type="line"/>
+			<point x="366" y="-120" type="line"/>
+		</contour>
+		<contour>
+			<point x="62" y="172" type="line"/>
+			<point x="362" y="360" type="line"/>
+			<point x="62" y="550" type="line"/>
+			<point x="62" y="518" type="line"/>
+			<point x="316" y="362" type="line"/>
+			<point x="316" y="358" type="line"/>
+			<point x="62" y="204" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>

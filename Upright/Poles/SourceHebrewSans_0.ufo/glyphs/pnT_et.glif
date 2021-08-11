@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnTet" format="2">
+	<unicode hex="10908"/>
+	<advance width="568"/>
+	<outline>
+		<contour>
+			<point x="270" y="88" type="line"/>
+			<point x="298" y="88" type="line"/>
+			<point x="298" y="264" type="line"/>
+			<point x="446" y="264" type="line"/>
+			<point x="446" y="296" type="line"/>
+			<point x="298" y="296" type="line"/>
+			<point x="298" y="450" type="line"/>
+			<point x="270" y="450" type="line"/>
+			<point x="270" y="296" type="line"/>
+			<point x="122" y="296" type="line"/>
+			<point x="122" y="264" type="line"/>
+			<point x="270" y="264" type="line"/>
+		</contour>
+		<component base="pnAin"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heTsadi" format="2">
+	<advance width="718"/>
+	<outline>
+		<contour>
+			<point x="44" y="0" type="line"/>
+			<point x="540" y="0" type="line"/>
+			<point x="570" y="164" type="line"/>
+			<point x="44" y="164" type="line"/>
+		</contour>
+		<contour>
+			<point x="460" y="88" type="curve"/>
+			<point x="570" y="164" type="line"/>
+			<point x="370" y="236"/>
+			<point x="238" y="384"/>
+			<point x="156" y="570" type="curve"/>
+			<point x="26" y="478" type="line"/>
+			<point x="108" y="290"/>
+			<point x="258" y="160"/>
+		</contour>
+		<contour>
+			<point x="422" y="190" type="line"/>
+			<point x="530" y="272"/>
+			<point x="568" y="340"/>
+			<point x="568" y="414" type="curve" smooth="yes"/>
+			<point x="568" y="522"/>
+			<point x="514" y="568"/>
+			<point x="390" y="568" type="curve" smooth="yes"/>
+			<point x="308" y="568" type="line"/>
+			<point x="308" y="396" type="line"/>
+			<point x="326" y="396" type="line" smooth="yes"/>
+			<point x="396" y="396"/>
+			<point x="420" y="380"/>
+			<point x="420" y="348" type="curve" smooth="yes"/>
+			<point x="420" y="324"/>
+			<point x="400" y="304"/>
+			<point x="352" y="274" type="curve"/>
+		</contour>
+	</outline>
+</glyph>
