@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heLamed" format="2">
 	<unicode hex="05DC"/>
-	<advance width="461"/>
+	<advance width="460"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="105" y="-12" type="line"/>
-			<point x="342" y="103"/>
-			<point x="406" y="262"/>
-			<point x="406" y="399" type="curve"/>
-			<point x="406" y="503"/>
-			<point x="365" y="548"/>
-			<point x="239" y="548" type="curve"/>
+			<point x="313" y="114"/>
+			<point x="404" y="262"/>
+			<point x="404" y="397" type="curve"/>
+			<point x="404" y="501"/>
+			<point x="363" y="548"/>
+			<point x="237" y="548" type="curve"/>
 			<point x="87" y="548" type="line"/>
 			<point x="87" y="722" type="line"/>
 			<point x="47" y="722" type="line"/>
@@ -20,8 +20,8 @@
 			<point x="364" y="480"/>
 			<point x="364" y="393" type="curve"/>
 			<point x="364" y="271"/>
-			<point x="312" y="137"/>
-			<point x="85" y="29" type="curve"/>
+			<point x="285" y="148"/>
+			<point x="85" y="26" type="curve"/>
 		</contour>
 	</outline>
 	<anchor name="aboveHE" x="206" y="584"/>
@@ -41,12 +41,12 @@
 						<array>
 							<string>hstem 504 44</string>
 							<string>vstem 47 40</string>
-							<string>vstem 364 42</string>
+							<string>vstem 364 40</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w461l105-12342103406262c406399406503365548c239548l87548l87722l47722l47504l230504326504364480c364393364271312137c8529</string>
+				<string>w460l105-12313114404262c404397404501363548c237548l87548l87722l47722l47504l230504326504364480c364393364271285148c8526</string>
 			</dict>
 		</dict>
 	</lib>

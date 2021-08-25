@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heHet" format="2">
 	<unicode hex="05D7"/>
-	<advance width="641"/>
+	<advance width="635"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="502" y="0" type="line"/>
-			<point x="542" y="0" type="line"/>
-			<point x="542" y="350" type="line"/>
-			<point x="542" y="495"/>
-			<point x="471" y="548"/>
-			<point x="363" y="548" type="curve"/>
+			<point name="hintSet0000" x="496" y="0" type="line"/>
+			<point x="536" y="0" type="line"/>
+			<point x="536" y="350" type="line"/>
+			<point x="536" y="495"/>
+			<point x="466" y="548"/>
+			<point x="357" y="548" type="curve"/>
 			<point x="37" y="548" type="line"/>
 			<point x="37" y="504" type="line"/>
 			<point x="120" y="504" type="line"/>
@@ -19,10 +19,10 @@
 			<point x="112" y="0" type="line"/>
 			<point x="152" y="0" type="line"/>
 			<point x="152" y="504" type="line"/>
-			<point x="350" y="504" type="line"/>
-			<point x="443" y="504"/>
-			<point x="502" y="464"/>
-			<point x="502" y="337" type="curve"/>
+			<point x="345" y="504" type="line"/>
+			<point x="437" y="504"/>
+			<point x="496" y="464"/>
+			<point x="496" y="337" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -38,12 +38,12 @@
 						<array>
 							<string>hstem 504 44</string>
 							<string>vstem 112 40</string>
-							<string>vstem 502 40</string>
+							<string>vstem 496 40</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w641l5020l5420l542350542495471548c363548l37548l37504l120504113476112446c112408l1120l1520l152504l350504443504502464c502337</string>
+				<string>w635l4960l5360l536350536495466548c357548l37548l37504l120504113476112446c112408l1120l1520l152504l345504437504496464c496337</string>
 			</dict>
 		</dict>
 	</lib>

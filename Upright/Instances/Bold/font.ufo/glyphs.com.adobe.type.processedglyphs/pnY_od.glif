@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnYod" format="2">
-	<advance width="393"/>
+	<unicode hex="10909"/>
+	<advance width="531"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="36" y="0" type="line"/>
-			<point x="496" y="0" type="line"/>
-			<point x="496" y="147" type="line"/>
-			<point x="234" y="147" type="line"/>
-			<point x="493" y="475" type="line"/>
-			<point x="493" y="564" type="line"/>
+			<point name="hintSet0000" x="108" y="0" type="line"/>
+			<point x="463" y="0" type="line"/>
+			<point x="463" y="147" type="line"/>
+			<point x="274" y="147" type="line"/>
+			<point x="460" y="475" type="line"/>
+			<point x="460" y="564" type="line"/>
 			<point x="62" y="564" type="line"/>
 			<point x="62" y="417" type="line"/>
 			<point x="295" y="417" type="line"/>
-			<point x="233" y="339" type="line"/>
-			<point x="84" y="339" type="line"/>
-			<point x="84" y="231" type="line"/>
-			<point x="148" y="231" type="line"/>
-			<point x="36" y="89" type="line"/>
+			<point x="252" y="341" type="line"/>
+			<point x="84" y="341" type="line"/>
+			<point x="84" y="233" type="line"/>
+			<point x="190" y="233" type="line"/>
+			<point x="108" y="89" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -31,14 +32,14 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 147</string>
-							<string>hstem 231 108</string>
+							<string>hstem 233 108</string>
 							<string>hstem 417 147</string>
-							<string>vstem 36 460</string>
+							<string>vstem 62 401</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w393l360l4960l496147l234147l493475l493564l62564l62417l295417l233339l84339l84231l148231l3689</string>
+				<string>w531l1080l4630l463147l274147l460475l460564l62564l62417l295417l252341l84341l84233l190233l10889</string>
 			</dict>
 		</dict>
 	</lib>

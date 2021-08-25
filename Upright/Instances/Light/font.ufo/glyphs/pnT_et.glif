@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnTet" format="2">
+	<unicode hex="10908"/>
 	<advance width="574"/>
 	<outline>
 		<contour>
-			<point x="168" y="261" type="line"/>
-			<point x="406" y="261" type="line"/>
-			<point x="406" y="300" type="line"/>
-			<point x="168" y="300" type="line"/>
-		</contour>
-		<contour>
-			<point x="270" y="151" type="line"/>
-			<point x="304" y="151" type="line"/>
-			<point x="304" y="408" type="line"/>
-			<point x="270" y="408" type="line"/>
+			<point x="265" y="103" type="line"/>
+			<point x="295" y="103" type="line"/>
+			<point x="295" y="255" type="line"/>
+			<point x="437" y="255" type="line"/>
+			<point x="437" y="290" type="line"/>
+			<point x="309" y="290" type="line"/>
+			<point x="309" y="439" type="line"/>
+			<point x="279" y="439" type="line"/>
+			<point x="279" y="305" type="line"/>
+			<point x="137" y="305" type="line"/>
+			<point x="137" y="271" type="line"/>
+			<point x="265" y="271" type="line"/>
 		</contour>
 		<component base="pnAin"/>
 	</outline>

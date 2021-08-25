@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnAlf" format="2">
-	<advance width="451"/>
+	<unicode hex="10900"/>
+	<advance width="476"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="201" y="0" type="line"/>
-			<point x="250" y="0" type="line"/>
-			<point x="457" y="548" type="line"/>
-			<point x="408" y="548" type="line"/>
-			<point x="351" y="391" type="line"/>
-			<point x="99" y="391" type="line"/>
-			<point x="41" y="548" type="line"/>
-			<point x="-6" y="548" type="line"/>
+			<point name="hintSet0000" x="213" y="0" type="line"/>
+			<point x="263" y="0" type="line"/>
+			<point x="469" y="548" type="line"/>
+			<point x="421" y="548" type="line"/>
+			<point x="364" y="391" type="line"/>
+			<point x="111" y="391" type="line"/>
+			<point x="53" y="548" type="line"/>
+			<point x="7" y="548" type="line"/>
 		</contour>
 		<contour>
-			<point x="223" y="44" type="line"/>
-			<point x="203" y="104"/>
-			<point x="186" y="154"/>
-			<point x="164" y="214" type="curve"/>
-			<point x="112" y="354" type="line"/>
-			<point x="337" y="354" type="line"/>
-			<point x="286" y="214" type="line"/>
-			<point x="265" y="154"/>
-			<point x="247" y="103"/>
-			<point x="227" y="44" type="curve"/>
+			<point x="236" y="44" type="line"/>
+			<point x="216" y="104"/>
+			<point x="198" y="154"/>
+			<point x="177" y="214" type="curve"/>
+			<point x="125" y="354" type="line"/>
+			<point x="350" y="354" type="line"/>
+			<point x="299" y="214" type="line"/>
+			<point x="277" y="154"/>
+			<point x="260" y="103"/>
+			<point x="240" y="44" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -38,12 +39,12 @@
 						<array>
 							<string>hstem 0 44</string>
 							<string>hstem 354 37</string>
-							<string>vstem -6 463</string>
+							<string>vstem 7 462</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w451l2010l2500l457548l408548l351391l99391l41548l-6548l22344203104186154c164214l112354l337354l286214265154247103c22744</string>
+				<string>w476l2130l2630l469548l421548l364391l111391l53548l7548l23644216104198154c177214l125354l350354l299214277154260103c24044</string>
 			</dict>
 		</dict>
 	</lib>

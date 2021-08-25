@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnYod" format="2">
-	<advance width="376"/>
+	<unicode hex="10909"/>
+	<advance width="544"/>
 	<outline>
 		<contour>
 			<point x="82" y="224" type="line"/>
@@ -8,6 +9,17 @@
 			<point x="254" y="348" type="line"/>
 			<point x="82" y="348" type="line"/>
 		</contour>
-		<component base="pnZai"/>
+		<contour>
+			<point x="112" y="0" type="line"/>
+			<point x="472" y="0" type="line"/>
+			<point x="472" y="172" type="line"/>
+			<point x="304" y="172" type="line"/>
+			<point x="470" y="464" type="line"/>
+			<point x="470" y="568" type="line"/>
+			<point x="58" y="568" type="line"/>
+			<point x="58" y="396" type="line"/>
+			<point x="278" y="396" type="line"/>
+			<point x="112" y="104" type="line"/>
+		</contour>
 	</outline>
 </glyph>

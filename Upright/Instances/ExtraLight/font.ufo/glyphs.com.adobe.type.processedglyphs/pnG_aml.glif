@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnGaml" format="2">
+	<unicode hex="10902"/>
+	<advance width="410"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="282" y="0" type="line"/>
+			<point x="310" y="0" type="line"/>
+			<point x="310" y="546" type="line"/>
+			<point x="20" y="546" type="line"/>
+			<point x="20" y="516" type="line"/>
+			<point x="282" y="516" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 516 30</string>
+							<string>vstem 282 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w410l2820l3100l310546l20546l20516l282516</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

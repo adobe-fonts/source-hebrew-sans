@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heLamed" format="2">
 	<unicode hex="05DC"/>
-	<advance width="499"/>
+	<advance width="491"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="123" y="-12" type="line"/>
-			<point x="387" y="95"/>
-			<point x="466" y="264"/>
-			<point x="466" y="422" type="curve"/>
-			<point x="466" y="521"/>
-			<point x="416" y="564"/>
-			<point x="262" y="564" type="curve"/>
+			<point x="360" y="117"/>
+			<point x="449" y="259"/>
+			<point x="449" y="406" type="curve"/>
+			<point x="449" y="512"/>
+			<point x="399" y="564"/>
+			<point x="246" y="564" type="curve"/>
 			<point x="163" y="564" type="line"/>
 			<point x="163" y="738" type="line"/>
 			<point x="36" y="738" type="line"/>
@@ -19,9 +19,9 @@
 			<point x="297" y="417"/>
 			<point x="322" y="404"/>
 			<point x="322" y="355" type="curve"/>
-			<point x="322" y="279"/>
-			<point x="252" y="189"/>
-			<point x="74" y="138" type="curve"/>
+			<point x="322" y="280"/>
+			<point x="247" y="203"/>
+			<point x="74" y="116" type="curve"/>
 		</contour>
 	</outline>
 	<anchor name="aboveHE" x="254" y="541"/>
@@ -41,12 +41,12 @@
 						<array>
 							<string>hstem 417 147</string>
 							<string>vstem 36 127</string>
-							<string>vstem 322 144</string>
+							<string>vstem 322 127</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w499l123-1238795466264c466422466521416564c262564l163564l163738l36738l36417l232417297417322404c322355322279252189c74138</string>
+				<string>w491l123-12360117449259c449406449512399564c246564l163564l163738l36738l36417l232417297417322404c322355322280247203c74116</string>
 			</dict>
 		</dict>
 	</lib>

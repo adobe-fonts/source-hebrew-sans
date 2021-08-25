@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnAlf" format="2">
-	<advance width="487"/>
+	<unicode hex="10900"/>
+	<advance width="498"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="175" y="0" type="line"/>
-			<point x="312" y="0" type="line"/>
-			<point x="501" y="559" type="line"/>
-			<point x="379" y="559" type="line"/>
-			<point x="340" y="428" type="line"/>
-			<point x="143" y="428" type="line"/>
-			<point x="104" y="559" type="line"/>
-			<point x="-14" y="559" type="line"/>
+			<point name="hintSet0000" x="180" y="0" type="line"/>
+			<point x="318" y="0" type="line"/>
+			<point x="506" y="559" type="line"/>
+			<point x="385" y="559" type="line"/>
+			<point x="346" y="428" type="line"/>
+			<point x="148" y="428" type="line"/>
+			<point x="109" y="559" type="line"/>
+			<point x="-8" y="559" type="line"/>
 		</contour>
 		<contour>
-			<point x="239" y="88" type="line"/>
-			<point x="224" y="143"/>
-			<point x="210" y="202"/>
-			<point x="195" y="255" type="curve"/>
-			<point x="168" y="344" type="line"/>
-			<point x="315" y="344" type="line"/>
-			<point x="289" y="255" type="line"/>
-			<point x="273" y="202"/>
-			<point x="259" y="142"/>
-			<point x="243" y="88" type="curve"/>
+			<point x="245" y="88" type="line"/>
+			<point x="230" y="143"/>
+			<point x="216" y="202"/>
+			<point x="200" y="255" type="curve"/>
+			<point x="173" y="344" type="line"/>
+			<point x="321" y="344" type="line"/>
+			<point x="295" y="255" type="line"/>
+			<point x="279" y="202"/>
+			<point x="265" y="142"/>
+			<point x="249" y="88" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -38,12 +39,12 @@
 						<array>
 							<string>hstem 0 88</string>
 							<string>hstem 344 84</string>
-							<string>vstem -14 515</string>
+							<string>vstem -8 514</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w487l1750l3120l501559l379559l340428l143428l104559l-14559l23988224143210202c195255l168344l315344l289255273202259142c24388</string>
+				<string>w498l1800l3180l506559l385559l346428l148428l109559l-8559l24588230143216202c200255l173344l321344l295255279202265142c24988</string>
 			</dict>
 		</dict>
 	</lib>

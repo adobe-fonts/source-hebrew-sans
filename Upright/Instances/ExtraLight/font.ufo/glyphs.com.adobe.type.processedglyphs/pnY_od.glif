@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnYod" format="2">
+	<unicode hex="10909"/>
 	<advance width="472"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="52" y="0" type="line"/>
+			<point name="hintSet0000" x="92" y="0" type="line"/>
 			<point x="420" y="0" type="line"/>
 			<point x="420" y="30" type="line"/>
-			<point x="94" y="30" type="line"/>
+			<point x="132" y="30" type="line"/>
 			<point x="416" y="528" type="line"/>
 			<point x="416" y="546" type="line"/>
 			<point x="80" y="546" type="line"/>
 			<point x="80" y="516" type="line"/>
-			<point x="374" y="516" type="line"/>
-			<point x="233" y="298" type="line"/>
-			<point x="94" y="298" type="line"/>
-			<point x="94" y="266" type="line"/>
-			<point x="212" y="266" type="line"/>
-			<point x="52" y="18" type="line"/>
+			<point x="376" y="516" type="line"/>
+			<point x="256" y="306" type="line"/>
+			<point x="94" y="306" type="line"/>
+			<point x="94" y="274" type="line"/>
+			<point x="238" y="274" type="line"/>
+			<point x="92" y="18" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -31,14 +32,14 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 30</string>
-							<string>hstem 266 32</string>
+							<string>hstem 274 32</string>
 							<string>hstem 516 30</string>
-							<string>vstem 52 368</string>
+							<string>vstem 80 340</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w472l520l4200l42030l9430l416528l416546l80546l80516l374516l233298l94298l94266l212266l5218</string>
+				<string>w472l920l4200l42030l13230l416528l416546l80546l80516l376516l256306l94306l94274l238274l9218</string>
 			</dict>
 		</dict>
 	</lib>

@@ -41,4 +41,10 @@
 	<anchor name="belowLC" x="250" y="-20"/>
 	<anchor name="ogonekLC" x="382" y="0"/>
 	<anchor name="baseLC" x="250" y="0"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.0595,0.5019,0.9985,1</string>
+		</dict>
+	</lib>
 </glyph>

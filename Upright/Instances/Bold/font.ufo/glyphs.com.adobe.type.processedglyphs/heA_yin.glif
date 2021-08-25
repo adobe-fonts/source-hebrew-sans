@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heAyin" format="2">
 	<unicode hex="05E2"/>
-	<advance width="587"/>
+	<advance width="578"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="46" y="0" type="line"/>
-			<point x="101" y="0" type="line"/>
-			<point x="411" y="0"/>
-			<point x="554" y="195"/>
-			<point x="554" y="367" type="curve"/>
-			<point x="554" y="506"/>
-			<point x="506" y="564"/>
-			<point x="366" y="564" type="curve"/>
-			<point x="296" y="564" type="line"/>
-			<point x="296" y="417" type="line"/>
-			<point x="329" y="417" type="line"/>
-			<point x="401" y="417"/>
-			<point x="427" y="392"/>
-			<point x="427" y="334" type="curve"/>
-			<point x="427" y="270"/>
-			<point x="382" y="199"/>
-			<point x="288" y="164" type="curve"/>
-			<point x="256" y="315"/>
-			<point x="205" y="468"/>
-			<point x="158" y="570" type="curve"/>
-			<point x="29" y="539" type="line"/>
-			<point x="76" y="435"/>
-			<point x="131" y="287"/>
-			<point x="164" y="140" type="curve"/>
-			<point x="158" y="140"/>
+			<point x="97" y="0" type="line"/>
+			<point x="402" y="0"/>
+			<point x="545" y="248"/>
+			<point x="545" y="407" type="curve"/>
+			<point x="545" y="517"/>
+			<point x="498" y="564"/>
+			<point x="361" y="564" type="curve"/>
+			<point name="hintSet0004" x="297" y="564" type="line"/>
+			<point x="297" y="417" type="line"/>
+			<point name="hintSet0006" x="324" y="417" type="line"/>
+			<point x="393" y="417"/>
+			<point x="418" y="396"/>
+			<point x="418" y="349" type="curve"/>
+			<point x="418" y="296"/>
+			<point x="374" y="214"/>
+			<point x="283" y="170" type="curve"/>
+			<point x="255" y="329"/>
+			<point x="212" y="478"/>
+			<point x="166" y="572" type="curve"/>
+			<point x="12" y="519" type="line"/>
+			<point x="70" y="423"/>
+			<point x="133" y="281"/>
+			<point x="169" y="141" type="curve"/>
+			<point x="161" y="140"/>
 			<point x="152" y="140"/>
-			<point x="146" y="140" type="curve"/>
+			<point x="143" y="140" type="curve"/>
 			<point x="46" y="140" type="line"/>
 		</contour>
 	</outline>
@@ -47,12 +47,32 @@
 						<array>
 							<string>hstem 0 140</string>
 							<string>hstem 417 147</string>
-							<string>vstem 427 127</string>
+							<string>vstem 418 127</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0004</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 140</string>
+							<string>hstem 417 147</string>
+							<string>vstem 297 248</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0006</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 140</string>
+							<string>hstem 417 147</string>
+							<string>vstem 418 127</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>c831a5b2333cbabebe053302f895130588d04ca2a25e61ec84e3e8b6515c60bce7ddbe037d8dc6636b21922de90e506dc067701b078d99fe49c107ba91d50001</string>
+				<string>c5cf3b192a792eefe54b501c0d2eef04d2e6f08d6f0e51516c0a9e5c360b8530d0c455738a057f64eb23a9a38f68fc738ad7830c3380f14588da16520c3114dd</string>
 			</dict>
 		</dict>
 	</lib>

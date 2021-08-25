@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heMemFin" format="2">
 	<unicode hex="05DD"/>
-	<advance width="641"/>
+	<advance width="635"/>
 	<outline>
 		<contour>
 			<point x="135" y="0" type="line"/>
-			<point x="542" y="0" type="line"/>
-			<point x="542" y="350" type="line" smooth="yes"/>
-			<point x="542" y="495"/>
-			<point x="471" y="548"/>
-			<point x="363" y="548" type="curve" smooth="yes"/>
+			<point x="536" y="0" type="line"/>
+			<point x="536" y="350" type="line" smooth="yes"/>
+			<point x="536" y="495"/>
+			<point x="465" y="548"/>
+			<point x="357" y="548" type="curve" smooth="yes"/>
 			<point x="37" y="548" type="line"/>
 			<point x="37" y="504" type="line"/>
-			<point x="350" y="504" type="line" smooth="yes"/>
-			<point x="443" y="504"/>
-			<point x="502" y="464"/>
-			<point x="502" y="337" type="curve" smooth="yes"/>
-			<point x="502" y="42" type="line"/>
+			<point x="344" y="504" type="line" smooth="yes"/>
+			<point x="437" y="504"/>
+			<point x="496" y="464"/>
+			<point x="496" y="337" type="curve" smooth="yes"/>
+			<point x="496" y="42" type="line"/>
 			<point x="135" y="42" type="line"/>
 		</contour>
 		<contour>

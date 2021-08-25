@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnDelt" format="2">
+	<unicode hex="10903"/>
+	<advance width="566"/>
+	<outline>
+		<contour>
+			<point x="309" y="0" type="curve" smooth="yes"/>
+			<point x="494" y="0" type="line"/>
+			<point x="494" y="568" type="line"/>
+			<point x="320" y="568" type="line" smooth="yes"/>
+			<point x="167" y="568"/>
+			<point x="48" y="500"/>
+			<point x="48" y="288" type="curve" smooth="yes"/>
+			<point x="48" y="74"/>
+			<point x="167" y="0"/>
+		</contour>
+		<contour>
+			<point x="309" y="172" type="line" smooth="yes"/>
+			<point x="240" y="172"/>
+			<point x="196" y="202"/>
+			<point x="196" y="288" type="curve" smooth="yes"/>
+			<point x="196" y="373"/>
+			<point x="240" y="396"/>
+			<point x="309" y="396" type="curve" smooth="yes"/>
+			<point x="346" y="396" type="line"/>
+			<point x="346" y="172" type="line"/>
+		</contour>
+		<contour>
+			<point x="346" y="-120" type="line"/>
+			<point x="494" y="-120" type="line"/>
+			<point x="494" y="448" type="line"/>
+			<point x="346" y="276" type="line"/>
+		</contour>
+	</outline>
+</glyph>

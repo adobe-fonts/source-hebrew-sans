@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heYoddbl" format="2">
+	<unicode hex="05F2"/>
 	<advance width="464"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="94" y="240" type="line"/>
-			<point x="136" y="308"/>
-			<point x="174" y="396"/>
+			<point name="hintSet0000" x="90" y="242" type="line"/>
+			<point x="135" y="310"/>
+			<point x="174" y="389"/>
 			<point x="174" y="448" type="curve"/>
 			<point x="174" y="516"/>
 			<point x="150" y="546"/>
@@ -21,9 +22,9 @@
 			<point x="66" y="256" type="curve"/>
 		</contour>
 		<contour>
-			<point x="326" y="240" type="line"/>
-			<point x="368" y="308"/>
-			<point x="406" y="396"/>
+			<point x="322" y="242" type="line"/>
+			<point x="367" y="310"/>
+			<point x="406" y="389"/>
 			<point x="406" y="448" type="curve"/>
 			<point x="406" y="516"/>
 			<point x="382" y="546"/>
@@ -57,7 +58,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a2792db79b7c09b5f4c3b504ce200b068af0e0b7918977cef15feacc4f97d4b1b4bfd65abd1a8ff7b3aa0ee2fd5ea974701a8aa1d6a0c11e609172490d138fdb</string>
+				<string>63aba7921a2627887be600d1be5c9ef7400757c22f2641e03aba83d104c3f0024d6c56ffab0cd3e958a00316d66b94cd8a09a2a8a7900781d4fb332e88644f17</string>
 			</dict>
 		</dict>
 	</lib>

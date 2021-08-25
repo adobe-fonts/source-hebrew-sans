@@ -4,10 +4,10 @@
 	<advance width="240"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="105" y="233" type="line"/>
-			<point x="148" y="302"/>
-			<point x="185" y="390"/>
-			<point x="185" y="443" type="curve"/>
+			<point name="hintSet0000" x="100" y="235" type="line"/>
+			<point x="147" y="305"/>
+			<point x="185" y="384"/>
+			<point x="185" y="444" type="curve"/>
 			<point x="185" y="516"/>
 			<point x="159" y="548"/>
 			<point x="78" y="548" type="curve"/>
@@ -43,7 +43,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w240l105233148302185390c185443185516159548c78548l5548l5504l60504131504145483c145439145389112316c67253</string>
+				<string>w240l100235147305185384c185444185516159548c78548l5548l5504l60504131504145483c145439145389112316c67253</string>
 			</dict>
 		</dict>
 	</lib>

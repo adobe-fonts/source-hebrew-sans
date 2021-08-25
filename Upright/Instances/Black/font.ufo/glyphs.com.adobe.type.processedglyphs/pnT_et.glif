@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnTet" format="2">
+	<unicode hex="10908"/>
 	<advance width="626"/>
 	<outline>
 		<contour>
@@ -17,20 +18,6 @@
 			<point x="222" y="338" type="line"/>
 		</contour>
 		<contour>
-			<point x="318" y="160" type="curve"/>
-			<point x="240" y="160"/>
-			<point x="196" y="208"/>
-			<point x="196" y="286" type="curve"/>
-			<point x="196" y="366"/>
-			<point x="240" y="408"/>
-			<point x="318" y="408" type="curve"/>
-			<point x="394" y="408"/>
-			<point x="438" y="366"/>
-			<point x="438" y="286" type="curve"/>
-			<point x="438" y="208"/>
-			<point x="394" y="160"/>
-		</contour>
-		<contour>
 			<point x="318" y="-12" type="curve"/>
 			<point x="477" y="-12"/>
 			<point x="586" y="97"/>
@@ -43,6 +30,20 @@
 			<point x="48" y="286" type="curve"/>
 			<point x="48" y="97"/>
 			<point x="157" y="-12"/>
+		</contour>
+		<contour>
+			<point x="318" y="160" type="curve"/>
+			<point x="240" y="160"/>
+			<point x="196" y="208"/>
+			<point x="196" y="286" type="curve"/>
+			<point x="196" y="366"/>
+			<point x="240" y="408"/>
+			<point x="318" y="408" type="curve"/>
+			<point x="394" y="408"/>
+			<point x="438" y="366"/>
+			<point x="438" y="286" type="curve"/>
+			<point x="438" y="208"/>
+			<point x="394" y="160"/>
 		</contour>
 	</outline>
 	<lib>
@@ -66,7 +67,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>314cdfaa0c7efcbcc9cd5b4b0e79acfb09ecc0ec16392f88c5068185baa4549a6d823ed4ea72b73c468ed29fd2deb1ce3660d69f8956044dc32e46f9a747fefd</string>
+				<string>dff05ea52effa8dc0de5ff1e3b1708c4d355dabc93ac7aff5d39bb64aa5300530716fad993e7f095a88ecc4f75cd527144b53f514333e917c54f2853cda65df9</string>
 			</dict>
 		</dict>
 	</lib>

@@ -6,24 +6,24 @@
 		<contour>
 			<point name="hintSet0000" x="264" y="0" type="line"/>
 			<point x="292" y="0" type="line"/>
-			<point x="258" y="426" type="line"/>
-			<point x="252" y="514"/>
-			<point x="237" y="546"/>
-			<point x="178" y="546" type="curve"/>
+			<point x="256" y="426" type="line"/>
+			<point x="249" y="504"/>
+			<point x="215" y="546"/>
+			<point x="142" y="546" type="curve"/>
 			<point x="74" y="546" type="line"/>
 			<point x="74" y="516" type="line"/>
-			<point x="168" y="516" type="line"/>
-			<point x="218" y="516"/>
+			<point x="132" y="516" type="line"/>
+			<point x="199" y="516"/>
 			<point x="226" y="490"/>
-			<point x="232" y="426" type="curve"/>
-			<point x="251" y="167" type="line"/>
-			<point x="231" y="90"/>
-			<point x="144" y="30"/>
+			<point x="232" y="416" type="curve"/>
+			<point x="251" y="166" type="line"/>
+			<point x="231" y="89"/>
+			<point x="143" y="30"/>
 			<point x="54" y="22" type="curve"/>
 			<point x="54" y="-8" type="line"/>
-			<point x="147" y="-3"/>
-			<point x="228" y="60"/>
-			<point x="255" y="123" type="curve"/>
+			<point x="146" y="-3"/>
+			<point x="227" y="60"/>
+			<point x="255" y="122" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -44,7 +44,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w370l2640l2920l258426252514237546c178546l74546l74516l168516218516226490c232426l2511672319014430c5422l54-8147-322860c255123</string>
+				<string>w370l2640l2920l256426249504215546c142546l74546l74516l132516199516226490c232416l2511662318914330c5422l54-8146-322760c255122</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,69 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heShin" format="2">
 	<unicode hex="05E9"/>
-	<advance width="746"/>
+	<advance width="733"/>
 	<outline>
 		<contour>
-			<point x="339" y="119" type="line"/>
-			<point x="419" y="220"/>
-			<point x="467" y="310"/>
-			<point x="467" y="416" type="curve" smooth="yes"/>
-			<point x="467" y="520"/>
-			<point x="430" y="564"/>
-			<point x="320" y="564" type="curve" smooth="yes"/>
-			<point x="280" y="564" type="line"/>
-			<point x="280" y="417" type="line"/>
-			<point x="290" y="417" type="line" smooth="yes"/>
-			<point x="343" y="417"/>
-			<point x="360" y="396"/>
-			<point x="360" y="351" type="curve" smooth="yes"/>
-			<point x="360" y="297"/>
-			<point x="324" y="228"/>
-			<point x="251" y="162" type="curve"/>
+			<point x="362" y="-12" type="curve" smooth="yes"/>
+			<point x="551" y="-12"/>
+			<point x="700" y="170"/>
+			<point x="700" y="397" type="curve" smooth="yes"/>
+			<point x="700" y="529"/>
+			<point x="654" y="564"/>
+			<point x="534" y="564" type="curve" smooth="yes"/>
+			<point x="493" y="564" type="line"/>
+			<point x="493" y="417" type="line"/>
+			<point x="513" y="417" type="line" smooth="yes"/>
+			<point x="559" y="417"/>
+			<point x="576" y="394"/>
+			<point x="576" y="336" type="curve" smooth="yes"/>
+			<point x="576" y="234"/>
+			<point x="484" y="128"/>
+			<point x="377" y="128" type="curve" smooth="yes"/>
+			<point x="248" y="128"/>
+			<point x="192" y="184"/>
+			<point x="185" y="570" type="curve"/>
+			<point x="31" y="528" type="line"/>
+			<point x="48" y="121"/>
+			<point x="164" y="-12"/>
 		</contour>
 		<contour>
-			<point x="376" y="-12" type="curve" smooth="yes"/>
-			<point x="565" y="-12"/>
-			<point x="713" y="147"/>
-			<point x="713" y="363" type="curve" smooth="yes"/>
-			<point x="713" y="505"/>
-			<point x="666" y="564"/>
-			<point x="530" y="564" type="curve" smooth="yes"/>
-			<point x="506" y="564" type="line"/>
-			<point x="506" y="417" type="line"/>
-			<point x="526" y="417" type="line" smooth="yes"/>
-			<point x="572" y="417"/>
-			<point x="589" y="391"/>
-			<point x="589" y="330" type="curve" smooth="yes"/>
-			<point x="589" y="216"/>
-			<point x="491" y="129"/>
-			<point x="390" y="129" type="curve" smooth="yes"/>
-			<point x="281" y="129"/>
-			<point x="221" y="182"/>
-			<point x="221" y="341" type="curve" smooth="yes"/>
-			<point x="221" y="363"/>
-			<point x="224" y="385"/>
-			<point x="224" y="407" type="curve" smooth="yes"/>
-			<point x="224" y="529"/>
-			<point x="166" y="564"/>
-			<point x="65" y="564" type="curve" smooth="yes"/>
-			<point x="24" y="564" type="line"/>
-			<point x="24" y="417" type="line"/>
-			<point x="38" y="417" type="line" smooth="yes"/>
-			<point x="83" y="417"/>
-			<point x="100" y="408"/>
-			<point x="100" y="338" type="curve" smooth="yes"/>
-			<point x="100" y="322"/>
-			<point x="98" y="305"/>
-			<point x="98" y="288" type="curve" smooth="yes"/>
-			<point x="98" y="79"/>
-			<point x="209" y="-12"/>
+			<point x="324" y="120" type="line"/>
+			<point x="428" y="268"/>
+			<point x="455" y="343"/>
+			<point x="455" y="428" type="curve" smooth="yes"/>
+			<point x="455" y="531"/>
+			<point x="404" y="564"/>
+			<point x="301" y="564" type="curve" smooth="yes"/>
+			<point x="260" y="564" type="line"/>
+			<point x="260" y="417" type="line"/>
+			<point x="271" y="417" type="line" smooth="yes"/>
+			<point x="319" y="417"/>
+			<point x="332" y="400"/>
+			<point x="332" y="369" type="curve" smooth="yes"/>
+			<point x="332" y="332"/>
+			<point x="306" y="277"/>
+			<point x="215" y="162" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="333" y="541"/>
-	<anchor name="belowPrimaryHE" x="356" y="-30"/>
-	<anchor name="sinHE" x="91" y="511"/>
-	<anchor name="centerHE" x="421" y="259"/>
-	<anchor name="shinHE" x="516" y="511"/>
-	<anchor name="aboveLeftHE" x="-9" y="541"/>
+	<anchor name="aboveHE" x="320" y="541"/>
+	<anchor name="belowPrimaryHE" x="343" y="-30"/>
+	<anchor name="sinHE" x="78" y="511"/>
+	<anchor name="centerHE" x="408" y="259"/>
+	<anchor name="shinHE" x="503" y="511"/>
+	<anchor name="aboveLeftHE" x="-22" y="541"/>
 </glyph>

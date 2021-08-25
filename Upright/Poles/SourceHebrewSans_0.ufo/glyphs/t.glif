@@ -33,4 +33,10 @@
 	<anchor name="aboveLC" x="124" y="630"/>
 	<anchor name="belowLC" x="194" y="-20"/>
 	<anchor name="baseLC" x="202" y="0"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.0595,0.5019,0.9985,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heSamekh.3" format="2">
+	<advance width="607"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="168" y="259" type="curve"/>
+			<point x="168" y="384" type="line"/>
+			<point x="168" y="425"/>
+			<point x="161" y="453"/>
+			<point x="144" y="472" type="curve"/>
+			<point x="402" y="472" type="line"/>
+			<point x="461" y="472"/>
+			<point x="485" y="445"/>
+			<point x="485" y="366" type="curve"/>
+			<point x="485" y="170"/>
+			<point x="406" y="71"/>
+			<point x="312" y="71" type="curve"/>
+			<point x="223" y="71"/>
+			<point x="168" y="127"/>
+		</contour>
+		<contour>
+			<point x="306" y="-12" type="curve"/>
+			<point x="448" y="-12"/>
+			<point x="556" y="129"/>
+			<point x="556" y="380" type="curve"/>
+			<point x="556" y="507"/>
+			<point x="517" y="554"/>
+			<point x="421" y="554" type="curve"/>
+			<point x="20" y="554" type="line"/>
+			<point x="20" y="472" type="line"/>
+			<point x="27" y="472" type="line"/>
+			<point x="83" y="472"/>
+			<point x="94" y="449"/>
+			<point x="94" y="396" type="curve"/>
+			<point x="94" y="235" type="line"/>
+			<point x="94" y="68"/>
+			<point x="185" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 83</string>
+							<string>hstem 472 82</string>
+							<string>vstem 94 74</string>
+							<string>vstem 485 71</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>b4d3a055fcee8a0301db8d67d39028f9ab56b45e564c1b2889b92ee5f94a855b01831f76edcf6f6cf7080955c9e5b68ef8709147d8249c1c27604eec21ea0301</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

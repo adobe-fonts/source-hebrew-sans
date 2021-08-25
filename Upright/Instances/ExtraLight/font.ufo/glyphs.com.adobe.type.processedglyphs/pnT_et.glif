@@ -1,34 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnTet" format="2">
+	<unicode hex="10908"/>
 	<advance width="568"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="270" y="148" type="line"/>
-			<point x="298" y="148" type="line"/>
+			<point name="hintSet0000" x="270" y="88" type="line"/>
+			<point x="298" y="88" type="line"/>
 			<point x="298" y="264" type="line"/>
-			<point x="406" y="264" type="line"/>
-			<point x="406" y="296" type="line"/>
+			<point x="446" y="264" type="line"/>
+			<point x="446" y="296" type="line"/>
 			<point x="298" y="296" type="line"/>
-			<point x="298" y="410" type="line"/>
-			<point x="270" y="410" type="line"/>
+			<point x="298" y="450" type="line"/>
+			<point x="270" y="450" type="line"/>
 			<point x="270" y="296" type="line"/>
-			<point x="162" y="296" type="line"/>
-			<point x="162" y="264" type="line"/>
+			<point x="122" y="296" type="line"/>
+			<point x="122" y="264" type="line"/>
 			<point x="270" y="264" type="line"/>
-		</contour>
-		<contour>
-			<point x="284" y="22" type="curve"/>
-			<point x="165" y="22"/>
-			<point x="86" y="119"/>
-			<point x="86" y="274" type="curve"/>
-			<point x="86" y="429"/>
-			<point x="165" y="524"/>
-			<point x="284" y="524" type="curve"/>
-			<point x="402" y="524"/>
-			<point x="482" y="429"/>
-			<point x="482" y="274" type="curve"/>
-			<point x="482" y="119"/>
-			<point x="402" y="22"/>
 		</contour>
 		<contour>
 			<point x="284" y="-12" type="curve"/>
@@ -43,6 +30,20 @@
 			<point x="56" y="274" type="curve"/>
 			<point x="56" y="100"/>
 			<point x="151" y="-12"/>
+		</contour>
+		<contour>
+			<point x="284" y="22" type="curve"/>
+			<point x="165" y="22"/>
+			<point x="86" y="119"/>
+			<point x="86" y="274" type="curve"/>
+			<point x="86" y="429"/>
+			<point x="165" y="524"/>
+			<point x="284" y="524" type="curve"/>
+			<point x="402" y="524"/>
+			<point x="482" y="429"/>
+			<point x="482" y="274" type="curve"/>
+			<point x="482" y="119"/>
+			<point x="402" y="22"/>
 		</contour>
 	</outline>
 	<lib>
@@ -66,7 +67,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>d65078a86e6743fa25e34012c2f21f11a9d104dbc9f8b5a76e28e91c930ba5c0a9f5f465806b928de5da1368e0de0a82a2230ccb89b7b72d5b75c1da58a407a5</string>
+				<string>0ef13659fffe16d3dfb210522ffec40c921eefd1b486235cc32d083b7da3fbfbdfbe29e81d0081ec2ffcc982afff7e9a77c29fcde4ee84b0d8cb0559153db349</string>
 			</dict>
 		</dict>
 	</lib>

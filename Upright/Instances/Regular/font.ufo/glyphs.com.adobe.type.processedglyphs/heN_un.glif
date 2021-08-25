@@ -10,14 +10,14 @@
 			<point x="323" y="514"/>
 			<point x="267" y="554"/>
 			<point x="169" y="554" type="curve"/>
-			<point x="77" y="554" type="line"/>
-			<point x="77" y="472" type="line"/>
+			<point x="78" y="554" type="line"/>
+			<point x="78" y="472" type="line"/>
 			<point x="138" y="472" type="line"/>
 			<point x="213" y="472"/>
 			<point x="251" y="450"/>
 			<point x="251" y="349" type="curve"/>
-			<point x="251" y="79" type="line"/>
-			<point x="50" y="79" type="line"/>
+			<point x="251" y="78" type="line"/>
+			<point x="50" y="78" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="aboveHE" x="177" y="568"/>
@@ -36,14 +36,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 79</string>
+							<string>hstem 0 78</string>
 							<string>hstem 472 82</string>
 							<string>vstem 251 72</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w414l500l3230l323383323514267554c169554l77554l77472l138472213472251450c251349l25179l5079</string>
+				<string>w414l500l3230l323383323514267554c169554l78554l78472l138472213472251450c251349l25178l5078</string>
 			</dict>
 		</dict>
 	</lib>

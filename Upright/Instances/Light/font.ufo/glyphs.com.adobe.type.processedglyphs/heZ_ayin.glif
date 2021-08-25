@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heZayin" format="2">
 	<unicode hex="05D6"/>
-	<advance width="323"/>
+	<advance width="285"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="5" y="504" type="line"/>
-			<point x="154" y="504" type="line"/>
-			<point x="147" y="476"/>
-			<point x="146" y="446"/>
-			<point x="146" y="408" type="curve"/>
-			<point x="146" y="0" type="line"/>
-			<point x="186" y="0" type="line"/>
-			<point x="186" y="504" type="line"/>
-			<point x="280" y="504" type="line"/>
-			<point x="280" y="548" type="line"/>
+			<point x="115" y="504" type="line"/>
+			<point x="106" y="476"/>
+			<point x="101" y="448"/>
+			<point x="101" y="411" type="curve"/>
+			<point x="101" y="329"/>
+			<point x="116" y="172"/>
+			<point x="132" y="0" type="curve"/>
+			<point x="172" y="0" type="line"/>
+			<point x="153" y="181"/>
+			<point x="141" y="337"/>
+			<point x="141" y="413" type="curve"/>
+			<point x="141" y="444"/>
+			<point x="141" y="473"/>
+			<point x="147" y="504" type="curve"/>
+			<point x="242" y="504" type="line"/>
+			<point x="242" y="548" type="line"/>
 			<point x="5" y="548" type="line"/>
 		</contour>
 	</outline>
@@ -29,12 +36,12 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 504 44</string>
-							<string>vstem 146 40</string>
+							<string>vstem 101 40</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w323l5504l154504147476146446c146408l1460l1860l186504l280504l280548l5548</string>
+				<string>w285l5504l115504106476101448c101411101329116172c1320l1720153181141337c141413141444141473c147504l242504l242548l5548</string>
 			</dict>
 		</dict>
 	</lib>

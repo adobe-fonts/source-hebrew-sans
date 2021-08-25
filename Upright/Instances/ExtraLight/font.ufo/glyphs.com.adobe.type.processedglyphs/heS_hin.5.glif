@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heShin.5" format="2">
+	<advance width="690"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="336" y="-12" type="curve"/>
+			<point x="500" y="-12"/>
+			<point x="632" y="186"/>
+			<point x="632" y="390" type="curve"/>
+			<point x="632" y="514"/>
+			<point x="599" y="546"/>
+			<point x="522" y="546" type="curve"/>
+			<point x="488" y="546" type="line"/>
+			<point x="488" y="516" type="line"/>
+			<point x="518" y="516" type="line"/>
+			<point x="580" y="516"/>
+			<point x="606" y="495"/>
+			<point x="606" y="390" type="curve"/>
+			<point x="606" y="204"/>
+			<point x="486" y="18"/>
+			<point x="336" y="18" type="curve"/>
+			<point x="298" y="18"/>
+			<point x="263" y="25"/>
+			<point x="235" y="40" type="curve"/>
+			<point x="336" y="165"/>
+			<point x="404" y="329"/>
+			<point x="404" y="428" type="curve"/>
+			<point x="404" y="510"/>
+			<point x="385" y="546"/>
+			<point x="316" y="546" type="curve"/>
+			<point x="280" y="546" type="line"/>
+			<point x="280" y="516" type="line"/>
+			<point x="302" y="516" type="line"/>
+			<point x="368" y="516"/>
+			<point x="378" y="489"/>
+			<point x="378" y="426" type="curve"/>
+			<point x="378" y="337"/>
+			<point x="311" y="172"/>
+			<point x="214" y="52" type="curve"/>
+			<point x="163" y="89"/>
+			<point x="134" y="157"/>
+			<point x="134" y="266" type="curve"/>
+			<point x="134" y="546" type="line"/>
+			<point x="106" y="546" type="line"/>
+			<point x="106" y="266" type="line"/>
+			<point x="106" y="68"/>
+			<point x="198" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 30</string>
+							<string>hstem 516 30</string>
+							<string>vstem 106 28</string>
+							<string>vstem 378 26</string>
+							<string>vstem 606 26</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>e4eb0c3d8aa3af66bd089ffa6a8e2af8f48d522dcc612ca69d955e3ad1c10a9769e2573fdfb69efeb95303e0885ebba609f656da7d9d348884712d922147b48c</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

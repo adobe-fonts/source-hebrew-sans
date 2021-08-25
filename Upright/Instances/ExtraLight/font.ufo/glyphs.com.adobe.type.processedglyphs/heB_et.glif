@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heBet" format="2">
 	<unicode hex="05D1"/>
-	<advance width="530"/>
+	<advance width="522"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="54" y="0" type="line"/>
-			<point x="486" y="0" type="line"/>
-			<point x="486" y="28" type="line"/>
-			<point x="411" y="28" type="line"/>
-			<point x="422" y="116"/>
-			<point x="430" y="201"/>
-			<point x="430" y="300" type="curve"/>
-			<point x="430" y="480"/>
-			<point x="359" y="546"/>
-			<point x="222" y="546" type="curve"/>
+			<point x="478" y="0" type="line"/>
+			<point x="478" y="28" type="line"/>
+			<point x="413" y="28" type="line"/>
+			<point x="417" y="123"/>
+			<point x="422" y="200"/>
+			<point x="422" y="300" type="curve"/>
+			<point x="422" y="480"/>
+			<point x="351" y="546"/>
+			<point x="214" y="546" type="curve"/>
 			<point x="74" y="546" type="line"/>
 			<point x="74" y="516" type="line"/>
-			<point x="216" y="516" type="line"/>
-			<point x="340" y="516"/>
-			<point x="402" y="464"/>
-			<point x="402" y="294" type="curve"/>
-			<point x="402" y="195"/>
-			<point x="394" y="115"/>
-			<point x="383" y="28" type="curve"/>
+			<point x="208" y="516" type="line"/>
+			<point x="332" y="516"/>
+			<point x="394" y="464"/>
+			<point x="394" y="294" type="curve"/>
+			<point x="394" y="195"/>
+			<point x="391" y="124"/>
+			<point x="386" y="28" type="curve"/>
 			<point x="54" y="28" type="line"/>
 		</contour>
 	</outline>
@@ -39,12 +39,12 @@
 						<array>
 							<string>hstem 0 28</string>
 							<string>hstem 516 30</string>
-							<string>vstem 402 28</string>
+							<string>vstem 394 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w530l540l4860l48628l41128422116430201c430300430480359546c222546l74546l74516l216516340516402464c402294402195394115c38328l5428</string>
+				<string>w522l540l4780l47828l41328417123422200c422300422480351546c214546l74546l74516l208516332516394464c394294394195391124c38628l5428</string>
 			</dict>
 		</dict>
 	</lib>

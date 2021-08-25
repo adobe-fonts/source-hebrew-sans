@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnAlf" format="2">
-	<advance width="470"/>
+	<unicode hex="10900"/>
+	<advance width="488"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="187" y="0" type="line"/>
-			<point x="284" y="0" type="line"/>
-			<point x="480" y="554" type="line"/>
-			<point x="393" y="554" type="line"/>
-			<point x="346" y="411" type="line"/>
-			<point x="122" y="411" type="line"/>
-			<point x="74" y="554" type="line"/>
-			<point x="-10" y="554" type="line"/>
+			<point name="hintSet0000" x="196" y="0" type="line"/>
+			<point x="292" y="0" type="line"/>
+			<point x="489" y="554" type="line"/>
+			<point x="402" y="554" type="line"/>
+			<point x="355" y="411" type="line"/>
+			<point x="131" y="411" type="line"/>
+			<point x="83" y="554" type="line"/>
+			<point x="-1" y="554" type="line"/>
 		</contour>
 		<contour>
-			<point x="232" y="67" type="line"/>
-			<point x="214" y="125"/>
-			<point x="199" y="180"/>
-			<point x="180" y="236" type="curve"/>
-			<point x="142" y="349" type="line"/>
-			<point x="325" y="349" type="line"/>
-			<point x="288" y="236" type="line"/>
-			<point x="269" y="179"/>
-			<point x="254" y="124"/>
-			<point x="236" y="67" type="curve"/>
+			<point x="241" y="67" type="line"/>
+			<point x="223" y="125"/>
+			<point x="208" y="180"/>
+			<point x="189" y="236" type="curve"/>
+			<point x="151" y="349" type="line"/>
+			<point x="334" y="349" type="line"/>
+			<point x="297" y="236" type="line"/>
+			<point x="278" y="179"/>
+			<point x="263" y="124"/>
+			<point x="245" y="67" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -38,12 +39,12 @@
 						<array>
 							<string>hstem 0 67</string>
 							<string>hstem 349 62</string>
-							<string>vstem -10 490</string>
+							<string>vstem -1 490</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w470l1870l2840l480554l393554l346411l122411l74554l-10554l23267214125199180c180236l142349l325349l288236269179254124c23667</string>
+				<string>w488l1960l2920l489554l402554l355411l131411l83554l-1554l24167223125208180c189236l151349l334349l297236278179263124c24567</string>
 			</dict>
 		</dict>
 	</lib>

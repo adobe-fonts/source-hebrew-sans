@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heTet.1" format="2">
+	<advance width="584"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="296" y="-12" type="curve"/>
+			<point x="424" y="-12"/>
+			<point x="526" y="107"/>
+			<point x="526" y="390" type="curve"/>
+			<point x="526" y="507"/>
+			<point x="490" y="546"/>
+			<point x="416" y="546" type="curve"/>
+			<point x="286" y="546" type="line"/>
+			<point x="286" y="516" type="line"/>
+			<point x="412" y="516" type="line"/>
+			<point x="472" y="516"/>
+			<point x="500" y="488"/>
+			<point x="500" y="390" type="curve"/>
+			<point x="500" y="126"/>
+			<point x="400" y="20"/>
+			<point x="296" y="20" type="curve"/>
+			<point x="218" y="20"/>
+			<point x="150" y="65"/>
+			<point x="132" y="286" type="curve"/>
+			<point x="114" y="504"/>
+			<point x="104" y="546"/>
+			<point x="24" y="546" type="curve"/>
+			<point x="4" y="546" type="line"/>
+			<point x="4" y="516" type="line"/>
+			<point x="10" y="516" type="line"/>
+			<point x="84" y="516"/>
+			<point x="90" y="480"/>
+			<point x="105" y="284" type="curve"/>
+			<point x="124" y="43"/>
+			<point x="204" y="-12"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="315" y="590"/>
+	<anchor name="belowPrimaryHE" x="325" y="-30"/>
+	<anchor name="centerHE" x="315" y="300"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 32</string>
+							<string>hstem 516 30</string>
+							<string>vstem 500 26</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>890e0ce93653bb7f168ad198872d542802be71ef438f975412bfbd56155f2988ad78adb52099346829ac1e00a669b99982d3b63dfe946e8f3feb74540ba22724</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heZayin" format="2">
 	<unicode hex="05D6"/>
-	<advance width="323"/>
+	<advance width="285"/>
 	<outline>
 		<contour>
 			<point x="5" y="504" type="line"/>
-			<point x="280" y="504" type="line"/>
-			<point x="280" y="548" type="line"/>
+			<point x="242" y="504" type="line"/>
+			<point x="242" y="548" type="line"/>
 			<point x="5" y="548" type="line"/>
 		</contour>
 		<contour>
-			<point x="146" y="0" type="line"/>
-			<point x="186" y="0" type="line"/>
-			<point x="186" y="504" type="line"/>
-			<point x="154" y="504" type="line"/>
-			<point x="147" y="476"/>
-			<point x="146" y="446"/>
-			<point x="146" y="408" type="curve" smooth="yes"/>
+			<point x="132" y="0" type="curve"/>
+			<point x="172" y="0" type="line"/>
+			<point x="153" y="181"/>
+			<point x="141" y="337"/>
+			<point x="141" y="413" type="curve" smooth="yes"/>
+			<point x="141" y="444"/>
+			<point x="141" y="473"/>
+			<point x="147" y="504" type="curve"/>
+			<point x="115" y="504" type="line"/>
+			<point x="106" y="476"/>
+			<point x="101" y="448"/>
+			<point x="101" y="411" type="curve" smooth="yes"/>
+			<point x="101" y="329"/>
+			<point x="116" y="172"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="144" y="575"/>
-	<anchor name="belowPrimaryHE" x="152" y="-30"/>
-	<anchor name="centerHE" x="28" y="253"/>
-	<anchor name="aboveLeftHE" x="-1" y="584"/>
+	<anchor name="aboveHE" x="106" y="575"/>
+	<anchor name="belowPrimaryHE" x="114" y="-30"/>
+	<anchor name="centerHE" x="-10" y="253"/>
+	<anchor name="aboveLeftHE" x="-39" y="584"/>
 </glyph>

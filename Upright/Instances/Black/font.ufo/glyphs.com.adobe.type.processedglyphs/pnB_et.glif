@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnBet" format="2">
+	<unicode hex="10901"/>
 	<advance width="610"/>
 	<outline>
 		<contour>
@@ -8,17 +9,17 @@
 			<point x="518" y="568" type="line"/>
 			<point x="292" y="568" type="line"/>
 			<point x="179" y="568"/>
-			<point x="72" y="522"/>
-			<point x="72" y="384" type="curve"/>
-			<point name="hintSet0005" x="72" y="234"/>
-			<point x="179" y="198"/>
-			<point x="295" y="198" type="curve"/>
-			<point x="370" y="198" type="line"/>
-			<point name="hintSet0007" x="370" y="172" type="line"/>
+			<point x="72" y="525"/>
+			<point x="72" y="394" type="curve"/>
+			<point x="72" y="252"/>
+			<point x="179" y="218"/>
+			<point x="295" y="218" type="curve"/>
+			<point x="370" y="218" type="line"/>
+			<point x="370" y="172" type="line"/>
 			<point x="108" y="172" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0009" x="272" y="350" type="line"/>
+			<point x="272" y="350" type="line"/>
 			<point x="250" y="350"/>
 			<point x="238" y="356"/>
 			<point x="238" y="376" type="curve"/>
@@ -41,41 +42,7 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 172</string>
-							<string>hstem 396 172</string>
-							<string>vstem 72 166</string>
-							<string>vstem 370 148</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0005</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 172</string>
-							<string>hstem 198 152</string>
-							<string>hstem 396 172</string>
-							<string>vstem 72 166</string>
-							<string>vstem 370 148</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0007</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 172</string>
-							<string>hstem 396 172</string>
-							<string>vstem 72 166</string>
-							<string>vstem 370 148</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0009</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 172</string>
-							<string>hstem 198 152</string>
+							<string>hstem 218 132</string>
 							<string>hstem 396 172</string>
 							<string>vstem 72 166</string>
 							<string>vstem 370 148</string>
@@ -83,7 +50,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>da847aa48f50d677dcb663d52d781de55d38fb479a8ccc48f40171c827e8e79ce0b80e626f8d0d4452e9370a6f5a5df70413201e1e4095ddcb51f9cb422bd94f</string>
+				<string>d19960f0a93ec68559c03a6cd23c1d4b47e0591027b98f22f405d7763a87a2e72f1c30812564f9702f1d263b06113ba102afe77cbe062c9d6f083d09c75e2b98</string>
 			</dict>
 		</dict>
 	</lib>

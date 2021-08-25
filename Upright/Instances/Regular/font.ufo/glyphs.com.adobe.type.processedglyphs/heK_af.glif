@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heKaf" format="2">
 	<unicode hex="05DB"/>
-	<advance width="541"/>
+	<advance width="533"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="50" y="0" type="line"/>
-			<point x="436" y="0" type="line"/>
-			<point x="448" y="99"/>
-			<point x="457" y="190"/>
-			<point x="457" y="301" type="curve"/>
-			<point x="457" y="482"/>
-			<point x="383" y="554"/>
-			<point x="239" y="554" type="curve"/>
+			<point x="427" y="0" type="line"/>
+			<point x="439" y="99"/>
+			<point x="449" y="190"/>
+			<point x="449" y="301" type="curve"/>
+			<point x="449" y="482"/>
+			<point x="374" y="554"/>
+			<point x="230" y="554" type="curve"/>
 			<point x="70" y="554" type="line"/>
 			<point x="70" y="472" type="line"/>
-			<point x="206" y="472" type="line"/>
-			<point x="332" y="472"/>
-			<point x="385" y="420"/>
-			<point x="385" y="259" type="curve"/>
-			<point x="385" y="193"/>
-			<point x="380" y="139"/>
-			<point x="372" y="80" type="curve"/>
-			<point x="50" y="80" type="line"/>
+			<point x="197" y="472" type="line"/>
+			<point x="323" y="472"/>
+			<point x="377" y="420"/>
+			<point x="377" y="259" type="curve"/>
+			<point x="377" y="192"/>
+			<point x="371" y="138"/>
+			<point x="364" y="79" type="curve"/>
+			<point x="50" y="79" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="aboveHE" x="226" y="568"/>
@@ -39,14 +39,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 80</string>
+							<string>hstem 0 79</string>
 							<string>hstem 472 82</string>
-							<string>vstem 385 72</string>
+							<string>vstem 377 72</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w541l500l436044899457190c457301457482383554c239554l70554l70472l206472332472385420c385259385193380139c37280l5080</string>
+				<string>w533l500l427043999449190c449301449482374554c230554l70554l70472l197472323472377420c377259377192371138c36479l5079</string>
 			</dict>
 		</dict>
 	</lib>

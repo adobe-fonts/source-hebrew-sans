@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnHet" format="2">
+	<unicode hex="10907"/>
+	<advance width="577"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="417" y="-120" type="line"/>
+			<point x="489" y="-120" type="line"/>
+			<point x="489" y="554" type="line"/>
+			<point x="162" y="554" type="line"/>
+			<point x="162" y="670" type="line"/>
+			<point x="90" y="670" type="line"/>
+			<point x="90" y="0" type="line"/>
+			<point x="417" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="162" y="322" type="line"/>
+			<point x="162" y="472" type="line"/>
+			<point x="417" y="472" type="line"/>
+			<point x="417" y="322" type="line"/>
+		</contour>
+		<contour>
+			<point x="162" y="82" type="line"/>
+			<point x="162" y="255" type="line"/>
+			<point x="417" y="255" type="line"/>
+			<point x="417" y="82" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 82</string>
+							<string>hstem 255 67</string>
+							<string>hstem 472 82</string>
+							<string>vstem 90 72</string>
+							<string>vstem 417 72</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w577l417-120l489-120l489554l162554l162670l90670l900l4170l162322l162472l417472l417322l16282l162255l417255l41782</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

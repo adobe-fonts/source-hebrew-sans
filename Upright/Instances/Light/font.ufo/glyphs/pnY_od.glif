@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnYod" format="2">
-	<advance width="462"/>
+	<unicode hex="10909"/>
+	<advance width="479"/>
 	<outline>
 		<contour>
-			<point x="93" y="262" type="line"/>
-			<point x="247" y="262" type="line"/>
-			<point x="247" y="303" type="line"/>
-			<point x="93" y="303" type="line"/>
+			<point x="93" y="269" type="line"/>
+			<point x="265" y="269" type="line"/>
+			<point x="265" y="310" type="line"/>
+			<point x="93" y="310" type="line"/>
 		</contour>
-		<component base="pnZai"/>
+		<contour>
+			<point x="94" y="0" type="line"/>
+			<point x="425" y="0" type="line"/>
+			<point x="425" y="44" type="line"/>
+			<point x="149" y="44" type="line"/>
+			<point x="421" y="522" type="line"/>
+			<point x="421" y="548" type="line"/>
+			<point x="78" y="548" type="line"/>
+			<point x="78" y="504" type="line"/>
+			<point x="366" y="504" type="line"/>
+			<point x="94" y="27" type="line"/>
+		</contour>
 	</outline>
 </glyph>

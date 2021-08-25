@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heTsadiFin" format="2">
 	<unicode hex="05E5"/>
-	<advance width="522"/>
+	<advance width="476"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="126" y="-200" type="line"/>
 			<point x="154" y="-200" type="line"/>
 			<point x="154" y="84" type="line"/>
-			<point x="360" y="210"/>
-			<point x="464" y="336"/>
-			<point x="464" y="448" type="curve"/>
-			<point x="464" y="516"/>
-			<point x="440" y="546"/>
-			<point x="366" y="546" type="curve"/>
-			<point x="294" y="546" type="line"/>
-			<point x="294" y="516" type="line"/>
-			<point x="352" y="516" type="line"/>
-			<point x="423" y="516"/>
-			<point x="436" y="495"/>
-			<point x="436" y="450" type="curve"/>
-			<point x="436" y="342"/>
-			<point x="338" y="230"/>
-			<point x="154" y="118" type="curve"/>
-			<point x="154" y="410" type="line"/>
-			<point x="154" y="518"/>
-			<point x="116" y="546"/>
-			<point x="38" y="546" type="curve"/>
-			<point x="4" y="546" type="line"/>
-			<point x="4" y="516" type="line"/>
-			<point x="32" y="516" type="line"/>
-			<point x="96" y="516"/>
-			<point x="126" y="498"/>
-			<point x="126" y="404" type="curve"/>
+			<point x="332" y="205"/>
+			<point x="418" y="334"/>
+			<point x="418" y="448" type="curve"/>
+			<point x="418" y="516"/>
+			<point x="394" y="546"/>
+			<point x="320" y="546" type="curve"/>
+			<point x="258" y="546" type="line"/>
+			<point x="258" y="516" type="line"/>
+			<point x="306" y="516" type="line"/>
+			<point x="377" y="516"/>
+			<point x="390" y="495"/>
+			<point x="390" y="450" type="curve"/>
+			<point x="390" y="342"/>
+			<point x="310" y="224"/>
+			<point x="154" y="116" type="curve"/>
+			<point x="154" y="94" type="line"/>
+			<point x="154" y="276"/>
+			<point x="112" y="444"/>
+			<point x="38" y="552" type="curve"/>
+			<point x="4" y="544" type="line"/>
+			<point x="86" y="430"/>
+			<point x="126" y="266"/>
+			<point x="126" y="88" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -47,12 +45,12 @@
 						<array>
 							<string>hstem 516 30</string>
 							<string>vstem 126 28</string>
-							<string>vstem 436 28</string>
+							<string>vstem 390 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>45da17e3e76d9c3b81e0db3799a5922ab3f5291383aa8925425e3f5ca46018d2df433daa19ccebcd57fbf247a53ca31420f0d1c535c47ddc3ee41aadb04e253c</string>
+				<string>5feca41c254ac60c852b21f7813735d8518c223fb0db3a0af304d02c2d1794a053c333254733cea792bde694724f2575bf1bd7ea9d4a12735e1f794038b00d4d</string>
 			</dict>
 		</dict>
 	</lib>

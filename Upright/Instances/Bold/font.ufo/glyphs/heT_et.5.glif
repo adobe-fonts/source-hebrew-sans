@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heTet.5" format="2">
+	<advance width="635"/>
+	<outline>
+		<contour>
+			<point x="317" y="-12" type="curve" smooth="yes"/>
+			<point x="478" y="-12"/>
+			<point x="594" y="156"/>
+			<point x="594" y="369" type="curve" smooth="yes"/>
+			<point x="594" y="506"/>
+			<point x="551" y="564"/>
+			<point x="428" y="564" type="curve" smooth="yes"/>
+			<point x="312" y="564" type="line"/>
+			<point x="312" y="417" type="line"/>
+			<point x="391" y="417" type="line" smooth="yes"/>
+			<point x="446" y="417"/>
+			<point x="467" y="392"/>
+			<point x="467" y="336" type="curve" smooth="yes"/>
+			<point x="467" y="225"/>
+			<point x="413" y="134"/>
+			<point x="332" y="134" type="curve" smooth="yes"/>
+			<point x="255" y="134"/>
+			<point x="210" y="170"/>
+			<point x="210" y="287" type="curve" smooth="yes"/>
+			<point x="210" y="564" type="line"/>
+			<point x="80" y="564" type="line"/>
+			<point x="80" y="234" type="line" smooth="yes"/>
+			<point x="80" y="60"/>
+			<point x="187" y="-12"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="311" y="541"/>
+	<anchor name="belowPrimaryHE" x="321" y="-30"/>
+	<anchor name="centerHE" x="311" y="267"/>
+	<anchor name="aboveLeftHE" x="12" y="541"/>
+</glyph>

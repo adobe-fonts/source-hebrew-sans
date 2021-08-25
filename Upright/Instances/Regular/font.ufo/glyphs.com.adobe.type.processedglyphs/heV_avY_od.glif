@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heVavYod" format="2">
+	<unicode hex="05F1"/>
 	<advance width="576"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="134" y="214" type="line"/>
-			<point x="179" y="287"/>
-			<point x="214" y="372"/>
-			<point x="214" y="428" type="curve"/>
-			<point x="214" y="516"/>
+			<point name="hintSet0000" x="128" y="216" type="line"/>
+			<point x="179" y="291"/>
+			<point x="214" y="369"/>
+			<point x="214" y="432" type="curve"/>
+			<point x="214" y="517"/>
 			<point x="182" y="554"/>
 			<point x="83" y="554" type="curve"/>
 			<point x="8" y="554" type="line"/>
@@ -53,7 +54,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>73e7497a33eec8e55a36132d7d4e619c67b6b6b925e0f39d3fbabdeae96b5faae95cf25306c3a9ca517861c7f5f42cf7db7eb4b8c2875ee6809cef8d5f745bab</string>
+				<string>fddcfbd3b1522a0285ab3f307b22d5e268d1bc6c562f56b046f1b40f63b96a7e616ecc06d2fe3f7eadc639b6f27749a67728c05391c075761d87c98a08cf4ddd</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnBet" format="2">
+	<unicode hex="10901"/>
 	<advance width="591"/>
 	<outline>
 		<contour>
@@ -8,12 +9,12 @@
 			<point x="497" y="564" type="line"/>
 			<point x="282" y="564" type="line"/>
 			<point x="167" y="564"/>
-			<point x="67" y="517"/>
-			<point x="67" y="385" type="curve"/>
-			<point x="67" y="242"/>
-			<point x="169" y="205"/>
-			<point x="286" y="205" type="curve"/>
-			<point x="370" y="205" type="line"/>
+			<point x="67" y="520"/>
+			<point x="67" y="393" type="curve"/>
+			<point x="67" y="257"/>
+			<point x="169" y="222"/>
+			<point x="286" y="222" type="curve"/>
+			<point x="370" y="222" type="line"/>
 			<point x="370" y="147" type="line"/>
 			<point x="103" y="147" type="line"/>
 		</contour>
@@ -41,7 +42,7 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 147</string>
-							<string>hstem 205 131</string>
+							<string>hstem 222 114</string>
 							<string>hstem 417 147</string>
 							<string>vstem 67 142</string>
 							<string>vstem 370 127</string>
@@ -49,7 +50,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9081af67fecc1093f3c2f865b9155adceeb681ccd038c762cadb88f376ef7a216e3a2f45836608c98631e04cb248700501c2ebaf24d7a0e6609138aa747bf4fa</string>
+				<string>16d045f00f3375ac8772347fd0f6c44ba25040ee11968e338ac4022fddec66ffba56f553ee0f8abb400d8d140a63a08e8a7f5dcff56e94c0861d8effc7332575</string>
 			</dict>
 		</dict>
 	</lib>

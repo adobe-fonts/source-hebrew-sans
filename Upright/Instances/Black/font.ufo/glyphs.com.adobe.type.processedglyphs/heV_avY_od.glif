@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heVavYod" format="2">
+	<unicode hex="05F1"/>
 	<advance width="692"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="204" y="170" type="line"/>
-			<point x="252" y="252"/>
-			<point x="284" y="332"/>
-			<point x="284" y="394" type="curve"/>
-			<point x="284" y="516"/>
+			<point name="hintSet0000" x="194" y="170" type="line"/>
+			<point x="254" y="258"/>
+			<point x="284" y="336"/>
+			<point x="284" y="404" type="curve"/>
+			<point x="284" y="518"/>
 			<point x="236" y="568"/>
 			<point x="96" y="568" type="curve"/>
-			<point name="hintSet0003" x="14" y="568" type="line"/>
+			<point x="14" y="568" type="line"/>
 			<point x="14" y="396" type="line"/>
 			<point name="hintSet0005" x="42" y="396" type="line"/>
 			<point x="112" y="396"/>
@@ -47,16 +48,6 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 396 172</string>
-							<string>vstem 136 148</string>
-							<string>vstem 472 148</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0003</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 396 172</string>
 							<string>vstem 14 270</string>
 							<string>vstem 472 148</string>
 						</array>
@@ -73,7 +64,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>1aa6b4853e4b05b9dcced74866ac72ec7762e60e01bba06fa906f0284231c7a304a341bd67413ef091ce12ab10262cfeea92b060f22403299fb4a14fe7ec64b7</string>
+				<string>5bde9def0d4130d69847523f9816158abfd3d1a82f5f28ae40e2655bbe6071859554b750d14eb19b1dc4cd64a2f059cec128654e15e009b7530eb43889fc8cec</string>
 			</dict>
 		</dict>
 	</lib>

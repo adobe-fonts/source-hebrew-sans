@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heBet" format="2">
 	<unicode hex="05D1"/>
-	<advance width="533"/>
+	<advance width="525"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="53" y="0" type="line"/>
-			<point x="490" y="0" type="line"/>
-			<point x="490" y="42" type="line"/>
+			<point x="482" y="0" type="line"/>
+			<point x="482" y="42" type="line"/>
 			<point x="419" y="42" type="line"/>
-			<point x="428" y="125"/>
-			<point x="435" y="206"/>
-			<point x="435" y="300" type="curve"/>
-			<point x="435" y="481"/>
-			<point x="364" y="548"/>
-			<point x="225" y="548" type="curve"/>
+			<point x="424" y="130"/>
+			<point x="428" y="205"/>
+			<point x="428" y="300" type="curve"/>
+			<point x="428" y="481"/>
+			<point x="356" y="548"/>
+			<point x="217" y="548" type="curve"/>
 			<point x="73" y="548" type="line"/>
 			<point x="73" y="504" type="line"/>
-			<point x="211" y="504" type="line"/>
-			<point x="336" y="504"/>
-			<point x="395" y="452"/>
-			<point x="395" y="285" type="curve"/>
-			<point x="395" y="194"/>
-			<point x="388" y="121"/>
-			<point x="378" y="42" type="curve"/>
+			<point x="203" y="504" type="line"/>
+			<point x="328" y="504"/>
+			<point x="388" y="452"/>
+			<point x="388" y="285" type="curve"/>
+			<point x="388" y="194"/>
+			<point x="385" y="129"/>
+			<point x="380" y="42" type="curve"/>
 			<point x="53" y="42" type="line"/>
 		</contour>
 	</outline>
@@ -39,12 +39,12 @@
 						<array>
 							<string>hstem 0 42</string>
 							<string>hstem 504 44</string>
-							<string>vstem 395 40</string>
+							<string>vstem 388 40</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w533l530l4900l49042l41942428125435206c435300435481364548c225548l73548l73504l211504336504395452c395285395194388121c37842l5342</string>
+				<string>w525l530l4820l48242l41942424130428205c428300428481356548c217548l73548l73504l203504328504388452c388285388194385129c38042l5342</string>
 			</dict>
 		</dict>
 	</lib>

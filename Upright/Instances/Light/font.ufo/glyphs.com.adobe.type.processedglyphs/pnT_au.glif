@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnTau" format="2">
+	<unicode hex="10915"/>
+	<advance width="502"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="231" y="0" type="line"/>
+			<point x="271" y="0" type="line"/>
+			<point x="271" y="258" type="line"/>
+			<point x="480" y="258" type="line"/>
+			<point x="480" y="302" type="line"/>
+			<point x="271" y="302" type="line"/>
+			<point x="271" y="548" type="line"/>
+			<point x="231" y="548" type="line"/>
+			<point x="231" y="302" type="line"/>
+			<point x="22" y="302" type="line"/>
+			<point x="22" y="258" type="line"/>
+			<point x="231" y="258" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 258 44</string>
+							<string>vstem 231 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w502l2310l2710l271258l480258l480302l271302l271548l231548l231302l22302l22258l231258</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

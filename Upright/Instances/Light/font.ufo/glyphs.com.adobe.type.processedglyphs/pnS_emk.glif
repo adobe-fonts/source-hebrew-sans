@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnSemk" format="2">
+	<unicode hex="1090E"/>
+	<advance width="492"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="226" y="-120" type="line"/>
+			<point x="266" y="-120" type="line"/>
+			<point x="266" y="158" type="line"/>
+			<point x="459" y="158" type="line"/>
+			<point x="459" y="203" type="line"/>
+			<point x="266" y="203" type="line"/>
+			<point x="266" y="336" type="line"/>
+			<point x="426" y="336" type="line"/>
+			<point x="426" y="378" type="line"/>
+			<point x="266" y="378" type="line"/>
+			<point x="266" y="504" type="line"/>
+			<point x="459" y="504" type="line"/>
+			<point x="459" y="548" type="line"/>
+			<point x="32" y="548" type="line"/>
+			<point x="32" y="504" type="line"/>
+			<point x="226" y="504" type="line"/>
+			<point x="226" y="378" type="line"/>
+			<point x="65" y="378" type="line"/>
+			<point x="65" y="336" type="line"/>
+			<point x="226" y="336" type="line"/>
+			<point x="226" y="203" type="line"/>
+			<point x="32" y="203" type="line"/>
+			<point x="32" y="158" type="line"/>
+			<point x="226" y="158" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 158 45</string>
+							<string>hstem 336 42</string>
+							<string>hstem 504 44</string>
+							<string>vstem 226 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>14a58e081457c6116341ef46514bd780b89cbc0cb0960cae6c2fd99a292472b2791925aa3246f645533680e74d1760d808ba6504907b7a654351541fe012b71e</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

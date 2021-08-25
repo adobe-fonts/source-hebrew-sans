@@ -1,51 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heTet" format="2">
 	<unicode hex="05D8"/>
-	<advance width="646"/>
+	<advance width="626"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="338" y="-12" type="curve"/>
-			<point x="502" y="-12"/>
-			<point x="618" y="136"/>
-			<point x="618" y="364" type="curve"/>
-			<point x="618" y="506"/>
-			<point x="569" y="568"/>
+			<point name="hintSet0000" x="332" y="-12" type="curve"/>
+			<point x="488" y="-12"/>
+			<point x="598" y="166"/>
+			<point x="598" y="364" type="curve"/>
+			<point x="598" y="506"/>
+			<point x="554" y="568"/>
 			<point x="420" y="568" type="curve"/>
-			<point x="338" y="568" type="line"/>
-			<point x="338" y="396" type="line"/>
+			<point x="308" y="568" type="line"/>
+			<point x="308" y="396" type="line"/>
 			<point x="376" y="396" type="line"/>
-			<point x="446" y="396"/>
-			<point x="470" y="372"/>
-			<point x="470" y="324" type="curve"/>
-			<point x="470" y="226"/>
-			<point x="420" y="158"/>
-			<point x="356" y="158" type="curve"/>
-			<point x="286" y="158"/>
-			<point x="244" y="197"/>
-			<point x="244" y="328" type="curve"/>
-			<point x="244" y="353"/>
-			<point x="246" y="377"/>
-			<point x="246" y="402" type="curve"/>
-			<point x="246" y="530"/>
-			<point x="180" y="568"/>
-			<point x="70" y="568" type="curve"/>
-			<point x="24" y="568" type="line"/>
-			<point x="24" y="396" type="line"/>
-			<point x="38" y="396" type="line"/>
-			<point x="82" y="396"/>
-			<point x="98" y="388"/>
-			<point x="98" y="320" type="curve"/>
-			<point x="98" y="301"/>
-			<point x="96" y="283"/>
-			<point x="96" y="264" type="curve"/>
-			<point x="96" y="70"/>
-			<point x="196" y="-12"/>
+			<point x="431" y="396"/>
+			<point x="450" y="372"/>
+			<point x="450" y="324" type="curve"/>
+			<point x="450" y="246"/>
+			<point x="414" y="158"/>
+			<point x="350" y="158" type="curve"/>
+			<point x="268" y="158"/>
+			<point x="210" y="198"/>
+			<point x="204" y="574" type="curve"/>
+			<point x="24" y="524" type="line"/>
+			<point x="42" y="112"/>
+			<point x="166" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="310" y="530"/>
-	<anchor name="belowPrimaryHE" x="320" y="-30"/>
-	<anchor name="centerHE" x="310" y="260"/>
-	<anchor name="aboveLeftHE" x="15" y="530"/>
+	<anchor name="aboveHE" x="300" y="530"/>
+	<anchor name="belowPrimaryHE" x="310" y="-30"/>
+	<anchor name="centerHE" x="300" y="260"/>
+	<anchor name="aboveLeftHE" x="5" y="530"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -59,13 +45,13 @@
 						<array>
 							<string>hstem -12 170</string>
 							<string>hstem 396 172</string>
-							<string>vstem 96 148</string>
-							<string>vstem 470 148</string>
+							<string>vstem 24 180</string>
+							<string>vstem 450 148</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>13d1816369a7a204e2a6e14b987d04c7846d87bc7323a74aa884d20fc79fa5938c98a66f5e88d8e613ec29c2f94b399a78e995653caafc3790b2510511d6e8d8</string>
+				<string>e9a5bcbfd620bc8c468016813cfcec0285228ed7400b685c804720794ce643224511f952704102daa02429fcf0d729f0601de3827a51f945e7e96f89cd51bc2d</string>
 			</dict>
 		</dict>
 	</lib>
