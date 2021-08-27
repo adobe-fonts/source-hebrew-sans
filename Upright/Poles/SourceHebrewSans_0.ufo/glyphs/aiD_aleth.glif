@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiDaleth" format="2">
+	<advance width="470"/>
+	<outline>
+		<contour>
+			<point x="4" y="516" type="line"/>
+			<point x="426" y="516" type="line"/>
+			<point x="426" y="546" type="line"/>
+			<point x="4" y="546" type="line"/>
+		</contour>
+		<contour>
+			<point x="304" y="0" type="line"/>
+			<point x="332" y="0" type="line"/>
+			<point x="332" y="516" type="line"/>
+			<point x="310" y="516" type="line"/>
+			<point x="304" y="490"/>
+			<point x="304" y="462"/>
+			<point x="304" y="426" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="235" y="590"/>
+	<anchor name="belowSecondaryHE" x="340" y="-30"/>
+	<anchor name="centerHE" x="175" y="255"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>

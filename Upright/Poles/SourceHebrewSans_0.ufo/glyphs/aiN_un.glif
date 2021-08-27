@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiNun" format="2">
+	<advance width="392"/>
+	<outline>
+		<contour>
+			<point x="54" y="0" type="line"/>
+			<point x="290" y="0" type="line"/>
+			<point x="290" y="380" type="line" smooth="yes"/>
+			<point x="290" y="512"/>
+			<point x="243" y="546"/>
+			<point x="144" y="546" type="curve" smooth="yes"/>
+			<point x="74" y="546" type="line"/>
+			<point x="74" y="516" type="line"/>
+			<point x="138" y="516" type="line" smooth="yes"/>
+			<point x="224" y="516"/>
+			<point x="262" y="494"/>
+			<point x="262" y="374" type="curve" smooth="yes"/>
+			<point x="262" y="28" type="line"/>
+			<point x="54" y="28" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="175" y="590"/>
+	<anchor name="belowPrimaryHE" x="160" y="-30"/>
+	<anchor name="centerHE" x="130" y="285"/>
+	<anchor name="aboveLeftHE" x="10" y="590"/>
+	<anchor name="belowPrimaryHECXT" x="180" y="-30"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>

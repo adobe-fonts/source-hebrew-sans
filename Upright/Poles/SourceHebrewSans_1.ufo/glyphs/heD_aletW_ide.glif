@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heDaletWide" format="2">
 	<unicode hex="FB22"/>
-	<advance width="540"/>
+	<advance width="538"/>
+	<outline>
+		<contour>
+			<point x="14" y="396" type="line"/>
+			<point x="904" y="396" type="line"/>
+			<point x="904" y="568" type="line"/>
+			<point x="14" y="568" type="line"/>
+		</contour>
+		<contour>
+			<point x="664" y="0" type="line"/>
+			<point x="812" y="0" type="line"/>
+			<point x="812" y="396" type="line"/>
+			<point x="688" y="396" type="line"/>
+			<point x="674" y="352"/>
+			<point x="664" y="306"/>
+			<point x="664" y="246" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="230" y="530"/>
+	<anchor name="belowSecondaryHE" x="290" y="-30"/>
+	<anchor name="centerHE" x="125" y="190"/>
+	<anchor name="aboveLeftHE" x="-10" y="530"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>0.8,1,0.4,1</string>
+			<string>1,0,0,1</string>
 		</dict>
 	</lib>
 </glyph>

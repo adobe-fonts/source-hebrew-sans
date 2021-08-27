@@ -113,43 +113,37 @@
 					<string>heDagesh.shin</string>
 					<string>heSheva.kaf</string>
 					<string>heQamats.kaf</string>
-					<string>ampersand.he</string>
-					<string>zero.he</string>
-					<string>one.he</string>
-					<string>two.he</string>
-					<string>three.he</string>
-					<string>four.he</string>
-					<string>five.he</string>
-					<string>six.he</string>
-					<string>seven.he</string>
-					<string>eight.he</string>
-					<string>nine.he</string>
-					<string>zero.ph</string>
-					<string>one.ph</string>
-					<string>two.ph</string>
-					<string>three.ph</string>
-					<string>four.ph</string>
-					<string>five.ph</string>
-					<string>six.ph</string>
-					<string>seven.ph</string>
-					<string>eight.ph</string>
-					<string>nine.ph</string>
-					<string>numbersign.he</string>
-					<string>newsheqel.he</string>
-					<string>dollar.he</string>
-					<string>sterling.he</string>
-					<string>yen.he</string>
-					<string>Euro.he</string>
-					<string>cent.he</string>
-					<string>florin.he</string>
-					<string>one.supsheb</string>
-					<string>two.supsheb</string>
-					<string>three.supsheb</string>
-					<string>onequarter.he</string>
-					<string>onehalf.he</string>
-					<string>threequarters.he</string>
-					<string>percent.he</string>
-					<string>perthousand.he</string>
+					<string>aiAleph</string>
+					<string>aiBeth</string>
+					<string>aiGimel</string>
+					<string>aiDaleth</string>
+					<string>aiHe</string>
+					<string>aiWaw</string>
+					<string>aiZayin</string>
+					<string>aiHeth</string>
+					<string>aiTeth</string>
+					<string>aiYodh</string>
+					<string>aiKaph</string>
+					<string>aiLamedh</string>
+					<string>aiMem</string>
+					<string>aiNun</string>
+					<string>aiSamekh</string>
+					<string>aiAyin</string>
+					<string>aiPe</string>
+					<string>aiSadhe</string>
+					<string>aiQoph</string>
+					<string>aiResh</string>
+					<string>aiShin</string>
+					<string>aiTaw</string>
+					<string>aiSection</string>
+					<string>ai1</string>
+					<string>ai2</string>
+					<string>ai3</string>
+					<string>ai10</string>
+					<string>ai20</string>
+					<string>ai100</string>
+					<string>ai1000</string>
+					<string>ai10000</string>
 					<string>pnAlf</string>
 					<string>pnBet</string>
 					<string>pnGaml</string>
@@ -172,13 +166,94 @@
 					<string>pnRosh</string>
 					<string>pnShin</string>
 					<string>pnTau</string>
-					<string>pnOne</string>
-					<string>pnTen</string>
-					<string>pnTwenty</string>
-					<string>pnHundred</string>
-					<string>pnTwo</string>
-					<string>pnThree</string>
-					<string>pnHyphen</string>
+					<string>pn1</string>
+					<string>pn10</string>
+					<string>pn20</string>
+					<string>pn100</string>
+					<string>pn2</string>
+					<string>pn3</string>
+					<string>pnhyphen</string>
+					<string>ampersand.s</string>
+					<string>zero.s</string>
+					<string>one.s</string>
+					<string>two.s</string>
+					<string>three.s</string>
+					<string>four.s</string>
+					<string>five.s</string>
+					<string>six.s</string>
+					<string>seven.s</string>
+					<string>eight.s</string>
+					<string>nine.s</string>
+					<string>zero.slash</string>
+					<string>zero.pnumlat</string>
+					<string>one.pnumlat</string>
+					<string>two.pnumlat</string>
+					<string>three.pnumlat</string>
+					<string>four.pnumlat</string>
+					<string>five.pnumlat</string>
+					<string>six.pnumlat</string>
+					<string>seven.pnumlat</string>
+					<string>eight.pnumlat</string>
+					<string>nine.pnumlat</string>
+					<string>zero.slashpnum</string>
+					<string>exclam.s</string>
+					<string>exclamdown.s</string>
+					<string>question.s</string>
+					<string>questiondown.s</string>
+					<string>quotesingle.s</string>
+					<string>quotedbl.s</string>
+					<string>quoteleft.s</string>
+					<string>quoteright.s</string>
+					<string>quotedblleft.s</string>
+					<string>quotedblright.s</string>
+					<string>quotesinglbase.s</string>
+					<string>quotedblbase.s</string>
+					<string>guilsinglleft.s</string>
+					<string>guilsinglright.s</string>
+					<string>guillemotleft.s</string>
+					<string>guillemotright.s</string>
+					<string>hyphentwo.s</string>
+					<string>endash.s</string>
+					<string>emdash.s</string>
+					<string>periodcentered.s</string>
+					<string>bullet.s</string>
+					<string>parenleft.s</string>
+					<string>parenright.s</string>
+					<string>bracketleft.s</string>
+					<string>bracketright.s</string>
+					<string>braceleft.s</string>
+					<string>braceright.s</string>
+					<string>asterisk.s</string>
+					<string>dagger.s</string>
+					<string>daggerdbl.s</string>
+					<string>section.s</string>
+					<string>paragraph.s</string>
+					<string>at.s</string>
+					<string>numbersign.s</string>
+					<string>copyright.s</string>
+					<string>trademark.s</string>
+					<string>registered.s</string>
+					<string>newsheqel.s</string>
+					<string>dollar.s</string>
+					<string>sterling.s</string>
+					<string>yen.s</string>
+					<string>Euro.s</string>
+					<string>cent.s</string>
+					<string>florin.s</string>
+					<string>degree.s</string>
+					<string>one.sup2</string>
+					<string>two.sup2</string>
+					<string>three.sup2</string>
+					<string>fraction.s</string>
+					<string>divisionslash.s</string>
+					<string>onehalf.s</string>
+					<string>onequarter.s</string>
+					<string>threequarters.s</string>
+					<string>percent.s</string>
+					<string>perthousand.s</string>
+					<string>asciicircum.s</string>
+					<string>slash.s</string>
+					<string>backslash.s</string>
 					<string>A</string>
 					<string>B</string>
 					<string>C</string>
@@ -413,11 +488,18 @@
 					<string>seven</string>
 					<string>eight</string>
 					<string>nine</string>
-					<string>period</string>
-					<string>comma</string>
-					<string>colon</string>
-					<string>semicolon</string>
-					<string>ellipsis</string>
+					<string>zero.0</string>
+					<string>zero.pnum</string>
+					<string>one.pnum</string>
+					<string>two.pnum</string>
+					<string>three.pnum</string>
+					<string>four.pnum</string>
+					<string>five.pnum</string>
+					<string>six.pnum</string>
+					<string>seven.pnum</string>
+					<string>eight.pnum</string>
+					<string>nine.pnum</string>
+					<string>zero.0p</string>
 					<string>exclam</string>
 					<string>exclamdown</string>
 					<string>question</string>
@@ -434,8 +516,6 @@
 					<string>guilsinglright</string>
 					<string>guillemotleft</string>
 					<string>guillemotright</string>
-					<string>hyphen</string>
-					<string>sfthyphen</string>
 					<string>hyphentwo</string>
 					<string>endash</string>
 					<string>emdash</string>
@@ -452,23 +532,11 @@
 					<string>daggerdbl</string>
 					<string>section</string>
 					<string>paragraph</string>
+					<string>at</string>
+					<string>numbersign</string>
 					<string>copyright</string>
 					<string>trademark</string>
 					<string>registered</string>
-					<string>at</string>
-					<string>numbersign</string>
-					<string>onequarter</string>
-					<string>onehalf</string>
-					<string>threequarters</string>
-					<string>percent</string>
-					<string>perthousand</string>
-					<string>one.sups</string>
-					<string>two.sups</string>
-					<string>three.sups</string>
-					<string>ordfeminine</string>
-					<string>ordmasculine</string>
-					<string>degree</string>
-					<string>currency</string>
 					<string>newsheqel</string>
 					<string>dollar</string>
 					<string>sterling</string>
@@ -476,11 +544,19 @@
 					<string>Euro</string>
 					<string>cent</string>
 					<string>florin</string>
+					<string>degree</string>
+					<string>one.sups</string>
+					<string>two.sups</string>
+					<string>three.sups</string>
 					<string>fraction</string>
 					<string>divisionslash</string>
+					<string>onehalf</string>
+					<string>onequarter</string>
+					<string>threequarters</string>
+					<string>percent</string>
+					<string>perthousand</string>
 					<string>asciicircum</string>
 					<string>slash</string>
-					<string>bar</string>
 					<string>backslash</string>
 					<string>asciitilde</string>
 					<string>brokenbar</string>
@@ -553,87 +629,6 @@
 					<string>righttoleftoverride</string>
 					<string>circledotted</string>
 					<string>nbspace</string>
-					<string>ampersand.lat</string>
-					<string>zero.lat</string>
-					<string>one.lat</string>
-					<string>two.lat</string>
-					<string>three.lat</string>
-					<string>four.lat</string>
-					<string>five.lat</string>
-					<string>six.lat</string>
-					<string>seven.lat</string>
-					<string>eight.lat</string>
-					<string>nine.lat</string>
-					<string>zero.slash</string>
-					<string>zero.pnumlat</string>
-					<string>one.pnumlat</string>
-					<string>two.pnumlat</string>
-					<string>three.pnumlat</string>
-					<string>four.pnumlat</string>
-					<string>five.pnumlat</string>
-					<string>six.pnumlat</string>
-					<string>seven.pnumlat</string>
-					<string>eight.pnumlat</string>
-					<string>nine.pnumlat</string>
-					<string>zero.slashpnum</string>
-					<string>exclam.lat</string>
-					<string>exclamdown.lat</string>
-					<string>question.lat</string>
-					<string>questiondown.lat</string>
-					<string>quotesingle.lat</string>
-					<string>quotedbl.lat</string>
-					<string>quoteleft.lat</string>
-					<string>quoteright.lat</string>
-					<string>quotedblleft.lat</string>
-					<string>quotedblright.lat</string>
-					<string>quotesinglbase.lat</string>
-					<string>quotedblbase.lat</string>
-					<string>guilsinglleft.lat</string>
-					<string>guilsinglright.lat</string>
-					<string>guillemotleft.lat</string>
-					<string>guillemotright.lat</string>
-					<string>hyphentwo.lat</string>
-					<string>endash.lat</string>
-					<string>emdash.lat</string>
-					<string>periodcentered.lat</string>
-					<string>bullet.lat</string>
-					<string>parenleft.lat</string>
-					<string>parenright.lat</string>
-					<string>bracketleft.lat</string>
-					<string>bracketright.lat</string>
-					<string>braceleft.lat</string>
-					<string>braceright.lat</string>
-					<string>asterisk.lat</string>
-					<string>dagger.lat</string>
-					<string>daggerdbl.lat</string>
-					<string>section.lat</string>
-					<string>paragraph.lat</string>
-					<string>at.lat</string>
-					<string>numbersign.lat</string>
-					<string>copyright.lat</string>
-					<string>trademark.lat</string>
-					<string>registered.lat</string>
-					<string>newsheqel.lat</string>
-					<string>dollar.lat</string>
-					<string>sterling.lat</string>
-					<string>yen.lat</string>
-					<string>Euro.lat</string>
-					<string>cent.lat</string>
-					<string>florin.lat</string>
-					<string>degree.lat</string>
-					<string>one.supslat</string>
-					<string>two.supslat</string>
-					<string>three.supslat</string>
-					<string>fraction.lat</string>
-					<string>divisionslash.lat</string>
-					<string>onehalf.lat</string>
-					<string>onequarter.lat</string>
-					<string>threequarters.lat</string>
-					<string>percent.lat</string>
-					<string>perthousand.lat</string>
-					<string>asciicircum.lat</string>
-					<string>slash.lat</string>
-					<string>backslash.lat</string>
 					<string>gravecmb.cap</string>
 					<string>acutecmb.cap</string>
 					<string>circumflexcmb.cap</string>
@@ -653,31 +648,110 @@
 					<string>cedillacmb.cap</string>
 					<string>ogonekcmb</string>
 					<string>tildeoverlaycmb</string>
-					<string>heTet.1</string>
-					<string>heSamekh.1</string>
-					<string>heAyin.1</string>
-					<string>heTsadi.1</string>
-					<string>heShin.1</string>
-					<string>heTet.2</string>
-					<string>heAyin.2</string>
-					<string>heTsadi.2</string>
-					<string>heShin.2</string>
-					<string>heTet.3</string>
-					<string>heSamekh.3</string>
-					<string>heShin.3</string>
-					<string>heTet.4</string>
-					<string>heShin.4</string>
-					<string>heTet.5</string>
-					<string>heSamekh.5</string>
-					<string>heShin.5</string>
-					<string>heAyin.a</string>
-					<string>heAyin.c</string>
-					<string>heAyin.x</string>
-					<string>heShin.a</string>
-					<string>heTet.a</string>
-					<string>heTet.c</string>
-					<string>heTsadi.a</string>
-					<string>heTsadi.c</string>
+					<string>Euro.lat</string>
+					<string>ampersand.lat</string>
+					<string>asciicircum.lat</string>
+					<string>asterisk.lat</string>
+					<string>at.lat</string>
+					<string>backslash.lat</string>
+					<string>bar</string>
+					<string>braceleft.lat</string>
+					<string>braceright.lat</string>
+					<string>bracketleft.lat</string>
+					<string>bracketright.lat</string>
+					<string>bullet.lat</string>
+					<string>cent.lat</string>
+					<string>colon</string>
+					<string>comma</string>
+					<string>copyright.lat</string>
+					<string>currency</string>
+					<string>dagger.lat</string>
+					<string>daggerdbl.lat</string>
+					<string>degree.lat</string>
+					<string>divisionslash.lat</string>
+					<string>dollar.lat</string>
+					<string>eight.he</string>
+					<string>eight.lat</string>
+					<string>eight.ph</string>
+					<string>ellipsis</string>
+					<string>emdash.lat</string>
+					<string>endash.lat</string>
+					<string>exclam.lat</string>
+					<string>exclamdown.lat</string>
+					<string>five.he</string>
+					<string>five.lat</string>
+					<string>five.ph</string>
+					<string>florin.lat</string>
+					<string>four.he</string>
+					<string>four.lat</string>
+					<string>four.ph</string>
+					<string>fraction.lat</string>
+					<string>guillemotleft.lat</string>
+					<string>guillemotright.lat</string>
+					<string>guilsinglleft.lat</string>
+					<string>guilsinglright.lat</string>
+					<string>hyphen</string>
+					<string>hyphentwo.lat</string>
+					<string>newsheqel.he</string>
+					<string>newsheqel.lat</string>
+					<string>nine.he</string>
+					<string>nine.lat</string>
+					<string>nine.ph</string>
+					<string>numbersign.lat</string>
+					<string>one.he</string>
+					<string>one.lat</string>
+					<string>one.ph</string>
+					<string>one.supsheb</string>
+					<string>one.supslat</string>
+					<string>onehalf.lat</string>
+					<string>onequarter.lat</string>
+					<string>ordfeminine</string>
+					<string>ordmasculine</string>
+					<string>paragraph.lat</string>
+					<string>parenleft.lat</string>
+					<string>parenright.lat</string>
+					<string>percent.lat</string>
+					<string>period</string>
+					<string>periodcentered.lat</string>
+					<string>perthousand.lat</string>
+					<string>question.lat</string>
+					<string>questiondown.lat</string>
+					<string>quotedbl.lat</string>
+					<string>quotedblbase.lat</string>
+					<string>quotedblleft.lat</string>
+					<string>quotedblright.lat</string>
+					<string>quoteleft.lat</string>
+					<string>quoteright.lat</string>
+					<string>quotesinglbase.lat</string>
+					<string>quotesingle.lat</string>
+					<string>registered.lat</string>
+					<string>section.lat</string>
+					<string>semicolon</string>
+					<string>seven.he</string>
+					<string>seven.lat</string>
+					<string>seven.ph</string>
+					<string>sfthyphen</string>
+					<string>six.he</string>
+					<string>six.lat</string>
+					<string>six.ph</string>
+					<string>slash.lat</string>
+					<string>sterling.lat</string>
+					<string>three.he</string>
+					<string>three.lat</string>
+					<string>three.ph</string>
+					<string>three.supsheb</string>
+					<string>three.supslat</string>
+					<string>threequarters.lat</string>
+					<string>trademark.lat</string>
+					<string>two.he</string>
+					<string>two.lat</string>
+					<string>two.ph</string>
+					<string>two.supsheb</string>
+					<string>two.supslat</string>
+					<string>yen.lat</string>
+					<string>zero.he</string>
+					<string>zero.lat</string>
+					<string>zero.ph</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -4953,43 +5027,37 @@
 			<string>heDagesh.shin</string>
 			<string>heSheva.kaf</string>
 			<string>heQamats.kaf</string>
-			<string>ampersand.he</string>
-			<string>zero.he</string>
-			<string>one.he</string>
-			<string>two.he</string>
-			<string>three.he</string>
-			<string>four.he</string>
-			<string>five.he</string>
-			<string>six.he</string>
-			<string>seven.he</string>
-			<string>eight.he</string>
-			<string>nine.he</string>
-			<string>zero.ph</string>
-			<string>one.ph</string>
-			<string>two.ph</string>
-			<string>three.ph</string>
-			<string>four.ph</string>
-			<string>five.ph</string>
-			<string>six.ph</string>
-			<string>seven.ph</string>
-			<string>eight.ph</string>
-			<string>nine.ph</string>
-			<string>numbersign.he</string>
-			<string>newsheqel.he</string>
-			<string>dollar.he</string>
-			<string>sterling.he</string>
-			<string>yen.he</string>
-			<string>Euro.he</string>
-			<string>cent.he</string>
-			<string>florin.he</string>
-			<string>one.supsheb</string>
-			<string>two.supsheb</string>
-			<string>three.supsheb</string>
-			<string>onequarter.he</string>
-			<string>onehalf.he</string>
-			<string>threequarters.he</string>
-			<string>percent.he</string>
-			<string>perthousand.he</string>
+			<string>aiAleph</string>
+			<string>aiBeth</string>
+			<string>aiGimel</string>
+			<string>aiDaleth</string>
+			<string>aiHe</string>
+			<string>aiWaw</string>
+			<string>aiZayin</string>
+			<string>aiHeth</string>
+			<string>aiTeth</string>
+			<string>aiYodh</string>
+			<string>aiKaph</string>
+			<string>aiLamedh</string>
+			<string>aiMem</string>
+			<string>aiNun</string>
+			<string>aiSamekh</string>
+			<string>aiAyin</string>
+			<string>aiPe</string>
+			<string>aiSadhe</string>
+			<string>aiQoph</string>
+			<string>aiResh</string>
+			<string>aiShin</string>
+			<string>aiTaw</string>
+			<string>aiSection</string>
+			<string>ai1</string>
+			<string>ai2</string>
+			<string>ai3</string>
+			<string>ai10</string>
+			<string>ai20</string>
+			<string>ai100</string>
+			<string>ai1000</string>
+			<string>ai10000</string>
 			<string>pnAlf</string>
 			<string>pnBet</string>
 			<string>pnGaml</string>
@@ -5012,13 +5080,94 @@
 			<string>pnRosh</string>
 			<string>pnShin</string>
 			<string>pnTau</string>
-			<string>pnOne</string>
-			<string>pnTen</string>
-			<string>pnTwenty</string>
-			<string>pnHundred</string>
-			<string>pnTwo</string>
-			<string>pnThree</string>
-			<string>pnHyphen</string>
+			<string>pn1</string>
+			<string>pn10</string>
+			<string>pn20</string>
+			<string>pn100</string>
+			<string>pn2</string>
+			<string>pn3</string>
+			<string>pnhyphen</string>
+			<string>ampersand.s</string>
+			<string>zero.s</string>
+			<string>one.s</string>
+			<string>two.s</string>
+			<string>three.s</string>
+			<string>four.s</string>
+			<string>five.s</string>
+			<string>six.s</string>
+			<string>seven.s</string>
+			<string>eight.s</string>
+			<string>nine.s</string>
+			<string>zero.slash</string>
+			<string>zero.pnumlat</string>
+			<string>one.pnumlat</string>
+			<string>two.pnumlat</string>
+			<string>three.pnumlat</string>
+			<string>four.pnumlat</string>
+			<string>five.pnumlat</string>
+			<string>six.pnumlat</string>
+			<string>seven.pnumlat</string>
+			<string>eight.pnumlat</string>
+			<string>nine.pnumlat</string>
+			<string>zero.slashpnum</string>
+			<string>exclam.s</string>
+			<string>exclamdown.s</string>
+			<string>question.s</string>
+			<string>questiondown.s</string>
+			<string>quotesingle.s</string>
+			<string>quotedbl.s</string>
+			<string>quoteleft.s</string>
+			<string>quoteright.s</string>
+			<string>quotedblleft.s</string>
+			<string>quotedblright.s</string>
+			<string>quotesinglbase.s</string>
+			<string>quotedblbase.s</string>
+			<string>guilsinglleft.s</string>
+			<string>guilsinglright.s</string>
+			<string>guillemotleft.s</string>
+			<string>guillemotright.s</string>
+			<string>hyphentwo.s</string>
+			<string>endash.s</string>
+			<string>emdash.s</string>
+			<string>periodcentered.s</string>
+			<string>bullet.s</string>
+			<string>parenleft.s</string>
+			<string>parenright.s</string>
+			<string>bracketleft.s</string>
+			<string>bracketright.s</string>
+			<string>braceleft.s</string>
+			<string>braceright.s</string>
+			<string>asterisk.s</string>
+			<string>dagger.s</string>
+			<string>daggerdbl.s</string>
+			<string>section.s</string>
+			<string>paragraph.s</string>
+			<string>at.s</string>
+			<string>numbersign.s</string>
+			<string>copyright.s</string>
+			<string>trademark.s</string>
+			<string>registered.s</string>
+			<string>newsheqel.s</string>
+			<string>dollar.s</string>
+			<string>sterling.s</string>
+			<string>yen.s</string>
+			<string>Euro.s</string>
+			<string>cent.s</string>
+			<string>florin.s</string>
+			<string>degree.s</string>
+			<string>one.sup2</string>
+			<string>two.sup2</string>
+			<string>three.sup2</string>
+			<string>fraction.s</string>
+			<string>divisionslash.s</string>
+			<string>onehalf.s</string>
+			<string>onequarter.s</string>
+			<string>threequarters.s</string>
+			<string>percent.s</string>
+			<string>perthousand.s</string>
+			<string>asciicircum.s</string>
+			<string>slash.s</string>
+			<string>backslash.s</string>
 			<string>A</string>
 			<string>B</string>
 			<string>C</string>
@@ -5253,11 +5402,18 @@
 			<string>seven</string>
 			<string>eight</string>
 			<string>nine</string>
-			<string>period</string>
-			<string>comma</string>
-			<string>colon</string>
-			<string>semicolon</string>
-			<string>ellipsis</string>
+			<string>zero.0</string>
+			<string>zero.pnum</string>
+			<string>one.pnum</string>
+			<string>two.pnum</string>
+			<string>three.pnum</string>
+			<string>four.pnum</string>
+			<string>five.pnum</string>
+			<string>six.pnum</string>
+			<string>seven.pnum</string>
+			<string>eight.pnum</string>
+			<string>nine.pnum</string>
+			<string>zero.0p</string>
 			<string>exclam</string>
 			<string>exclamdown</string>
 			<string>question</string>
@@ -5274,8 +5430,6 @@
 			<string>guilsinglright</string>
 			<string>guillemotleft</string>
 			<string>guillemotright</string>
-			<string>hyphen</string>
-			<string>sfthyphen</string>
 			<string>hyphentwo</string>
 			<string>endash</string>
 			<string>emdash</string>
@@ -5292,23 +5446,11 @@
 			<string>daggerdbl</string>
 			<string>section</string>
 			<string>paragraph</string>
+			<string>at</string>
+			<string>numbersign</string>
 			<string>copyright</string>
 			<string>trademark</string>
 			<string>registered</string>
-			<string>at</string>
-			<string>numbersign</string>
-			<string>onequarter</string>
-			<string>onehalf</string>
-			<string>threequarters</string>
-			<string>percent</string>
-			<string>perthousand</string>
-			<string>one.sups</string>
-			<string>two.sups</string>
-			<string>three.sups</string>
-			<string>ordfeminine</string>
-			<string>ordmasculine</string>
-			<string>degree</string>
-			<string>currency</string>
 			<string>newsheqel</string>
 			<string>dollar</string>
 			<string>sterling</string>
@@ -5316,11 +5458,19 @@
 			<string>Euro</string>
 			<string>cent</string>
 			<string>florin</string>
+			<string>degree</string>
+			<string>one.sups</string>
+			<string>two.sups</string>
+			<string>three.sups</string>
 			<string>fraction</string>
 			<string>divisionslash</string>
+			<string>onehalf</string>
+			<string>onequarter</string>
+			<string>threequarters</string>
+			<string>percent</string>
+			<string>perthousand</string>
 			<string>asciicircum</string>
 			<string>slash</string>
-			<string>bar</string>
 			<string>backslash</string>
 			<string>asciitilde</string>
 			<string>brokenbar</string>
@@ -5393,87 +5543,6 @@
 			<string>righttoleftoverride</string>
 			<string>circledotted</string>
 			<string>nbspace</string>
-			<string>ampersand.lat</string>
-			<string>zero.lat</string>
-			<string>one.lat</string>
-			<string>two.lat</string>
-			<string>three.lat</string>
-			<string>four.lat</string>
-			<string>five.lat</string>
-			<string>six.lat</string>
-			<string>seven.lat</string>
-			<string>eight.lat</string>
-			<string>nine.lat</string>
-			<string>zero.slash</string>
-			<string>zero.pnumlat</string>
-			<string>one.pnumlat</string>
-			<string>two.pnumlat</string>
-			<string>three.pnumlat</string>
-			<string>four.pnumlat</string>
-			<string>five.pnumlat</string>
-			<string>six.pnumlat</string>
-			<string>seven.pnumlat</string>
-			<string>eight.pnumlat</string>
-			<string>nine.pnumlat</string>
-			<string>zero.slashpnum</string>
-			<string>exclam.lat</string>
-			<string>exclamdown.lat</string>
-			<string>question.lat</string>
-			<string>questiondown.lat</string>
-			<string>quotesingle.lat</string>
-			<string>quotedbl.lat</string>
-			<string>quoteleft.lat</string>
-			<string>quoteright.lat</string>
-			<string>quotedblleft.lat</string>
-			<string>quotedblright.lat</string>
-			<string>quotesinglbase.lat</string>
-			<string>quotedblbase.lat</string>
-			<string>guilsinglleft.lat</string>
-			<string>guilsinglright.lat</string>
-			<string>guillemotleft.lat</string>
-			<string>guillemotright.lat</string>
-			<string>hyphentwo.lat</string>
-			<string>endash.lat</string>
-			<string>emdash.lat</string>
-			<string>periodcentered.lat</string>
-			<string>bullet.lat</string>
-			<string>parenleft.lat</string>
-			<string>parenright.lat</string>
-			<string>bracketleft.lat</string>
-			<string>bracketright.lat</string>
-			<string>braceleft.lat</string>
-			<string>braceright.lat</string>
-			<string>asterisk.lat</string>
-			<string>dagger.lat</string>
-			<string>daggerdbl.lat</string>
-			<string>section.lat</string>
-			<string>paragraph.lat</string>
-			<string>at.lat</string>
-			<string>numbersign.lat</string>
-			<string>copyright.lat</string>
-			<string>trademark.lat</string>
-			<string>registered.lat</string>
-			<string>newsheqel.lat</string>
-			<string>dollar.lat</string>
-			<string>sterling.lat</string>
-			<string>yen.lat</string>
-			<string>Euro.lat</string>
-			<string>cent.lat</string>
-			<string>florin.lat</string>
-			<string>degree.lat</string>
-			<string>one.supslat</string>
-			<string>two.supslat</string>
-			<string>three.supslat</string>
-			<string>fraction.lat</string>
-			<string>divisionslash.lat</string>
-			<string>onehalf.lat</string>
-			<string>onequarter.lat</string>
-			<string>threequarters.lat</string>
-			<string>percent.lat</string>
-			<string>perthousand.lat</string>
-			<string>asciicircum.lat</string>
-			<string>slash.lat</string>
-			<string>backslash.lat</string>
 			<string>gravecmb.cap</string>
 			<string>acutecmb.cap</string>
 			<string>circumflexcmb.cap</string>
@@ -5493,28 +5562,110 @@
 			<string>cedillacmb.cap</string>
 			<string>ogonekcmb</string>
 			<string>tildeoverlaycmb</string>
-			<string>heTet.1</string>
-			<string>heSamekh.1</string>
-			<string>heAyin.1</string>
-			<string>heTsadi.1</string>
-			<string>heShin.1</string>
-			<string>heTet.2</string>
-			<string>heAyin.2</string>
-			<string>heTsadi.2</string>
-			<string>heShin.2</string>
-			<string>heTet.3</string>
-			<string>heSamekh.3</string>
-			<string>heShin.3</string>
-			<string>heTet.4</string>
-			<string>heShin.4</string>
-			<string>heTet.5</string>
-			<string>heSamekh.5</string>
-			<string>heShin.5</string>
-			<string>heAyin.a</string>
-			<string>heAyin.x</string>
-			<string>heShin.a</string>
-			<string>heTet.a</string>
-			<string>heTsadi.a</string>
+			<string>Euro.lat</string>
+			<string>ampersand.lat</string>
+			<string>asciicircum.lat</string>
+			<string>asterisk.lat</string>
+			<string>at.lat</string>
+			<string>backslash.lat</string>
+			<string>bar</string>
+			<string>braceleft.lat</string>
+			<string>braceright.lat</string>
+			<string>bracketleft.lat</string>
+			<string>bracketright.lat</string>
+			<string>bullet.lat</string>
+			<string>cent.lat</string>
+			<string>colon</string>
+			<string>comma</string>
+			<string>copyright.lat</string>
+			<string>currency</string>
+			<string>dagger.lat</string>
+			<string>daggerdbl.lat</string>
+			<string>degree.lat</string>
+			<string>divisionslash.lat</string>
+			<string>dollar.lat</string>
+			<string>eight.he</string>
+			<string>eight.lat</string>
+			<string>eight.ph</string>
+			<string>ellipsis</string>
+			<string>emdash.lat</string>
+			<string>endash.lat</string>
+			<string>exclam.lat</string>
+			<string>exclamdown.lat</string>
+			<string>five.he</string>
+			<string>five.lat</string>
+			<string>five.ph</string>
+			<string>florin.lat</string>
+			<string>four.he</string>
+			<string>four.lat</string>
+			<string>four.ph</string>
+			<string>fraction.lat</string>
+			<string>guillemotleft.lat</string>
+			<string>guillemotright.lat</string>
+			<string>guilsinglleft.lat</string>
+			<string>guilsinglright.lat</string>
+			<string>hyphen</string>
+			<string>hyphentwo.lat</string>
+			<string>newsheqel.he</string>
+			<string>newsheqel.lat</string>
+			<string>nine.he</string>
+			<string>nine.lat</string>
+			<string>nine.ph</string>
+			<string>numbersign.lat</string>
+			<string>one.he</string>
+			<string>one.lat</string>
+			<string>one.ph</string>
+			<string>one.supsheb</string>
+			<string>one.supslat</string>
+			<string>onehalf.lat</string>
+			<string>onequarter.lat</string>
+			<string>ordfeminine</string>
+			<string>ordmasculine</string>
+			<string>paragraph.lat</string>
+			<string>parenleft.lat</string>
+			<string>parenright.lat</string>
+			<string>percent.lat</string>
+			<string>period</string>
+			<string>periodcentered.lat</string>
+			<string>perthousand.lat</string>
+			<string>question.lat</string>
+			<string>questiondown.lat</string>
+			<string>quotedbl.lat</string>
+			<string>quotedblbase.lat</string>
+			<string>quotedblleft.lat</string>
+			<string>quotedblright.lat</string>
+			<string>quoteleft.lat</string>
+			<string>quoteright.lat</string>
+			<string>quotesinglbase.lat</string>
+			<string>quotesingle.lat</string>
+			<string>registered.lat</string>
+			<string>section.lat</string>
+			<string>semicolon</string>
+			<string>seven.he</string>
+			<string>seven.lat</string>
+			<string>seven.ph</string>
+			<string>sfthyphen</string>
+			<string>six.he</string>
+			<string>six.lat</string>
+			<string>six.ph</string>
+			<string>slash.lat</string>
+			<string>sterling.lat</string>
+			<string>three.he</string>
+			<string>three.lat</string>
+			<string>three.ph</string>
+			<string>three.supsheb</string>
+			<string>three.supslat</string>
+			<string>threequarters.lat</string>
+			<string>trademark.lat</string>
+			<string>two.he</string>
+			<string>two.lat</string>
+			<string>two.ph</string>
+			<string>two.supsheb</string>
+			<string>two.supslat</string>
+			<string>yen.lat</string>
+			<string>zero.he</string>
+			<string>zero.lat</string>
+			<string>zero.ph</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>

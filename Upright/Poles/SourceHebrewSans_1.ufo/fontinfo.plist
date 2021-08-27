@@ -14,6 +14,18 @@
 		<string>Source Hebrew Sans</string>
 		<key>guidelines</key>
 		<array>
+			<dict>
+				<key>angle</key>
+				<integer>0</integer>
+				<key>identifier</key>
+				<string>m3CmYj1ltL</string>
+				<key>name</key>
+				<string>descent</string>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>-156</integer>
+			</dict>
 		</array>
 		<key>openTypeHeadCreated</key>
 		<string>2015/06/11 11:34:16</string>
@@ -42,8 +54,8 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font S
 			<integer>512</integer>
 			<integer>532</integer>
 			<integer>544</integer>
+			<integer>568</integer>
 			<integer>580</integer>
-			<integer>592</integer>
 			<integer>634</integer>
 			<integer>646</integer>
 			<integer>650</integer>
@@ -83,14 +95,18 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font S
 		<array>
 			<integer>-188</integer>
 			<integer>-176</integer>
+			<integer>-168</integer>
+			<integer>-156</integer>
 		</array>
 		<key>postscriptStemSnapH</key>
 		<array>
 			<integer>134</integer>
 			<integer>144</integer>
+			<integer>172</integer>
 		</array>
 		<key>postscriptStemSnapV</key>
 		<array>
+			<integer>148</integer>
 			<integer>172</integer>
 			<integer>176</integer>
 		</array>

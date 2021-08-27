@@ -226,6 +226,50 @@
 		<string>ae.glif</string>
 		<key>agrave</key>
 		<string>agrave.glif</string>
+		<key>aiAleph</key>
+		<string>aiA_leph.glif</string>
+		<key>aiAyin</key>
+		<string>aiA_yin.glif</string>
+		<key>aiBeth</key>
+		<string>aiB_eth.glif</string>
+		<key>aiDaleth</key>
+		<string>aiD_aleth.glif</string>
+		<key>aiGimel</key>
+		<string>aiG_imel.glif</string>
+		<key>aiHe</key>
+		<string>aiH_e.glif</string>
+		<key>aiHeth</key>
+		<string>aiH_eth.glif</string>
+		<key>aiKaph</key>
+		<string>aiK_aph.glif</string>
+		<key>aiLamedh</key>
+		<string>aiL_amedh.glif</string>
+		<key>aiMem</key>
+		<string>aiM_em.glif</string>
+		<key>aiNun</key>
+		<string>aiN_un.glif</string>
+		<key>aiPe</key>
+		<string>aiP_e.glif</string>
+		<key>aiQoph</key>
+		<string>aiQ_oph.glif</string>
+		<key>aiResh</key>
+		<string>aiR_esh.glif</string>
+		<key>aiSadhe</key>
+		<string>aiS_adhe.glif</string>
+		<key>aiSamekh</key>
+		<string>aiS_amekh.glif</string>
+		<key>aiShin</key>
+		<string>aiS_hin.glif</string>
+		<key>aiTaw</key>
+		<string>aiT_aw.glif</string>
+		<key>aiTeth</key>
+		<string>aiT_eth.glif</string>
+		<key>aiWaw</key>
+		<string>aiW_aw.glif</string>
+		<key>aiYodh</key>
+		<string>aiY_odh.glif</string>
+		<key>aiZayin</key>
+		<string>aiZ_ayin.glif</string>
 		<key>alphalatin</key>
 		<string>alphalatin.glif</string>
 		<key>amacron</key>
@@ -558,14 +602,6 @@
 		<string>heA_lefW_ide.glif</string>
 		<key>heAyin</key>
 		<string>heA_yin.glif</string>
-		<key>heAyin.1</key>
-		<string>heA_yin.1.glif</string>
-		<key>heAyin.2</key>
-		<string>heA_yin.2.glif</string>
-		<key>heAyin.a</key>
-		<string>heA_yin.a.glif</string>
-		<key>heAyin.x</key>
-		<string>heA_yin.x.glif</string>
 		<key>heBet</key>
 		<string>heB_et.glif</string>
 		<key>heBetDagesh</key>
@@ -690,12 +726,6 @@
 		<string>heR_eshW_ide.glif</string>
 		<key>heSamekh</key>
 		<string>heS_amekh.glif</string>
-		<key>heSamekh.1</key>
-		<string>heS_amekh.1.glif</string>
-		<key>heSamekh.3</key>
-		<string>heS_amekh.3.glif</string>
-		<key>heSamekh.5</key>
-		<string>heS_amekh.5.glif</string>
 		<key>heSamekhDagesh</key>
 		<string>heS_amekhD_agesh.glif</string>
 		<key>heSegol</key>
@@ -706,18 +736,6 @@
 		<string>heS_heva.kaf.glif</string>
 		<key>heShin</key>
 		<string>heS_hin.glif</string>
-		<key>heShin.1</key>
-		<string>heS_hin.1.glif</string>
-		<key>heShin.2</key>
-		<string>heS_hin.2.glif</string>
-		<key>heShin.3</key>
-		<string>heS_hin.3.glif</string>
-		<key>heShin.4</key>
-		<string>heS_hin.4.glif</string>
-		<key>heShin.5</key>
-		<string>heS_hin.5.glif</string>
-		<key>heShin.a</key>
-		<string>heS_hin.a.glif</string>
 		<key>heShinDagesh</key>
 		<string>heS_hinD_agesh.glif</string>
 		<key>heShinDageshDotted</key>
@@ -742,28 +760,10 @@
 		<string>heT_avW_ide.glif</string>
 		<key>heTet</key>
 		<string>heT_et.glif</string>
-		<key>heTet.1</key>
-		<string>heT_et.1.glif</string>
-		<key>heTet.2</key>
-		<string>heT_et.2.glif</string>
-		<key>heTet.3</key>
-		<string>heT_et.3.glif</string>
-		<key>heTet.4</key>
-		<string>heT_et.4.glif</string>
-		<key>heTet.5</key>
-		<string>heT_et.5.glif</string>
-		<key>heTet.a</key>
-		<string>heT_et.a.glif</string>
 		<key>heTetDagesh</key>
 		<string>heT_etD_agesh.glif</string>
 		<key>heTsadi</key>
 		<string>heT_sadi.glif</string>
-		<key>heTsadi.1</key>
-		<string>heT_sadi.1.glif</string>
-		<key>heTsadi.2</key>
-		<string>heT_sadi.2.glif</string>
-		<key>heTsadi.a</key>
-		<string>heT_sadi.a.glif</string>
 		<key>heTsadiDagesh</key>
 		<string>heT_sadiD_agesh.glif</string>
 		<key>heTsadiFin</key>
@@ -1012,8 +1012,6 @@
 		<string>pnH_e.glif</string>
 		<key>pnHet</key>
 		<string>pnH_et.glif</string>
-		<key>pnHyphen</key>
-		<string>pnH_yphen.glif</string>
 		<key>pnKaf</key>
 		<string>pnK_af.glif</string>
 		<key>pnLamd</key>
@@ -1044,6 +1042,8 @@
 		<string>pnY_od.glif</string>
 		<key>pnZai</key>
 		<string>pnZ_ai.glif</string>
+		<key>pnhyphen</key>
+		<string>pnhyphen.glif</string>
 		<key>popdirectionformat</key>
 		<string>popdirectionformat.glif</string>
 		<key>primemod</key>
