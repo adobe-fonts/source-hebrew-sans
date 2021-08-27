@@ -4,12 +4,20 @@
 	<advance width="536"/>
 	<outline>
 		<component base="a"/>
-		<component base="circumflexcmb" xOffset="290"/>
+		<component base="circumflexcmb" xOffset="280"/>
 	</outline>
+	<anchor name="belowLC" x="260" y="-22"/>
 	<lib>
 		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 			<key>public.markColor</key>
-			<string>0.79412,0.3,1,1</string>
+			<string>0,0.5,1,1</string>
 		</dict>
 	</lib>
 </glyph>

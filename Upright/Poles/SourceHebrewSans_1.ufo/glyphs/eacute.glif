@@ -4,13 +4,20 @@
 	<advance width="526"/>
 	<outline>
 		<component base="e"/>
-		<component base="acutecmb" xOffset="280"/>
+		<component base="acutecmb" xOffset="270"/>
 	</outline>
-	<anchor name="ogonekLC" x="350" y="0"/>
+	<anchor name="belowLC" x="270" y="-22"/>
 	<lib>
 		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 			<key>public.markColor</key>
-			<string>0.79412,0.3,1,1</string>
+			<string>0,0.5,1,1</string>
 		</dict>
 	</lib>
 </glyph>

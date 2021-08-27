@@ -34,12 +34,17 @@
 			<point x="-8" y="-188"/>
 		</contour>
 	</outline>
-	<anchor name="belowLC" x="145" y="-20"/>
-	<anchor name="aboveUC" x="145" y="730"/>
+	<anchor name="aboveUC" x="220" y="722"/>
+	<anchor name="belowLC" x="90" y="-182"/>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.8,0.8,0.6,1</string>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 		</dict>
 	</lib>
 </glyph>

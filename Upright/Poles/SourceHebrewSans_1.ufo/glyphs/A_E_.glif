@@ -31,7 +31,16 @@
 			<point x="130" y="265" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveUC" x="540" y="694"/>
-	<anchor name="baseLC" x="630" y="0"/>
-	<anchor name="belowLC" x="460" y="-20"/>
+	<anchor name="aboveUC" x="530" y="672"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
 </glyph>

@@ -9,12 +9,17 @@
 			<point x="-120" y="636" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_aboveLC" x="0" y="500"/>
-	<anchor name="aboveLC" x="0" y="500"/>
+	<anchor name="_aboveLC" x="0" y="502"/>
+	<anchor name="aboveLC" x="0" y="642"/>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.0595,0.5019,0.9985,1</string>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 		</dict>
 	</lib>
 </glyph>

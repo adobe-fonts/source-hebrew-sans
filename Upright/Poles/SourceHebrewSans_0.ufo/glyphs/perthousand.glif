@@ -3,15 +3,18 @@
 	<unicode hex="2030"/>
 	<advance width="1150"/>
 	<outline>
-		<component base="fraction" xOffset="356"/>
-		<component base="zero.dnom" yOffset="270"/>
-		<component base="zero.dnom" xOffset="434"/>
+		<component base="percent"/>
 		<component base="zero.dnom" xOffset="790"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.0595,0.5019,0.9985,1</string>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 		</dict>
 	</lib>
 </glyph>

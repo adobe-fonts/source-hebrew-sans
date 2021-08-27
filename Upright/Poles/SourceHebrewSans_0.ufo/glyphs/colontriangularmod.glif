@@ -6,20 +6,25 @@
 		<contour>
 			<point x="56" y="0" type="line"/>
 			<point x="152" y="0" type="line"/>
-			<point x="108" y="96" type="line"/>
-			<point x="100" y="96" type="line"/>
+			<point x="108" y="102" type="line"/>
+			<point x="100" y="102" type="line"/>
 		</contour>
 		<contour>
-			<point x="100" y="348" type="line"/>
-			<point x="108" y="348" type="line"/>
-			<point x="152" y="442" type="line"/>
-			<point x="56" y="442" type="line"/>
+			<point x="100" y="378" type="line"/>
+			<point x="108" y="378" type="line"/>
+			<point x="152" y="478" type="line"/>
+			<point x="56" y="478" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.0595,0.5019,0.9985,1</string>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 		</dict>
 	</lib>
 </glyph>

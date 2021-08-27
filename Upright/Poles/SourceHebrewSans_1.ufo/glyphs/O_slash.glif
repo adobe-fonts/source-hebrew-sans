@@ -11,12 +11,18 @@
 		</contour>
 		<component base="O"/>
 	</outline>
-	<anchor name="aboveUC" x="346" y="670"/>
-	<anchor name="baseLC" x="346" y="0"/>
+	<anchor name="aboveUC" x="346" y="672"/>
+	<anchor name="belowLC" x="346" y="-22"/>
+	<guideline x="346" y="604" angle="90" identifier="Pdk6KSyd9N"/>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 		</dict>
 	</lib>
 </glyph>

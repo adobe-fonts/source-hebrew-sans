@@ -32,9 +32,20 @@
 			<point x="424" y="136"/>
 		</contour>
 	</outline>
-	<anchor name="baseLC" x="346" y="0"/>
-	<anchor name="aboveUC" x="346" y="670"/>
-	<anchor name="ogonekUC" x="346" y="0"/>
-	<anchor name="belowLC" x="346" y="-20"/>
+	<anchor name="aboverightUC" x="610" y="672"/>
+	<anchor name="aboveUC" x="346" y="672"/>
+	<anchor name="belowLC" x="346" y="-22"/>
 	<anchor name="hornLC" x="490" y="640"/>
+	<anchor name="ogonekUC" x="346" y="0"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
 </glyph>

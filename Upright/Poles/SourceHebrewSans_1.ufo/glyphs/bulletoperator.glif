@@ -3,12 +3,32 @@
 	<unicode hex="2219"/>
 	<advance width="540"/>
 	<outline>
-		<component base="period" xOffset="110" yOffset="238"/>
+		<contour>
+			<point x="270" y="226" type="curve" smooth="yes"/>
+			<point x="328" y="226"/>
+			<point x="370" y="272"/>
+			<point x="370" y="330" type="curve" smooth="yes"/>
+			<point x="370" y="388"/>
+			<point x="328" y="434"/>
+			<point x="270" y="434" type="curve" smooth="yes"/>
+			<point x="212" y="434"/>
+			<point x="170" y="388"/>
+			<point x="170" y="330" type="curve" smooth="yes"/>
+			<point x="170" y="272"/>
+			<point x="212" y="226"/>
+		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 			<key>public.markColor</key>
-			<string>0.3,0.62941,1,1</string>
+			<string>0,0.5,1,1</string>
 		</dict>
 	</lib>
 </glyph>

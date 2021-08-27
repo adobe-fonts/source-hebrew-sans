@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="2">
+	<unicode hex="2011"/>
 	<unicode hex="002D"/>
+	<unicode hex="00AD"/>
+	<unicode hex="2010"/>
 	<advance width="294"/>
 	<outline>
 		<contour>
@@ -12,8 +15,13 @@
 	</outline>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.0595,0.5019,0.9985,1</string>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 		</dict>
 	</lib>
 </glyph>

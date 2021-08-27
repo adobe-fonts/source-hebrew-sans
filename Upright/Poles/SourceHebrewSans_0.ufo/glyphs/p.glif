@@ -40,12 +40,19 @@
 			<point x="380" y="16"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="278" y="500"/>
-	<anchor name="belowLC" x="110" y="-230"/>
+	<anchor name="aboveLC" x="280" y="502"/>
+	<anchor name="aboverightLC" x="450" y="502"/>
+	<anchor name="belowLC" x="120" y="-222"/>
+	<anchor name="center" x="130" y="-140"/>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.0595,0.5019,0.9985,1</string>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 		</dict>
 	</lib>
 </glyph>

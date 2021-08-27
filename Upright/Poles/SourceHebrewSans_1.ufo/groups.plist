@@ -2,249 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
-		<key>public.kern1.CYR_ACYR_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_DJE_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_DZE_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_EF_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_ER_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_ES_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_GHE_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_HA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_IE_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_IZHITSA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_JE_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_KA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_ROUND_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_SOFT_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_STRAIGHT_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_TE_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_TSE_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_TSHE_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_UCYR_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_VE_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.CYR_YAT_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_ALPHA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_ALPHA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_ALPHA_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_BETA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_BETA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_BETA_UC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.GRK_CHI_LC_LEFT</key>
 		<array>
 			<string>chi</string>
 		</array>
-		<key>public.kern1.GRK_CHI_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_CHI_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_DELTA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_DELTA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_DELTA_UC_LEFT</key>
-		<array>
-			<string>Delta.math</string>
-		</array>
-		<key>public.kern1.GRK_DIGAMMA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_EPSILON_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_EPSILON_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_EPSILON_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_ETA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_GAMMA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_GAMMA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_GAMMA_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_IOTA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_KAPPA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_KAPPA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_KAPPA_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_LAMBDA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_NU_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_OMEGA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_OMEGA_UC_LEFT</key>
-		<array>
-			<string>Omega.math</string>
-		</array>
-		<key>public.kern1.GRK_PHI_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_PHI_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_PSI_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_PSI_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_QUESTION_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_RHO_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_RHO_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_ROUND_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_ROUND_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_ROUND_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_SAMPI_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_SIGMA_END_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_SIGMA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_SIGMA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_SIGMA_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_STIGMA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_STRAIGHT_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_STRAIGHT_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_TAU_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_TAU_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_TAU_UC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.GRK_THETA_LC_LEFT</key>
 		<array>
 			<string>theta</string>
-		</array>
-		<key>public.kern1.GRK_UPSILON_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_UPSILON_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_UPSILON_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_XI_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_XI_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_XI_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_ZETA_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_ZETA_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.GRK_ZETA_UC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_A_LC_LEFT</key>
 		<array>
@@ -259,9 +23,6 @@
 			<string>amacron</string>
 			<string>adotbelow</string>
 		</array>
-		<key>public.kern1.LAT_A_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_A_UC_LEFT</key>
 		<array>
 			<string>A</string>
@@ -275,9 +36,6 @@
 			<string>Amacron</string>
 			<string>Adotbelow</string>
 		</array>
-		<key>public.kern1.LAT_B_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_B_UC_LEFT</key>
 		<array>
 			<string>B</string>
@@ -289,17 +47,11 @@
 			<string>ccedilla</string>
 			<string>ccaron</string>
 		</array>
-		<key>public.kern1.LAT_C_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_C_UC_LEFT</key>
 		<array>
 			<string>C</string>
 			<string>Ccedilla</string>
 			<string>Ccaron</string>
-		</array>
-		<key>public.kern1.LAT_DCROAT_LC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_D_LC_LEFT</key>
 		<array>
@@ -330,9 +82,6 @@
 			<string>edotbelow</string>
 			<string>aturned</string>
 		</array>
-		<key>public.kern1.LAT_E_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_E_UC_LEFT</key>
 		<array>
 			<string>E</string>
@@ -351,9 +100,6 @@
 		<array>
 			<string>f</string>
 		</array>
-		<key>public.kern1.LAT_F_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_F_UC_LEFT</key>
 		<array>
 			<string>F</string>
@@ -362,21 +108,12 @@
 		<array>
 			<string>germandbls</string>
 		</array>
-		<key>public.kern1.LAT_GERMANDBLS_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.LAT_GERMANDBLS_UC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_G_LC_LEFT</key>
 		<array>
 			<string>g</string>
 			<string>gdotaccent</string>
 			<string>gcaron</string>
 			<string>gmacron</string>
-		</array>
-		<key>public.kern1.LAT_G_SC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_G_UC_LEFT</key>
 		<array>
@@ -385,15 +122,9 @@
 			<string>Gcaron</string>
 			<string>Gmacron</string>
 		</array>
-		<key>public.kern1.LAT_HBAR_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_HBAR_UC_LEFT</key>
 		<array>
 			<string>Hbar</string>
-		</array>
-		<key>public.kern1.LAT_H_SC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_H_UC_LEFT</key>
 		<array>
@@ -404,9 +135,6 @@
 			<string>Hdotbelow</string>
 			<string>Hbrevebelow</string>
 		</array>
-		<key>public.kern1.LAT_I_ALT_UC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_I_LC_LEFT</key>
 		<array>
 			<string>i</string>
@@ -416,9 +144,6 @@
 			<string>idieresis</string>
 			<string>imacron</string>
 			<string>fi</string>
-		</array>
-		<key>public.kern1.LAT_I_SC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_I_UC_LEFT</key>
 		<array>
@@ -433,9 +158,6 @@
 		<array>
 			<string>j</string>
 		</array>
-		<key>public.kern1.LAT_J_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_J_UC_LEFT</key>
 		<array>
 			<string>J</string>
@@ -446,26 +168,11 @@
 			<string>kdotbelow</string>
 			<string>klinebelow</string>
 		</array>
-		<key>public.kern1.LAT_K_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_K_UC_LEFT</key>
 		<array>
 			<string>K</string>
 			<string>Kdotbelow</string>
 			<string>Klinebelow</string>
-		</array>
-		<key>public.kern1.LAT_LCARON_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.LAT_LCARON_SC_LCARON_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.LAT_LCARON_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.LAT_LDOT_LC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_LSLASH_LC_LEFT</key>
 		<array>
@@ -475,9 +182,6 @@
 		<array>
 			<string>l</string>
 			<string>fl</string>
-		</array>
-		<key>public.kern1.LAT_L_SC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_L_UC_LEFT</key>
 		<array>
@@ -494,20 +198,6 @@
 			<string>hdotbelow</string>
 			<string>hbrevebelow</string>
 			<string>hlinebelow</string>
-		</array>
-		<key>public.kern1.LAT_OHORN_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.LAT_OHORN_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.LAT_OHORN_UC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.LAT_ORDFEMININE_LEFT</key>
-		<array>
-			<string>ordfeminine</string>
-			<string>ordmasculine</string>
 		</array>
 		<key>public.kern1.LAT_O_LC_LEFT</key>
 		<array>
@@ -528,9 +218,6 @@
 			<string>oopen</string>
 			<string>schwa</string>
 		</array>
-		<key>public.kern1.LAT_O_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_O_UC_LEFT</key>
 		<array>
 			<string>D</string>
@@ -550,22 +237,13 @@
 			<string>Odotbelow</string>
 			<string>Schwa</string>
 		</array>
-		<key>public.kern1.LAT_P_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_P_UC_LEFT</key>
 		<array>
 			<string>P</string>
 		</array>
-		<key>public.kern1.LAT_RETROFLEX_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_R_LC_LEFT</key>
 		<array>
 			<string>r</string>
-		</array>
-		<key>public.kern1.LAT_R_SC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_R_UC_LEFT</key>
 		<array>
@@ -578,18 +256,12 @@
 			<string>sacute</string>
 			<string>sdotbelow</string>
 		</array>
-		<key>public.kern1.LAT_S_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_S_UC_LEFT</key>
 		<array>
 			<string>S</string>
 			<string>Scaron</string>
 			<string>Sacute</string>
 			<string>Sdotbelow</string>
-		</array>
-		<key>public.kern1.LAT_THORN_SC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_THORN_UC_LEFT</key>
 		<array>
@@ -601,23 +273,11 @@
 			<string>tdotbelow</string>
 			<string>tlinebelow</string>
 		</array>
-		<key>public.kern1.LAT_T_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_T_UC_LEFT</key>
 		<array>
 			<string>T</string>
 			<string>Tdotbelow</string>
 			<string>Tlinebelow</string>
-		</array>
-		<key>public.kern1.LAT_UHORN_LC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.LAT_UHORN_SC_LEFT</key>
-		<array>
-		</array>
-		<key>public.kern1.LAT_UHORN_UC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_U_LC_LEFT</key>
 		<array>
@@ -631,10 +291,6 @@
 			<string>umacron</string>
 			<string>alphalatin</string>
 			<string>gscript</string>
-			<string>rsmallinverted</string>
-		</array>
-		<key>public.kern1.LAT_U_SC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_U_UC_LEFT</key>
 		<array>
@@ -649,9 +305,6 @@
 		<array>
 			<string>v</string>
 		</array>
-		<key>public.kern1.LAT_V_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_V_UC_LEFT</key>
 		<array>
 			<string>V</string>
@@ -660,9 +313,6 @@
 		<array>
 			<string>w</string>
 		</array>
-		<key>public.kern1.LAT_W_SC_LEFT</key>
-		<array>
-		</array>
 		<key>public.kern1.LAT_W_UC_LEFT</key>
 		<array>
 			<string>W</string>
@@ -670,9 +320,6 @@
 		<key>public.kern1.LAT_X_LC_LEFT</key>
 		<array>
 			<string>x</string>
-		</array>
-		<key>public.kern1.LAT_X_SC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_X_UC_LEFT</key>
 		<array>
@@ -684,9 +331,6 @@
 			<string>yacute</string>
 			<string>ydieresis</string>
 			<string>gammalatin</string>
-		</array>
-		<key>public.kern1.LAT_Y_SC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_Y_UC_LEFT</key>
 		<array>
@@ -700,9 +344,6 @@
 			<string>zcaron</string>
 			<string>zdotbelow</string>
 			<string>zlinebelow</string>
-		</array>
-		<key>public.kern1.LAT_Z_SC_LEFT</key>
-		<array>
 		</array>
 		<key>public.kern1.LAT_Z_UC_LEFT</key>
 		<array>
@@ -721,23 +362,14 @@
 			<string>bracketleft</string>
 			<string>braceleft</string>
 		</array>
-		<key>public.kern1.PCT_COLON_LEFT</key>
-		<array>
-			<string>colon</string>
-			<string>semicolon</string>
-		</array>
 		<key>public.kern1.PCT_COMMA_LEFT</key>
 		<array>
-			<string>period</string>
-			<string>comma</string>
-			<string>ellipsis</string>
 			<string>quotesinglbase</string>
 			<string>quotedblbase</string>
 		</array>
 		<key>public.kern1.PCT_EMDASH_LEFT</key>
 		<array>
 			<string>hyphen</string>
-			<string>sfthyphen</string>
 			<string>endash</string>
 			<string>emdash</string>
 		</array>
@@ -781,231 +413,13 @@
 			<string>quotesingle</string>
 			<string>quotedbl</string>
 		</array>
-		<key>public.kern2.CYR_ACYR_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_CHE_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_DE_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_DZE_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_EF_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_EL_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_HA_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_IZHITSA_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_JE_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_ROUND_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_STRAIGHT_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_TE_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_UCYR_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_YAT_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_YA_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_ZE_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.CYR_ZHE_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ALPHA_ACC_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ALPHA_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ALPHA_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ALPHA_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_BETA_LC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.GRK_CHI_LC_RIGHT</key>
 		<array>
 			<string>chi</string>
 		</array>
-		<key>public.kern2.GRK_CHI_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_CHI_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_DELTA_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_DELTA_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_DELTA_UC_RIGHT</key>
-		<array>
-			<string>Delta.math</string>
-		</array>
-		<key>public.kern2.GRK_EPSILON_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ETA_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_GAMMA_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_IOTA_ACC_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_IOTA_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_LAMBDA_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_MU_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_NU_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_OMEGA_ACC1_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_OMEGA_ACC2_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_OMEGA_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_OMEGA_UC_RIGHT</key>
-		<array>
-			<string>Omega.math</string>
-		</array>
-		<key>public.kern2.GRK_PHI_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_PHI_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_PSI_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_PSI_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_QUESTION_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_RHO_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ROUND_ACC1_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ROUND_ACC2_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ROUND_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ROUND_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ROUND_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_SAMPI_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_SIGMA_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_SIGMA_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_STRAIGHT_ACC1_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_STRAIGHT_ACC2_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_STRAIGHT_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_STRAIGHT_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_TAU_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_TAU_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_TAU_UC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.GRK_THETA_LC_RIGHT</key>
 		<array>
 			<string>theta</string>
-		</array>
-		<key>public.kern2.GRK_UPSILON_ACC1_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_UPSILON_ACC2_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_UPSILON_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_UPSILON_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_UPSILON_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_XI_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_XI_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_XI_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ZETA_LC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ZETA_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.GRK_ZETA_UC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.LAT_AE_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_AE_UC_RIGHT</key>
 		<array>
@@ -1025,9 +439,6 @@
 			<string>amacron</string>
 			<string>adotbelow</string>
 		</array>
-		<key>public.kern2.LAT_A_SC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.LAT_A_UC_RIGHT</key>
 		<array>
 			<string>A</string>
@@ -1040,9 +451,6 @@
 			<string>Abreve</string>
 			<string>Amacron</string>
 			<string>Adotbelow</string>
-		</array>
-		<key>public.kern2.LAT_DCROAT_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_DCROAT_UC_RIGHT</key>
 		<array>
@@ -1058,12 +466,6 @@
 			<string>fi</string>
 			<string>fl</string>
 		</array>
-		<key>public.kern2.LAT_GERMANDBLS_SC_RIGHT</key>
-		<array>
-		</array>
-		<key>public.kern2.LAT_GERMANDBLS_UC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.LAT_G_LC_RIGHT</key>
 		<array>
 			<string>g</string>
@@ -1075,15 +477,9 @@
 		<array>
 			<string>hbar</string>
 		</array>
-		<key>public.kern2.LAT_HBAR_SC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.LAT_HBAR_UC_RIGHT</key>
 		<array>
 			<string>Hbar</string>
-		</array>
-		<key>public.kern2.LAT_H_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_H_UC_RIGHT</key>
 		<array>
@@ -1116,9 +512,6 @@
 			<string>Kdotbelow</string>
 			<string>Klinebelow</string>
 		</array>
-		<key>public.kern2.LAT_I_ALT_UC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.LAT_I_LC_RIGHT</key>
 		<array>
 			<string>i</string>
@@ -1127,9 +520,6 @@
 			<string>icircumflex</string>
 			<string>idieresis</string>
 			<string>imacron</string>
-		</array>
-		<key>public.kern2.LAT_I_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_I_UC_RIGHT</key>
 		<array>
@@ -1145,9 +535,6 @@
 			<string>j</string>
 			<string>esh</string>
 		</array>
-		<key>public.kern2.LAT_J_SC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.LAT_J_UC_RIGHT</key>
 		<array>
 			<string>J</string>
@@ -1155,9 +542,6 @@
 		<key>public.kern2.LAT_LSLASH_LC_RIGHT</key>
 		<array>
 			<string>lslash</string>
-		</array>
-		<key>public.kern2.LAT_LSLASH_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_LSLASH_UC_RIGHT</key>
 		<array>
@@ -1177,9 +561,6 @@
 			<string>hlinebelow</string>
 			<string>kdotbelow</string>
 			<string>klinebelow</string>
-		</array>
-		<key>public.kern2.LAT_NAPOSTROPHE_LC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_N_LC_RIGHT</key>
 		<array>
@@ -1223,9 +604,6 @@
 			<string>alphalatin</string>
 			<string>gscript</string>
 		</array>
-		<key>public.kern2.LAT_O_SC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.LAT_O_UC_RIGHT</key>
 		<array>
 			<string>C</string>
@@ -1248,15 +626,9 @@
 			<string>Omacron</string>
 			<string>Odotbelow</string>
 		</array>
-		<key>public.kern2.LAT_RTURNED_LC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.LAT_SCHWA_LC_RIGHT</key>
 		<array>
 			<string>schwa</string>
-		</array>
-		<key>public.kern2.LAT_SCHWA_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_SCHWA_UC_RIGHT</key>
 		<array>
@@ -1268,9 +640,6 @@
 			<string>scaron</string>
 			<string>sacute</string>
 			<string>sdotbelow</string>
-		</array>
-		<key>public.kern2.LAT_S_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_S_UC_RIGHT</key>
 		<array>
@@ -1284,9 +653,6 @@
 			<string>t</string>
 			<string>tdotbelow</string>
 			<string>tlinebelow</string>
-		</array>
-		<key>public.kern2.LAT_T_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_T_UC_RIGHT</key>
 		<array>
@@ -1304,9 +670,6 @@
 			<string>umacron</string>
 			<string>aturned</string>
 		</array>
-		<key>public.kern2.LAT_U_SC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.LAT_U_UC_RIGHT</key>
 		<array>
 			<string>U</string>
@@ -1320,9 +683,6 @@
 		<array>
 			<string>v</string>
 		</array>
-		<key>public.kern2.LAT_V_SC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.LAT_V_UC_RIGHT</key>
 		<array>
 			<string>V</string>
@@ -1331,9 +691,6 @@
 		<array>
 			<string>w</string>
 		</array>
-		<key>public.kern2.LAT_W_SC_RIGHT</key>
-		<array>
-		</array>
 		<key>public.kern2.LAT_W_UC_RIGHT</key>
 		<array>
 			<string>W</string>
@@ -1341,9 +698,6 @@
 		<key>public.kern2.LAT_X_LC_RIGHT</key>
 		<array>
 			<string>x</string>
-		</array>
-		<key>public.kern2.LAT_X_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_X_UC_RIGHT</key>
 		<array>
@@ -1355,9 +709,6 @@
 			<string>yacute</string>
 			<string>ydieresis</string>
 			<string>gammalatin</string>
-		</array>
-		<key>public.kern2.LAT_Y_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_Y_UC_RIGHT</key>
 		<array>
@@ -1371,9 +722,6 @@
 			<string>zcaron</string>
 			<string>zdotbelow</string>
 			<string>zlinebelow</string>
-		</array>
-		<key>public.kern2.LAT_Z_SC_RIGHT</key>
-		<array>
 		</array>
 		<key>public.kern2.LAT_Z_UC_RIGHT</key>
 		<array>
@@ -1392,23 +740,14 @@
 			<string>bracketright</string>
 			<string>braceright</string>
 		</array>
-		<key>public.kern2.PCT_COLON_RIGHT</key>
-		<array>
-			<string>colon</string>
-			<string>semicolon</string>
-		</array>
 		<key>public.kern2.PCT_COMMA_RIGHT</key>
 		<array>
-			<string>period</string>
-			<string>comma</string>
-			<string>ellipsis</string>
 			<string>quotesinglbase</string>
 			<string>quotedblbase</string>
 		</array>
 		<key>public.kern2.PCT_EMDASH_RIGHT</key>
 		<array>
 			<string>hyphen</string>
-			<string>sfthyphen</string>
 			<string>endash</string>
 			<string>emdash</string>
 		</array>
@@ -1425,11 +764,6 @@
 		<array>
 			<string>guilsinglright</string>
 			<string>guillemotright</string>
-		</array>
-		<key>public.kern2.PCT_ORDFEMININE_RIGHT</key>
-		<array>
-			<string>ordfeminine</string>
-			<string>ordmasculine</string>
 		</array>
 		<key>public.kern2.PCT_PERCENT_RIGHT</key>
 		<array>

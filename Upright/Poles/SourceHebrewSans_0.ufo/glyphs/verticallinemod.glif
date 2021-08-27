@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="verticallinemod" format="2">
 	<unicode hex="02C8"/>
-	<advance width="88"/>
+	<advance width="168"/>
 	<outline>
 		<contour>
-			<point x="34" y="528" type="line"/>
-			<point x="54" y="528" type="line"/>
-			<point x="60" y="716" type="line"/>
-			<point x="28" y="716" type="line"/>
+			<point x="74" y="490" type="line"/>
+			<point x="94" y="490" type="line"/>
+			<point x="100" y="722" type="line"/>
+			<point x="68" y="722" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.0595,0.5019,0.9985,1</string>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 		</dict>
 	</lib>
 </glyph>

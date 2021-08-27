@@ -33,13 +33,17 @@
 			<point x="216" y="580" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="224" y="500"/>
-	<anchor name="belowLC" x="220" y="-20"/>
-	<anchor name="aboveUC" x="212" y="730"/>
+	<anchor name="aboveUC" x="220" y="732"/>
+	<anchor name="belowLC" x="210" y="-22"/>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.0595,0.5019,0.9985,1</string>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 		</dict>
 	</lib>
 </glyph>

@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="2">
 	<unicode hex="00BC"/>
-	<advance width="860"/>
+	<advance width="820"/>
 	<outline>
-		<component base="one.dnom"/>
-		<component base="fraction" xOffset="380"/>
-		<component base="four.dnom" xOffset="480"/>
+		<component base="one.dnom" xOffset="-32" yOffset="260"/>
+		<component base="fraction" xOffset="360"/>
+		<component base="four.dnom" xOffset="440"/>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>0,0.5,1,1</string>
 		</dict>
 	</lib>
 </glyph>

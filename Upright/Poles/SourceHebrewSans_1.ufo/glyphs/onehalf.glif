@@ -3,14 +3,21 @@
 	<unicode hex="00BD"/>
 	<advance width="860"/>
 	<outline>
-		<component base="one.dnom"/>
-		<component base="fraction" xOffset="380"/>
+		<component base="one.dnom" xOffset="-32" yOffset="260"/>
+		<component base="fraction" xOffset="346"/>
 		<component base="two.dnom" xOffset="480"/>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>0,0.5,1,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -13,5 +13,16 @@
 			<point x="-44" y="-156" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_belowLC" x="0" y="-20"/>
+	<anchor name="_belowLC" x="0" y="-22"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
 </glyph>

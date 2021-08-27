@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o.sups" format="2">
+	<unicode hex="1D52"/>
 	<advance width="376"/>
 	<outline>
 		<contour>
@@ -31,4 +32,15 @@
 			<point x="221" y="454"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
 </glyph>

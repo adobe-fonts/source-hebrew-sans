@@ -28,8 +28,13 @@
 	<anchor name="_center" x="0" y="250"/>
 	<lib>
 		<dict>
-			<key>public.markColor</key>
-			<string>0.3,0.62941,1,1</string>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
 		</dict>
 	</lib>
 </glyph>

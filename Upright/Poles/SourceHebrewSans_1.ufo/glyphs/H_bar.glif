@@ -4,12 +4,23 @@
 	<advance width="722"/>
 	<outline>
 		<contour>
-			<point x="22" y="484" type="line"/>
-			<point x="700" y="484" type="line"/>
-			<point x="700" y="564" type="line"/>
-			<point x="98" y="564" type="line"/>
-			<point x="22" y="558" type="line"/>
+			<point x="22" y="470" type="line"/>
+			<point x="700" y="470" type="line"/>
+			<point x="700" y="582" type="line"/>
+			<point x="98" y="582" type="line"/>
+			<point x="22" y="576" type="line"/>
 		</contour>
 		<component base="H" xOffset="20"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
 </glyph>
