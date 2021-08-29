@@ -66,6 +66,8 @@
 		<string>E_th.glif</string>
 		<key>Euro</key>
 		<string>E_uro.glif</string>
+		<key>Euro.S</key>
+		<string>E_uro.S_.glif</string>
 		<key>F</key>
 		<string>F_.glif</string>
 		<key>G</key>
@@ -288,6 +290,8 @@
 		<string>asterisk.glif</string>
 		<key>at</key>
 		<string>at.glif</string>
+		<key>at.S</key>
+		<string>at.S_.glif</string>
 		<key>atilde</key>
 		<string>atilde.glif</string>
 		<key>aturned</key>
@@ -296,6 +300,8 @@
 		<string>b.glif</string>
 		<key>backslash</key>
 		<string>backslash.glif</string>
+		<key>bar</key>
+		<string>bar.glif</string>
 		<key>blinebelow</key>
 		<string>blinebelow.glif</string>
 		<key>braceleft</key>
@@ -342,6 +348,8 @@
 		<string>cedillacmb.cap.glif</string>
 		<key>cent</key>
 		<string>cent.glif</string>
+		<key>cent.S</key>
+		<string>cent.S_.glif</string>
 		<key>chi</key>
 		<string>chi.glif</string>
 		<key>circledotted</key>
@@ -352,12 +360,18 @@
 		<string>circumflexcmb.glif</string>
 		<key>circumflexcmb.cap</key>
 		<string>circumflexcmb.cap.glif</string>
+		<key>colon</key>
+		<string>colon.glif</string>
 		<key>colontriangularmod</key>
 		<string>colontriangularmod.glif</string>
+		<key>comma</key>
+		<string>comma.glif</string>
 		<key>commaturnedmod</key>
 		<string>commaturnedmod.glif</string>
 		<key>copyright</key>
 		<string>copyright.glif</string>
+		<key>currency</key>
+		<string>currency.glif</string>
 		<key>d</key>
 		<string>d.glif</string>
 		<key>dagger</key>
@@ -418,6 +432,8 @@
 		<string>eight.S_.glif</string>
 		<key>eight.pnum</key>
 		<string>eight.pnum.glif</string>
+		<key>ellipsis</key>
+		<string>ellipsis.glif</string>
 		<key>emacron</key>
 		<string>emacron.glif</string>
 		<key>emdash</key>
@@ -440,6 +456,8 @@
 		<string>eth.glif</string>
 		<key>exclam</key>
 		<string>exclam.glif</string>
+		<key>exclam.S</key>
+		<string>exclam.S_.glif</string>
 		<key>exclamdown</key>
 		<string>exclamdown.glif</string>
 		<key>ezh</key>
@@ -500,12 +518,20 @@
 		<string>gscript.glif</string>
 		<key>guillemotleft</key>
 		<string>guillemotleft.glif</string>
+		<key>guillemotleft.S</key>
+		<string>guillemotleft.S_.glif</string>
 		<key>guillemotright</key>
 		<string>guillemotright.glif</string>
+		<key>guillemotright.S</key>
+		<string>guillemotright.S_.glif</string>
 		<key>guilsinglleft</key>
 		<string>guilsinglleft.glif</string>
+		<key>guilsinglleft.S</key>
+		<string>guilsinglleft.S_.glif</string>
 		<key>guilsinglright</key>
 		<string>guilsinglright.glif</string>
+		<key>guilsinglright.S</key>
+		<string>guilsinglright.S_.glif</string>
 		<key>h</key>
 		<string>h.glif</string>
 		<key>hbar</key>
@@ -724,6 +750,48 @@
 		<string>heZ_ayinD_agesh.glif</string>
 		<key>hlinebelow</key>
 		<string>hlinebelow.glif</string>
+		<key>hrAleph</key>
+		<string>hrA_leph.glif</string>
+		<key>hrAyn</key>
+		<string>hrA_yn.glif</string>
+		<key>hrBeth</key>
+		<string>hrB_eth.glif</string>
+		<key>hrDalethResh</key>
+		<string>hrD_alethR_esh.glif</string>
+		<key>hrGimel</key>
+		<string>hrG_imel.glif</string>
+		<key>hrHe</key>
+		<string>hrH_e.glif</string>
+		<key>hrHeth</key>
+		<string>hrH_eth.glif</string>
+		<key>hrKaph</key>
+		<string>hrK_aph.glif</string>
+		<key>hrLamedh</key>
+		<string>hrL_amedh.glif</string>
+		<key>hrMem</key>
+		<string>hrM_em.glif</string>
+		<key>hrNun</key>
+		<string>hrN_un.glif</string>
+		<key>hrPe</key>
+		<string>hrP_e.glif</string>
+		<key>hrQoph</key>
+		<string>hrQ_oph.glif</string>
+		<key>hrSadhe</key>
+		<string>hrS_adhe.glif</string>
+		<key>hrSamekh</key>
+		<string>hrS_amekh.glif</string>
+		<key>hrShin</key>
+		<string>hrS_hin.glif</string>
+		<key>hrTaw</key>
+		<string>hrT_aw.glif</string>
+		<key>hrTeth</key>
+		<string>hrT_eth.glif</string>
+		<key>hrWaw</key>
+		<string>hrW_aw.glif</string>
+		<key>hrYodh</key>
+		<string>hrY_odh.glif</string>
+		<key>hrZayn</key>
+		<string>hrZ_ayn.glif</string>
 		<key>hungarumlaut</key>
 		<string>hungarumlaut.glif</string>
 		<key>hungarumlautcmb</key>
@@ -802,6 +870,8 @@
 		<string>n.glif</string>
 		<key>newsheqel</key>
 		<string>newsheqel.glif</string>
+		<key>newsheqel.S</key>
+		<string>newsheqel.S_.glif</string>
 		<key>nine</key>
 		<string>nine.glif</string>
 		<key>nine.S</key>
@@ -862,6 +932,8 @@
 		<string>p.glif</string>
 		<key>paragraph</key>
 		<string>paragraph.glif</string>
+		<key>paragraph.S</key>
+		<string>paragraph.S_.glif</string>
 		<key>parenleft</key>
 		<string>parenleft.glif</string>
 		<key>parenright</key>
@@ -870,6 +942,8 @@
 		<string>partialdiff.glif</string>
 		<key>percent</key>
 		<string>percent.glif</string>
+		<key>period</key>
+		<string>period.glif</string>
 		<key>periodcentered</key>
 		<string>periodcentered.glif</string>
 		<key>perthousand</key>
@@ -880,6 +954,50 @@
 		<string>plus.glif</string>
 		<key>plusminus</key>
 		<string>plusminus.glif</string>
+		<key>pmAleph</key>
+		<string>pmA_leph.glif</string>
+		<key>pmAyin</key>
+		<string>pmA_yin.glif</string>
+		<key>pmBeth</key>
+		<string>pmB_eth.glif</string>
+		<key>pmDaleth</key>
+		<string>pmD_aleth.glif</string>
+		<key>pmGimel</key>
+		<string>pmG_imel.glif</string>
+		<key>pmHe</key>
+		<string>pmH_e.glif</string>
+		<key>pmHeth</key>
+		<string>pmH_eth.glif</string>
+		<key>pmKaph</key>
+		<string>pmK_aph.glif</string>
+		<key>pmLamedh</key>
+		<string>pmL_amedh.glif</string>
+		<key>pmMem</key>
+		<string>pmM_em.glif</string>
+		<key>pmNun</key>
+		<string>pmN_un.glif</string>
+		<key>pmPe</key>
+		<string>pmP_e.glif</string>
+		<key>pmQoph</key>
+		<string>pmQ_oph.glif</string>
+		<key>pmResh</key>
+		<string>pmR_esh.glif</string>
+		<key>pmSadhe</key>
+		<string>pmS_adhe.glif</string>
+		<key>pmSamekh</key>
+		<string>pmS_amekh.glif</string>
+		<key>pmShin</key>
+		<string>pmS_hin.glif</string>
+		<key>pmTaw</key>
+		<string>pmT_aw.glif</string>
+		<key>pmTeth</key>
+		<string>pmT_eth.glif</string>
+		<key>pmWaw</key>
+		<string>pmW_aw.glif</string>
+		<key>pmYodh</key>
+		<string>pmY_odh.glif</string>
+		<key>pmZayin</key>
+		<string>pmZ_ayin.glif</string>
 		<key>pnAin</key>
 		<string>pnA_in.glif</string>
 		<key>pnAlf</key>
@@ -992,6 +1110,8 @@
 		<string>sdotbelow.glif</string>
 		<key>section</key>
 		<string>section.glif</string>
+		<key>semicolon</key>
+		<string>semicolon.glif</string>
 		<key>seven</key>
 		<string>seven.glif</string>
 		<key>seven.S</key>

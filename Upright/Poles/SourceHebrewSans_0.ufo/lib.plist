@@ -113,6 +113,64 @@
 					<string>heDagesh.shin</string>
 					<string>heSheva.kaf</string>
 					<string>heQamats.kaf</string>
+					<string>pmAleph</string>
+					<string>pmBeth</string>
+					<string>pmGimel</string>
+					<string>pmDaleth</string>
+					<string>pmHe</string>
+					<string>pmWaw</string>
+					<string>pmZayin</string>
+					<string>pmHeth</string>
+					<string>pmTeth</string>
+					<string>pmYodh</string>
+					<string>pmKaph</string>
+					<string>pmLamedh</string>
+					<string>pmMem</string>
+					<string>pmNun</string>
+					<string>pmNunFinal</string>
+					<string>pmSamekh</string>
+					<string>pmAyin</string>
+					<string>pmPe</string>
+					<string>pmSadhe</string>
+					<string>pmQoph</string>
+					<string>pmResh</string>
+					<string>pmShin</string>
+					<string>pmTaw</string>
+					<string>pmfleuronleft</string>
+					<string>pmfleuronright</string>
+					<string>pm1</string>
+					<string>pm2</string>
+					<string>pm3</string>
+					<string>pm4</string>
+					<string>pm5</string>
+					<string>pm10</string>
+					<string>pm20</string>
+					<string>hrAleph</string>
+					<string>hrBeth</string>
+					<string>hrGimel</string>
+					<string>hrDalethResh</string>
+					<string>hrHe</string>
+					<string>hrWaw</string>
+					<string>hrZayn</string>
+					<string>hrHeth</string>
+					<string>hrTeth</string>
+					<string>hrYodh</string>
+					<string>hrKaph</string>
+					<string>hrLamedh</string>
+					<string>hrMem</string>
+					<string>hrNun</string>
+					<string>hrSamekh</string>
+					<string>hrAyn</string>
+					<string>hrPe</string>
+					<string>hrSadhe</string>
+					<string>hrQoph</string>
+					<string>hrShin</string>
+					<string>hrTaw</string>
+					<string>hr1</string>
+					<string>hr5</string>
+					<string>hr10</string>
+					<string>hr20</string>
+					<string>hr100</string>
 					<string>aiAleph</string>
 					<string>aiBeth</string>
 					<string>aiGimel</string>
@@ -185,29 +243,21 @@
 					<string>eight.S</string>
 					<string>nine.S</string>
 					<string>zero.0S</string>
-					<string>zero.pS</string>
-					<string>one.pS</string>
-					<string>two.pS</string>
-					<string>three.pS</string>
-					<string>four.pS</string>
-					<string>five.pS</string>
-					<string>six.pS</string>
-					<string>seven.pS</string>
-					<string>eight.pS</string>
-					<string>nine.pS</string>
-					<string>zero.0pS</string>
+					<string>zero.P</string>
+					<string>one.P</string>
+					<string>two.P</string>
+					<string>three.P</string>
+					<string>four.P</string>
+					<string>five.P</string>
+					<string>six.P</string>
+					<string>seven.P</string>
+					<string>eight.P</string>
+					<string>nine.P</string>
+					<string>zero.0P</string>
 					<string>exclam.S</string>
 					<string>exclamdown.S</string>
 					<string>question.S</string>
 					<string>questiondown.S</string>
-					<string>quotesingle.S</string>
-					<string>quotedbl.S</string>
-					<string>quoteleft.S</string>
-					<string>quoteright.S</string>
-					<string>quotedblleft.S</string>
-					<string>quotedblright.S</string>
-					<string>quotesinglbase.S</string>
-					<string>quotedblbase.S</string>
 					<string>guilsinglleft.S</string>
 					<string>guilsinglright.S</string>
 					<string>guillemotleft.S</string>
@@ -217,22 +267,11 @@
 					<string>emdash.S</string>
 					<string>periodcentered.S</string>
 					<string>bullet.S</string>
-					<string>parenleft.S</string>
-					<string>parenright.S</string>
-					<string>bracketleft.S</string>
-					<string>bracketright.S</string>
-					<string>braceleft.S</string>
-					<string>braceright.S</string>
-					<string>asterisk.S</string>
-					<string>dagger.S</string>
-					<string>daggerdbl.S</string>
 					<string>section.S</string>
 					<string>paragraph.S</string>
 					<string>at.S</string>
 					<string>numbersign.S</string>
 					<string>copyright.S</string>
-					<string>trademark.S</string>
-					<string>registered.S</string>
 					<string>newsheqel.S</string>
 					<string>dollar.S</string>
 					<string>sterling.S</string>
@@ -240,10 +279,9 @@
 					<string>Euro.S</string>
 					<string>cent.S</string>
 					<string>florin.S</string>
-					<string>degree.S</string>
-					<string>one.Sup2</string>
-					<string>two.Sup2</string>
-					<string>three.Sup2</string>
+					<string>one.Sups</string>
+					<string>two.Sups</string>
+					<string>three.Sups</string>
 					<string>fraction.S</string>
 					<string>divisionslash.S</string>
 					<string>onehalf.S</string>
@@ -251,9 +289,6 @@
 					<string>threequarters.S</string>
 					<string>percent.S</string>
 					<string>perthousand.S</string>
-					<string>asciicircum.S</string>
-					<string>slash.S</string>
-					<string>backslash.S</string>
 					<string>A</string>
 					<string>B</string>
 					<string>C</string>
@@ -502,6 +537,11 @@
 					<string>eight.pnum</string>
 					<string>nine.pnum</string>
 					<string>zero.0p</string>
+					<string>period</string>
+					<string>comma</string>
+					<string>colon</string>
+					<string>semicolon</string>
+					<string>ellipsis</string>
 					<string>exclam</string>
 					<string>exclamdown</string>
 					<string>question</string>
@@ -539,6 +579,7 @@
 					<string>copyright</string>
 					<string>trademark</string>
 					<string>registered</string>
+					<string>currency</string>
 					<string>newsheqel</string>
 					<string>dollar</string>
 					<string>sterling</string>
@@ -561,6 +602,7 @@
 					<string>slash</string>
 					<string>backslash</string>
 					<string>asciitilde</string>
+					<string>bar</string>
 					<string>brokenbar</string>
 					<string>underscore</string>
 					<string>plus</string>
@@ -679,9 +721,13 @@
 		</array>
 		<key>com.typemytype.robofont.guideline.magnetic.OSKuCxXjYV</key>
 		<integer>5</integer>
+		<key>com.typemytype.robofont.guideline.magnetic.kxclCqF9TD</key>
+		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.saJt5zIL6d</key>
 		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.showMeasurements.OSKuCxXjYV</key>
+		<false/>
+		<key>com.typemytype.robofont.guideline.showMeasurements.kxclCqF9TD</key>
 		<false/>
 		<key>com.typemytype.robofont.guideline.showMeasurements.saJt5zIL6d</key>
 		<false/>
@@ -4924,6 +4970,64 @@
 			<string>heDagesh.shin</string>
 			<string>heSheva.kaf</string>
 			<string>heQamats.kaf</string>
+			<string>pmAleph</string>
+			<string>pmBeth</string>
+			<string>pmGimel</string>
+			<string>pmDaleth</string>
+			<string>pmHe</string>
+			<string>pmWaw</string>
+			<string>pmZayin</string>
+			<string>pmHeth</string>
+			<string>pmTeth</string>
+			<string>pmYodh</string>
+			<string>pmKaph</string>
+			<string>pmLamedh</string>
+			<string>pmMem</string>
+			<string>pmNun</string>
+			<string>pmNunFinal</string>
+			<string>pmSamekh</string>
+			<string>pmAyin</string>
+			<string>pmPe</string>
+			<string>pmSadhe</string>
+			<string>pmQoph</string>
+			<string>pmResh</string>
+			<string>pmShin</string>
+			<string>pmTaw</string>
+			<string>pmfleuronleft</string>
+			<string>pmfleuronright</string>
+			<string>pm1</string>
+			<string>pm2</string>
+			<string>pm3</string>
+			<string>pm4</string>
+			<string>pm5</string>
+			<string>pm10</string>
+			<string>pm20</string>
+			<string>hrAleph</string>
+			<string>hrBeth</string>
+			<string>hrGimel</string>
+			<string>hrDalethResh</string>
+			<string>hrHe</string>
+			<string>hrWaw</string>
+			<string>hrZayn</string>
+			<string>hrHeth</string>
+			<string>hrTeth</string>
+			<string>hrYodh</string>
+			<string>hrKaph</string>
+			<string>hrLamedh</string>
+			<string>hrMem</string>
+			<string>hrNun</string>
+			<string>hrSamekh</string>
+			<string>hrAyn</string>
+			<string>hrPe</string>
+			<string>hrSadhe</string>
+			<string>hrQoph</string>
+			<string>hrShin</string>
+			<string>hrTaw</string>
+			<string>hr1</string>
+			<string>hr5</string>
+			<string>hr10</string>
+			<string>hr20</string>
+			<string>hr100</string>
 			<string>aiAleph</string>
 			<string>aiBeth</string>
 			<string>aiGimel</string>
@@ -4996,29 +5100,21 @@
 			<string>eight.S</string>
 			<string>nine.S</string>
 			<string>zero.0S</string>
-			<string>zero.pS</string>
-			<string>one.pS</string>
-			<string>two.pS</string>
-			<string>three.pS</string>
-			<string>four.pS</string>
-			<string>five.pS</string>
-			<string>six.pS</string>
-			<string>seven.pS</string>
-			<string>eight.pS</string>
-			<string>nine.pS</string>
-			<string>zero.0pS</string>
+			<string>zero.P</string>
+			<string>one.P</string>
+			<string>two.P</string>
+			<string>three.P</string>
+			<string>four.P</string>
+			<string>five.P</string>
+			<string>six.P</string>
+			<string>seven.P</string>
+			<string>eight.P</string>
+			<string>nine.P</string>
+			<string>zero.0P</string>
 			<string>exclam.S</string>
 			<string>exclamdown.S</string>
 			<string>question.S</string>
 			<string>questiondown.S</string>
-			<string>quotesingle.S</string>
-			<string>quotedbl.S</string>
-			<string>quoteleft.S</string>
-			<string>quoteright.S</string>
-			<string>quotedblleft.S</string>
-			<string>quotedblright.S</string>
-			<string>quotesinglbase.S</string>
-			<string>quotedblbase.S</string>
 			<string>guilsinglleft.S</string>
 			<string>guilsinglright.S</string>
 			<string>guillemotleft.S</string>
@@ -5028,22 +5124,11 @@
 			<string>emdash.S</string>
 			<string>periodcentered.S</string>
 			<string>bullet.S</string>
-			<string>parenleft.S</string>
-			<string>parenright.S</string>
-			<string>bracketleft.S</string>
-			<string>bracketright.S</string>
-			<string>braceleft.S</string>
-			<string>braceright.S</string>
-			<string>asterisk.S</string>
-			<string>dagger.S</string>
-			<string>daggerdbl.S</string>
 			<string>section.S</string>
 			<string>paragraph.S</string>
 			<string>at.S</string>
 			<string>numbersign.S</string>
 			<string>copyright.S</string>
-			<string>trademark.S</string>
-			<string>registered.S</string>
 			<string>newsheqel.S</string>
 			<string>dollar.S</string>
 			<string>sterling.S</string>
@@ -5051,10 +5136,9 @@
 			<string>Euro.S</string>
 			<string>cent.S</string>
 			<string>florin.S</string>
-			<string>degree.S</string>
-			<string>one.Sup2</string>
-			<string>two.Sup2</string>
-			<string>three.Sup2</string>
+			<string>one.Sups</string>
+			<string>two.Sups</string>
+			<string>three.Sups</string>
 			<string>fraction.S</string>
 			<string>divisionslash.S</string>
 			<string>onehalf.S</string>
@@ -5062,9 +5146,6 @@
 			<string>threequarters.S</string>
 			<string>percent.S</string>
 			<string>perthousand.S</string>
-			<string>asciicircum.S</string>
-			<string>slash.S</string>
-			<string>backslash.S</string>
 			<string>A</string>
 			<string>B</string>
 			<string>C</string>
@@ -5313,6 +5394,11 @@
 			<string>eight.pnum</string>
 			<string>nine.pnum</string>
 			<string>zero.0p</string>
+			<string>period</string>
+			<string>comma</string>
+			<string>colon</string>
+			<string>semicolon</string>
+			<string>ellipsis</string>
 			<string>exclam</string>
 			<string>exclamdown</string>
 			<string>question</string>
@@ -5350,6 +5436,7 @@
 			<string>copyright</string>
 			<string>trademark</string>
 			<string>registered</string>
+			<string>currency</string>
 			<string>newsheqel</string>
 			<string>dollar</string>
 			<string>sterling</string>
@@ -5372,6 +5459,7 @@
 			<string>slash</string>
 			<string>backslash</string>
 			<string>asciitilde</string>
+			<string>bar</string>
 			<string>brokenbar</string>
 			<string>underscore</string>
 			<string>plus</string>
@@ -5469,14 +5557,16 @@
 			<string>uni1E06</string>
 			<key>Ddotbelow</key>
 			<string>uni1E0C</string>
-			<key>Delta.math</key>
+			<key>Delta</key>
 			<string>uni2206</string>
 			<key>Dlinebelow</key>
 			<string>uni1E0E</string>
 			<key>Edotbelow</key>
 			<string>uni1EB8</string>
-			<key>Euro.he</key>
-			<string>Euro.h</string>
+			<key>Euro</key>
+			<string>Euro.l</string>
+			<key>Euro.S</key>
+			<string>Euro</string>
 			<key>Gmacron</key>
 			<string>uni1E20</string>
 			<key>Hbrevebelow</key>
@@ -5489,7 +5579,7 @@
 			<string>uni1E34</string>
 			<key>Odotbelow</key>
 			<string>uni1ECC</string>
-			<key>Omega.math</key>
+			<key>Omega</key>
 			<string>uni2126</string>
 			<key>Schwa</key>
 			<string>uni018F</string>
@@ -5509,14 +5599,88 @@
 			<string>uni1E92</string>
 			<key>Zlinebelow</key>
 			<string>uni1E94</string>
+			<key>a.sups</key>
+			<string>ordfeminine</string>
 			<key>acutecmb</key>
 			<string>acutecomb</string>
 			<key>acutecmb.cap</key>
-			<string>acutecomb.cap</string>
+			<string>acutecomb.c</string>
 			<key>adotbelow</key>
 			<string>uni1EA1</string>
+			<key>ai1</key>
+			<string>u10858</string>
+			<key>ai10</key>
+			<string>u1085B</string>
+			<key>ai100</key>
+			<string>u1085D</string>
+			<key>ai1000</key>
+			<string>u1085E</string>
+			<key>ai10000</key>
+			<string>u1085F</string>
+			<key>ai2</key>
+			<string>u10859</string>
+			<key>ai20</key>
+			<string>u1085C</string>
+			<key>ai3</key>
+			<string>u1085A</string>
+			<key>aiAleph</key>
+			<string>u10840</string>
+			<key>aiAyin</key>
+			<string>u1084F</string>
+			<key>aiBeth</key>
+			<string>u10841</string>
+			<key>aiDaleth</key>
+			<string>u10843</string>
+			<key>aiGimel</key>
+			<string>u10842</string>
+			<key>aiHe</key>
+			<string>u10844</string>
+			<key>aiHeth</key>
+			<string>u10847</string>
+			<key>aiKaph</key>
+			<string>u1084A</string>
+			<key>aiLamedh</key>
+			<string>u1084B</string>
+			<key>aiMem</key>
+			<string>u1084C</string>
+			<key>aiNun</key>
+			<string>u1084D</string>
+			<key>aiPe</key>
+			<string>u10850</string>
+			<key>aiQoph</key>
+			<string>u10852</string>
+			<key>aiResh</key>
+			<string>u10853</string>
+			<key>aiSadhe</key>
+			<string>u10851</string>
+			<key>aiSamekh</key>
+			<string>u1084E</string>
+			<key>aiSection</key>
+			<string>u10857</string>
+			<key>aiShin</key>
+			<string>u10854</string>
+			<key>aiTaw</key>
+			<string>u10855</string>
+			<key>aiTeth</key>
+			<string>u10848</string>
+			<key>aiWaw</key>
+			<string>u10845</string>
+			<key>aiYodh</key>
+			<string>u10849</string>
+			<key>aiZayin</key>
+			<string>u10846</string>
 			<key>alphalatin</key>
 			<string>uni0251</string>
+			<key>ampersand</key>
+			<string>ampersand.l</string>
+			<key>ampersand.S</key>
+			<string>ampersand</string>
+			<key>apostrophemod</key>
+			<string>uni02BC</string>
+			<key>at</key>
+			<string>at.l</string>
+			<key>at.S</key>
+			<string>at</string>
 			<key>aturned</key>
 			<string>uni0250</string>
 			<key>blinebelow</key>
@@ -5526,27 +5690,41 @@
 			<key>brevecmb</key>
 			<string>uni0306</string>
 			<key>brevecmb.cap</key>
-			<string>uni0306.cap</string>
+			<string>uni0306.c</string>
 			<key>breveinverteddoublecmb</key>
 			<string>uni0361</string>
+			<key>bullet</key>
+			<string>bullet.l</string>
+			<key>bullet.S</key>
+			<string>bullet</string>
 			<key>bulletoperator</key>
 			<string>uni2219</string>
 			<key>caroncmb</key>
 			<string>uni030C</string>
 			<key>caroncmb.cap</key>
-			<string>uni030C.cap</string>
+			<string>uni030C.c</string>
 			<key>cedillacmb</key>
 			<string>uni0327</string>
-			<key>cent.he</key>
-			<string>cent.e</string>
+			<key>cedillacmb.cap</key>
+			<string>uni0327.c</string>
+			<key>cent</key>
+			<string>cent.l</string>
+			<key>cent.S</key>
+			<string>cent</string>
 			<key>circledotted</key>
 			<string>uni25CC</string>
 			<key>circumflexcmb</key>
 			<string>uni0302</string>
 			<key>circumflexcmb.cap</key>
-			<string>uni0302.cap</string>
+			<string>uni0302.c</string>
 			<key>colontriangularmod</key>
 			<string>uni02D0</string>
+			<key>commaturnedmod</key>
+			<string>uni02BB</string>
+			<key>copyright</key>
+			<string>copyright.l</string>
+			<key>copyright.S</key>
+			<string>copyright</string>
 			<key>ddotbelow</key>
 			<string>uni1E0D</string>
 			<key>dezh</key>
@@ -5554,69 +5732,117 @@
 			<key>dieresiscmb</key>
 			<string>uni0308</string>
 			<key>dieresiscmb.cap</key>
-			<string>uni0308.cap</string>
+			<string>uni0308.c</string>
 			<key>divisionslash</key>
+			<string>uni2215.l</string>
+			<key>divisionslash.S</key>
 			<string>uni2215</string>
-			<key>divisionslash.lat</key>
-			<string>uni2215.lat</string>
 			<key>dlinebelow</key>
 			<string>uni1E0F</string>
-			<key>dollar.he</key>
-			<string>dollar.h</string>
+			<key>dollar</key>
+			<string>dollar.l</string>
+			<key>dollar.S</key>
+			<string>dollar</string>
 			<key>dotaccentcmb</key>
 			<string>uni0307</string>
 			<key>dotaccentcmb.cap</key>
-			<string>uni0307.cap</string>
+			<string>uni0307.c</string>
 			<key>dotbelowcmb</key>
 			<string>dotbelowcomb</string>
 			<key>downtackbelowcmb</key>
 			<string>uni031E</string>
+			<key>e.sups</key>
+			<string>uni1D49</string>
 			<key>edotbelow</key>
 			<string>uni1EB9</string>
-			<key>eight.he</key>
-			<string>eight.h</string>
-			<key>eight.ph</key>
-			<string>eight.q</string>
+			<key>eight</key>
+			<string>eight.l</string>
+			<key>eight.S</key>
+			<string>eight</string>
+			<key>eight.pnum</key>
+			<string>eight.p</string>
+			<key>emdash</key>
+			<string>emdash.l</string>
+			<key>emdash.S</key>
+			<string>emdash</string>
+			<key>endash</key>
+			<string>endash.l</string>
+			<key>endash.S</key>
+			<string>endash</string>
+			<key>eogonek.sups</key>
+			<string>eogonek.u</string>
 			<key>eopen</key>
 			<string>uni025B</string>
 			<key>esh</key>
 			<string>uni0283</string>
+			<key>exclam</key>
+			<string>exclam.l</string>
+			<key>exclam.S</key>
+			<string>exclam</string>
+			<key>exclamdown</key>
+			<string>exclamdown.l</string>
+			<key>exclamdown.S</key>
+			<string>exclamdown</string>
 			<key>ezh</key>
 			<string>uni0292</string>
 			<key>fi</key>
 			<string>f_i</string>
-			<key>five.he</key>
-			<string>five.h</string>
-			<key>five.ph</key>
-			<string>five.q</string>
+			<key>five</key>
+			<string>five.l</string>
+			<key>five.S</key>
+			<string>five</string>
+			<key>five.pnum</key>
+			<string>five.p</string>
 			<key>fl</key>
 			<string>f_l</string>
 			<key>florin</key>
+			<string>uni0192.l</string>
+			<key>florin.S</key>
 			<string>uni0192</string>
-			<key>florin.he</key>
-			<string>uni0192.h</string>
-			<key>florin.lat</key>
-			<string>uni0192.lat</string>
-			<key>four.he</key>
-			<string>four.h</string>
-			<key>four.ph</key>
-			<string>four.q</string>
+			<key>four</key>
+			<string>four.l</string>
+			<key>four.S</key>
+			<string>four</string>
+			<key>four.dnom</key>
+			<string>four.d</string>
+			<key>four.pnum</key>
+			<string>four.p</string>
+			<key>fraction</key>
+			<string>fraction.l</string>
+			<key>fraction.S</key>
+			<string>fraction</string>
 			<key>gammalatin</key>
 			<string>uni0263</string>
 			<key>glottalstop</key>
 			<string>uni0294</string>
 			<key>glottalstopreversed</key>
 			<string>uni0295</string>
-			<key>glottalstopreversedsupmod</key>
+			<key>glottalstopreversed.sups</key>
 			<string>uni02E4</string>
 			<key>gmacron</key>
 			<string>uni1E21</string>
 			<key>gravecmb</key>
 			<string>gravecomb</string>
 			<key>gravecmb.cap</key>
-			<string>gravecomb.cap</string>
+			<string>gravecomb.c</string>
 			<key>gscript</key>
 			<string>uni0261</string>
+			<key>guillemotleft</key>
+			<string>guillemotleft.l</string>
+			<key>guillemotleft.S</key>
+			<string>guillemotleft</string>
+			<key>guillemotright</key>
+			<string>guillemotright.l</string>
+			<key>guillemotright.S</key>
+			<string>guillemotright</string>
+			<key>guilsinglleft</key>
+			<string>guilsinglleft.l</string>
+			<key>guilsinglleft.S</key>
+			<string>guilsinglleft</string>
+			<key>guilsinglright</key>
+			<string>guilsinglright.l</string>
+			<key>guilsinglright.S</key>
+			<string>guilsinglright</string>
 			<key>hbrevebelow</key>
 			<string>uni1E2B</string>
 			<key>hdotbelow</key>
@@ -5831,14 +6057,70 @@
 			<string>u05D605BC</string>
 			<key>hlinebelow</key>
 			<string>uni1E96</string>
+			<key>hr1</key>
+			<string>u108FB</string>
+			<key>hr10</key>
+			<string>u108FD</string>
+			<key>hr100</key>
+			<string>u108FF</string>
+			<key>hr20</key>
+			<string>u108FE</string>
+			<key>hr5</key>
+			<string>u108FC</string>
+			<key>hrAleph</key>
+			<string>u108E0</string>
+			<key>hrAyn</key>
+			<string>u108EF</string>
+			<key>hrBeth</key>
+			<string>u108E1</string>
+			<key>hrDalethResh</key>
+			<string>u108E3</string>
+			<key>hrGimel</key>
+			<string>u108E2</string>
+			<key>hrHe</key>
+			<string>u108E4</string>
+			<key>hrHeth</key>
+			<string>u108E7</string>
+			<key>hrKaph</key>
+			<string>u108EA</string>
+			<key>hrLamedh</key>
+			<string>u108EB</string>
+			<key>hrMem</key>
+			<string>u108EC</string>
+			<key>hrNun</key>
+			<string>u108ED</string>
+			<key>hrPe</key>
+			<string>u108F0</string>
+			<key>hrQoph</key>
+			<string>u108F2</string>
+			<key>hrSadhe</key>
+			<string>u108F1</string>
+			<key>hrSamekh</key>
+			<string>u108EE</string>
+			<key>hrShin</key>
+			<string>u108F4</string>
+			<key>hrTaw</key>
+			<string>u108F5</string>
+			<key>hrTeth</key>
+			<string>u108E8</string>
+			<key>hrWaw</key>
+			<string>u108E5</string>
+			<key>hrYodh</key>
+			<string>u108E9</string>
+			<key>hrZayn</key>
+			<string>u108E6</string>
 			<key>hungarumlautcmb</key>
 			<string>uni030B</string>
 			<key>hungarumlautcmb.cap</key>
-			<string>uni030B.cap</string>
-			<key>hyphentwo</key>
-			<string>uni2010</string>
+			<string>uni030B.c</string>
+			<key>hyphen</key>
+			<string>hyphen.l</string>
+			<key>hyphen.S</key>
+			<string>hyphen</string>
 			<key>ismall</key>
 			<string>uni026A</string>
+			<key>j.sups</key>
+			<string>uni02B2</string>
 			<key>kdotbelow</key>
 			<string>uni1E33</string>
 			<key>klinebelow</key>
@@ -5858,39 +6140,143 @@
 			<key>macroncmb</key>
 			<string>uni0304</string>
 			<key>macroncmb.cap</key>
-			<string>uni0304.cap</string>
-			<key>mu.math</key>
+			<string>uni0304.c</string>
+			<key>mu</key>
 			<string>uni00B5</string>
-			<key>nbspace</key>
-			<string>uni00A0</string>
 			<key>newsheqel</key>
+			<string>uni20AA.l</string>
+			<key>newsheqel.S</key>
 			<string>uni20AA</string>
-			<key>newsheqel.he</key>
-			<string>uni20AA.h</string>
-			<key>newsheqel.lat</key>
-			<string>uni20AA.lat</string>
-			<key>nine.he</key>
-			<string>nine.h</string>
-			<key>nine.ph</key>
-			<string>nine.q</string>
-			<key>numbersign.he</key>
-			<string>numbersign.h</string>
+			<key>nine</key>
+			<string>nine.l</string>
+			<key>nine.S</key>
+			<string>nine</string>
+			<key>nine.pnum</key>
+			<string>nine.p</string>
+			<key>numbersign</key>
+			<string>numbersign.l</string>
+			<key>numbersign.S</key>
+			<string>numbersign</string>
+			<key>o.sups</key>
+			<string>ordmasculine</string>
 			<key>odotbelow</key>
 			<string>uni1ECD</string>
-			<key>one.he</key>
-			<string>one.h</string>
-			<key>one.ph</key>
-			<string>one.q</string>
-			<key>onehalf.he</key>
-			<string>onehalf.h</string>
-			<key>onequarter.he</key>
-			<string>onequarter.h</string>
+			<key>ogonekcmb</key>
+			<string>uni0328</string>
+			<key>one</key>
+			<string>one.l</string>
+			<key>one.S</key>
+			<string>one</string>
+			<key>one.Sups</key>
+			<string>one.U</string>
+			<key>one.dnom</key>
+			<string>one.d</string>
+			<key>one.pnum</key>
+			<string>one.p</string>
+			<key>one.sups</key>
+			<string>one.u</string>
+			<key>onehalf</key>
+			<string>onehalf.l</string>
+			<key>onehalf.S</key>
+			<string>onehalf</string>
+			<key>onequarter</key>
+			<string>onequarter.l</string>
+			<key>onequarter.S</key>
+			<string>onequarter</string>
 			<key>oopen</key>
 			<string>uni0254</string>
-			<key>percent.he</key>
-			<string>percent.h</string>
-			<key>perthousand.he</key>
-			<string>perthousand.h</string>
+			<key>paragraph</key>
+			<string>paragraph.l</string>
+			<key>paragraph.S</key>
+			<string>paragraph</string>
+			<key>percent</key>
+			<string>percent.l</string>
+			<key>percent.S</key>
+			<string>percent</string>
+			<key>periodcentered</key>
+			<string>periodcentered.l</string>
+			<key>periodcentered.S</key>
+			<string>periodcentered</string>
+			<key>perthousand</key>
+			<string>perthousand.l</string>
+			<key>perthousand.S</key>
+			<string>perthousand</string>
+			<key>pm1</key>
+			<string>u10879</string>
+			<key>pm10</key>
+			<string>u1087E</string>
+			<key>pm2</key>
+			<string>u1087A</string>
+			<key>pm20</key>
+			<string>u1087F</string>
+			<key>pm3</key>
+			<string>u1087B</string>
+			<key>pm4</key>
+			<string>u1087C</string>
+			<key>pm5</key>
+			<string>u1087D</string>
+			<key>pmAleph</key>
+			<string>u10860</string>
+			<key>pmAyin</key>
+			<string>u10870</string>
+			<key>pmBeth</key>
+			<string>u10861</string>
+			<key>pmDaleth</key>
+			<string>u10863</string>
+			<key>pmGimel</key>
+			<string>u10862</string>
+			<key>pmHe</key>
+			<string>u10864</string>
+			<key>pmHeth</key>
+			<string>u10867</string>
+			<key>pmKaph</key>
+			<string>u1086A</string>
+			<key>pmLamedh</key>
+			<string>u1086B</string>
+			<key>pmMem</key>
+			<string>u1086C</string>
+			<key>pmNun</key>
+			<string>u1086E</string>
+			<key>pmNunFinal</key>
+			<string>u1086D</string>
+			<key>pmPe</key>
+			<string>u10871</string>
+			<key>pmQoph</key>
+			<string>u10873</string>
+			<key>pmResh</key>
+			<string>u10874</string>
+			<key>pmSadhe</key>
+			<string>u10872</string>
+			<key>pmSamekh</key>
+			<string>u1086F</string>
+			<key>pmShin</key>
+			<string>u10875</string>
+			<key>pmTaw</key>
+			<string>u10876</string>
+			<key>pmTeth</key>
+			<string>u10868</string>
+			<key>pmWaw</key>
+			<string>u10865</string>
+			<key>pmYodh</key>
+			<string>u10869</string>
+			<key>pmZayin</key>
+			<string>u10866</string>
+			<key>pmfleuronleft</key>
+			<string>u10877</string>
+			<key>pmfleuronright</key>
+			<string>u10878</string>
+			<key>pn1</key>
+			<string>u10916</string>
+			<key>pn10</key>
+			<string>u10917</string>
+			<key>pn100</key>
+			<string>u10919</string>
+			<key>pn2</key>
+			<string>u1091A</string>
+			<key>pn20</key>
+			<string>u10918</string>
+			<key>pn3</key>
+			<string>u1091B</string>
 			<key>pnAin</key>
 			<string>u1090F</string>
 			<key>pnAlf</key>
@@ -5905,10 +6291,6 @@
 			<string>u10904</string>
 			<key>pnHet</key>
 			<string>u10907</string>
-			<key>pnHundred</key>
-			<string>u10919</string>
-			<key>pnHyphen</key>
-			<string>u1091F</string>
 			<key>pnKaf</key>
 			<string>u1090A</string>
 			<key>pnLamd</key>
@@ -5917,8 +6299,6 @@
 			<string>u1090C</string>
 			<key>pnNun</key>
 			<string>u1090D</string>
-			<key>pnOne</key>
-			<string>u10916</string>
 			<key>pnPe</key>
 			<string>u10910</string>
 			<key>pnQof</key>
@@ -5933,26 +6313,30 @@
 			<string>u10914</string>
 			<key>pnTau</key>
 			<string>u10915</string>
-			<key>pnTen</key>
-			<string>u10917</string>
 			<key>pnTet</key>
 			<string>u10908</string>
-			<key>pnThree</key>
-			<string>u1091B</string>
-			<key>pnTwenty</key>
-			<string>u10918</string>
-			<key>pnTwo</key>
-			<string>u1091A</string>
 			<key>pnWau</key>
 			<string>u10905</string>
 			<key>pnYod</key>
 			<string>u10909</string>
 			<key>pnZai</key>
 			<string>u10906</string>
+			<key>pnhyphen</key>
+			<string>u1091F</string>
 			<key>popdirectionformat</key>
 			<string>uni202C</string>
 			<key>primemod</key>
 			<string>uni02B9</string>
+			<key>question</key>
+			<string>question.l</string>
+			<key>question.S</key>
+			<string>question</string>
+			<key>questiondown</key>
+			<string>questiondown.l</string>
+			<key>questiondown.S</key>
+			<string>questiondown</string>
+			<key>quotedblbase</key>
+			<string>quotedblbase.l</string>
 			<key>righttoleftembed</key>
 			<string>uni202B</string>
 			<key>righttoleftmark</key>
@@ -5962,69 +6346,107 @@
 			<key>ringcmb</key>
 			<string>uni030A</string>
 			<key>ringcmb.cap</key>
-			<string>uni030A.cap</string>
+			<string>uni030A.c</string>
 			<key>ringhalfleftmod</key>
 			<string>uni02BF</string>
 			<key>ringhalfrightmod</key>
 			<string>uni02BE</string>
 			<key>rsmall</key>
 			<string>uni0280</string>
-			<key>rsmallinverted</key>
+			<key>rsmallturned</key>
 			<string>uni0281</string>
 			<key>schwa</key>
 			<string>uni0259</string>
 			<key>sdotbelow</key>
 			<string>uni1E63</string>
-			<key>seven.he</key>
-			<string>seven.h</string>
-			<key>seven.ph</key>
-			<string>seven.q</string>
-			<key>sfthyphen</key>
-			<string>uni00AD</string>
-			<key>six.he</key>
-			<string>six.h</string>
-			<key>six.ph</key>
-			<string>six.q</string>
-			<key>sterling.he</key>
-			<string>sterling.h</string>
+			<key>section</key>
+			<string>section.l</string>
+			<key>section.S</key>
+			<string>section</string>
+			<key>seven</key>
+			<string>seven.l</string>
+			<key>seven.S</key>
+			<string>seven</string>
+			<key>seven.pnum</key>
+			<string>seven.p</string>
+			<key>six</key>
+			<string>six.l</string>
+			<key>six.S</key>
+			<string>six</string>
+			<key>six.pnum</key>
+			<string>six.p</string>
+			<key>sterling</key>
+			<string>sterling.l</string>
+			<key>sterling.S</key>
+			<string>sterling</string>
 			<key>tdotbelow</key>
 			<string>uni1E6D</string>
 			<key>tesh</key>
 			<string>uni02A7</string>
-			<key>three.he</key>
-			<string>three.h</string>
-			<key>three.ph</key>
-			<string>three.q</string>
-			<key>threequarters.he</key>
-			<string>threequarters.h</string>
+			<key>three</key>
+			<string>three.l</string>
+			<key>three.S</key>
+			<string>three</string>
+			<key>three.Sups</key>
+			<string>three.U</string>
+			<key>three.dnom</key>
+			<string>three.d</string>
+			<key>three.pnum</key>
+			<string>three.p</string>
+			<key>three.sups</key>
+			<string>three.u</string>
+			<key>threequarters</key>
+			<string>threequarters.l</string>
+			<key>threequarters.S</key>
+			<string>threequarters</string>
 			<key>tildecmb</key>
 			<string>tildecomb</string>
 			<key>tildecmb.cap</key>
-			<string>tildecomb.cap</string>
+			<string>tildecomb.c</string>
+			<key>tildeoverlaycmb</key>
+			<string>uni0334</string>
 			<key>tlinebelow</key>
 			<string>uni1E6F</string>
 			<key>ts</key>
 			<string>uni02A6</string>
-			<key>two.he</key>
-			<string>two.h</string>
-			<key>two.ph</key>
-			<string>two.q</string>
+			<key>two</key>
+			<string>two.l</string>
+			<key>two.S</key>
+			<string>two</string>
+			<key>two.Sups</key>
+			<string>two.U</string>
+			<key>two.dnom</key>
+			<string>two.d</string>
+			<key>two.pnum</key>
+			<string>two.p</string>
+			<key>two.sups</key>
+			<string>two.u</string>
 			<key>upsilonlatin</key>
 			<string>uni028A</string>
 			<key>vdotbelow</key>
 			<string>uni1E7F</string>
 			<key>verticallinemod</key>
 			<string>uni02C8</string>
-			<key>yen.he</key>
-			<string>yen.h</string>
+			<key>yen</key>
+			<string>yen.l</string>
+			<key>yen.S</key>
+			<string>yen</string>
 			<key>yturned</key>
 			<string>uni028E</string>
 			<key>zdotbelow</key>
 			<string>uni1E93</string>
-			<key>zero.he</key>
-			<string>zero.h</string>
-			<key>zero.ph</key>
-			<string>zero.q</string>
+			<key>zero</key>
+			<string>zero.l</string>
+			<key>zero.0</key>
+			<string>zero.0l</string>
+			<key>zero.0S</key>
+			<string>zero.0</string>
+			<key>zero.S</key>
+			<string>zero</string>
+			<key>zero.dnom</key>
+			<string>zero.d</string>
+			<key>zero.pnum</key>
+			<string>zero.p</string>
 			<key>zlinebelow</key>
 			<string>uni1E95</string>
 		</dict>

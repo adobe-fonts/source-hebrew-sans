@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrNun" format="2">
+	<advance width="228"/>
+	<outline>
+		<contour>
+			<point x="-42" y="-202" type="line"/>
+			<point x="-18" y="-202" type="line" smooth="yes"/>
+			<point x="82" y="-202"/>
+			<point x="128" y="-168"/>
+			<point x="128" y="-36" type="curve" smooth="yes"/>
+			<point x="128" y="546" type="line"/>
+			<point x="100" y="546" type="line"/>
+			<point x="100" y="-30" type="line" smooth="yes"/>
+			<point x="100" y="-150"/>
+			<point x="62" y="-172"/>
+			<point x="-24" y="-172" type="curve" smooth="yes"/>
+			<point x="-42" y="-172" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="64" y="-246"/>
+	<anchor name="belowRightHE" x="44" y="374"/>
+	<anchor name="aboveLeftHE" x="-56" y="-246"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

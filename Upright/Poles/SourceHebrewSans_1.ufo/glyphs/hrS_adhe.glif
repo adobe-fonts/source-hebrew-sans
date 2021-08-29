@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrSadhe" format="2">
+	<advance width="650"/>
+	<outline>
+		<contour>
+			<point x="72" y="-156" type="line"/>
+			<point x="220" y="-156" type="line"/>
+			<point x="222" y="376" type="line"/>
+			<point x="444" y="-12" type="line"/>
+			<point x="578" y="8" type="line"/>
+			<point x="578" y="568" type="line"/>
+			<point x="430" y="568" type="line"/>
+			<point x="430" y="234" type="line"/>
+			<point x="222" y="580" type="line"/>
+			<point x="72" y="560" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>
