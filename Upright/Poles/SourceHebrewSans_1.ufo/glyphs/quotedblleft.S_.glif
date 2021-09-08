@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="divisionslash" format="2">
-	<unicode hex="2215"/>
-	<advance width="78"/>
+<glyph name="quotedblleft.S" format="2">
+	<advance width="580"/>
 	<outline>
-		<component base="fraction"/>
+		<component base="quoteleft.S"/>
+		<component base="quoteleft.S" xOffset="260"/>
 	</outline>
 	<lib>
 		<dict>
@@ -15,7 +15,7 @@
 				<integer>1</integer>
 			</array>
 			<key>public.markColor</key>
-			<string>0,0.5,1,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

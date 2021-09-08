@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal.Subs" format="2">
+	<advance width="360"/>
+	<outline>
+		<component base="minus.Subs" yOffset="80"/>
+		<component base="minus.Subs" yOffset="-80"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.502,0.0015,0.9985,1</string>
+		</dict>
+	</lib>
+</glyph>

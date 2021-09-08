@@ -2,10 +2,34 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
+		<key>aiAleph</key>
+		<string>aiA_leph.glif</string>
 		<key>aiHeth</key>
 		<string>aiH_eth.glif</string>
+		<key>aiKaph</key>
+		<string>aiK_aph.glif</string>
+		<key>aiTeth</key>
+		<string>aiT_eth.glif</string>
+		<key>aiZayin</key>
+		<string>aiZ_ayin.glif</string>
+		<key>eight.Dnom</key>
+		<string>eight.D_nom.glif</string>
+		<key>eight.S</key>
+		<string>eight.S_.glif</string>
+		<key>five.Dnom</key>
+		<string>five.D_nom.glif</string>
+		<key>five.S</key>
+		<string>five.S_.glif</string>
+		<key>four.S</key>
+		<string>four.S_.glif</string>
+		<key>fraction.S</key>
+		<string>fraction.S_.glif</string>
 		<key>heAyin</key>
 		<string>heA_yin.glif</string>
+		<key>heGeresh</key>
+		<string>heG_eresh.glif</string>
+		<key>heSofPasuq</key>
+		<string>heS_ofP_asuq.glif</string>
 		<key>hrAleph</key>
 		<string>hrA_leph.glif</string>
 		<key>hrHeth</key>
@@ -20,5 +44,53 @@
 		<string>hrW_aw.glif</string>
 		<key>hrYodh</key>
 		<string>hrY_odh.glif</string>
+		<key>lefttorightembed</key>
+		<string>lefttorightembed.glif</string>
+		<key>lefttorightmark</key>
+		<string>lefttorightmark.glif</string>
+		<key>lefttorightoverride</key>
+		<string>lefttorightoverride.glif</string>
+		<key>newsheqel</key>
+		<string>newsheqel.glif</string>
+		<key>newsheqel.S</key>
+		<string>newsheqel.S_.glif</string>
+		<key>nine.S</key>
+		<string>nine.S_.glif</string>
+		<key>one.Dnom</key>
+		<string>one.D_nom.glif</string>
+		<key>one.S</key>
+		<string>one.S_.glif</string>
+		<key>plusalt</key>
+		<string>plusalt.glif</string>
+		<key>pnYod</key>
+		<string>pnY_od.glif</string>
+		<key>popdirectionformat</key>
+		<string>popdirectionformat.glif</string>
+		<key>question.S</key>
+		<string>question.S_.glif</string>
+		<key>quoteleft.S</key>
+		<string>quoteleft.S_.glif</string>
+		<key>quoteright.S</key>
+		<string>quoteright.S_.glif</string>
+		<key>righttoleftembed</key>
+		<string>righttoleftembed.glif</string>
+		<key>righttoleftmark</key>
+		<string>righttoleftmark.glif</string>
+		<key>righttoleftoverride</key>
+		<string>righttoleftoverride.glif</string>
+		<key>seven.Dnom</key>
+		<string>seven.D_nom.glif</string>
+		<key>six.Dnom</key>
+		<string>six.D_nom.glif</string>
+		<key>six.S</key>
+		<string>six.S_.glif</string>
+		<key>three.Dnom</key>
+		<string>three.D_nom.glif</string>
+		<key>three.S</key>
+		<string>three.S_.glif</string>
+		<key>two.Dnom</key>
+		<string>two.D_nom.glif</string>
+		<key>zero.Dnom</key>
+		<string>zero.D_nom.glif</string>
 	</dict>
 </plist>

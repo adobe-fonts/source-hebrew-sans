@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aiLamedh" format="2">
 	<unicode hex="1084B"/>
-	<advance width="420"/>
+	<advance width="440"/>
 	<outline>
 		<contour>
-			<point x="250" y="156" type="curve" smooth="yes"/>
-			<point x="386" y="156" type="line"/>
-			<point x="386" y="328" type="line"/>
-			<point x="266" y="328" type="line" smooth="yes"/>
-			<point x="208" y="328"/>
-			<point x="186" y="338"/>
-			<point x="186" y="378" type="curve" smooth="yes"/>
-			<point x="186" y="442"/>
-			<point x="270" y="556"/>
-			<point x="396" y="634" type="curve"/>
-			<point x="320" y="754" type="line"/>
-			<point x="136" y="634"/>
-			<point x="38" y="476"/>
-			<point x="38" y="306" type="curve" smooth="yes"/>
-			<point x="38" y="201"/>
-			<point x="90" y="156"/>
+			<point x="270" y="0" type="curve" smooth="yes"/>
+			<point x="406" y="0" type="line"/>
+			<point x="406" y="172" type="line"/>
+			<point x="286" y="172" type="line" smooth="yes"/>
+			<point x="228" y="172"/>
+			<point x="206" y="182"/>
+			<point x="206" y="222" type="curve" smooth="yes"/>
+			<point x="206" y="317"/>
+			<point x="302" y="509"/>
+			<point x="486" y="644" type="curve"/>
+			<point x="400" y="754" type="line"/>
+			<point x="178" y="572"/>
+			<point x="58" y="380"/>
+			<point x="58" y="170" type="curve" smooth="yes"/>
+			<point x="58" y="51"/>
+			<point x="130" y="0"/>
 		</contour>
 	</outline>
+	<guideline x="85" y="742" angle="0" identifier="9V9V0tdXPP"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

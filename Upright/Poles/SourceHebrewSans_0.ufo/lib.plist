@@ -254,10 +254,76 @@
 					<string>eight.P</string>
 					<string>nine.P</string>
 					<string>zero.0P</string>
+					<string>zero.Sups</string>
+					<string>one.Sups</string>
+					<string>two.Sups</string>
+					<string>three.Sups</string>
+					<string>four.Sups</string>
+					<string>five.Sups</string>
+					<string>six.Sups</string>
+					<string>seven.Sups</string>
+					<string>eight.Sups</string>
+					<string>nine.Sups</string>
+					<string>plus.Sups</string>
+					<string>minus.Sups</string>
+					<string>equal.Sups</string>
+					<string>parenleft.Sups</string>
+					<string>parenright.Sups</string>
+					<string>period.Sups</string>
+					<string>comma.Sups</string>
+					<string>zero.Subs</string>
+					<string>one.Subs</string>
+					<string>two.Subs</string>
+					<string>three.Subs</string>
+					<string>four.Subs</string>
+					<string>five.Subs</string>
+					<string>six.Subs</string>
+					<string>seven.Subs</string>
+					<string>eight.Subs</string>
+					<string>nine.Subs</string>
+					<string>plus.Subs</string>
+					<string>minus.Subs</string>
+					<string>equal.Subs</string>
+					<string>parenleft.Subs</string>
+					<string>parenright.Subs</string>
+					<string>period.Subs</string>
+					<string>comma.Subs</string>
+					<string>zero.Dnom</string>
+					<string>one.Dnom</string>
+					<string>two.Dnom</string>
+					<string>three.Dnom</string>
+					<string>four.Dnom</string>
+					<string>five.Dnom</string>
+					<string>six.Dnom</string>
+					<string>seven.Dnom</string>
+					<string>eight.Dnom</string>
+					<string>nine.Dnom</string>
+					<string>parenleft.Dnom</string>
+					<string>parenright.Dnom</string>
+					<string>period.Dnom</string>
+					<string>comma.Dnom</string>
+					<string>zero.Numr</string>
+					<string>one.Numr</string>
+					<string>two.Numr</string>
+					<string>three.Numr</string>
+					<string>four.Numr</string>
+					<string>five.Numr</string>
+					<string>six.Numr</string>
+					<string>seven.Numr</string>
+					<string>eight.Numr</string>
+					<string>nine.Numr</string>
+					<string>parenleft.Numr</string>
+					<string>parenright.Numr</string>
+					<string>period.Numr</string>
+					<string>comma.Numr</string>
 					<string>exclam.S</string>
 					<string>exclamdown.S</string>
 					<string>question.S</string>
 					<string>questiondown.S</string>
+					<string>quoteleft.S</string>
+					<string>quoteright.S</string>
+					<string>quotedblleft.S</string>
+					<string>quotedblright.S</string>
 					<string>guilsinglleft.S</string>
 					<string>guilsinglright.S</string>
 					<string>guillemotleft.S</string>
@@ -279,11 +345,7 @@
 					<string>Euro.S</string>
 					<string>cent.S</string>
 					<string>florin.S</string>
-					<string>one.Sups</string>
-					<string>two.Sups</string>
-					<string>three.Sups</string>
 					<string>fraction.S</string>
-					<string>divisionslash.S</string>
 					<string>onehalf.S</string>
 					<string>onequarter.S</string>
 					<string>threequarters.S</string>
@@ -537,6 +599,68 @@
 					<string>eight.pnum</string>
 					<string>nine.pnum</string>
 					<string>zero.0p</string>
+					<string>zero.sups</string>
+					<string>one.sups</string>
+					<string>two.sups</string>
+					<string>three.sups</string>
+					<string>four.sups</string>
+					<string>five.sups</string>
+					<string>six.sups</string>
+					<string>seven.sups</string>
+					<string>eight.sups</string>
+					<string>nine.sups</string>
+					<string>plus.sups</string>
+					<string>minus.sups</string>
+					<string>equal.sups</string>
+					<string>parenleft.sups</string>
+					<string>parenright.sups</string>
+					<string>period.sups</string>
+					<string>comma.sups</string>
+					<string>zero.subs</string>
+					<string>one.subs</string>
+					<string>two.subs</string>
+					<string>three.subs</string>
+					<string>four.subs</string>
+					<string>five.subs</string>
+					<string>six.subs</string>
+					<string>seven.subs</string>
+					<string>eight.subs</string>
+					<string>nine.subs</string>
+					<string>plus.subs</string>
+					<string>minus.subs</string>
+					<string>equal.subs</string>
+					<string>parenleft.subs</string>
+					<string>parenright.subs</string>
+					<string>period.subs</string>
+					<string>comma.subs</string>
+					<string>zero.dnom</string>
+					<string>one.dnom</string>
+					<string>two.dnom</string>
+					<string>three.dnom</string>
+					<string>four.dnom</string>
+					<string>five.dnom</string>
+					<string>six.dnom</string>
+					<string>seven.dnom</string>
+					<string>eight.dnom</string>
+					<string>nine.dnom</string>
+					<string>parenleft.dnom</string>
+					<string>parenright.dnom</string>
+					<string>period.dnom</string>
+					<string>comma.dnom</string>
+					<string>zero.numr</string>
+					<string>one.numr</string>
+					<string>two.numr</string>
+					<string>three.numr</string>
+					<string>four.numr</string>
+					<string>five.numr</string>
+					<string>six.numr</string>
+					<string>seven.numr</string>
+					<string>eight.numr</string>
+					<string>nine.numr</string>
+					<string>parenleft.numr</string>
+					<string>parenright.numr</string>
+					<string>period.numr</string>
+					<string>comma.numr</string>
 					<string>period</string>
 					<string>comma</string>
 					<string>colon</string>
@@ -588,11 +712,7 @@
 					<string>cent</string>
 					<string>florin</string>
 					<string>degree</string>
-					<string>one.sups</string>
-					<string>two.sups</string>
-					<string>three.sups</string>
 					<string>fraction</string>
-					<string>divisionslash</string>
 					<string>onehalf</string>
 					<string>onequarter</string>
 					<string>threequarters</string>
@@ -606,6 +726,7 @@
 					<string>brokenbar</string>
 					<string>underscore</string>
 					<string>plus</string>
+					<string>plusalt</string>
 					<string>minus</string>
 					<string>multiply</string>
 					<string>divide</string>
@@ -632,6 +753,18 @@
 					<string>litre</string>
 					<string>infinity</string>
 					<string>lozenge</string>
+					<string>arrowleft.S</string>
+					<string>arrowup.S</string>
+					<string>arrowright.S</string>
+					<string>arrowdown.S</string>
+					<string>arrowupleft.S</string>
+					<string>arrowupright.S</string>
+					<string>arrowdownright.S</string>
+					<string>arrowdownleft.S</string>
+					<string>arrowdblleft.S</string>
+					<string>arrowdblup.S</string>
+					<string>arrowdblright.S</string>
+					<string>arrowdbldown.S</string>
 					<string>grave</string>
 					<string>acute</string>
 					<string>circumflex</string>
@@ -683,14 +816,10 @@
 					<string>ringcmb.cap</string>
 					<string>hungarumlautcmb.cap</string>
 					<string>dotaccentcmb.cap</string>
-					<string>zero.dnom</string>
-					<string>one.dnom</string>
-					<string>two.dnom</string>
-					<string>three.dnom</string>
-					<string>four.dnom</string>
 					<string>cedillacmb.cap</string>
 					<string>ogonekcmb</string>
 					<string>tildeoverlaycmb</string>
+					<string>prime</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -5111,10 +5240,76 @@
 			<string>eight.P</string>
 			<string>nine.P</string>
 			<string>zero.0P</string>
+			<string>zero.Sups</string>
+			<string>one.Sups</string>
+			<string>two.Sups</string>
+			<string>three.Sups</string>
+			<string>four.Sups</string>
+			<string>five.Sups</string>
+			<string>six.Sups</string>
+			<string>seven.Sups</string>
+			<string>eight.Sups</string>
+			<string>nine.Sups</string>
+			<string>plus.Sups</string>
+			<string>minus.Sups</string>
+			<string>equal.Sups</string>
+			<string>parenleft.Sups</string>
+			<string>parenright.Sups</string>
+			<string>period.Sups</string>
+			<string>comma.Sups</string>
+			<string>zero.Subs</string>
+			<string>one.Subs</string>
+			<string>two.Subs</string>
+			<string>three.Subs</string>
+			<string>four.Subs</string>
+			<string>five.Subs</string>
+			<string>six.Subs</string>
+			<string>seven.Subs</string>
+			<string>eight.Subs</string>
+			<string>nine.Subs</string>
+			<string>plus.Subs</string>
+			<string>minus.Subs</string>
+			<string>equal.Subs</string>
+			<string>parenleft.Subs</string>
+			<string>parenright.Subs</string>
+			<string>period.Subs</string>
+			<string>comma.Subs</string>
+			<string>zero.Dnom</string>
+			<string>one.Dnom</string>
+			<string>two.Dnom</string>
+			<string>three.Dnom</string>
+			<string>four.Dnom</string>
+			<string>five.Dnom</string>
+			<string>six.Dnom</string>
+			<string>seven.Dnom</string>
+			<string>eight.Dnom</string>
+			<string>nine.Dnom</string>
+			<string>parenleft.Dnom</string>
+			<string>parenright.Dnom</string>
+			<string>period.Dnom</string>
+			<string>comma.Dnom</string>
+			<string>zero.Numr</string>
+			<string>one.Numr</string>
+			<string>two.Numr</string>
+			<string>three.Numr</string>
+			<string>four.Numr</string>
+			<string>five.Numr</string>
+			<string>six.Numr</string>
+			<string>seven.Numr</string>
+			<string>eight.Numr</string>
+			<string>nine.Numr</string>
+			<string>parenleft.Numr</string>
+			<string>parenright.Numr</string>
+			<string>period.Numr</string>
+			<string>comma.Numr</string>
 			<string>exclam.S</string>
 			<string>exclamdown.S</string>
 			<string>question.S</string>
 			<string>questiondown.S</string>
+			<string>quoteleft.S</string>
+			<string>quoteright.S</string>
+			<string>quotedblleft.S</string>
+			<string>quotedblright.S</string>
 			<string>guilsinglleft.S</string>
 			<string>guilsinglright.S</string>
 			<string>guillemotleft.S</string>
@@ -5136,11 +5331,7 @@
 			<string>Euro.S</string>
 			<string>cent.S</string>
 			<string>florin.S</string>
-			<string>one.Sups</string>
-			<string>two.Sups</string>
-			<string>three.Sups</string>
 			<string>fraction.S</string>
-			<string>divisionslash.S</string>
 			<string>onehalf.S</string>
 			<string>onequarter.S</string>
 			<string>threequarters.S</string>
@@ -5394,6 +5585,68 @@
 			<string>eight.pnum</string>
 			<string>nine.pnum</string>
 			<string>zero.0p</string>
+			<string>zero.sups</string>
+			<string>one.sups</string>
+			<string>two.sups</string>
+			<string>three.sups</string>
+			<string>four.sups</string>
+			<string>five.sups</string>
+			<string>six.sups</string>
+			<string>seven.sups</string>
+			<string>eight.sups</string>
+			<string>nine.sups</string>
+			<string>plus.sups</string>
+			<string>minus.sups</string>
+			<string>equal.sups</string>
+			<string>parenleft.sups</string>
+			<string>parenright.sups</string>
+			<string>period.sups</string>
+			<string>comma.sups</string>
+			<string>zero.subs</string>
+			<string>one.subs</string>
+			<string>two.subs</string>
+			<string>three.subs</string>
+			<string>four.subs</string>
+			<string>five.subs</string>
+			<string>six.subs</string>
+			<string>seven.subs</string>
+			<string>eight.subs</string>
+			<string>nine.subs</string>
+			<string>plus.subs</string>
+			<string>minus.subs</string>
+			<string>equal.subs</string>
+			<string>parenleft.subs</string>
+			<string>parenright.subs</string>
+			<string>period.subs</string>
+			<string>comma.subs</string>
+			<string>zero.dnom</string>
+			<string>one.dnom</string>
+			<string>two.dnom</string>
+			<string>three.dnom</string>
+			<string>four.dnom</string>
+			<string>five.dnom</string>
+			<string>six.dnom</string>
+			<string>seven.dnom</string>
+			<string>eight.dnom</string>
+			<string>nine.dnom</string>
+			<string>parenleft.dnom</string>
+			<string>parenright.dnom</string>
+			<string>period.dnom</string>
+			<string>comma.dnom</string>
+			<string>zero.numr</string>
+			<string>one.numr</string>
+			<string>two.numr</string>
+			<string>three.numr</string>
+			<string>four.numr</string>
+			<string>five.numr</string>
+			<string>six.numr</string>
+			<string>seven.numr</string>
+			<string>eight.numr</string>
+			<string>nine.numr</string>
+			<string>parenleft.numr</string>
+			<string>parenright.numr</string>
+			<string>period.numr</string>
+			<string>comma.numr</string>
 			<string>period</string>
 			<string>comma</string>
 			<string>colon</string>
@@ -5445,11 +5698,7 @@
 			<string>cent</string>
 			<string>florin</string>
 			<string>degree</string>
-			<string>one.sups</string>
-			<string>two.sups</string>
-			<string>three.sups</string>
 			<string>fraction</string>
-			<string>divisionslash</string>
 			<string>onehalf</string>
 			<string>onequarter</string>
 			<string>threequarters</string>
@@ -5463,6 +5712,7 @@
 			<string>brokenbar</string>
 			<string>underscore</string>
 			<string>plus</string>
+			<string>plusalt</string>
 			<string>minus</string>
 			<string>multiply</string>
 			<string>divide</string>
@@ -5489,6 +5739,18 @@
 			<string>litre</string>
 			<string>infinity</string>
 			<string>lozenge</string>
+			<string>arrowleft.S</string>
+			<string>arrowup.S</string>
+			<string>arrowright.S</string>
+			<string>arrowdown.S</string>
+			<string>arrowupleft.S</string>
+			<string>arrowupright.S</string>
+			<string>arrowdownright.S</string>
+			<string>arrowdownleft.S</string>
+			<string>arrowdblleft.S</string>
+			<string>arrowdblup.S</string>
+			<string>arrowdblright.S</string>
+			<string>arrowdbldown.S</string>
 			<string>grave</string>
 			<string>acute</string>
 			<string>circumflex</string>
@@ -5540,14 +5802,31 @@
 			<string>ringcmb.cap</string>
 			<string>hungarumlautcmb.cap</string>
 			<string>dotaccentcmb.cap</string>
-			<string>zero.dnom</string>
-			<string>one.dnom</string>
-			<string>two.dnom</string>
-			<string>three.dnom</string>
-			<string>four.dnom</string>
 			<string>cedillacmb.cap</string>
 			<string>ogonekcmb</string>
 			<string>tildeoverlaycmb</string>
+			<string>u13020</string>
+			<string>u13076</string>
+			<string>u13079</string>
+			<string>u1308B</string>
+			<string>u1309D</string>
+			<string>u130A7</string>
+			<string>u130FE</string>
+			<string>u13124</string>
+			<string>u13193</string>
+			<string>u131D1</string>
+			<string>u131F4</string>
+			<string>u13216</string>
+			<string>u13250</string>
+			<string>u13257</string>
+			<string>u1327F</string>
+			<string>u132BD</string>
+			<string>u132FF</string>
+			<string>u13309</string>
+			<string>u13319</string>
+			<string>u1337F</string>
+			<string>u13397</string>
+			<string>u133F4</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.Dnom" format="2">
+	<advance width="360"/>
+	<outline>
+		<contour>
+			<point x="180" y="-12" type="curve" smooth="yes"/>
+			<point x="265" y="-12"/>
+			<point x="316" y="55"/>
+			<point x="316" y="176" type="curve" smooth="yes"/>
+			<point x="316" y="295"/>
+			<point x="265" y="362"/>
+			<point x="180" y="362" type="curve" smooth="yes"/>
+			<point x="95" y="362"/>
+			<point x="44" y="295"/>
+			<point x="44" y="176" type="curve" smooth="yes"/>
+			<point x="44" y="55"/>
+			<point x="95" y="-12"/>
+		</contour>
+		<contour>
+			<point x="180" y="20" type="curve" smooth="yes"/>
+			<point x="113" y="20"/>
+			<point x="70" y="78"/>
+			<point x="70" y="176" type="curve" smooth="yes"/>
+			<point x="70" y="274"/>
+			<point x="113" y="330"/>
+			<point x="180" y="330" type="curve" smooth="yes"/>
+			<point x="247" y="330"/>
+			<point x="290" y="274"/>
+			<point x="290" y="176" type="curve" smooth="yes"/>
+			<point x="290" y="78"/>
+			<point x="247" y="20"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
+</glyph>

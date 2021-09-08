@@ -245,10 +245,76 @@ seven.P	seven.P
 eight.P	eight.P
 nine.P	nine.P
 zero.0P	zero.0P
+zero.U	zero.Sups	uni2070
+one.U	one.Sups	uni00B9
+two.U	two.Sups	uni00B2
+three.U	three.Sups	uni00B3
+four.U	four.Sups	uni2074
+five.U	five.Sups	uni2075
+six.U	six.Sups	uni2076
+seven.U	seven.Sups	uni2077
+eight.U	eight.Sups	uni2078
+nine.U	nine.Sups	uni2079
+plus.U	plus.Sups	uni207A
+minus.U	minus.Sups	uni207B
+equal.U	equal.Sups	uni207C,uni02ED
+parenleft.U	parenleft.Sups	uni207D
+parenright.U	parenright.Sups	uni207E
+period.U	period.Sups
+comma.U	comma.Sups
+zero.B	zero.Subs	uni2080
+one.B	one.Subs	uni2081
+two.B	two.Subs	uni2082
+three.B	three.Subs	uni2083
+four.B	four.Subs	uni2084
+five.B	five.Subs	uni2085
+six.B	six.Subs	uni2086
+seven.B	seven.Subs	uni2087
+eight.B	eight.Subs	uni2088
+nine.B	nine.Subs	uni2089
+plus.B	plus.Subs	uni208A
+minus.B	minus.Subs	uni208B
+equal.B	equal.Subs	uni208C
+parenleft.B	parenleft.Subs	uni208D
+parenright.B	parenright.Subs	uni208E
+period.B	period.Subs
+comma.B	comma.Subs
+zero.D	zero.Dnom
+one.D	one.Dnom
+two.D	two.Dnom
+three.D	three.Dnom
+four.D	four.Dnom
+five.D	five.Dnom
+six.D	six.Dnom
+seven.D	seven.Dnom
+eight.D	eight.Dnom
+nine.D	nine.Dnom
+parenleft.D	parenleft.Dnom
+parenright.D	parenright.Dnom
+period.D	period.Dnom
+comma.D	comma.Dnom
+zero.N	zero.Numr
+one.N	one.Numr
+two.N	two.Numr
+three.N	three.Numr
+four.N	four.Numr
+five.N	five.Numr
+six.N	six.Numr
+seven.N	seven.Numr
+eight.N	eight.Numr
+nine.N	nine.Numr
+parenleft.N	parenleft.Numr
+parenright.N	parenright.Numr
+period.N	period.Numr
+comma.N	comma.Numr
 exclam	exclam.S
 exclamdown	exclamdown.S
 question	question.S
 questiondown	questiondown.S
+quoteleft	quoteleft.S
+quoteright	quoteright.S
+quotedblleft	quotedblleft.S
+quotedblright	quotedblright.S
 guilsinglleft	guilsinglleft.S
 guilsinglright	guilsinglright.S
 guillemotleft	guillemotleft.S
@@ -270,11 +336,7 @@ yen	yen.S
 Euro	Euro.S
 cent	cent.S
 uni0192	florin.S
-one.U	one.Sups	uni00B9
-two.U	two.Sups	uni00B2
-three.U	three.Sups	uni00B3
-fraction	fraction.S
-uni2215	divisionslash.S
+fraction	fraction.S	uni2044, uni2215
 onehalf	onehalf.S
 onequarter	onequarter.S
 threequarters	threequarters.S
@@ -528,6 +590,68 @@ seven.p	seven.pnum
 eight.p	eight.pnum
 nine.p	nine.pnum
 zero.0p	zero.0p
+zero.u	zero.sups
+one.u	one.sups
+two.u	two.sups
+three.u	three.sups
+four.u	four.sups
+five.u	five.sups
+six.u	six.sups
+seven.u	seven.sups
+eight.u	eight.sups
+nine.u	nine.sups
+plus.u	plus.sups
+minus.u	minus.sups
+equal.u	equal.sups
+parenleft.u	parenleft.sups
+parenright.u	parenright.sups
+period.u	period.sups
+comma.u	comma.sups
+zero.b	zero.subs
+one.b	one.subs
+two.b	two.subs
+three.b	three.subs
+four.b	four.subs
+five.b	five.subs
+six.b	six.subs
+seven.b	seven.subs
+eight.b	eight.subs
+nine.b	nine.subs
+plus.b	plus.subs
+minus.b	minus.subs
+equal.b	equal.subs
+parenleft.b	parenleft.subs
+parenright.b	parenright.subs
+period.b	period.subs
+comma.b	comma.subs
+zero.d	zero.dnom
+one.d	one.dnom
+two.d	two.dnom
+three.d	three.dnom
+four.d	four.dnom
+five.d	five.dnom
+six.d	six.dnom
+seven.d	seven.dnom
+eight.d	eight.dnom
+nine.d	nine.dnom
+parenleft.d	parenleft.dnom
+parenright.d	parenright.dnom
+period.d	period.dnom
+comma.d	comma.dnom
+zero.n	zero.numr
+one.n	one.numr
+two.n	two.numr
+three.n	three.numr
+four.n	four.numr
+five.n	five.numr
+six.n	six.numr
+seven.n	seven.numr
+eight.n	eight.numr
+nine.n	nine.numr
+parenleft.n	parenleft.numr
+parenright.n	parenright.numr
+period.n	period.numr
+comma.n	comma.numr
 period	period
 comma	comma
 colon	colon
@@ -539,12 +663,12 @@ question.l	question
 questiondown.l	questiondown
 quotesingle	quotesingle
 quotedbl	quotedbl
-quoteleft	quoteleft
-quoteright	quoteright
-quotedblleft	quotedblleft
-quotedblright	quotedblright
+quoteleft.l	quoteleft
+quoteright.l	quoteright
+quotedblleft.l	quotedblleft
+quotedblright.l	quotedblright
 quotesinglbase	quotesinglbase
-quotedblbase.l	quotedblbase
+quotedblbase	quotedblbase
 guilsinglleft.l	guilsinglleft
 guilsinglright.l	guilsinglright
 guillemotleft.l	guillemotleft
@@ -579,11 +703,7 @@ Euro.l	Euro
 cent.l	cent
 uni0192.l	florin
 degree	degree
-one.u	one.sups
-two.u	two.sups
-three.u	three.sups
 fraction.l	fraction
-uni2215.l	divisionslash
 onehalf.l	onehalf
 onequarter.l	onequarter
 threequarters.l	threequarters
@@ -597,6 +717,7 @@ bar	bar
 brokenbar	brokenbar
 underscore	underscore
 plus	plus
+uniFB29	plusalt
 minus	minus
 multiply	multiply
 divide	divide
@@ -623,6 +744,18 @@ estimated	estimated
 uni2113	litre
 infinity	infinity
 lozenge	lozenge
+uni2190	arrowleft.S
+arrowup	arrowup.S
+uni2192	arrowright.S
+arrowdown	arrowdown.S
+uni2196	arrowupleft.S
+uni2197	arrowupright.S
+uni2198	arrowdownright.S
+uni2199	arrowdownleft.S
+uni21D0	arrowdblleft.S
+uni21D1	arrowdblup.S
+uni21D2	arrowdblright.S
+uni21D3	arrowdbldown.S
 grave	grave
 acute	acute
 circumflex	circumflex
@@ -674,11 +807,6 @@ uni0306.c	brevecmb.cap
 uni030A.c	ringcmb.cap
 uni030B.c	hungarumlautcmb.cap
 uni0307.c	dotaccentcmb.cap
-zero.d	zero.dnom
-one.d	one.dnom
-two.d	two.dnom
-three.d	three.dnom
-four.d	four.dnom
 uni0327.c	cedillacmb.cap
 uni0328	ogonekcmb
 uni0334	tildeoverlaycmb

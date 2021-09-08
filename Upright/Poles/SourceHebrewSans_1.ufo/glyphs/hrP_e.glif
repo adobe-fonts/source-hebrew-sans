@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hrPe" format="2">
+	<unicode hex="108F0"/>
 	<advance width="618"/>
 	<outline>
 		<contour>
@@ -29,10 +30,6 @@
 			<point x="402" y="270" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="265" y="530"/>
-	<anchor name="belowRightHE" x="285" y="-30"/>
-	<anchor name="centerHE" x="285" y="155"/>
-	<anchor name="aboveLeftHE" x="15" y="530"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

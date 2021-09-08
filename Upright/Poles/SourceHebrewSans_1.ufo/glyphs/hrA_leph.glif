@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hrAleph" format="2">
+	<unicode hex="108E0"/>
 	<advance width="672"/>
 	<outline>
 		<contour>
@@ -17,6 +18,7 @@
 			<point x="64" y="172" type="line"/>
 		</contour>
 		<contour>
+			<point x="140" y="394"/>
 			<point x="222" y="200"/>
 			<point x="247" y="16" type="curve"/>
 			<point x="372" y="52" type="line"/>
@@ -24,7 +26,6 @@
 			<point x="296" y="460"/>
 			<point x="240" y="576" type="curve"/>
 			<point x="60" y="544" type="line"/>
-			<point x="140" y="394"/>
 		</contour>
 	</outline>
 	<lib>

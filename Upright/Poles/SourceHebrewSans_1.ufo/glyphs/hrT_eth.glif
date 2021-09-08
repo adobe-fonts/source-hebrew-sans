@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hrTeth" format="2">
+	<unicode hex="108E8"/>
 	<advance width="620"/>
 	<outline>
 		<contour>
@@ -33,10 +34,6 @@
 			<point x="150" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="335" y="38"/>
-	<anchor name="belowPrimaryHE" x="355" y="598"/>
-	<anchor name="centerHE" x="325" y="338"/>
-	<anchor name="aboveLeftHE" x="605" y="38"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
