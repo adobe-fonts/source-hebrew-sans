@@ -25,5 +25,21 @@ languagesystem latn dflt;
 
 #--------------------------------------
 #feature ss01 { # stylistic set 1
-#	sub [ heBet heTet heMemFin heSamekh heAyin heTsadi heShin ] by [ heBet.a heTet.a heMemFin.a heSamekh.a heAyin.a heTsadi.a heShin.a ];
+#sub [ heTet heSamekh heAyin heTsadi heShin ] by [ heTet.1 heSamekh.1 heAyin.1 heTsadi.1 heShin.1 ];
 #} ss01;
+#
+#feature ss02 { # stylistic set 2
+#sub [ heTet heSamekh heAyin heTsadi heShin ] by [ heTet.2 heSamekh.1 heAyin.2 heTsadi.2 heShin.2 ];
+#} ss02;
+#
+#feature ss03 { # stylistic set 3
+#sub [ heTet heSamekh heAyin heTsadi heShin ] by [ heTet.3 heSamekh.3 heAyin.1 heTsadi.1 heShin.3 ];
+#} ss03;
+#
+#feature ss04 { # stylistic set 4
+#sub [ heTet heSamekh heAyin heTsadi heShin ] by [ heTet.4 heSamekh.3 heAyin.2 heTsadi.2 heShin.4 ];
+#} ss04;
+#
+#feature ss05 { # stylistic set 5
+#sub [ heTet heSamekh heShin ] by [ heTet.5 heSamekh.5 heShin.5 ];
+#} ss05;

@@ -224,7 +224,6 @@
 					<string>pnRosh</string>
 					<string>pnShin</string>
 					<string>pnTau</string>
-					<string>pnhyphen</string>
 					<string>pn1</string>
 					<string>pn10</string>
 					<string>pn20</string>
@@ -819,29 +818,7 @@
 					<string>cedillacmb.cap</string>
 					<string>ogonekcmb</string>
 					<string>tildeoverlaycmb</string>
-					<string>aiMem.copy_1</string>
-					<string>aiMem.copy_2</string>
-					<string>aiNun.copy_1</string>
-					<string>aiNun.copy_2</string>
-					<string>cedi</string>
-					<string>colonmonetary</string>
-					<string>divisionslash</string>
-					<string>dong</string>
-					<string>franc</string>
-					<string>guarani</string>
-					<string>hryvnia</string>
-					<string>lira</string>
-					<string>liraturkish</string>
-					<string>naira</string>
-					<string>peseta</string>
-					<string>peso</string>
-					<string>prime</string>
-					<string>ruble</string>
-					<string>rupeeindian</string>
-					<string>tenge</string>
-					<string>tugrik</string>
-					<string>won</string>
-					<string>yuan</string>
+					<string>pnhyphen</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -890,11 +867,15 @@
 		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.m3CmYj1ltL</key>
 		<integer>5</integer>
+		<key>com.typemytype.robofont.guideline.magnetic.ya1R8RELXb</key>
+		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.showMeasurements.AtDU8rN4Ca</key>
 		<false/>
 		<key>com.typemytype.robofont.guideline.showMeasurements.jt5Nfn49bl</key>
 		<false/>
 		<key>com.typemytype.robofont.guideline.showMeasurements.m3CmYj1ltL</key>
+		<false/>
+		<key>com.typemytype.robofont.guideline.showMeasurements.ya1R8RELXb</key>
 		<false/>
 		<key>com.typemytype.robofont.italicSlantOffset</key>
 		<integer>0</integer>
@@ -5246,7 +5227,6 @@
 			<string>pnRosh</string>
 			<string>pnShin</string>
 			<string>pnTau</string>
-			<string>pnhyphen</string>
 			<string>pn1</string>
 			<string>pn10</string>
 			<string>pn20</string>
@@ -5841,50 +5821,7 @@
 			<string>cedillacmb.cap</string>
 			<string>ogonekcmb</string>
 			<string>tildeoverlaycmb</string>
-			<string>aiMem.copy_1</string>
-			<string>aiMem.copy_2</string>
-			<string>aiNun.copy_1</string>
-			<string>aiNun.copy_2</string>
-			<string>cedi</string>
-			<string>colonmonetary</string>
-			<string>divisionslash</string>
-			<string>dong</string>
-			<string>franc</string>
-			<string>guarani</string>
-			<string>hryvnia</string>
-			<string>lira</string>
-			<string>liraturkish</string>
-			<string>naira</string>
-			<string>peseta</string>
-			<string>peso</string>
-			<string>ruble</string>
-			<string>rupeeindian</string>
-			<string>tenge</string>
-			<string>tugrik</string>
-			<string>won</string>
-			<string>yuan</string>
-			<string>u13020</string>
-			<string>u13076</string>
-			<string>u13079</string>
-			<string>u1308B</string>
-			<string>u1309D</string>
-			<string>u130A7</string>
-			<string>u130FE</string>
-			<string>u13124</string>
-			<string>u13193</string>
-			<string>u131D1</string>
-			<string>u131F4</string>
-			<string>u13216</string>
-			<string>u13250</string>
-			<string>u13257</string>
-			<string>u1327F</string>
-			<string>u132BD</string>
-			<string>u132FF</string>
-			<string>u13309</string>
-			<string>u13319</string>
-			<string>u1337F</string>
-			<string>u13397</string>
-			<string>u133F4</string>
+			<string>pnhyphen</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>
@@ -6014,6 +5951,30 @@
 			<string>ampersand</string>
 			<key>apostrophemod</key>
 			<string>uni02BC</string>
+			<key>arrowdbldown.S</key>
+			<string>uni21D3</string>
+			<key>arrowdblleft.S</key>
+			<string>uni21D0</string>
+			<key>arrowdblright.S</key>
+			<string>uni21D2</string>
+			<key>arrowdblup.S</key>
+			<string>uni21D1</string>
+			<key>arrowdown.S</key>
+			<string>arrowdown</string>
+			<key>arrowdownleft.S</key>
+			<string>uni2199</string>
+			<key>arrowdownright.S</key>
+			<string>uni2198</string>
+			<key>arrowleft.S</key>
+			<string>uni2190</string>
+			<key>arrowright.S</key>
+			<string>uni2192</string>
+			<key>arrowup.S</key>
+			<string>arrowup</string>
+			<key>arrowupleft.S</key>
+			<string>uni2196</string>
+			<key>arrowupright.S</key>
+			<string>uni2197</string>
 			<key>at</key>
 			<string>at.l</string>
 			<key>at.S</key>
@@ -6056,6 +6017,20 @@
 			<string>uni0302.c</string>
 			<key>colontriangularmod</key>
 			<string>uni02D0</string>
+			<key>comma.Numr</key>
+			<string>comma.N</string>
+			<key>comma.Subs</key>
+			<string>comma.B</string>
+			<key>comma.Sups</key>
+			<string>comma.U</string>
+			<key>comma.dnom</key>
+			<string>comma.d</string>
+			<key>comma.numr</key>
+			<string>comma.n</string>
+			<key>comma.subs</key>
+			<string>comma.b</string>
+			<key>comma.sups</key>
+			<string>comma.u</string>
 			<key>commaturnedmod</key>
 			<string>uni02BB</string>
 			<key>copyright</key>
@@ -6070,10 +6045,6 @@
 			<string>uni0308</string>
 			<key>dieresiscmb.cap</key>
 			<string>uni0308.c</string>
-			<key>divisionslash</key>
-			<string>uni2215.l</string>
-			<key>divisionslash.S</key>
-			<string>uni2215</string>
 			<key>dlinebelow</key>
 			<string>uni1E0F</string>
 			<key>dollar</key>
@@ -6094,10 +6065,26 @@
 			<string>uni1EB9</string>
 			<key>eight</key>
 			<string>eight.l</string>
+			<key>eight.Dnom</key>
+			<string>eight.D</string>
+			<key>eight.Numr</key>
+			<string>eight.N</string>
 			<key>eight.S</key>
 			<string>eight</string>
+			<key>eight.Subs</key>
+			<string>eight.B</string>
+			<key>eight.Sups</key>
+			<string>eight.U</string>
+			<key>eight.dnom</key>
+			<string>eight.d</string>
+			<key>eight.numr</key>
+			<string>eight.n</string>
 			<key>eight.pnum</key>
 			<string>eight.p</string>
+			<key>eight.subs</key>
+			<string>eight.b</string>
+			<key>eight.sups</key>
+			<string>eight.u</string>
 			<key>emdash</key>
 			<string>emdash.l</string>
 			<key>emdash.S</key>
@@ -6110,6 +6097,14 @@
 			<string>eogonek.u</string>
 			<key>eopen</key>
 			<string>uni025B</string>
+			<key>equal.Subs</key>
+			<string>equal.B</string>
+			<key>equal.Sups</key>
+			<string>equal.U</string>
+			<key>equal.subs</key>
+			<string>equal.b</string>
+			<key>equal.sups</key>
+			<string>equal.u</string>
 			<key>esh</key>
 			<string>uni0283</string>
 			<key>exclam</key>
@@ -6126,10 +6121,26 @@
 			<string>f_i</string>
 			<key>five</key>
 			<string>five.l</string>
+			<key>five.Dnom</key>
+			<string>five.D</string>
+			<key>five.Numr</key>
+			<string>five.N</string>
 			<key>five.S</key>
 			<string>five</string>
+			<key>five.Subs</key>
+			<string>five.B</string>
+			<key>five.Sups</key>
+			<string>five.U</string>
+			<key>five.dnom</key>
+			<string>five.d</string>
+			<key>five.numr</key>
+			<string>five.n</string>
 			<key>five.pnum</key>
 			<string>five.p</string>
+			<key>five.subs</key>
+			<string>five.b</string>
+			<key>five.sups</key>
+			<string>five.u</string>
 			<key>fl</key>
 			<string>f_l</string>
 			<key>florin</key>
@@ -6138,12 +6149,26 @@
 			<string>uni0192</string>
 			<key>four</key>
 			<string>four.l</string>
+			<key>four.Dnom</key>
+			<string>four.D</string>
+			<key>four.Numr</key>
+			<string>four.N</string>
 			<key>four.S</key>
 			<string>four</string>
+			<key>four.Subs</key>
+			<string>four.B</string>
+			<key>four.Sups</key>
+			<string>four.U</string>
 			<key>four.dnom</key>
 			<string>four.d</string>
+			<key>four.numr</key>
+			<string>four.n</string>
 			<key>four.pnum</key>
 			<string>four.p</string>
+			<key>four.subs</key>
+			<string>four.b</string>
+			<key>four.sups</key>
+			<string>four.u</string>
 			<key>fraction</key>
 			<string>fraction.l</string>
 			<key>fraction.S</key>
@@ -6478,6 +6503,14 @@
 			<string>uni0304</string>
 			<key>macroncmb.cap</key>
 			<string>uni0304.c</string>
+			<key>minus.Subs</key>
+			<string>minus.B</string>
+			<key>minus.Sups</key>
+			<string>minus.U</string>
+			<key>minus.subs</key>
+			<string>minus.b</string>
+			<key>minus.sups</key>
+			<string>minus.u</string>
 			<key>mu</key>
 			<string>uni00B5</string>
 			<key>newsheqel</key>
@@ -6486,10 +6519,26 @@
 			<string>uni20AA</string>
 			<key>nine</key>
 			<string>nine.l</string>
+			<key>nine.Dnom</key>
+			<string>nine.D</string>
+			<key>nine.Numr</key>
+			<string>nine.N</string>
 			<key>nine.S</key>
 			<string>nine</string>
+			<key>nine.Subs</key>
+			<string>nine.B</string>
+			<key>nine.Sups</key>
+			<string>nine.U</string>
+			<key>nine.dnom</key>
+			<string>nine.d</string>
+			<key>nine.numr</key>
+			<string>nine.n</string>
 			<key>nine.pnum</key>
 			<string>nine.p</string>
+			<key>nine.subs</key>
+			<string>nine.b</string>
+			<key>nine.sups</key>
+			<string>nine.u</string>
 			<key>numbersign</key>
 			<string>numbersign.l</string>
 			<key>numbersign.S</key>
@@ -6502,14 +6551,24 @@
 			<string>uni0328</string>
 			<key>one</key>
 			<string>one.l</string>
+			<key>one.Dnom</key>
+			<string>one.D</string>
+			<key>one.Numr</key>
+			<string>one.N</string>
 			<key>one.S</key>
 			<string>one</string>
+			<key>one.Subs</key>
+			<string>one.B</string>
 			<key>one.Sups</key>
 			<string>one.U</string>
 			<key>one.dnom</key>
 			<string>one.d</string>
+			<key>one.numr</key>
+			<string>one.n</string>
 			<key>one.pnum</key>
 			<string>one.p</string>
+			<key>one.subs</key>
+			<string>one.b</string>
 			<key>one.sups</key>
 			<string>one.u</string>
 			<key>onehalf</key>
@@ -6526,10 +6585,56 @@
 			<string>paragraph.l</string>
 			<key>paragraph.S</key>
 			<string>paragraph</string>
+			<key>parenleft.Dnom</key>
+			<string>parenleft.D</string>
+			<key>parenleft.Numr</key>
+			<string>parenleft.N</string>
+			<key>parenleft.Subs</key>
+			<string>parenleft.B</string>
+			<key>parenleft.Sups</key>
+			<string>parenleft.U</string>
+			<key>parenleft.dnom</key>
+			<string>parenleft.d</string>
+			<key>parenleft.numr</key>
+			<string>parenleft.n</string>
+			<key>parenleft.subs</key>
+			<string>parenleft.b</string>
+			<key>parenleft.sups</key>
+			<string>parenleft.u</string>
+			<key>parenright.Dnom</key>
+			<string>parenright.D</string>
+			<key>parenright.Numr</key>
+			<string>parenright.N</string>
+			<key>parenright.Subs</key>
+			<string>parenright.B</string>
+			<key>parenright.Sups</key>
+			<string>parenright.U</string>
+			<key>parenright.dnom</key>
+			<string>parenright.d</string>
+			<key>parenright.numr</key>
+			<string>parenright.n</string>
+			<key>parenright.subs</key>
+			<string>parenright.b</string>
+			<key>parenright.sups</key>
+			<string>parenright.u</string>
 			<key>percent</key>
 			<string>percent.l</string>
 			<key>percent.S</key>
 			<string>percent</string>
+			<key>period.Numr</key>
+			<string>period.N</string>
+			<key>period.Subs</key>
+			<string>period.B</string>
+			<key>period.Sups</key>
+			<string>period.U</string>
+			<key>period.dnom</key>
+			<string>period.d</string>
+			<key>period.numr</key>
+			<string>period.n</string>
+			<key>period.subs</key>
+			<string>period.b</string>
+			<key>period.sups</key>
+			<string>period.u</string>
 			<key>periodcentered</key>
 			<string>periodcentered.l</string>
 			<key>periodcentered.S</key>
@@ -6538,6 +6643,16 @@
 			<string>perthousand.l</string>
 			<key>perthousand.S</key>
 			<string>perthousand</string>
+			<key>plus.Subs</key>
+			<string>plus.B</string>
+			<key>plus.Sups</key>
+			<string>plus.U</string>
+			<key>plus.subs</key>
+			<string>plus.b</string>
+			<key>plus.sups</key>
+			<string>plus.u</string>
+			<key>plusalt</key>
+			<string>uniFB29</string>
 			<key>pm1</key>
 			<string>u10879</string>
 			<key>pm10</key>
@@ -6658,8 +6773,6 @@
 			<string>u10909</string>
 			<key>pnZai</key>
 			<string>u10906</string>
-			<key>pnhyphen</key>
-			<string>u1091F</string>
 			<key>popdirectionformat</key>
 			<string>uni202C</string>
 			<key>primemod</key>
@@ -6672,8 +6785,22 @@
 			<string>questiondown.l</string>
 			<key>questiondown.S</key>
 			<string>questiondown</string>
-			<key>quotedblbase</key>
-			<string>quotedblbase.l</string>
+			<key>quotedblleft</key>
+			<string>quotedblleft.l</string>
+			<key>quotedblleft.S</key>
+			<string>quotedblleft</string>
+			<key>quotedblright</key>
+			<string>quotedblright.l</string>
+			<key>quotedblright.S</key>
+			<string>quotedblright</string>
+			<key>quoteleft</key>
+			<string>quoteleft.l</string>
+			<key>quoteleft.S</key>
+			<string>quoteleft</string>
+			<key>quoteright</key>
+			<string>quoteright.l</string>
+			<key>quoteright.S</key>
+			<string>quoteright</string>
 			<key>righttoleftembed</key>
 			<string>uni202B</string>
 			<key>righttoleftmark</key>
@@ -6702,16 +6829,48 @@
 			<string>section</string>
 			<key>seven</key>
 			<string>seven.l</string>
+			<key>seven.Dnom</key>
+			<string>seven.D</string>
+			<key>seven.Numr</key>
+			<string>seven.N</string>
 			<key>seven.S</key>
 			<string>seven</string>
+			<key>seven.Subs</key>
+			<string>seven.B</string>
+			<key>seven.Sups</key>
+			<string>seven.U</string>
+			<key>seven.dnom</key>
+			<string>seven.d</string>
+			<key>seven.numr</key>
+			<string>seven.n</string>
 			<key>seven.pnum</key>
 			<string>seven.p</string>
+			<key>seven.subs</key>
+			<string>seven.b</string>
+			<key>seven.sups</key>
+			<string>seven.u</string>
 			<key>six</key>
 			<string>six.l</string>
+			<key>six.Dnom</key>
+			<string>six.D</string>
+			<key>six.Numr</key>
+			<string>six.N</string>
 			<key>six.S</key>
 			<string>six</string>
+			<key>six.Subs</key>
+			<string>six.B</string>
+			<key>six.Sups</key>
+			<string>six.U</string>
+			<key>six.dnom</key>
+			<string>six.d</string>
+			<key>six.numr</key>
+			<string>six.n</string>
 			<key>six.pnum</key>
 			<string>six.p</string>
+			<key>six.subs</key>
+			<string>six.b</string>
+			<key>six.sups</key>
+			<string>six.u</string>
 			<key>sterling</key>
 			<string>sterling.l</string>
 			<key>sterling.S</key>
@@ -6722,14 +6881,24 @@
 			<string>uni02A7</string>
 			<key>three</key>
 			<string>three.l</string>
+			<key>three.Dnom</key>
+			<string>three.D</string>
+			<key>three.Numr</key>
+			<string>three.N</string>
 			<key>three.S</key>
 			<string>three</string>
+			<key>three.Subs</key>
+			<string>three.B</string>
 			<key>three.Sups</key>
 			<string>three.U</string>
 			<key>three.dnom</key>
 			<string>three.d</string>
+			<key>three.numr</key>
+			<string>three.n</string>
 			<key>three.pnum</key>
 			<string>three.p</string>
+			<key>three.subs</key>
+			<string>three.b</string>
 			<key>three.sups</key>
 			<string>three.u</string>
 			<key>threequarters</key>
@@ -6748,14 +6917,24 @@
 			<string>uni02A6</string>
 			<key>two</key>
 			<string>two.l</string>
+			<key>two.Dnom</key>
+			<string>two.D</string>
+			<key>two.Numr</key>
+			<string>two.N</string>
 			<key>two.S</key>
 			<string>two</string>
+			<key>two.Subs</key>
+			<string>two.B</string>
 			<key>two.Sups</key>
 			<string>two.U</string>
 			<key>two.dnom</key>
 			<string>two.d</string>
+			<key>two.numr</key>
+			<string>two.n</string>
 			<key>two.pnum</key>
 			<string>two.p</string>
+			<key>two.subs</key>
+			<string>two.b</string>
 			<key>two.sups</key>
 			<string>two.u</string>
 			<key>upsilonlatin</key>
@@ -6778,12 +6957,26 @@
 			<string>zero.0l</string>
 			<key>zero.0S</key>
 			<string>zero.0</string>
+			<key>zero.Dnom</key>
+			<string>zero.D</string>
+			<key>zero.Numr</key>
+			<string>zero.N</string>
 			<key>zero.S</key>
 			<string>zero</string>
+			<key>zero.Subs</key>
+			<string>zero.B</string>
+			<key>zero.Sups</key>
+			<string>zero.U</string>
 			<key>zero.dnom</key>
 			<string>zero.d</string>
+			<key>zero.numr</key>
+			<string>zero.n</string>
 			<key>zero.pnum</key>
 			<string>zero.p</string>
+			<key>zero.subs</key>
+			<string>zero.b</string>
+			<key>zero.sups</key>
+			<string>zero.u</string>
 			<key>zlinebelow</key>
 			<string>uni1E95</string>
 		</dict>

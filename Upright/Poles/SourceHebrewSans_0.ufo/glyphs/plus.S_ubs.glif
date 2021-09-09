@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus.Subs" format="2">
+	<unicode hex="208A"/>
 	<advance width="360"/>
 	<outline>
-		<contour>
-			<point x="164" y="-140" type="line"/>
-			<point x="194" y="-140" type="line"/>
-			<point x="194" y="4" type="line"/>
-			<point x="326" y="4" type="line"/>
-			<point x="326" y="32" type="line"/>
-			<point x="194" y="32" type="line"/>
-			<point x="194" y="176" type="line"/>
-			<point x="164" y="176" type="line"/>
-			<point x="164" y="32" type="line"/>
-			<point x="34" y="32" type="line"/>
-			<point x="34" y="4" type="line"/>
-			<point x="164" y="4" type="line"/>
-		</contour>
+		<component base="plus.subs" yOffset="6"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>0.502,0.0015,0.9985,1</string>
+			<string>0.0595,0.5019,0.9985,1</string>
 		</dict>
 	</lib>
 </glyph>

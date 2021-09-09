@@ -252,16 +252,8 @@
 		<string>aiL_amedh.glif</string>
 		<key>aiMem</key>
 		<string>aiM_em.glif</string>
-		<key>aiMem.copy_1</key>
-		<string>aiM_em.copy_1.glif</string>
-		<key>aiMem.copy_2</key>
-		<string>aiM_em.copy_2.glif</string>
 		<key>aiNun</key>
 		<string>aiN_un.glif</string>
-		<key>aiNun.copy_1</key>
-		<string>aiN_un.copy_1.glif</string>
-		<key>aiNun.copy_2</key>
-		<string>aiN_un.copy_2.glif</string>
 		<key>aiPe</key>
 		<string>aiP_e.glif</string>
 		<key>aiQoph</key>
@@ -380,8 +372,6 @@
 		<string>ccaron.glif</string>
 		<key>ccedilla</key>
 		<string>ccedilla.glif</string>
-		<key>cedi</key>
-		<string>cedi.glif</string>
 		<key>cedilla</key>
 		<string>cedilla.glif</string>
 		<key>cedillacmb</key>
@@ -404,14 +394,26 @@
 		<string>circumflexcmb.cap.glif</string>
 		<key>colon</key>
 		<string>colon.glif</string>
-		<key>colonmonetary</key>
-		<string>colonmonetary.glif</string>
 		<key>colontriangularmod</key>
 		<string>colontriangularmod.glif</string>
 		<key>comma</key>
 		<string>comma.glif</string>
+		<key>comma.Dnom</key>
+		<string>comma.D_nom.glif</string>
+		<key>comma.Numr</key>
+		<string>comma.N_umr.glif</string>
+		<key>comma.Subs</key>
+		<string>comma.S_ubs.glif</string>
+		<key>comma.Sups</key>
+		<string>comma.S_ups.glif</string>
 		<key>comma.dnom</key>
 		<string>comma.dnom.glif</string>
+		<key>comma.numr</key>
+		<string>comma.numr.glif</string>
+		<key>comma.subs</key>
+		<string>comma.subs.glif</string>
+		<key>comma.sups</key>
+		<string>comma.sups.glif</string>
 		<key>commaturnedmod</key>
 		<string>commaturnedmod.glif</string>
 		<key>copyright</key>
@@ -440,16 +442,12 @@
 		<string>dieresiscmb.cap.glif</string>
 		<key>divide</key>
 		<string>divide.glif</string>
-		<key>divisionslash</key>
-		<string>divisionslash.glif</string>
 		<key>dlinebelow</key>
 		<string>dlinebelow.glif</string>
 		<key>dollar</key>
 		<string>dollar.glif</string>
 		<key>dollar.S</key>
 		<string>dollar.S_.glif</string>
-		<key>dong</key>
-		<string>dong.glif</string>
 		<key>dotaccent</key>
 		<string>dotaccent.glif</string>
 		<key>dotaccentcmb</key>
@@ -482,12 +480,24 @@
 		<string>eight.glif</string>
 		<key>eight.Dnom</key>
 		<string>eight.D_nom.glif</string>
+		<key>eight.Numr</key>
+		<string>eight.N_umr.glif</string>
 		<key>eight.S</key>
 		<string>eight.S_.glif</string>
+		<key>eight.Subs</key>
+		<string>eight.S_ubs.glif</string>
+		<key>eight.Sups</key>
+		<string>eight.S_ups.glif</string>
 		<key>eight.dnom</key>
 		<string>eight.dnom.glif</string>
+		<key>eight.numr</key>
+		<string>eight.numr.glif</string>
 		<key>eight.pnum</key>
 		<string>eight.pnum.glif</string>
+		<key>eight.subs</key>
+		<string>eight.subs.glif</string>
+		<key>eight.sups</key>
+		<string>eight.sups.glif</string>
 		<key>ellipsis</key>
 		<string>ellipsis.glif</string>
 		<key>emacron</key>
@@ -508,6 +518,14 @@
 		<string>eopen.glif</string>
 		<key>equal</key>
 		<string>equal.glif</string>
+		<key>equal.Subs</key>
+		<string>equal.S_ubs.glif</string>
+		<key>equal.Sups</key>
+		<string>equal.S_ups.glif</string>
+		<key>equal.subs</key>
+		<string>equal.subs.glif</string>
+		<key>equal.sups</key>
+		<string>equal.sups.glif</string>
 		<key>esh</key>
 		<string>esh.glif</string>
 		<key>estimated</key>
@@ -530,12 +548,24 @@
 		<string>five.glif</string>
 		<key>five.Dnom</key>
 		<string>five.D_nom.glif</string>
+		<key>five.Numr</key>
+		<string>five.N_umr.glif</string>
 		<key>five.S</key>
 		<string>five.S_.glif</string>
+		<key>five.Subs</key>
+		<string>five.S_ubs.glif</string>
+		<key>five.Sups</key>
+		<string>five.S_ups.glif</string>
 		<key>five.dnom</key>
 		<string>five.dnom.glif</string>
+		<key>five.numr</key>
+		<string>five.numr.glif</string>
 		<key>five.pnum</key>
 		<string>five.pnum.glif</string>
+		<key>five.subs</key>
+		<string>five.subs.glif</string>
+		<key>five.sups</key>
+		<string>five.sups.glif</string>
 		<key>fl</key>
 		<string>fl.glif</string>
 		<key>florin</key>
@@ -544,18 +574,28 @@
 		<string>four.glif</string>
 		<key>four.Dnom</key>
 		<string>four.D_nom.glif</string>
+		<key>four.Numr</key>
+		<string>four.N_umr.glif</string>
 		<key>four.S</key>
 		<string>four.S_.glif</string>
+		<key>four.Subs</key>
+		<string>four.S_ubs.glif</string>
+		<key>four.Sups</key>
+		<string>four.S_ups.glif</string>
 		<key>four.dnom</key>
 		<string>four.dnom.glif</string>
+		<key>four.numr</key>
+		<string>four.numr.glif</string>
 		<key>four.pnum</key>
 		<string>four.pnum.glif</string>
+		<key>four.subs</key>
+		<string>four.subs.glif</string>
+		<key>four.sups</key>
+		<string>four.sups.glif</string>
 		<key>fraction</key>
 		<string>fraction.glif</string>
 		<key>fraction.S</key>
 		<string>fraction.S_.glif</string>
-		<key>franc</key>
-		<string>franc.glif</string>
 		<key>g</key>
 		<string>g.glif</string>
 		<key>gammalatin</key>
@@ -586,8 +626,6 @@
 		<string>greaterequal.glif</string>
 		<key>gscript</key>
 		<string>gscript.glif</string>
-		<key>guarani</key>
-		<string>guarani.glif</string>
 		<key>guillemotleft</key>
 		<string>guillemotleft.glif</string>
 		<key>guillemotleft.S</key>
@@ -864,8 +902,6 @@
 		<string>hrY_odh.glif</string>
 		<key>hrZayn</key>
 		<string>hrZ_ayn.glif</string>
-		<key>hryvnia</key>
-		<string>hryvnia.glif</string>
 		<key>hungarumlaut</key>
 		<string>hungarumlaut.glif</string>
 		<key>hungarumlautcmb</key>
@@ -916,10 +952,6 @@
 		<string>less.glif</string>
 		<key>lessequal</key>
 		<string>lessequal.glif</string>
-		<key>lira</key>
-		<string>lira.glif</string>
-		<key>liraturkish</key>
-		<string>liraturkish.glif</string>
 		<key>litre</key>
 		<string>litre.glif</string>
 		<key>lmiddletilde</key>
@@ -942,14 +974,20 @@
 		<string>macroncmb.cap.glif</string>
 		<key>minus</key>
 		<string>minus.glif</string>
+		<key>minus.Subs</key>
+		<string>minus.S_ubs.glif</string>
+		<key>minus.Sups</key>
+		<string>minus.S_ups.glif</string>
+		<key>minus.subs</key>
+		<string>minus.subs.glif</string>
+		<key>minus.sups</key>
+		<string>minus.sups.glif</string>
 		<key>mu</key>
 		<string>mu.glif</string>
 		<key>multiply</key>
 		<string>multiply.glif</string>
 		<key>n</key>
 		<string>n.glif</string>
-		<key>naira</key>
-		<string>naira.glif</string>
 		<key>newsheqel</key>
 		<string>newsheqel.glif</string>
 		<key>newsheqel.S</key>
@@ -958,12 +996,24 @@
 		<string>nine.glif</string>
 		<key>nine.Dnom</key>
 		<string>nine.D_nom.glif</string>
+		<key>nine.Numr</key>
+		<string>nine.N_umr.glif</string>
 		<key>nine.S</key>
 		<string>nine.S_.glif</string>
+		<key>nine.Subs</key>
+		<string>nine.S_ubs.glif</string>
+		<key>nine.Sups</key>
+		<string>nine.S_ups.glif</string>
 		<key>nine.dnom</key>
 		<string>nine.dnom.glif</string>
+		<key>nine.numr</key>
+		<string>nine.numr.glif</string>
 		<key>nine.pnum</key>
 		<string>nine.pnum.glif</string>
+		<key>nine.subs</key>
+		<string>nine.subs.glif</string>
+		<key>nine.sups</key>
+		<string>nine.sups.glif</string>
 		<key>notequal</key>
 		<string>notequal.glif</string>
 		<key>ntilde</key>
@@ -1000,12 +1050,22 @@
 		<string>one.glif</string>
 		<key>one.Dnom</key>
 		<string>one.D_nom.glif</string>
+		<key>one.Numr</key>
+		<string>one.N_umr.glif</string>
 		<key>one.S</key>
 		<string>one.S_.glif</string>
+		<key>one.Subs</key>
+		<string>one.S_ubs.glif</string>
+		<key>one.Sups</key>
+		<string>one.S_ups.glif</string>
 		<key>one.dnom</key>
 		<string>one.dnom.glif</string>
+		<key>one.numr</key>
+		<string>one.numr.glif</string>
 		<key>one.pnum</key>
 		<string>one.pnum.glif</string>
+		<key>one.subs</key>
+		<string>one.subs.glif</string>
 		<key>one.sups</key>
 		<string>one.sups.glif</string>
 		<key>onehalf</key>
@@ -1026,12 +1086,40 @@
 		<string>paragraph.S_.glif</string>
 		<key>parenleft</key>
 		<string>parenleft.glif</string>
+		<key>parenleft.Dnom</key>
+		<string>parenleft.D_nom.glif</string>
+		<key>parenleft.Numr</key>
+		<string>parenleft.N_umr.glif</string>
+		<key>parenleft.Subs</key>
+		<string>parenleft.S_ubs.glif</string>
+		<key>parenleft.Sups</key>
+		<string>parenleft.S_ups.glif</string>
 		<key>parenleft.dnom</key>
 		<string>parenleft.dnom.glif</string>
+		<key>parenleft.numr</key>
+		<string>parenleft.numr.glif</string>
+		<key>parenleft.subs</key>
+		<string>parenleft.subs.glif</string>
+		<key>parenleft.sups</key>
+		<string>parenleft.sups.glif</string>
 		<key>parenright</key>
 		<string>parenright.glif</string>
+		<key>parenright.Dnom</key>
+		<string>parenright.D_nom.glif</string>
+		<key>parenright.Numr</key>
+		<string>parenright.N_umr.glif</string>
+		<key>parenright.Subs</key>
+		<string>parenright.S_ubs.glif</string>
+		<key>parenright.Sups</key>
+		<string>parenright.S_ups.glif</string>
 		<key>parenright.dnom</key>
 		<string>parenright.dnom.glif</string>
+		<key>parenright.numr</key>
+		<string>parenright.numr.glif</string>
+		<key>parenright.subs</key>
+		<string>parenright.subs.glif</string>
+		<key>parenright.sups</key>
+		<string>parenright.sups.glif</string>
 		<key>partialdiff</key>
 		<string>partialdiff.glif</string>
 		<key>percent</key>
@@ -1040,8 +1128,22 @@
 		<string>percent.S_.glif</string>
 		<key>period</key>
 		<string>period.glif</string>
+		<key>period.Dnom</key>
+		<string>period.D_nom.glif</string>
+		<key>period.Numr</key>
+		<string>period.N_umr.glif</string>
+		<key>period.Subs</key>
+		<string>period.S_ubs.glif</string>
+		<key>period.Sups</key>
+		<string>period.S_ups.glif</string>
 		<key>period.dnom</key>
 		<string>period.dnom.glif</string>
+		<key>period.numr</key>
+		<string>period.numr.glif</string>
+		<key>period.subs</key>
+		<string>period.subs.glif</string>
+		<key>period.sups</key>
+		<string>period.sups.glif</string>
 		<key>periodcentered</key>
 		<string>periodcentered.glif</string>
 		<key>periodcentered.S</key>
@@ -1050,14 +1152,18 @@
 		<string>perthousand.glif</string>
 		<key>perthousand.S</key>
 		<string>perthousand.S_.glif</string>
-		<key>peseta</key>
-		<string>peseta.glif</string>
-		<key>peso</key>
-		<string>peso.glif</string>
 		<key>pi</key>
 		<string>pi.glif</string>
 		<key>plus</key>
 		<string>plus.glif</string>
+		<key>plus.Subs</key>
+		<string>plus.S_ubs.glif</string>
+		<key>plus.Sups</key>
+		<string>plus.S_ups.glif</string>
+		<key>plus.subs</key>
+		<string>plus.subs.glif</string>
+		<key>plus.sups</key>
+		<string>plus.sups.glif</string>
 		<key>plusalt</key>
 		<string>plusalt.glif</string>
 		<key>plusminus</key>
@@ -1216,10 +1322,6 @@
 		<string>rsmall.glif</string>
 		<key>rsmallturned</key>
 		<string>rsmallturned.glif</string>
-		<key>ruble</key>
-		<string>ruble.glif</string>
-		<key>rupeeindian</key>
-		<string>rupeeindian.glif</string>
 		<key>s</key>
 		<string>s.glif</string>
 		<key>sacute</key>
@@ -1240,22 +1342,46 @@
 		<string>seven.glif</string>
 		<key>seven.Dnom</key>
 		<string>seven.D_nom.glif</string>
+		<key>seven.Numr</key>
+		<string>seven.N_umr.glif</string>
 		<key>seven.S</key>
 		<string>seven.S_.glif</string>
+		<key>seven.Subs</key>
+		<string>seven.S_ubs.glif</string>
+		<key>seven.Sups</key>
+		<string>seven.S_ups.glif</string>
 		<key>seven.dnom</key>
 		<string>seven.dnom.glif</string>
+		<key>seven.numr</key>
+		<string>seven.numr.glif</string>
 		<key>seven.pnum</key>
 		<string>seven.pnum.glif</string>
+		<key>seven.subs</key>
+		<string>seven.subs.glif</string>
+		<key>seven.sups</key>
+		<string>seven.sups.glif</string>
 		<key>six</key>
 		<string>six.glif</string>
 		<key>six.Dnom</key>
 		<string>six.D_nom.glif</string>
+		<key>six.Numr</key>
+		<string>six.N_umr.glif</string>
 		<key>six.S</key>
 		<string>six.S_.glif</string>
+		<key>six.Subs</key>
+		<string>six.S_ubs.glif</string>
+		<key>six.Sups</key>
+		<string>six.S_ups.glif</string>
 		<key>six.dnom</key>
 		<string>six.dnom.glif</string>
+		<key>six.numr</key>
+		<string>six.numr.glif</string>
 		<key>six.pnum</key>
 		<string>six.pnum.glif</string>
+		<key>six.subs</key>
+		<string>six.subs.glif</string>
+		<key>six.sups</key>
+		<string>six.sups.glif</string>
 		<key>slash</key>
 		<string>slash.glif</string>
 		<key>space</key>
@@ -1270,8 +1396,6 @@
 		<string>t.glif</string>
 		<key>tdotbelow</key>
 		<string>tdotbelow.glif</string>
-		<key>tenge</key>
-		<string>tenge.glif</string>
 		<key>tesh</key>
 		<string>tesh.glif</string>
 		<key>theta</key>
@@ -1282,12 +1406,22 @@
 		<string>three.glif</string>
 		<key>three.Dnom</key>
 		<string>three.D_nom.glif</string>
+		<key>three.Numr</key>
+		<string>three.N_umr.glif</string>
 		<key>three.S</key>
 		<string>three.S_.glif</string>
+		<key>three.Subs</key>
+		<string>three.S_ubs.glif</string>
+		<key>three.Sups</key>
+		<string>three.S_ups.glif</string>
 		<key>three.dnom</key>
 		<string>three.dnom.glif</string>
+		<key>three.numr</key>
+		<string>three.numr.glif</string>
 		<key>three.pnum</key>
 		<string>three.pnum.glif</string>
+		<key>three.subs</key>
+		<string>three.subs.glif</string>
 		<key>three.sups</key>
 		<string>three.sups.glif</string>
 		<key>threequarters</key>
@@ -1306,66 +1440,30 @@
 		<string>trademark.glif</string>
 		<key>ts</key>
 		<string>ts.glif</string>
-		<key>tugrik</key>
-		<string>tugrik.glif</string>
 		<key>two</key>
 		<string>two.glif</string>
 		<key>two.Dnom</key>
 		<string>two.D_nom.glif</string>
+		<key>two.Numr</key>
+		<string>two.N_umr.glif</string>
 		<key>two.S</key>
 		<string>two.S_.glif</string>
+		<key>two.Subs</key>
+		<string>two.S_ubs.glif</string>
+		<key>two.Sups</key>
+		<string>two.S_ups.glif</string>
 		<key>two.dnom</key>
 		<string>two.dnom.glif</string>
+		<key>two.numr</key>
+		<string>two.numr.glif</string>
 		<key>two.pnum</key>
 		<string>two.pnum.glif</string>
+		<key>two.subs</key>
+		<string>two.subs.glif</string>
 		<key>two.sups</key>
 		<string>two.sups.glif</string>
 		<key>u</key>
 		<string>u.glif</string>
-		<key>u13020</key>
-		<string>u13020.glif</string>
-		<key>u13076</key>
-		<string>u13076.glif</string>
-		<key>u13079</key>
-		<string>u13079.glif</string>
-		<key>u1308B</key>
-		<string>u1308B_.glif</string>
-		<key>u1309D</key>
-		<string>u1309D_.glif</string>
-		<key>u130A7</key>
-		<string>u130A_7.glif</string>
-		<key>u130FE</key>
-		<string>u130F_E_.glif</string>
-		<key>u13124</key>
-		<string>u13124.glif</string>
-		<key>u13193</key>
-		<string>u13193.glif</string>
-		<key>u131D1</key>
-		<string>u131D_1.glif</string>
-		<key>u131F4</key>
-		<string>u131F_4.glif</string>
-		<key>u13216</key>
-		<string>u13216.glif</string>
-		<key>u13250</key>
-		<string>u13250.glif</string>
-		<key>u13257</key>
-		<string>u13257.glif</string>
-		<key>u1327F</key>
-		<string>u1327F_.glif</string>
-		<key>u132BD</key>
-		<string>u132B_D_.glif</string>
-		<key>u132FF</key>
-		<string>u132F_F_.glif</string>
-		<key>u13309</key>
-		<string>u13309.glif</string>
-		<key>u13319</key>
-		<string>u13319.glif</string>
-		<key>u1337F</key>
-		<string>u1337F_.glif</string>
-		<key>u13397</key>
-		<string>u13397.glif</string>
-		<key>u133F4</key>
-		<string>u133F_4.glif</string>
 		<key>uacute</key>
 		<string>uacute.glif</string>
 		<key>ucircumflex</key>
@@ -1388,8 +1486,6 @@
 		<string>verticallinemod.glif</string>
 		<key>w</key>
 		<string>w.glif</string>
-		<key>won</key>
-		<string>won.glif</string>
 		<key>x</key>
 		<string>x.glif</string>
 		<key>y</key>
@@ -1404,8 +1500,6 @@
 		<string>yen.S_.glif</string>
 		<key>yturned</key>
 		<string>yturned.glif</string>
-		<key>yuan</key>
-		<string>yuan.glif</string>
 		<key>z</key>
 		<string>z.glif</string>
 		<key>zcaron</key>
@@ -1420,12 +1514,24 @@
 		<string>zero.0p.glif</string>
 		<key>zero.Dnom</key>
 		<string>zero.D_nom.glif</string>
+		<key>zero.Numr</key>
+		<string>zero.N_umr.glif</string>
 		<key>zero.S</key>
 		<string>zero.S_.glif</string>
+		<key>zero.Subs</key>
+		<string>zero.S_ubs.glif</string>
+		<key>zero.Sups</key>
+		<string>zero.S_ups.glif</string>
 		<key>zero.dnom</key>
 		<string>zero.dnom.glif</string>
+		<key>zero.numr</key>
+		<string>zero.numr.glif</string>
 		<key>zero.pnum</key>
 		<string>zero.pnum.glif</string>
+		<key>zero.subs</key>
+		<string>zero.subs.glif</string>
+		<key>zero.sups</key>
+		<string>zero.sups.glif</string>
 		<key>zlinebelow</key>
 		<string>zlinebelow.glif</string>
 	</dict>

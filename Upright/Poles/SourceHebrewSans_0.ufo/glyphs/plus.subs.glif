@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus.subs" format="2">
+	<unicode hex="208A"/>
 	<advance width="360"/>
 	<outline>
 		<contour>
@@ -17,4 +18,15 @@
 			<point x="164" y="4" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+		</dict>
+	</lib>
 </glyph>

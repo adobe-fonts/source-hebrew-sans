@@ -215,7 +215,6 @@ u10912	pnQof
 u10913	pnRosh
 u10914	pnShin
 u10915	pnTau
-u1091F	pnhyphen
 u10916	pn1
 u10917	pn10
 u10918	pn20
@@ -291,8 +290,6 @@ eight.D	eight.Dnom
 nine.D	nine.Dnom
 parenleft.D	parenleft.Dnom
 parenright.D	parenright.Dnom
-period.D	period.Dnom
-comma.D	comma.Dnom
 zero.N	zero.Numr
 one.N	one.Numr
 two.N	two.Numr
@@ -322,7 +319,7 @@ guillemotright	guillemotright.S
 hyphen	hyphen.S	uni002D,uni00AD,uni2010,uni2011
 endash	endash.S
 emdash	emdash.S
-periodcentered	periodcentered.S
+periodcentered	periodcentered.S	uni00B7, u1091F
 bullet	bullet.S
 section	section.S
 paragraph	paragraph.S
