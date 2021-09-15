@@ -2,7 +2,16 @@
 <glyph name="heQamats" format="2">
 	<unicode hex="05B8"/>
 	<outline>
-		<component base="downtackbelowcmb"/>
+		<contour>
+			<point x="-14" y="-242" type="line"/>
+			<point x="14" y="-242" type="line"/>
+			<point x="14" y="-136" type="line"/>
+			<point x="96" y="-136" type="line"/>
+			<point x="96" y="-108" type="line"/>
+			<point x="-96" y="-108" type="line"/>
+			<point x="-96" y="-136" type="line"/>
+			<point x="-14" y="-136" type="line"/>
+		</contour>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
 	<anchor name="_belowLeftHE" x="-95" y="-30"/>
@@ -21,7 +30,7 @@
 			<key>com.typemytype.robofont.guideline.magnetic.sFmUGK18RC</key>
 			<integer>5</integer>
 			<key>public.markColor</key>
-			<string>0.4,0.8,0.9989,1</string>
+			<string>1,1,0,1</string>
 		</dict>
 	</lib>
 </glyph>

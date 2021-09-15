@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RTLE" format="2">
+	<unicode hex="202B"/>
+	<outline>
+		<contour>
+			<point x="-40" y="648" type="line"/>
+			<point x="-20" y="668" type="line"/>
+			<point x="-98" y="742" type="line"/>
+			<point x="0" y="742" type="line"/>
+			<point x="0" y="770" type="line"/>
+			<point x="-98" y="770" type="line"/>
+			<point x="-20" y="844" type="line"/>
+			<point x="-40" y="864" type="line"/>
+			<point x="-144" y="758" type="line"/>
+			<point x="-144" y="754" type="line"/>
+		</contour>
+		<contour>
+			<point x="42" y="742" type="line"/>
+			<point x="124" y="742" type="line"/>
+			<point x="124" y="770" type="line"/>
+			<point x="42" y="770" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

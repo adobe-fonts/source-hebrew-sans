@@ -18,8 +18,9 @@
 			<point x="324" y="344" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="190" y="590"/>
-	<anchor name="centerSecondaryHE" x="170" y="390"/>
-	<anchor name="aboveLeftHE" x="-10" y="590"/>
-	<anchor name="belowPrimaryHE" x="170" y="-30"/>
+	<anchor name="aboveHE" x="170" y="590"/>
+	<anchor name="centerSecondaryHE" x="150" y="390"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
+	<anchor name="belowPrimaryHE" x="150" y="-30"/>
+	<anchor name="centerHE" x="150" y="260"/>
 </glyph>

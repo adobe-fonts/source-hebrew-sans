@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugKaf" format="2">
+	<unicode hex="1038B"/>
+	<advance width="548"/>
+	<outline>
+		<contour>
+			<point x="26" y="344" type="line"/>
+			<point x="52" y="350"/>
+			<point x="138" y="356"/>
+			<point x="262" y="356" type="curve"/>
+			<point x="262" y="372" type="line"/>
+			<point x="138" y="372"/>
+			<point x="52" y="378"/>
+			<point x="26" y="384" type="curve"/>
+		</contour>
+		<contour>
+			<point x="276" y="254" type="line"/>
+			<point x="304" y="261"/>
+			<point x="398" y="266"/>
+			<point x="532" y="266" type="curve"/>
+			<point x="532" y="282" type="line"/>
+			<point x="398" y="282"/>
+			<point x="304" y="287"/>
+			<point x="276" y="294" type="curve"/>
+		</contour>
+		<contour>
+			<point x="26" y="164" type="line"/>
+			<point x="52" y="170"/>
+			<point x="138" y="176"/>
+			<point x="262" y="176" type="curve"/>
+			<point x="262" y="192" type="line"/>
+			<point x="138" y="192"/>
+			<point x="52" y="198"/>
+			<point x="26" y="204" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

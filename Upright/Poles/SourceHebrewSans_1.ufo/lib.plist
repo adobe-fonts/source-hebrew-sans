@@ -230,6 +230,37 @@
 					<string>pn100</string>
 					<string>pn2</string>
 					<string>pn3</string>
+					<string>ugAlpa</string>
+					<string>ugBeta</string>
+					<string>ugGamla</string>
+					<string>ugKha</string>
+					<string>ugDelta</string>
+					<string>ugHo</string>
+					<string>ugWo</string>
+					<string>ugZeta</string>
+					<string>ugHota</string>
+					<string>ugTet</string>
+					<string>ugYod</string>
+					<string>ugKaf</string>
+					<string>ugShin</string>
+					<string>ugLamda</string>
+					<string>ugMem</string>
+					<string>ugDhal</string>
+					<string>ugNun</string>
+					<string>ugZu</string>
+					<string>ugSamka</string>
+					<string>ugAin</string>
+					<string>ugPu</string>
+					<string>ugSade</string>
+					<string>ugQopa</string>
+					<string>ugRasha</string>
+					<string>ugThanna</string>
+					<string>ugGhain</string>
+					<string>ugTo</string>
+					<string>ugI</string>
+					<string>ugU</string>
+					<string>ugSsu</string>
+					<string>ugword</string>
 					<string>ampersand.S</string>
 					<string>zero.S</string>
 					<string>one.S</string>
@@ -299,8 +330,6 @@
 					<string>nine.Dnom</string>
 					<string>parenleft.Dnom</string>
 					<string>parenright.Dnom</string>
-					<string>period.Dnom</string>
-					<string>comma.Dnom</string>
 					<string>zero.Numr</string>
 					<string>one.Numr</string>
 					<string>two.Numr</string>
@@ -796,13 +825,13 @@
 					<string>breveinverteddoublecmb</string>
 					<string>ZWNJ</string>
 					<string>ZWJ</string>
-					<string>lefttorightmark</string>
-					<string>righttoleftmark</string>
-					<string>lefttorightembed</string>
-					<string>righttoleftembed</string>
-					<string>popdirectionformat</string>
-					<string>lefttorightoverride</string>
-					<string>righttoleftoverride</string>
+					<string>LTR</string>
+					<string>RTL</string>
+					<string>LTRE</string>
+					<string>RTLE</string>
+					<string>PopDF</string>
+					<string>LTRO</string>
+					<string>RTLO</string>
 					<string>circledotted</string>
 					<string>gravecmb.cap</string>
 					<string>acutecmb.cap</string>
@@ -818,6 +847,8 @@
 					<string>cedillacmb.cap</string>
 					<string>ogonekcmb</string>
 					<string>tildeoverlaycmb</string>
+					<string>comma.Dnom</string>
+					<string>period.Dnom</string>
 					<string>pnhyphen</string>
 				</array>
 				<key>type</key>
@@ -5233,6 +5264,37 @@
 			<string>pn100</string>
 			<string>pn2</string>
 			<string>pn3</string>
+			<string>ugAlpa</string>
+			<string>ugBeta</string>
+			<string>ugGamla</string>
+			<string>ugKha</string>
+			<string>ugDelta</string>
+			<string>ugHo</string>
+			<string>ugWo</string>
+			<string>ugZeta</string>
+			<string>ugHota</string>
+			<string>ugTet</string>
+			<string>ugYod</string>
+			<string>ugKaf</string>
+			<string>ugShin</string>
+			<string>ugLamda</string>
+			<string>ugMem</string>
+			<string>ugDhal</string>
+			<string>ugNun</string>
+			<string>ugZu</string>
+			<string>ugSamka</string>
+			<string>ugAin</string>
+			<string>ugPu</string>
+			<string>ugSade</string>
+			<string>ugQopa</string>
+			<string>ugRasha</string>
+			<string>ugThanna</string>
+			<string>ugGhain</string>
+			<string>ugTo</string>
+			<string>ugI</string>
+			<string>ugU</string>
+			<string>ugSsu</string>
+			<string>ugword</string>
 			<string>ampersand.S</string>
 			<string>zero.S</string>
 			<string>one.S</string>
@@ -5302,8 +5364,6 @@
 			<string>nine.Dnom</string>
 			<string>parenleft.Dnom</string>
 			<string>parenright.Dnom</string>
-			<string>period.Dnom</string>
-			<string>comma.Dnom</string>
 			<string>zero.Numr</string>
 			<string>one.Numr</string>
 			<string>two.Numr</string>
@@ -5799,13 +5859,13 @@
 			<string>breveinverteddoublecmb</string>
 			<string>ZWNJ</string>
 			<string>ZWJ</string>
-			<string>lefttorightmark</string>
-			<string>righttoleftmark</string>
-			<string>lefttorightembed</string>
-			<string>righttoleftembed</string>
-			<string>popdirectionformat</string>
-			<string>lefttorightoverride</string>
-			<string>righttoleftoverride</string>
+			<string>LTR</string>
+			<string>RTL</string>
+			<string>LTRE</string>
+			<string>RTLE</string>
+			<string>PopDF</string>
+			<string>LTRO</string>
+			<string>RTLO</string>
 			<string>circledotted</string>
 			<string>gravecmb.cap</string>
 			<string>acutecmb.cap</string>
@@ -5821,6 +5881,8 @@
 			<string>cedillacmb.cap</string>
 			<string>ogonekcmb</string>
 			<string>tildeoverlaycmb</string>
+			<string>comma.Dnom</string>
+			<string>period.Dnom</string>
 			<string>pnhyphen</string>
 		</array>
 		<key>public.postscriptNames</key>

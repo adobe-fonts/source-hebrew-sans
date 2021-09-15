@@ -31,11 +31,11 @@
 			<point x="22" y="-117" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-100" y="-30"/>
-	<anchor name="_belowRightHE" x="100" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-180" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
+	<anchor name="_belowLeftHE" x="-100" y="-22"/>
+	<anchor name="_belowRightHE" x="100" y="-22"/>
+	<anchor name="belowPrimaryHE" x="-180" y="-22"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-22"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

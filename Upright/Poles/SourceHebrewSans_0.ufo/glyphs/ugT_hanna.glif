@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugThanna" format="2">
+	<unicode hex="10398"/>
+	<advance width="244"/>
+	<outline>
+		<contour>
+			<point x="118" y="100" type="curve"/>
+			<point x="138" y="100" type="line"/>
+			<point x="138" y="235"/>
+			<point x="143" y="329"/>
+			<point x="150" y="356" type="curve"/>
+			<point x="106" y="356" type="line"/>
+			<point x="113" y="329"/>
+			<point x="118" y="235"/>
+		</contour>
+		<contour>
+			<point x="106" y="190" type="curve"/>
+			<point x="150" y="190" type="line"/>
+			<point x="143" y="217"/>
+			<point x="138" y="311"/>
+			<point x="138" y="446" type="curve"/>
+			<point x="118" y="446" type="line"/>
+			<point x="118" y="311"/>
+			<point x="113" y="217"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

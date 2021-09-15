@@ -2,14 +2,14 @@
 <glyph name="heQamatsQatan.short" format="2">
 	<outline>
 		<contour>
-			<point x="75" y="-89" type="line"/>
-			<point x="-77" y="-89" type="line"/>
-			<point x="-77" y="-128" type="line"/>
-			<point x="-17" y="-128" type="line"/>
-			<point x="-21" y="-295" type="line"/>
-			<point x="21" y="-295" type="line"/>
-			<point x="17" y="-128" type="line"/>
-			<point x="75" y="-128" type="line"/>
+			<point x="-14" y="-312" type="line"/>
+			<point x="14" y="-312" type="line"/>
+			<point x="14" y="-136" type="line"/>
+			<point x="76" y="-136" type="line"/>
+			<point x="76" y="-108" type="line"/>
+			<point x="-76" y="-108" type="line"/>
+			<point x="-76" y="-136" type="line"/>
+			<point x="-14" y="-136" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
@@ -20,7 +20,7 @@
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>1,1,0,1</string>
 		</dict>
 	</lib>
 </glyph>

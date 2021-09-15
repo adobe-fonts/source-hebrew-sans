@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugDelta" format="2">
+	<unicode hex="10384"/>
+	<advance width="630"/>
+	<outline>
+		<contour>
+			<point x="114" y="220" type="curve"/>
+			<point x="182" y="220" type="line"/>
+			<point x="182" y="390"/>
+			<point x="199" y="492"/>
+			<point x="242" y="568" type="curve"/>
+			<point x="54" y="568" type="line"/>
+			<point x="97" y="492"/>
+			<point x="114" y="390"/>
+		</contour>
+		<contour>
+			<point x="306" y="220" type="curve"/>
+			<point x="374" y="220" type="line"/>
+			<point x="374" y="390"/>
+			<point x="391" y="492"/>
+			<point x="434" y="568" type="curve"/>
+			<point x="246" y="568" type="line"/>
+			<point x="289" y="492"/>
+			<point x="306" y="390"/>
+		</contour>
+		<contour>
+			<point x="498" y="220" type="curve"/>
+			<point x="566" y="220" type="line"/>
+			<point x="566" y="390"/>
+			<point x="583" y="492"/>
+			<point x="626" y="568" type="curve"/>
+			<point x="438" y="568" type="line"/>
+			<point x="481" y="492"/>
+			<point x="498" y="390"/>
+		</contour>
+		<component base="ugNun" yOffset="-40"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.4,1,0.8,1</string>
+		</dict>
+	</lib>
+</glyph>

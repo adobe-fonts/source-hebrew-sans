@@ -2,31 +2,18 @@
 <glyph name="heDagesh" format="2">
 	<unicode hex="05BC"/>
 	<outline>
-		<contour>
-			<point x="-44" y="223"/>
-			<point x="-23" y="206"/>
-			<point x="0" y="206" type="curve" smooth="yes"/>
-			<point x="23" y="206"/>
-			<point x="44" y="222"/>
-			<point x="44" y="250" type="curve" smooth="yes"/>
-			<point x="44" y="276"/>
-			<point x="23" y="294"/>
-			<point x="0" y="294" type="curve" smooth="yes"/>
-			<point x="-23" y="294"/>
-			<point x="-44" y="276"/>
-			<point x="-44" y="250" type="curve" smooth="yes"/>
-		</contour>
+		<component base="dotaccentcmb" xScale="0.5" yScale="0.5" yOffset="-40"/>
 	</outline>
-	<anchor name="_centerHE" x="0" y="250"/>
-	<anchor name="centerSecondaryHE" x="0" y="190"/>
-	<anchor name="_centerSecondaryHE" x="0" y="335"/>
+	<anchor name="_centerHE" x="0" y="284"/>
+	<anchor name="centerSecondaryHE" x="0" y="224"/>
+	<anchor name="_centerSecondaryHE" x="0" y="370"/>
 	<guideline x="0" y="285" angle="0" identifier="QwfacPnCgP"/>
 	<lib>
 		<dict>
 			<key>com.typemytype.robofont.guideline.magnetic.QwfacPnCgP</key>
 			<integer>5</integer>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -3,14 +3,14 @@
 	<unicode hex="05C7"/>
 	<outline>
 		<contour>
-			<point x="-21" y="-295" type="line"/>
-			<point x="21" y="-295" type="line"/>
-			<point x="17" y="-128" type="line"/>
-			<point x="85" y="-128" type="line"/>
-			<point x="85" y="-89" type="line"/>
-			<point x="-87" y="-89" type="line"/>
-			<point x="-87" y="-128" type="line"/>
-			<point x="-17" y="-128" type="line"/>
+			<point x="-14" y="-312" type="line"/>
+			<point x="14" y="-312" type="line"/>
+			<point x="14" y="-136" type="line"/>
+			<point x="96" y="-136" type="line"/>
+			<point x="96" y="-108" type="line"/>
+			<point x="-96" y="-108" type="line"/>
+			<point x="-96" y="-136" type="line"/>
+			<point x="-14" y="-136" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
@@ -24,7 +24,7 @@
 			<key>com.typemytype.robofont.guideline.magnetic.0QQY0Nsl6b</key>
 			<integer>5</integer>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>1,1,0,1</string>
 		</dict>
 	</lib>
 </glyph>

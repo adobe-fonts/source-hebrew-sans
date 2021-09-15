@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugDhal" format="2">
+	<unicode hex="1038F"/>
+	<advance width="714"/>
+	<outline>
+		<contour>
+			<point x="334" y="0" type="curve"/>
+			<point x="402" y="0" type="line"/>
+			<point x="540" y="202"/>
+			<point x="654" y="360"/>
+			<point x="752" y="397" type="curve"/>
+			<point x="608" y="518" type="line"/>
+			<point x="588" y="404"/>
+			<point x="494" y="256"/>
+			<point x="368" y="70" type="curve"/>
+			<point x="242" y="256"/>
+			<point x="148" y="404"/>
+			<point x="128" y="518" type="curve"/>
+			<point x="-16" y="397" type="line"/>
+			<point x="82" y="360"/>
+			<point x="196" y="202"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

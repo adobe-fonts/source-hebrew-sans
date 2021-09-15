@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugGhain" format="2">
+	<unicode hex="10399"/>
+	<advance width="630"/>
+	<outline>
+		<component base="ugTo"/>
+		<component base="ugTo" xScale="0.5" xyScale="0.8660254038" yxScale="-0.8660254038" yScale="0.5" xOffset="420" yOffset="-150"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.4,0.8,0.9989,1</string>
+		</dict>
+	</lib>
+</glyph>

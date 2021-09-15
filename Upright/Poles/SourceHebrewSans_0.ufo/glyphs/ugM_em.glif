@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugMem" format="2">
+	<unicode hex="1038E"/>
+	<advance width="494"/>
+	<outline>
+		<contour>
+			<point x="26" y="254" type="line"/>
+			<point x="63" y="262"/>
+			<point x="193" y="266"/>
+			<point x="382" y="266" type="curve"/>
+			<point x="382" y="282" type="line"/>
+			<point x="193" y="282"/>
+			<point x="63" y="286"/>
+			<point x="26" y="294" type="curve"/>
+		</contour>
+		<component base="ugGamla" xOffset="250"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.4,1,0.8,1</string>
+		</dict>
+	</lib>
+</glyph>

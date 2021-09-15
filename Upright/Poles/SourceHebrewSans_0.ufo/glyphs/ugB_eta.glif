@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugBeta" format="2">
+	<unicode hex="10381"/>
+	<advance width="548"/>
+	<outline>
+		<contour>
+			<point x="352" y="250" type="curve"/>
+			<point x="368" y="250" type="line"/>
+			<point x="368" y="407"/>
+			<point x="373" y="515"/>
+			<point x="380" y="546" type="curve"/>
+			<point x="340" y="546" type="line"/>
+			<point x="347" y="515"/>
+			<point x="352" y="407"/>
+		</contour>
+		<contour>
+			<point x="122" y="250" type="curve"/>
+			<point x="138" y="250" type="line"/>
+			<point x="138" y="407"/>
+			<point x="143" y="515"/>
+			<point x="150" y="546" type="curve"/>
+			<point x="110" y="546" type="line"/>
+			<point x="117" y="515"/>
+			<point x="122" y="407"/>
+		</contour>
+		<component base="ugAlpa" yOffset="-20"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.4,1,0.8,1</string>
+		</dict>
+	</lib>
+</glyph>

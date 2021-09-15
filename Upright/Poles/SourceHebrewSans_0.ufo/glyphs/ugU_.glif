@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugU" format="2">
+	<unicode hex="1039C"/>
+	<advance width="548"/>
+	<outline>
+		<contour>
+			<point x="102" y="250" type="curve"/>
+			<point x="118" y="250" type="line"/>
+			<point x="118" y="407"/>
+			<point x="123" y="515"/>
+			<point x="130" y="546" type="curve"/>
+			<point x="90" y="546" type="line"/>
+			<point x="97" y="515"/>
+			<point x="102" y="407"/>
+		</contour>
+		<contour>
+			<point x="252" y="250" type="curve"/>
+			<point x="268" y="250" type="line"/>
+			<point x="268" y="407"/>
+			<point x="273" y="515"/>
+			<point x="280" y="546" type="curve"/>
+			<point x="240" y="546" type="line"/>
+			<point x="247" y="515"/>
+			<point x="252" y="407"/>
+		</contour>
+		<contour>
+			<point x="402" y="250" type="curve"/>
+			<point x="418" y="250" type="line"/>
+			<point x="418" y="407"/>
+			<point x="423" y="515"/>
+			<point x="430" y="546" type="curve"/>
+			<point x="390" y="546" type="line"/>
+			<point x="397" y="515"/>
+			<point x="402" y="407"/>
+		</contour>
+		<component base="ugTo" yOffset="-20"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.4,1,0.8,1</string>
+		</dict>
+	</lib>
+</glyph>

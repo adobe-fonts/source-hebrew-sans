@@ -2,18 +2,13 @@
 <glyph name="heRafe" format="2">
 	<unicode hex="05BF"/>
 	<outline>
-		<contour>
-			<point x="-111" y="580" type="line"/>
-			<point x="111" y="580" type="line"/>
-			<point x="111" y="632" type="line"/>
-			<point x="-111" y="632" type="line"/>
-		</contour>
+		<component base="macroncmb" xScale="0.75" yScale="0.5" yOffset="350"/>
 	</outline>
-	<anchor name="_aboveHE" x="0" y="525"/>
+	<anchor name="_aboveHE" x="0" y="590"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -3,10 +3,10 @@
 	<unicode hex="05BD"/>
 	<outline>
 		<contour>
-			<point x="-15" y="-263" type="line"/>
-			<point x="15" y="-263" type="line"/>
-			<point x="15" y="-93" type="line"/>
-			<point x="-15" y="-93" type="line"/>
+			<point x="-14" y="-312" type="line"/>
+			<point x="14" y="-312" type="line"/>
+			<point x="14" y="-108" type="line"/>
+			<point x="-14" y="-108" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
@@ -16,7 +16,7 @@
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>1,1,0,1</string>
 		</dict>
 	</lib>
 </glyph>

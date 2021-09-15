@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugI" format="2">
+	<unicode hex="1039B"/>
+	<advance width="548"/>
+	<outline>
+		<contour>
+			<point x="118" y="-202" type="curve"/>
+			<point x="138" y="-202" type="line"/>
+			<point x="138" y="-96"/>
+			<point x="145" y="-22"/>
+			<point x="150" y="0" type="curve"/>
+			<point x="106" y="0" type="line"/>
+			<point x="111" y="-22"/>
+			<point x="118" y="-96"/>
+		</contour>
+		<component base="ugHo"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>

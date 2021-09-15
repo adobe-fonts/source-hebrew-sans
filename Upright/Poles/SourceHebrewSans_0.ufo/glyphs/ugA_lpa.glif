@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugAlpa" format="2">
+	<unicode hex="10380"/>
+	<advance width="548"/>
+	<outline>
+		<contour>
+			<point x="26" y="254" type="line"/>
+			<point x="63" y="262"/>
+			<point x="193" y="266"/>
+			<point x="382" y="266" type="curve"/>
+			<point x="382" y="282" type="line"/>
+			<point x="193" y="282"/>
+			<point x="63" y="286"/>
+			<point x="26" y="294" type="curve"/>
+		</contour>
+		<contour>
+			<point x="256" y="254" type="line"/>
+			<point x="285" y="261"/>
+			<point x="386" y="266"/>
+			<point x="532" y="266" type="curve"/>
+			<point x="532" y="282" type="line"/>
+			<point x="386" y="282"/>
+			<point x="285" y="287"/>
+			<point x="256" y="294" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

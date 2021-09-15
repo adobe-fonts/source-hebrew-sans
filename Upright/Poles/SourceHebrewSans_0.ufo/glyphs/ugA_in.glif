@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugAin" format="2">
+	<unicode hex="10393"/>
+	<advance width="268"/>
+	<outline>
+		<contour>
+			<point x="-12" y="200" type="line"/>
+			<point x="-10" y="196" type="line"/>
+			<point x="90" y="268"/>
+			<point x="186" y="268"/>
+			<point x="286" y="196" type="curve"/>
+			<point x="288" y="200" type="line"/>
+			<point x="138" y="368" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

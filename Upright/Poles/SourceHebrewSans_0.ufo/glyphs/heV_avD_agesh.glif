@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heVavDagesh" format="2">
 	<unicode hex="FB35"/>
-	<advance width="540"/>
+	<advance width="274"/>
+	<outline>
+		<component base="heVav"/>
+		<component base="heDagesh" xOffset="40" yOffset="-14"/>
+	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>0.8,1,0.4,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

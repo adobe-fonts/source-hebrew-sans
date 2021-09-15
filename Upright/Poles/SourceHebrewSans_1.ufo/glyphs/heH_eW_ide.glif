@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heHeWide" format="2">
 	<unicode hex="FB23"/>
-	<advance width="672"/>
+	<advance width="1072"/>
 	<outline>
 		<contour>
 			<point x="852" y="0" type="line"/>
@@ -27,14 +27,14 @@
 			<point x="94" y="166" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="260" y="530"/>
-	<anchor name="belowPrimaryHE" x="270" y="-30"/>
+	<anchor name="aboveHE" x="260" y="590"/>
+	<anchor name="belowPrimaryHE" x="270" y="-22"/>
 	<anchor name="centerHE" x="270" y="190"/>
-	<anchor name="aboveLeftHE" x="-10" y="530"/>
+	<anchor name="aboveLeftHE" x="-10" y="590"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>1,1,0,1</string>
 		</dict>
 	</lib>
 </glyph>

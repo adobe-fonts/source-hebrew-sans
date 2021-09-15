@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heKafWide" format="2">
 	<unicode hex="FB24"/>
-	<advance width="562"/>
+	<advance width="962"/>
 	<outline>
 		<contour>
 			<point x="44" y="0" type="line"/>
@@ -24,14 +24,14 @@
 			<point x="44" y="166" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="220" y="530"/>
-	<anchor name="belowPrimaryHE" x="225" y="-30"/>
+	<anchor name="aboveHE" x="220" y="590"/>
+	<anchor name="belowPrimaryHE" x="225" y="-22"/>
 	<anchor name="centerHE" x="185" y="250"/>
-	<anchor name="aboveLeftHE" x="5" y="530"/>
+	<anchor name="aboveLeftHE" x="5" y="590"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>1,1,0,1</string>
 		</dict>
 	</lib>
 </glyph>
