@@ -1,37 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugShin" format="2">
 	<unicode hex="1038C"/>
-	<advance width="714"/>
+	<advance width="794"/>
 	<outline>
 		<contour>
-			<point x="334" y="0" type="curve"/>
-			<point x="402" y="0" type="line"/>
-			<point x="402" y="278"/>
-			<point x="402" y="462"/>
-			<point x="462" y="568" type="curve"/>
-			<point x="274" y="568" type="line"/>
-			<point x="334" y="462"/>
-			<point x="334" y="278"/>
-		</contour>
-		<contour>
-			<point x="334" y="0" type="curve"/>
-			<point x="386" y="44" type="line"/>
-			<point x="236" y="247"/>
-			<point x="130" y="398"/>
-			<point x="108" y="518" type="curve"/>
-			<point x="-36" y="397" type="line"/>
-			<point x="68" y="358"/>
-			<point x="182" y="205"/>
-		</contour>
-		<contour>
-			<point x="350" y="44" type="curve"/>
-			<point x="402" y="0" type="line"/>
-			<point x="554" y="205"/>
-			<point x="668" y="358"/>
-			<point x="772" y="397" type="curve"/>
-			<point x="628" y="518" type="line"/>
-			<point x="606" y="398"/>
-			<point x="500" y="247"/>
+			<point x="374" y="0" type="curve"/>
+			<point x="442" y="0" type="line"/>
+			<point x="594" y="206"/>
+			<point x="706" y="353"/>
+			<point x="822" y="393" type="curve"/>
+			<point x="658" y="522" type="line"/>
+			<point x="647" y="413"/>
+			<point x="564" y="276"/>
+			<point x="440" y="106" type="curve"/>
+			<point x="441" y="324"/>
+			<point x="451" y="472"/>
+			<point x="512" y="568" type="curve"/>
+			<point x="304" y="568" type="line"/>
+			<point x="365" y="472"/>
+			<point x="375" y="324"/>
+			<point x="376" y="106" type="curve"/>
+			<point x="252" y="276"/>
+			<point x="169" y="413"/>
+			<point x="158" y="522" type="curve"/>
+			<point x="-6" y="393" type="line"/>
+			<point x="110" y="353"/>
+			<point x="222" y="206"/>
 		</contour>
 	</outline>
 	<lib>

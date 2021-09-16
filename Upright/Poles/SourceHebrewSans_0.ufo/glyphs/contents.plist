@@ -108,6 +108,12 @@
 		<string>K_linebelow.glif</string>
 		<key>L</key>
 		<string>L_.glif</string>
+		<key>LTR</key>
+		<string>L_T_R_.glif</string>
+		<key>LTRE</key>
+		<string>L_T_R_E_.glif</string>
+		<key>LTRO</key>
+		<string>L_T_R_O_.glif</string>
 		<key>Lslash</key>
 		<string>L_slash.glif</string>
 		<key>M</key>
@@ -142,10 +148,18 @@
 		<string>O_tilde.glif</string>
 		<key>P</key>
 		<string>P_.glif</string>
+		<key>PopDF</key>
+		<string>P_opD_F_.glif</string>
 		<key>Q</key>
 		<string>Q_.glif</string>
 		<key>R</key>
 		<string>R_.glif</string>
+		<key>RTL</key>
+		<string>R_T_L_.glif</string>
+		<key>RTLE</key>
+		<string>R_T_L_E_.glif</string>
+		<key>RTLO</key>
+		<string>R_T_L_O_.glif</string>
 		<key>S</key>
 		<string>S_.glif</string>
 		<key>Sacute</key>
@@ -938,12 +952,6 @@
 		<string>klinebelow.glif</string>
 		<key>l</key>
 		<string>l.glif</string>
-		<key>lefttorightembed</key>
-		<string>lefttorightembed.glif</string>
-		<key>lefttorightmark</key>
-		<string>lefttorightmark.glif</string>
-		<key>lefttorightoverride</key>
-		<string>lefttorightoverride.glif</string>
 		<key>less</key>
 		<string>less.glif</string>
 		<key>lessequal</key>
@@ -1262,8 +1270,6 @@
 		<string>pnZ_ai.glif</string>
 		<key>pnhyphen</key>
 		<string>pnhyphen.glif</string>
-		<key>popdirectionformat</key>
-		<string>popdirectionformat.glif</string>
 		<key>primemod</key>
 		<string>primemod.glif</string>
 		<key>product</key>
@@ -1306,12 +1312,6 @@
 		<string>radical.glif</string>
 		<key>registered</key>
 		<string>registered.glif</string>
-		<key>righttoleftembed</key>
-		<string>righttoleftembed.glif</string>
-		<key>righttoleftmark</key>
-		<string>righttoleftmark.glif</string>
-		<key>righttoleftoverride</key>
-		<string>righttoleftoverride.glif</string>
 		<key>ring</key>
 		<string>ring.glif</string>
 		<key>ringcmb</key>
@@ -1536,6 +1536,8 @@
 		<string>ugZ_u.glif</string>
 		<key>ugrave</key>
 		<string>ugrave.glif</string>
+		<key>ugword</key>
+		<string>ugword.glif</string>
 		<key>umacron</key>
 		<string>umacron.glif</string>
 		<key>underscore</key>
