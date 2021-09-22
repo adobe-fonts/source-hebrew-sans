@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="naira.S" format="2">
+	<advance width="472"/>
+	<outline>
+		<contour>
+			<point x="96" y="0" type="line"/>
+			<point x="128" y="0" type="line"/>
+			<point x="128" y="308" type="line"/>
+			<point x="122" y="500" type="line"/>
+			<point x="126" y="500" type="line"/>
+			<point x="186" y="352" type="line"/>
+			<point x="334" y="0" type="line"/>
+			<point x="376" y="0" type="line"/>
+			<point x="376" y="546" type="line"/>
+			<point x="344" y="546" type="line"/>
+			<point x="344" y="238" type="line"/>
+			<point x="350" y="46" type="line"/>
+			<point x="346" y="46" type="line"/>
+			<point x="286" y="196" type="line"/>
+			<point x="138" y="546" type="line"/>
+			<point x="96" y="546" type="line"/>
+		</contour>
+		<contour>
+			<point x="18" y="312" type="line"/>
+			<point x="450" y="312" type="line"/>
+			<point x="450" y="340" type="line"/>
+			<point x="96" y="340" type="line"/>
+			<point x="18" y="336" type="line"/>
+		</contour>
+		<contour>
+			<point x="18" y="204" type="line"/>
+			<point x="450" y="204" type="line"/>
+			<point x="450" y="232" type="line"/>
+			<point x="96" y="232" type="line"/>
+			<point x="18" y="228" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft.Numr" format="2">
-	<advance width="212"/>
+	<advance width="280"/>
 	<outline>
-		<component base="parenleft.Dnom" yOffset="270"/>
+		<component base="parenleft.Dnom" yOffset="198"/>
 	</outline>
 	<lib>
 		<dict>
@@ -14,7 +14,7 @@
 				<integer>1</integer>
 			</array>
 			<key>public.markColor</key>
-			<string>0.502,0.0015,0.9985,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

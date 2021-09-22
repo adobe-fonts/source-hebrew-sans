@@ -3,12 +3,12 @@
 	<unicode hex="207D"/>
 	<advance width="280"/>
 	<outline>
-		<component base="parenleft.Dnom" yOffset="-150"/>
+		<component base="parenleft.Dnom" yOffset="390"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>0.502,0.0015,0.9985,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

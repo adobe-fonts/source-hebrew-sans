@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heMemFinWide" format="2">
 	<unicode hex="FB26"/>
-	<advance width="1078"/>
+	<advance width="1478"/>
 	<outline>
 		<contour>
 			<point x="158" y="0" type="line"/>
-			<point x="1006" y="0" type="line"/>
-			<point x="1006" y="352" type="line" smooth="yes"/>
-			<point x="1006" y="508"/>
-			<point x="922" y="568"/>
-			<point x="800" y="568" type="curve" smooth="yes"/>
+			<point x="1406" y="0" type="line"/>
+			<point x="1406" y="352" type="line" smooth="yes"/>
+			<point x="1406" y="508"/>
+			<point x="1322" y="568"/>
+			<point x="1200" y="568" type="curve" smooth="yes"/>
 			<point x="64" y="568" type="line"/>
 			<point x="64" y="396" type="line"/>
-			<point x="728" y="396" type="line" smooth="yes"/>
-			<point x="808" y="396"/>
-			<point x="858" y="368"/>
-			<point x="858" y="270" type="curve" smooth="yes"/>
-			<point x="858" y="164" type="line"/>
+			<point x="1128" y="396" type="line" smooth="yes"/>
+			<point x="1208" y="396"/>
+			<point x="1258" y="368"/>
+			<point x="1258" y="270" type="curve" smooth="yes"/>
+			<point x="1258" y="164" type="line"/>
 			<point x="158" y="164" type="line"/>
 		</contour>
 		<contour>
@@ -30,9 +30,9 @@
 		</contour>
 	</outline>
 	<anchor name="aboveLeftHE" x="40" y="590"/>
-	<anchor name="aboveHE" x="540" y="590"/>
-	<anchor name="belowPrimaryHE" x="540" y="-22"/>
-	<anchor name="centerHE" x="540" y="280"/>
+	<anchor name="aboveHE" x="740" y="590"/>
+	<anchor name="belowPrimaryHE" x="740" y="-22"/>
+	<anchor name="centerHE" x="740" y="280"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

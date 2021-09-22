@@ -296,8 +296,6 @@
 		<string>amacron.glif</string>
 		<key>ampersand</key>
 		<string>ampersand.glif</string>
-		<key>ampersand.S</key>
-		<string>ampersand.S_.glif</string>
 		<key>apostrophemod</key>
 		<string>apostrophemod.glif</string>
 		<key>approxequal</key>
@@ -386,6 +384,8 @@
 		<string>ccaron.glif</string>
 		<key>ccedilla</key>
 		<string>ccedilla.glif</string>
+		<key>cedi.S</key>
+		<string>cedi.S_.glif</string>
 		<key>cedilla</key>
 		<string>cedilla.glif</string>
 		<key>cedillacmb</key>
@@ -408,6 +408,8 @@
 		<string>circumflexcmb.cap.glif</string>
 		<key>colon</key>
 		<string>colon.glif</string>
+		<key>colonmonetary.S</key>
+		<string>colonmonetary.S_.glif</string>
 		<key>colontriangularmod</key>
 		<string>colontriangularmod.glif</string>
 		<key>comma</key>
@@ -462,6 +464,8 @@
 		<string>dollar.glif</string>
 		<key>dollar.S</key>
 		<string>dollar.S_.glif</string>
+		<key>dong.S</key>
+		<string>dong.S_.glif</string>
 		<key>dotaccent</key>
 		<string>dotaccent.glif</string>
 		<key>dotaccentcmb</key>
@@ -552,6 +556,8 @@
 		<string>exclam.S_.glif</string>
 		<key>exclamdown</key>
 		<string>exclamdown.glif</string>
+		<key>exclamdown.S</key>
+		<string>exclamdown.S_.glif</string>
 		<key>ezh</key>
 		<string>ezh.glif</string>
 		<key>f</key>
@@ -584,6 +590,8 @@
 		<string>fl.glif</string>
 		<key>florin</key>
 		<string>florin.glif</string>
+		<key>florin.S</key>
+		<string>florin.S_.glif</string>
 		<key>four</key>
 		<string>four.glif</string>
 		<key>four.Dnom</key>
@@ -610,10 +618,14 @@
 		<string>fraction.glif</string>
 		<key>fraction.S</key>
 		<string>fraction.S_.glif</string>
+		<key>franc.S</key>
+		<string>franc.S_.glif</string>
 		<key>g</key>
 		<string>g.glif</string>
 		<key>gammalatin</key>
 		<string>gammalatin.glif</string>
+		<key>gampersand</key>
+		<string>gampersand.glif</string>
 		<key>gcaron</key>
 		<string>gcaron.glif</string>
 		<key>gdotaccent</key>
@@ -640,6 +652,8 @@
 		<string>greaterequal.glif</string>
 		<key>gscript</key>
 		<string>gscript.glif</string>
+		<key>guarani.S</key>
+		<string>guarani.S_.glif</string>
 		<key>guillemotleft</key>
 		<string>guillemotleft.glif</string>
 		<key>guillemotleft.S</key>
@@ -916,6 +930,8 @@
 		<string>hrY_odh.glif</string>
 		<key>hrZayn</key>
 		<string>hrZ_ayn.glif</string>
+		<key>hryvnia.S</key>
+		<string>hryvnia.S_.glif</string>
 		<key>hungarumlaut</key>
 		<string>hungarumlaut.glif</string>
 		<key>hungarumlautcmb</key>
@@ -960,6 +976,10 @@
 		<string>less.glif</string>
 		<key>lessequal</key>
 		<string>lessequal.glif</string>
+		<key>lira.S</key>
+		<string>lira.S_.glif</string>
+		<key>liraturkish.S</key>
+		<string>liraturkish.S_.glif</string>
 		<key>litre</key>
 		<string>litre.glif</string>
 		<key>lmiddletilde</key>
@@ -996,6 +1016,8 @@
 		<string>multiply.glif</string>
 		<key>n</key>
 		<string>n.glif</string>
+		<key>naira.S</key>
+		<string>naira.S_.glif</string>
 		<key>newsheqel</key>
 		<string>newsheqel.glif</string>
 		<key>newsheqel.S</key>
@@ -1056,6 +1078,8 @@
 		<string>omacron.glif</string>
 		<key>one</key>
 		<string>one.glif</string>
+		<key>one.D</key>
+		<string>one.D_.glif</string>
 		<key>one.Dnom</key>
 		<string>one.D_nom.glif</string>
 		<key>one.Numr</key>
@@ -1078,8 +1102,12 @@
 		<string>one.sups.glif</string>
 		<key>onehalf</key>
 		<string>onehalf.glif</string>
+		<key>onehalf.S</key>
+		<string>onehalf.S_.glif</string>
 		<key>onequarter</key>
 		<string>onequarter.glif</string>
+		<key>onequarter.S</key>
+		<string>onequarter.S_.glif</string>
 		<key>oopen</key>
 		<string>oopen.glif</string>
 		<key>oslash</key>
@@ -1160,6 +1188,10 @@
 		<string>perthousand.glif</string>
 		<key>perthousand.S</key>
 		<string>perthousand.S_.glif</string>
+		<key>peseta.S</key>
+		<string>peseta.S_.glif</string>
+		<key>peso.S</key>
+		<string>peso.S_.glif</string>
 		<key>pi</key>
 		<string>pi.glif</string>
 		<key>plus</key>
@@ -1264,8 +1296,8 @@
 		<string>pnY_od.glif</string>
 		<key>pnZai</key>
 		<string>pnZ_ai.glif</string>
-		<key>pnhyphen</key>
-		<string>pnhyphen.glif</string>
+		<key>pnword</key>
+		<string>pnword.glif</string>
 		<key>primemod</key>
 		<string>primemod.glif</string>
 		<key>product</key>
@@ -1278,6 +1310,8 @@
 		<string>question.S_.glif</string>
 		<key>questiondown</key>
 		<string>questiondown.glif</string>
+		<key>questiondown.S</key>
+		<string>questiondown.S_.glif</string>
 		<key>quotedbl</key>
 		<string>quotedbl.glif</string>
 		<key>quotedblbase</key>
@@ -1322,6 +1356,10 @@
 		<string>rsmall.glif</string>
 		<key>rsmallturned</key>
 		<string>rsmallturned.glif</string>
+		<key>ruble.S</key>
+		<string>ruble.S_.glif</string>
+		<key>rupeeindian.S</key>
+		<string>rupeeindian.S_.glif</string>
 		<key>s</key>
 		<string>s.glif</string>
 		<key>sacute</key>
@@ -1396,6 +1434,8 @@
 		<string>t.glif</string>
 		<key>tdotbelow</key>
 		<string>tdotbelow.glif</string>
+		<key>tenge.S</key>
+		<string>tenge.S_.glif</string>
 		<key>tesh</key>
 		<string>tesh.glif</string>
 		<key>theta</key>
@@ -1426,6 +1466,8 @@
 		<string>three.sups.glif</string>
 		<key>threequarters</key>
 		<string>threequarters.glif</string>
+		<key>threequarters.S</key>
+		<string>threequarters.S_.glif</string>
 		<key>tilde</key>
 		<string>tilde.glif</string>
 		<key>tildecmb</key>
@@ -1440,8 +1482,12 @@
 		<string>trademark.glif</string>
 		<key>ts</key>
 		<string>ts.glif</string>
+		<key>tugrik.S</key>
+		<string>tugrik.S_.glif</string>
 		<key>two</key>
 		<string>two.glif</string>
+		<key>two.D</key>
+		<string>two.D_.glif</string>
 		<key>two.Dnom</key>
 		<string>two.D_nom.glif</string>
 		<key>two.Numr</key>
@@ -1548,6 +1594,8 @@
 		<string>verticallinemod.glif</string>
 		<key>w</key>
 		<string>w.glif</string>
+		<key>won.S</key>
+		<string>won.S_.glif</string>
 		<key>x</key>
 		<string>x.glif</string>
 		<key>y</key>

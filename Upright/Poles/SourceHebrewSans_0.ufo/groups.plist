@@ -4,33 +4,63 @@
 	<dict>
 		<key>COMBINING_MARKS</key>
 		<array>
+			<string>heSheva</string>
+			<string>heHatafSegol</string>
+			<string>heHatafPatah</string>
+			<string>heHatafQamats</string>
+			<string>heHiriq</string>
+			<string>heTsere</string>
+			<string>heSegol</string>
+			<string>hePatah</string>
+			<string>heQamats</string>
+			<string>heQubuts</string>
+			<string>heMeteg</string>
+			<string>heQamatsQatan</string>
+			<string>heDagesh</string>
+			<string>heHolam</string>
+			<string>heHolamHaser</string>
+			<string>heShinDot</string>
+			<string>heSinDot</string>
+			<string>heRafe</string>
+			<string>heVarikaJud</string>
+			<string>heHatafQamatsQatan</string>
+			<string>hePatah.short</string>
+			<string>heQamats.short</string>
+			<string>heQamatsQatan.short</string>
+			<string>heDagesh.shin</string>
+			<string>heSheva.kaf</string>
+			<string>heQamats.kaf</string>
 			<string>gravecmb</string>
-			<string>gravecmb.cap</string>
 			<string>acutecmb</string>
-			<string>acutecmb.cap</string>
 			<string>circumflexcmb</string>
-			<string>circumflexcmb.cap</string>
-			<string>tildecmb</string>
-			<string>tildecmb.cap</string>
-			<string>macroncmb</string>
-			<string>macroncmb.cap</string>
-			<string>brevecmb</string>
-			<string>brevecmb.cap</string>
-			<string>dotaccentcmb</string>
-			<string>dotaccentcmb.cap</string>
-			<string>dieresiscmb</string>
-			<string>dieresiscmb.cap</string>
-			<string>ringcmb</string>
-			<string>ringcmb.cap</string>
-			<string>hungarumlautcmb</string>
-			<string>hungarumlautcmb.cap</string>
 			<string>caroncmb</string>
-			<string>caroncmb.cap</string>
-			<string>downtackbelowcmb</string>
-			<string>dotbelowcmb</string>
+			<string>tildecmb</string>
+			<string>dieresiscmb</string>
+			<string>macroncmb</string>
+			<string>brevecmb</string>
+			<string>ringcmb</string>
+			<string>hungarumlautcmb</string>
+			<string>dotaccentcmb</string>
 			<string>cedillacmb</string>
+			<string>dotbelowcmb</string>
+			<string>downtackbelowcmb</string>
 			<string>brevebelowcmb</string>
 			<string>macronbelowcmb</string>
+			<string>breveinverteddoublecmb</string>
+			<string>gravecmb.cap</string>
+			<string>acutecmb.cap</string>
+			<string>circumflexcmb.cap</string>
+			<string>caroncmb.cap</string>
+			<string>tildecmb.cap</string>
+			<string>dieresiscmb.cap</string>
+			<string>macroncmb.cap</string>
+			<string>brevecmb.cap</string>
+			<string>ringcmb.cap</string>
+			<string>hungarumlautcmb.cap</string>
+			<string>dotaccentcmb.cap</string>
+			<string>cedillacmb.cap</string>
+			<string>ogonekcmb</string>
+			<string>tildeoverlaycmb</string>
 		</array>
 		<key>public.kern1.GRK_CHI_LC_LEFT</key>
 		<array>

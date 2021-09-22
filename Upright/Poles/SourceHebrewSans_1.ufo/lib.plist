@@ -82,6 +82,7 @@
 					<string>heYodHiriq</string>
 					<string>heYodDblYidPatah</string>
 					<string>heAlefLamed</string>
+					<string>gampersand</string>
 					<string>heSheva</string>
 					<string>heHatafSegol</string>
 					<string>heHatafPatah</string>
@@ -261,7 +262,6 @@
 					<string>ugU</string>
 					<string>ugSsu</string>
 					<string>ugword</string>
-					<string>ampersand.S</string>
 					<string>zero.S</string>
 					<string>one.S</string>
 					<string>two.S</string>
@@ -360,6 +360,7 @@
 					<string>endash.S</string>
 					<string>emdash.S</string>
 					<string>periodcentered.S</string>
+					<string>pnhyphen</string>
 					<string>bullet.S</string>
 					<string>section.S</string>
 					<string>paragraph.S</string>
@@ -370,9 +371,26 @@
 					<string>dollar.S</string>
 					<string>sterling.S</string>
 					<string>yen.S</string>
+					<string>yuan.S</string>
 					<string>Euro.S</string>
 					<string>cent.S</string>
 					<string>florin.S</string>
+					<string>colonmonetary.S</string>
+					<string>lira.S</string>
+					<string>naira.S</string>
+					<string>peseta.S</string>
+					<string>won.S</string>
+					<string>dong.S</string>
+					<string>peso.S</string>
+					<string>guarani.S</string>
+					<string>hryvnia.S</string>
+					<string>cedi.S</string>
+					<string>rupeeindian.S</string>
+					<string>liraturkish.S</string>
+					<string>tugrik.S</string>
+					<string>tenge.S</string>
+					<string>ruble.S</string>
+					<string>franc.S</string>
 					<string>fraction.S</string>
 					<string>onehalf.S</string>
 					<string>onequarter.S</string>
@@ -736,9 +754,26 @@
 					<string>dollar</string>
 					<string>sterling</string>
 					<string>yen</string>
+					<string>yuan</string>
 					<string>Euro</string>
 					<string>cent</string>
 					<string>florin</string>
+					<string>colonmonetary</string>
+					<string>lira</string>
+					<string>naira</string>
+					<string>peseta</string>
+					<string>won</string>
+					<string>dong</string>
+					<string>peso</string>
+					<string>guarani</string>
+					<string>hryvnia</string>
+					<string>cedi</string>
+					<string>rupeeindian</string>
+					<string>liraturkish</string>
+					<string>tugrik</string>
+					<string>tenge</string>
+					<string>ruble</string>
+					<string>franc</string>
 					<string>degree</string>
 					<string>fraction</string>
 					<string>onehalf</string>
@@ -848,8 +883,9 @@
 					<string>ogonekcmb</string>
 					<string>tildeoverlaycmb</string>
 					<string>comma.Dnom</string>
+					<string>one.D</string>
 					<string>period.Dnom</string>
-					<string>pnhyphen</string>
+					<string>two.D</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -884,6 +920,8 @@
 		</array>
 		<key>com.typemytype.robofont.guideline.magnetic.AtDU8rN4Ca</key>
 		<integer>5</integer>
+		<key>com.typemytype.robofont.guideline.magnetic.BJryQvW5UM</key>
+		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.KgEyjtkyWP</key>
 		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.O4hwt37K4P</key>
@@ -901,6 +939,8 @@
 		<key>com.typemytype.robofont.guideline.magnetic.ya1R8RELXb</key>
 		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.showMeasurements.AtDU8rN4Ca</key>
+		<false/>
+		<key>com.typemytype.robofont.guideline.showMeasurements.BJryQvW5UM</key>
 		<false/>
 		<key>com.typemytype.robofont.guideline.showMeasurements.jt5Nfn49bl</key>
 		<false/>
@@ -5116,6 +5156,7 @@
 			<string>heYodHiriq</string>
 			<string>heYodDblYidPatah</string>
 			<string>heAlefLamed</string>
+			<string>gampersand</string>
 			<string>heSheva</string>
 			<string>heHatafSegol</string>
 			<string>heHatafPatah</string>
@@ -5295,7 +5336,6 @@
 			<string>ugU</string>
 			<string>ugSsu</string>
 			<string>ugword</string>
-			<string>ampersand.S</string>
 			<string>zero.S</string>
 			<string>one.S</string>
 			<string>two.S</string>
@@ -5394,6 +5434,7 @@
 			<string>endash.S</string>
 			<string>emdash.S</string>
 			<string>periodcentered.S</string>
+			<string>pnword</string>
 			<string>bullet.S</string>
 			<string>section.S</string>
 			<string>paragraph.S</string>
@@ -5404,9 +5445,26 @@
 			<string>dollar.S</string>
 			<string>sterling.S</string>
 			<string>yen.S</string>
+			<string>yuan.S</string>
 			<string>Euro.S</string>
 			<string>cent.S</string>
 			<string>florin.S</string>
+			<string>colonmonetary.S</string>
+			<string>lira.S</string>
+			<string>naira.S</string>
+			<string>peseta.S</string>
+			<string>won.S</string>
+			<string>dong.S</string>
+			<string>peso.S</string>
+			<string>guarani.S</string>
+			<string>hryvnia.S</string>
+			<string>cedi.S</string>
+			<string>rupeeindian.S</string>
+			<string>liraturkish.S</string>
+			<string>tugrik.S</string>
+			<string>tenge.S</string>
+			<string>ruble.S</string>
+			<string>franc.S</string>
 			<string>fraction.S</string>
 			<string>onehalf.S</string>
 			<string>onequarter.S</string>
@@ -5770,9 +5828,26 @@
 			<string>dollar</string>
 			<string>sterling</string>
 			<string>yen</string>
+			<string>yuan</string>
 			<string>Euro</string>
 			<string>cent</string>
 			<string>florin</string>
+			<string>colonmonetary</string>
+			<string>lira</string>
+			<string>naira</string>
+			<string>peseta</string>
+			<string>won</string>
+			<string>dong</string>
+			<string>peso</string>
+			<string>guarani</string>
+			<string>hryvnia</string>
+			<string>cedi</string>
+			<string>rupeeindian</string>
+			<string>liraturkish</string>
+			<string>tugrik</string>
+			<string>tenge</string>
+			<string>ruble</string>
+			<string>franc</string>
 			<string>degree</string>
 			<string>fraction</string>
 			<string>onehalf</string>
@@ -5882,8 +5957,9 @@
 			<string>ogonekcmb</string>
 			<string>tildeoverlaycmb</string>
 			<string>comma.Dnom</string>
+			<string>one.D</string>
 			<string>period.Dnom</string>
-			<string>pnhyphen</string>
+			<string>two.D</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>
@@ -5913,10 +5989,24 @@
 			<string>uni1E32</string>
 			<key>Klinebelow</key>
 			<string>uni1E34</string>
+			<key>LTR</key>
+			<string>uni200E</string>
+			<key>LTRE</key>
+			<string>uni202A</string>
+			<key>LTRO</key>
+			<string>uni202D</string>
 			<key>Odotbelow</key>
 			<string>uni1ECC</string>
 			<key>Omega</key>
 			<string>uni2126</string>
+			<key>PopDF</key>
+			<string>uni202C</string>
+			<key>RTL</key>
+			<string>uni200F</string>
+			<key>RTLE</key>
+			<string>uni202B</string>
+			<key>RTLO</key>
+			<string>uni202E</string>
 			<key>Schwa</key>
 			<string>uni018F</string>
 			<key>Sdotbelow</key>
@@ -6549,12 +6639,6 @@
 			<string>uni1E33</string>
 			<key>klinebelow</key>
 			<string>uni1E35</string>
-			<key>lefttorightembed</key>
-			<string>uni202A</string>
-			<key>lefttorightmark</key>
-			<string>uni200E</string>
-			<key>lefttorightoverride</key>
-			<string>uni202D</string>
 			<key>litre</key>
 			<string>uni2113</string>
 			<key>lmiddletilde</key>
@@ -6835,8 +6919,6 @@
 			<string>u10909</string>
 			<key>pnZai</key>
 			<string>u10906</string>
-			<key>popdirectionformat</key>
-			<string>uni202C</string>
 			<key>primemod</key>
 			<string>uni02B9</string>
 			<key>question</key>
@@ -6863,12 +6945,6 @@
 			<string>quoteright.l</string>
 			<key>quoteright.S</key>
 			<string>quoteright</string>
-			<key>righttoleftembed</key>
-			<string>uni202B</string>
-			<key>righttoleftmark</key>
-			<string>uni200F</string>
-			<key>righttoleftoverride</key>
-			<string>uni202E</string>
 			<key>ringcmb</key>
 			<string>uni030A</string>
 			<key>ringcmb.cap</key>
@@ -6999,6 +7075,68 @@
 			<string>two.b</string>
 			<key>two.sups</key>
 			<string>two.u</string>
+			<key>ugAin</key>
+			<string>u10393</string>
+			<key>ugAlpa</key>
+			<string>u10380</string>
+			<key>ugBeta</key>
+			<string>u10381</string>
+			<key>ugDelta</key>
+			<string>u10384</string>
+			<key>ugDhal</key>
+			<string>u1038F</string>
+			<key>ugGamla</key>
+			<string>u10382</string>
+			<key>ugGhain</key>
+			<string>u10399</string>
+			<key>ugHo</key>
+			<string>u10385</string>
+			<key>ugHota</key>
+			<string>u10388</string>
+			<key>ugI</key>
+			<string>u1039B</string>
+			<key>ugKaf</key>
+			<string>u1038B</string>
+			<key>ugKha</key>
+			<string>u10383</string>
+			<key>ugLamda</key>
+			<string>u1038D</string>
+			<key>ugMem</key>
+			<string>u1038E</string>
+			<key>ugNun</key>
+			<string>u10390</string>
+			<key>ugPu</key>
+			<string>u10394</string>
+			<key>ugQopa</key>
+			<string>u10396</string>
+			<key>ugRasha</key>
+			<string>u10397</string>
+			<key>ugSade</key>
+			<string>u10395</string>
+			<key>ugSamka</key>
+			<string>u10392</string>
+			<key>ugShin</key>
+			<string>u1038C</string>
+			<key>ugSsu</key>
+			<string>u1039D</string>
+			<key>ugTet</key>
+			<string>u10389</string>
+			<key>ugThanna</key>
+			<string>u10398</string>
+			<key>ugTo</key>
+			<string>u1039A</string>
+			<key>ugU</key>
+			<string>u1039C</string>
+			<key>ugWo</key>
+			<string>u10386</string>
+			<key>ugYod</key>
+			<string>u1038A</string>
+			<key>ugZeta</key>
+			<string>u10387</string>
+			<key>ugZu</key>
+			<string>u10391</string>
+			<key>ugword</key>
+			<string>u1039F</string>
 			<key>upsilonlatin</key>
 			<string>uni028A</string>
 			<key>vdotbelow</key>

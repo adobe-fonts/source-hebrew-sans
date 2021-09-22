@@ -2,16 +2,7 @@
 <glyph name="heQamats" format="2">
 	<unicode hex="05B8"/>
 	<outline>
-		<contour>
-			<point x="-14" y="-242" type="line"/>
-			<point x="14" y="-242" type="line"/>
-			<point x="14" y="-136" type="line"/>
-			<point x="96" y="-136" type="line"/>
-			<point x="96" y="-108" type="line"/>
-			<point x="-96" y="-108" type="line"/>
-			<point x="-96" y="-136" type="line"/>
-			<point x="-14" y="-136" type="line"/>
-		</contour>
+		<component base="downtackbelowcmb"/>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
 	<anchor name="_belowLeftHE" x="-95" y="-30"/>

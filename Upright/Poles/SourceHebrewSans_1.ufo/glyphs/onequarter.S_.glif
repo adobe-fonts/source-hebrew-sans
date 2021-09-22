@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter.S" format="2">
+	<advance width="820"/>
+	<outline>
+		<component base="one.Dnom" xOffset="-32" yOffset="198"/>
+		<component base="fraction.S" xOffset="360"/>
+		<component base="four.Dnom" xOffset="440"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+			<key>public.markColor</key>
+			<string>0.4,0.8,0.9989,1</string>
+		</dict>
+	</lib>
+</glyph>

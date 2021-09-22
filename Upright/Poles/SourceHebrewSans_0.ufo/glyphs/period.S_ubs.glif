@@ -2,7 +2,7 @@
 <glyph name="period.Subs" format="2">
 	<advance width="152"/>
 	<outline>
-		<component base="period.Dnom" yOffset="-150"/>
+		<component base="period.dnom" yOffset="-150"/>
 	</outline>
 	<lib>
 		<dict>
