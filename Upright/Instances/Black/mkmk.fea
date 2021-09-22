@@ -1,0 +1,41 @@
+lookup MKMK_MARK_above {
+	lookupflag MarkAttachmentType @MC_above;
+
+	pos mark circumflexcmb <anchor 0 740> mark @MC_above;
+	pos mark caroncmb <anchor 0 742> mark @MC_above;
+	pos mark dieresiscmb <anchor 0 730> mark @MC_above;
+	pos mark dotaccentcmb <anchor 0 730> mark @MC_above;
+	pos mark macroncmb <anchor 0 702> mark @MC_above;
+	pos mark ringcmb <anchor 0 762> mark @MC_above;
+	pos mark caroncmb.cap <anchor 0 852> mark @MC_above;
+	pos mark macroncmb.cap <anchor 0 832> mark @MC_above;
+} MKMK_MARK_above;
+
+
+lookup MKMK_MARK_belowPrimaryHE {
+	lookupflag MarkAttachmentType @MC_belowPrimaryHE;
+
+	pos mark heSheva <anchor -110 -22> mark @MC_belowPrimaryHE;
+	pos mark heHiriq <anchor -110 -22> mark @MC_belowPrimaryHE;
+	pos mark heHatafSegol <anchor -245 -22> mark @MC_belowPrimaryHE;
+	pos mark heHatafPatah <anchor -210 -22> mark @MC_belowPrimaryHE;
+	pos mark heHatafQamats <anchor -210 -22> mark @MC_belowPrimaryHE;
+	pos mark heHatafQamatsQatan <anchor -210 -22> mark @MC_belowPrimaryHE;
+	pos mark heTsere <anchor -180 -22> mark @MC_belowPrimaryHE;
+	pos mark heSegol <anchor -180 -22> mark @MC_belowPrimaryHE;
+	pos mark hePatah <anchor -180 -22> mark @MC_belowPrimaryHE;
+	pos mark heQamats <anchor -180 -22> mark @MC_belowPrimaryHE;
+	pos mark heQubuts <anchor -190 -22> mark @MC_belowPrimaryHE;
+	pos mark heQamatsQatan <anchor -170 -22> mark @MC_belowPrimaryHE;
+	pos mark hePatah.short <anchor -155 -22> mark @MC_belowPrimaryHE;
+	pos mark heQamats.short <anchor -155 -22> mark @MC_belowPrimaryHE;
+	pos mark heQamatsQatan.short <anchor -155 -22> mark @MC_belowPrimaryHE;
+} MKMK_MARK_belowPrimaryHE;
+
+
+lookup MKMK_MARK_centerSecondaryHE {
+	lookupflag MarkAttachmentType @MC_centerSecondaryHE;
+
+	pos mark heDagesh <anchor 0 224> mark @MC_centerSecondaryHE;
+} MKMK_MARK_centerSecondaryHE;
+

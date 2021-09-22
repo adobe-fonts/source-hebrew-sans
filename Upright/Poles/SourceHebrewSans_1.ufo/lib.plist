@@ -360,7 +360,7 @@
 					<string>endash.S</string>
 					<string>emdash.S</string>
 					<string>periodcentered.S</string>
-					<string>pnhyphen</string>
+					<string>pnword</string>
 					<string>bullet.S</string>
 					<string>section.S</string>
 					<string>paragraph.S</string>
@@ -374,7 +374,6 @@
 					<string>yuan.S</string>
 					<string>Euro.S</string>
 					<string>cent.S</string>
-					<string>florin.S</string>
 					<string>colonmonetary.S</string>
 					<string>lira.S</string>
 					<string>naira.S</string>
@@ -757,7 +756,6 @@
 					<string>yuan</string>
 					<string>Euro</string>
 					<string>cent</string>
-					<string>florin</string>
 					<string>colonmonetary</string>
 					<string>lira</string>
 					<string>naira</string>
@@ -882,10 +880,7 @@
 					<string>cedillacmb.cap</string>
 					<string>ogonekcmb</string>
 					<string>tildeoverlaycmb</string>
-					<string>comma.Dnom</string>
-					<string>one.D</string>
-					<string>period.Dnom</string>
-					<string>two.D</string>
+					<string>space.frac</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -5448,7 +5443,6 @@
 			<string>yuan.S</string>
 			<string>Euro.S</string>
 			<string>cent.S</string>
-			<string>florin.S</string>
 			<string>colonmonetary.S</string>
 			<string>lira.S</string>
 			<string>naira.S</string>
@@ -5831,7 +5825,6 @@
 			<string>yuan</string>
 			<string>Euro</string>
 			<string>cent</string>
-			<string>florin</string>
 			<string>colonmonetary</string>
 			<string>lira</string>
 			<string>naira</string>
@@ -5956,10 +5949,7 @@
 			<string>cedillacmb.cap</string>
 			<string>ogonekcmb</string>
 			<string>tildeoverlaycmb</string>
-			<string>comma.Dnom</string>
-			<string>one.D</string>
-			<string>period.Dnom</string>
-			<string>two.D</string>
+			<string>space.frac</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>
@@ -6099,8 +6089,6 @@
 			<string>uni0251</string>
 			<key>ampersand</key>
 			<string>ampersand.l</string>
-			<key>ampersand.S</key>
-			<string>ampersand</string>
 			<key>apostrophemod</key>
 			<string>uni02BC</string>
 			<key>arrowdbldown.S</key>
@@ -6153,6 +6141,10 @@
 			<string>uni030C</string>
 			<key>caroncmb.cap</key>
 			<string>uni030C.c</string>
+			<key>cedi</key>
+			<string>uni20B5.l</string>
+			<key>cedi.S</key>
+			<string>uni20B5</string>
 			<key>cedillacmb</key>
 			<string>uni0327</string>
 			<key>cedillacmb.cap</key>
@@ -6167,6 +6159,10 @@
 			<string>uni0302</string>
 			<key>circumflexcmb.cap</key>
 			<string>uni0302.c</string>
+			<key>colonmonetary</key>
+			<string>colonmonetary.l</string>
+			<key>colonmonetary.S</key>
+			<string>colonmonetary</string>
 			<key>colontriangularmod</key>
 			<string>uni02D0</string>
 			<key>comma.Numr</key>
@@ -6203,6 +6199,10 @@
 			<string>dollar.l</string>
 			<key>dollar.S</key>
 			<string>dollar</string>
+			<key>dong</key>
+			<string>dong.l</string>
+			<key>dong.S</key>
+			<string>dong</string>
 			<key>dotaccentcmb</key>
 			<string>uni0307</string>
 			<key>dotaccentcmb.cap</key>
@@ -6295,10 +6295,6 @@
 			<string>five.u</string>
 			<key>fl</key>
 			<string>f_l</string>
-			<key>florin</key>
-			<string>uni0192.l</string>
-			<key>florin.S</key>
-			<string>uni0192</string>
 			<key>four</key>
 			<string>four.l</string>
 			<key>four.Dnom</key>
@@ -6325,8 +6321,14 @@
 			<string>fraction.l</string>
 			<key>fraction.S</key>
 			<string>fraction</string>
+			<key>franc</key>
+			<string>franc.l</string>
+			<key>franc.S</key>
+			<string>franc</string>
 			<key>gammalatin</key>
 			<string>uni0263</string>
+			<key>gampersand</key>
+			<string>uni05D2_uni05DD</string>
 			<key>glottalstop</key>
 			<string>uni0294</string>
 			<key>glottalstopreversed</key>
@@ -6341,6 +6343,10 @@
 			<string>gravecomb.c</string>
 			<key>gscript</key>
 			<string>uni0261</string>
+			<key>guarani</key>
+			<string>uni20B2.l</string>
+			<key>guarani.S</key>
+			<string>uni20B2</string>
 			<key>guillemotleft</key>
 			<string>guillemotleft.l</string>
 			<key>guillemotleft.S</key>
@@ -6623,6 +6629,10 @@
 			<string>u108E9</string>
 			<key>hrZayn</key>
 			<string>u108E6</string>
+			<key>hryvnia</key>
+			<string>uni20B4.l</string>
+			<key>hryvnia.S</key>
+			<string>uni20B4</string>
 			<key>hungarumlautcmb</key>
 			<string>uni030B</string>
 			<key>hungarumlautcmb.cap</key>
@@ -6639,6 +6649,14 @@
 			<string>uni1E33</string>
 			<key>klinebelow</key>
 			<string>uni1E35</string>
+			<key>lira</key>
+			<string>lira.l</string>
+			<key>lira.S</key>
+			<string>lira</string>
+			<key>liraturkish</key>
+			<string>uni20BA.l</string>
+			<key>liraturkish.S</key>
+			<string>uni20BA</string>
 			<key>litre</key>
 			<string>uni2113</string>
 			<key>lmiddletilde</key>
@@ -6659,6 +6677,10 @@
 			<string>minus.u</string>
 			<key>mu</key>
 			<string>uni00B5</string>
+			<key>naira</key>
+			<string>uni20A6.l</string>
+			<key>naira.S</key>
+			<string>uni20A6</string>
 			<key>newsheqel</key>
 			<string>uni20AA.l</string>
 			<key>newsheqel.S</key>
@@ -6789,6 +6811,14 @@
 			<string>perthousand.l</string>
 			<key>perthousand.S</key>
 			<string>perthousand</string>
+			<key>peseta</key>
+			<string>peseta.l</string>
+			<key>peseta.S</key>
+			<string>peseta</string>
+			<key>peso</key>
+			<string>uni20B1.l</string>
+			<key>peso.S</key>
+			<string>uni20B1</string>
 			<key>plus.Subs</key>
 			<string>plus.B</string>
 			<key>plus.Sups</key>
@@ -6919,6 +6949,8 @@
 			<string>u10909</string>
 			<key>pnZai</key>
 			<string>u10906</string>
+			<key>pnword</key>
+			<string>u1091F</string>
 			<key>primemod</key>
 			<string>uni02B9</string>
 			<key>question</key>
@@ -6957,6 +6989,14 @@
 			<string>uni0280</string>
 			<key>rsmallturned</key>
 			<string>uni0281</string>
+			<key>ruble</key>
+			<string>uni20BD.l</string>
+			<key>ruble.S</key>
+			<string>uni20BD</string>
+			<key>rupeeindian</key>
+			<string>uni20B9.l</string>
+			<key>rupeeindian.S</key>
+			<string>uni20B9</string>
 			<key>schwa</key>
 			<string>uni0259</string>
 			<key>sdotbelow</key>
@@ -7015,6 +7055,10 @@
 			<string>sterling</string>
 			<key>tdotbelow</key>
 			<string>uni1E6D</string>
+			<key>tenge</key>
+			<string>uni20B8.l</string>
+			<key>tenge.S</key>
+			<string>uni20B8</string>
 			<key>tesh</key>
 			<string>uni02A7</string>
 			<key>three</key>
@@ -7053,6 +7097,10 @@
 			<string>uni1E6F</string>
 			<key>ts</key>
 			<string>uni02A6</string>
+			<key>tugrik</key>
+			<string>uni20AE.l</string>
+			<key>tugrik.S</key>
+			<string>uni20AE</string>
 			<key>two</key>
 			<string>two.l</string>
 			<key>two.Dnom</key>
@@ -7143,12 +7191,20 @@
 			<string>uni1E7F</string>
 			<key>verticallinemod</key>
 			<string>uni02C8</string>
+			<key>won</key>
+			<string>uni20A9.l</string>
+			<key>won.S</key>
+			<string>uni20A9</string>
 			<key>yen</key>
 			<string>yen.l</string>
 			<key>yen.S</key>
 			<string>yen</string>
 			<key>yturned</key>
 			<string>uni028E</string>
+			<key>yuan</key>
+			<string>yen.CN.l</string>
+			<key>yuan.S</key>
+			<string>yen.CN</string>
 			<key>zdotbelow</key>
 			<string>uni1E93</string>
 			<key>zero</key>
