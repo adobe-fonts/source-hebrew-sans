@@ -2,12 +2,7 @@
 <glyph name="hePatah" format="2">
 	<unicode hex="05B7"/>
 	<outline>
-		<contour>
-			<point x="-111" y="-132" type="line"/>
-			<point x="111" y="-132" type="line"/>
-			<point x="111" y="-80" type="line"/>
-			<point x="-111" y="-80" type="line"/>
-		</contour>
+		<component base="heRafe" yOffset="-780"/>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
 	<anchor name="_belowLeftHE" x="-110" y="-22"/>

@@ -30,6 +30,10 @@
 			<point x="372" y="270" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="250" y="590"/>
+	<anchor name="centerHE" x="240" y="390"/>
+	<anchor name="aboveLeftHE" x="40" y="590"/>
+	<anchor name="belowPrimaryHE" x="240" y="-30"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

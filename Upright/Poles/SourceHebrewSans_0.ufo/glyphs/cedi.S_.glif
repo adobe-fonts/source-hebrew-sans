@@ -32,15 +32,9 @@
 		</contour>
 		<contour>
 			<point x="272" y="-110" type="line"/>
-			<point x="302" y="-110" type="line"/>
-			<point x="302" y="658" type="line"/>
-			<point x="272" y="658" type="line"/>
+			<point x="300" y="-110" type="line"/>
+			<point x="300" y="656" type="line"/>
+			<point x="272" y="656" type="line"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,1,0,1</string>
-		</dict>
-	</lib>
 </glyph>

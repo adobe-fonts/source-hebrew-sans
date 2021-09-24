@@ -18,10 +18,8 @@
 			<point x="1124" y="344" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,1,0,1</string>
-		</dict>
-	</lib>
+	<anchor name="aboveHE" x="570" y="590"/>
+	<anchor name="belowSecondaryHE" x="1140" y="-30"/>
+	<anchor name="centerHE" x="550" y="260"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
 </glyph>

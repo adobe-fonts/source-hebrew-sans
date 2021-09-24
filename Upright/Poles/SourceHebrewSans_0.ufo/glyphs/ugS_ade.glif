@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugSade" format="2">
 	<unicode hex="10395"/>
-	<advance width="404"/>
+	<advance width="468"/>
 	<outline>
 		<component base="ugGamla"/>
-		<component base="ugGamla" xOffset="160"/>
+		<component base="ugGamla" xOffset="200"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>0.4,0.8,0.9989,1</string>
+			<string>0.0595,0.5019,0.9985,1</string>
 		</dict>
 	</lib>
 </glyph>

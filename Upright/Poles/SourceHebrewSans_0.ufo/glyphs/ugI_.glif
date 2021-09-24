@@ -4,16 +4,45 @@
 	<advance width="548"/>
 	<outline>
 		<contour>
-			<point x="120" y="-202" type="curve"/>
-			<point x="136" y="-202" type="line"/>
-			<point x="136" y="-96"/>
-			<point x="144" y="-24"/>
-			<point x="160" y="0" type="curve"/>
-			<point x="96" y="0" type="line"/>
-			<point x="112" y="-24"/>
-			<point x="120" y="-96"/>
+			<point x="139" y="-275" type="curve"/>
+			<point x="158" y="-275" type="line"/>
+			<point x="158" y="-147"/>
+			<point x="168" y="-61"/>
+			<point x="187" y="-32" type="curve"/>
+			<point x="110" y="-32" type="line"/>
+			<point x="129" y="-61"/>
+			<point x="139" y="-147"/>
 		</contour>
-		<component base="ugHo"/>
+		<contour>
+			<point x="26" y="261" type="line"/>
+			<point x="93" y="287"/>
+			<point x="312" y="287"/>
+			<point x="633" y="287" type="curve"/>
+			<point x="633" y="306" type="line"/>
+			<point x="312" y="306"/>
+			<point x="93" y="306"/>
+			<point x="26" y="333" type="curve"/>
+		</contour>
+		<contour>
+			<point x="26" y="525" type="line"/>
+			<point x="93" y="551"/>
+			<point x="312" y="551"/>
+			<point x="633" y="551" type="curve"/>
+			<point x="633" y="570" type="line"/>
+			<point x="312" y="570"/>
+			<point x="93" y="570"/>
+			<point x="26" y="597" type="curve"/>
+		</contour>
+		<contour>
+			<point x="26" y="-3" type="line"/>
+			<point x="93" y="23"/>
+			<point x="312" y="23"/>
+			<point x="633" y="23" type="curve"/>
+			<point x="633" y="42" type="line"/>
+			<point x="312" y="42"/>
+			<point x="93" y="42"/>
+			<point x="26" y="69" type="curve"/>
+		</contour>
 	</outline>
 	<lib>
 		<dict>

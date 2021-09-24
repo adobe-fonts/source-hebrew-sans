@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ai3" format="2">
+	<advance width="584"/>
+	<outline>
+		<component base="aiZayin" xOffset="10"/>
+		<component base="aiZayin" xOffset="170"/>
+		<component base="aiZayin" xOffset="330"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.4,0.8,0.9989,1</string>
+		</dict>
+	</lib>
+</glyph>

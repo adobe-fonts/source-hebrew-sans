@@ -360,6 +360,8 @@
 			<integer>10</integer>
 			<key>public.kern2.PCT_GUILLEFT_RIGHT</key>
 			<integer>10</integer>
+			<key>public.kern2.PCT_QUESTION_RIGHT</key>
+			<integer>0</integer>
 			<key>public.kern2.PCT_QUOTERIGHT_RIGHT</key>
 			<integer>-10</integer>
 			<key>registered</key>
@@ -599,8 +601,6 @@
 			<integer>-20</integer>
 			<key>public.kern2.LAT_U_LC_RIGHT</key>
 			<integer>-10</integer>
-			<key>public.kern2.LAT_X_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_Y_UC_RIGHT</key>
 			<integer>-6</integer>
 			<key>public.kern2.PCT_COMMA_RIGHT</key>
@@ -750,42 +750,22 @@
 			<integer>-40</integer>
 			<key>backslash</key>
 			<integer>-18</integer>
-			<key>periodcentered</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_A_LC_RIGHT</key>
 			<integer>-16</integer>
-			<key>public.kern2.LAT_F_LC_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.LAT_G_LC_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.LAT_J_UC_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.LAT_S_UC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_T_LC_RIGHT</key>
 			<integer>-10</integer>
 			<key>public.kern2.LAT_T_UC_RIGHT</key>
 			<integer>-56</integer>
-			<key>public.kern2.LAT_V_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_V_UC_RIGHT</key>
 			<integer>-18</integer>
-			<key>public.kern2.LAT_W_LC_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.LAT_W_UC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_X_LC_RIGHT</key>
 			<integer>-10</integer>
 			<key>public.kern2.LAT_Y_UC_RIGHT</key>
 			<integer>-38</integer>
-			<key>public.kern2.LAT_Z_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.PCT_COMMA_RIGHT</key>
 			<integer>-10</integer>
 			<key>public.kern2.PCT_EMDASH_RIGHT</key>
 			<integer>10</integer>
-			<key>public.kern2.PCT_GUILLEFT_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.PCT_QUESTION_RIGHT</key>
 			<integer>4</integer>
 			<key>public.kern2.PCT_QUOTELEFT_RIGHT</key>
@@ -794,10 +774,6 @@
 			<integer>-18</integer>
 			<key>public.kern2.PCT_QUOTE_RIGHT</key>
 			<integer>-40</integer>
-			<key>registered</key>
-			<integer>0</integer>
-			<key>trademark</key>
-			<integer>0</integer>
 		</dict>
 		<key>public.kern1.LAT_O_UC_LEFT</key>
 		<dict>
@@ -881,22 +857,16 @@
 			<integer>-10</integer>
 			<key>public.kern2.LAT_G_LC_RIGHT</key>
 			<integer>-10</integer>
-			<key>public.kern2.LAT_J_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_J_UC_RIGHT</key>
 			<integer>-40</integer>
 			<key>public.kern2.LAT_O_LC_RIGHT</key>
 			<integer>-10</integer>
-			<key>public.kern2.LAT_S_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_V_LC_RIGHT</key>
 			<integer>40</integer>
 			<key>public.kern2.LAT_W_LC_RIGHT</key>
 			<integer>30</integer>
 			<key>public.kern2.LAT_Y_LC_RIGHT</key>
 			<integer>40</integer>
-			<key>public.kern2.LAT_Z_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_Z_UC_RIGHT</key>
 			<integer>-10</integer>
 			<key>public.kern2.PCT_COMMA_RIGHT</key>
@@ -1092,50 +1062,14 @@
 		<dict>
 			<key>asterisk</key>
 			<integer>-32</integer>
-			<key>backslash</key>
-			<integer>0</integer>
-			<key>periodcentered</key>
-			<integer>0</integer>
-			<key>public.kern2.LAT_A_LC_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.LAT_G_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_HBAR_LC_RIGHT</key>
 			<integer>-10</integer>
-			<key>public.kern2.LAT_J_LC_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.LAT_J_UC_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.LAT_S_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_T_UC_RIGHT</key>
 			<integer>-20</integer>
-			<key>public.kern2.LAT_V_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_V_UC_RIGHT</key>
 			<integer>-10</integer>
-			<key>public.kern2.LAT_W_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_Y_UC_RIGHT</key>
 			<integer>-30</integer>
-			<key>public.kern2.LAT_Z_LC_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.LAT_Z_UC_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.PCT_COMMA_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.PCT_EMDASH_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.PCT_GUILLEFT_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.PCT_QUOTELEFT_RIGHT</key>
-			<integer>0</integer>
-			<key>public.kern2.PCT_QUOTERIGHT_RIGHT</key>
-			<integer>0</integer>
-			<key>registered</key>
-			<integer>0</integer>
-			<key>slash</key>
-			<integer>0</integer>
 		</dict>
 		<key>public.kern1.LAT_U_UC_LEFT</key>
 		<dict>
@@ -1506,8 +1440,6 @@
 			<integer>-30</integer>
 			<key>public.kern2.LAT_G_LC_RIGHT</key>
 			<integer>-10</integer>
-			<key>public.kern2.LAT_N_LC_RIGHT</key>
-			<integer>0</integer>
 			<key>public.kern2.LAT_O_LC_RIGHT</key>
 			<integer>-10</integer>
 			<key>public.kern2.LAT_T_UC_RIGHT</key>

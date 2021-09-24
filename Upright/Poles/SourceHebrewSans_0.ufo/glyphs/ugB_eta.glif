@@ -4,26 +4,45 @@
 	<advance width="548"/>
 	<outline>
 		<contour>
-			<point x="122" y="250" type="curve"/>
-			<point x="138" y="250" type="line"/>
-			<point x="138" y="407"/>
-			<point x="143" y="513"/>
-			<point x="160" y="546" type="curve"/>
-			<point x="100" y="546" type="line"/>
-			<point x="117" y="513"/>
-			<point x="122" y="407"/>
+			<point x="141" y="223" type="curve"/>
+			<point x="160" y="223" type="line"/>
+			<point x="160" y="411"/>
+			<point x="166" y="539"/>
+			<point x="187" y="578" type="curve"/>
+			<point x="115" y="578" type="line"/>
+			<point x="135" y="539"/>
+			<point x="141" y="411"/>
 		</contour>
 		<contour>
-			<point x="352" y="250" type="curve"/>
-			<point x="368" y="250" type="line"/>
-			<point x="368" y="407"/>
-			<point x="373" y="513"/>
-			<point x="390" y="546" type="curve"/>
-			<point x="330" y="546" type="line"/>
-			<point x="347" y="513"/>
-			<point x="352" y="407"/>
+			<point x="417" y="223" type="curve"/>
+			<point x="436" y="223" type="line"/>
+			<point x="436" y="411"/>
+			<point x="442" y="539"/>
+			<point x="463" y="578" type="curve"/>
+			<point x="391" y="578" type="line"/>
+			<point x="411" y="539"/>
+			<point x="417" y="411"/>
 		</contour>
-		<component base="ugAlpa" yOffset="-20"/>
+		<contour>
+			<point x="26" y="192" type="line"/>
+			<point x="73" y="213"/>
+			<point x="226" y="230"/>
+			<point x="453" y="218" type="curve"/>
+			<point x="453" y="237" type="line"/>
+			<point x="226" y="237"/>
+			<point x="73" y="242"/>
+			<point x="26" y="264" type="curve"/>
+		</contour>
+		<contour>
+			<point x="302" y="192" type="line"/>
+			<point x="339" y="212"/>
+			<point x="458" y="218"/>
+			<point x="633" y="218" type="curve"/>
+			<point x="633" y="237" type="line"/>
+			<point x="458" y="237"/>
+			<point x="339" y="243"/>
+			<point x="302" y="264" type="curve"/>
+		</contour>
 	</outline>
 	<lib>
 		<dict>

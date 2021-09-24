@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugGamla" format="2">
 	<unicode hex="10382"/>
-	<advance width="244"/>
+	<advance width="268"/>
 	<outline>
 		<contour>
-			<point x="118" y="0" type="curve"/>
-			<point x="138" y="0" type="line"/>
-			<point x="138" y="290"/>
-			<point x="136" y="488"/>
-			<point x="160" y="546" type="curve"/>
-			<point x="96" y="546" type="line"/>
-			<point x="120" y="488"/>
-			<point x="118" y="290"/>
+			<point x="122" y="-55" type="curve"/>
+			<point x="146" y="-55" type="line"/>
+			<point x="146" y="293"/>
+			<point x="146" y="532"/>
+			<point x="172" y="601" type="curve"/>
+			<point x="96" y="601" type="line"/>
+			<point x="122" y="532"/>
+			<point x="122" y="293"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,1,0,1</string>
-		</dict>
-	</lib>
 </glyph>

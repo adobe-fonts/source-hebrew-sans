@@ -4,36 +4,45 @@
 	<advance width="548"/>
 	<outline>
 		<contour>
-			<point x="102" y="250" type="curve"/>
-			<point x="118" y="250" type="line"/>
-			<point x="118" y="407"/>
-			<point x="123" y="513"/>
-			<point x="140" y="546" type="curve"/>
-			<point x="80" y="546" type="line"/>
-			<point x="97" y="513"/>
-			<point x="102" y="407"/>
+			<point x="117" y="223" type="curve"/>
+			<point x="136" y="223" type="line"/>
+			<point x="136" y="411"/>
+			<point x="142" y="539"/>
+			<point x="163" y="578" type="curve"/>
+			<point x="91" y="578" type="line"/>
+			<point x="111" y="539"/>
+			<point x="117" y="411"/>
 		</contour>
 		<contour>
-			<point x="252" y="250" type="curve"/>
-			<point x="268" y="250" type="line"/>
-			<point x="268" y="407"/>
-			<point x="273" y="513"/>
-			<point x="290" y="546" type="curve"/>
-			<point x="230" y="546" type="line"/>
-			<point x="247" y="513"/>
-			<point x="252" y="407"/>
+			<point x="297" y="223" type="curve"/>
+			<point x="316" y="223" type="line"/>
+			<point x="316" y="411"/>
+			<point x="322" y="539"/>
+			<point x="343" y="578" type="curve"/>
+			<point x="271" y="578" type="line"/>
+			<point x="291" y="539"/>
+			<point x="297" y="411"/>
 		</contour>
 		<contour>
-			<point x="402" y="250" type="curve"/>
-			<point x="418" y="250" type="line"/>
-			<point x="418" y="407"/>
-			<point x="423" y="513"/>
-			<point x="440" y="546" type="curve"/>
-			<point x="380" y="546" type="line"/>
-			<point x="397" y="513"/>
-			<point x="402" y="407"/>
+			<point x="477" y="223" type="curve"/>
+			<point x="496" y="223" type="line"/>
+			<point x="496" y="411"/>
+			<point x="502" y="539"/>
+			<point x="523" y="578" type="curve"/>
+			<point x="451" y="578" type="line"/>
+			<point x="471" y="539"/>
+			<point x="477" y="411"/>
 		</contour>
-		<component base="ugTo" yOffset="-20"/>
+		<contour>
+			<point x="26" y="192" type="line"/>
+			<point x="93" y="218"/>
+			<point x="312" y="218"/>
+			<point x="633" y="218" type="curve"/>
+			<point x="633" y="237" type="line"/>
+			<point x="312" y="237"/>
+			<point x="93" y="237"/>
+			<point x="26" y="264" type="curve"/>
+		</contour>
 	</outline>
 	<lib>
 		<dict>

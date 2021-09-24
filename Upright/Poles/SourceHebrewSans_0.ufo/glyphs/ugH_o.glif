@@ -3,9 +3,36 @@
 	<unicode hex="10385"/>
 	<advance width="548"/>
 	<outline>
-		<component base="ugTo"/>
-		<component base="ugTo" yOffset="220"/>
-		<component base="ugTo" yOffset="-220"/>
+		<contour>
+			<point x="26" y="238" type="line"/>
+			<point x="93" y="264"/>
+			<point x="312" y="264"/>
+			<point x="633" y="264" type="curve"/>
+			<point x="633" y="284" type="line"/>
+			<point x="312" y="284"/>
+			<point x="93" y="284"/>
+			<point x="26" y="310" type="curve"/>
+		</contour>
+		<contour>
+			<point x="26" y="502" type="line"/>
+			<point x="93" y="528"/>
+			<point x="312" y="528"/>
+			<point x="633" y="528" type="curve"/>
+			<point x="633" y="548" type="line"/>
+			<point x="312" y="548"/>
+			<point x="93" y="548"/>
+			<point x="26" y="574" type="curve"/>
+		</contour>
+		<contour>
+			<point x="26" y="-26" type="line"/>
+			<point x="93" y="0"/>
+			<point x="312" y="0"/>
+			<point x="633" y="0" type="curve"/>
+			<point x="633" y="20" type="line"/>
+			<point x="312" y="20"/>
+			<point x="93" y="20"/>
+			<point x="26" y="46" type="curve"/>
+		</contour>
 	</outline>
 	<lib>
 		<dict>

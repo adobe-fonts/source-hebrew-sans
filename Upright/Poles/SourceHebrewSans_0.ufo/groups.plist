@@ -227,12 +227,14 @@
 			<string>k</string>
 			<string>klinebelow</string>
 			<string>kdotbelow</string>
+			<string>kcaron</string>
 		</array>
 		<key>public.kern1.LAT_K_UC_LEFT</key>
 		<array>
 			<string>K</string>
 			<string>Kdotbelow</string>
 			<string>Klinebelow</string>
+			<string>Kcaron</string>
 		</array>
 		<key>public.kern1.LAT_LSLASH_LC_LEFT</key>
 		<array>
@@ -571,6 +573,7 @@
 			<string>P</string>
 			<string>R</string>
 			<string>Thorn</string>
+			<string>Kcaron</string>
 		</array>
 		<key>public.kern2.LAT_I_LC_RIGHT</key>
 		<array>
@@ -621,6 +624,7 @@
 			<string>thorn</string>
 			<string>hlinebelow</string>
 			<string>kdotbelow</string>
+			<string>kcaron</string>
 		</array>
 		<key>public.kern2.LAT_N_LC_RIGHT</key>
 		<array>

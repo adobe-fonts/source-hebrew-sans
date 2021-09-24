@@ -225,12 +225,13 @@
 					<string>pnRosh</string>
 					<string>pnShin</string>
 					<string>pnTau</string>
+					<string>pnword</string>
 					<string>pn1</string>
+					<string>pn2</string>
+					<string>pn3</string>
 					<string>pn10</string>
 					<string>pn20</string>
 					<string>pn100</string>
-					<string>pn2</string>
-					<string>pn3</string>
 					<string>ugAlpa</string>
 					<string>ugBeta</string>
 					<string>ugGamla</string>
@@ -360,7 +361,6 @@
 					<string>endash.S</string>
 					<string>emdash.S</string>
 					<string>periodcentered.S</string>
-					<string>pnword</string>
 					<string>bullet.S</string>
 					<string>section.S</string>
 					<string>paragraph.S</string>
@@ -475,6 +475,7 @@
 					<string>Hdotbelow</string>
 					<string>Hbrevebelow</string>
 					<string>Imacron</string>
+					<string>Kcaron</string>
 					<string>Kdotbelow</string>
 					<string>Klinebelow</string>
 					<string>Obreve</string>
@@ -571,6 +572,7 @@
 					<string>hbrevebelow</string>
 					<string>hlinebelow</string>
 					<string>imacron</string>
+					<string>kcaron</string>
 					<string>kdotbelow</string>
 					<string>klinebelow</string>
 					<string>obreve</string>
@@ -4437,6 +4439,9 @@
 				<string>glyphList</string>
 			</dict>
 		</array>
+		<key>com.typesupply.metricsMachine4.groupColors</key>
+		<dict>
+		</dict>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0a1
 1443733937.0 fontinfo.plist
@@ -5280,12 +5285,13 @@
 			<string>pnRosh</string>
 			<string>pnShin</string>
 			<string>pnTau</string>
+			<string>pnword</string>
 			<string>pn1</string>
+			<string>pn2</string>
+			<string>pn3</string>
 			<string>pn10</string>
 			<string>pn20</string>
 			<string>pn100</string>
-			<string>pn2</string>
-			<string>pn3</string>
 			<string>ugAlpa</string>
 			<string>ugBeta</string>
 			<string>ugGamla</string>
@@ -5415,7 +5421,6 @@
 			<string>endash.S</string>
 			<string>emdash.S</string>
 			<string>periodcentered.S</string>
-			<string>pnword</string>
 			<string>bullet.S</string>
 			<string>section.S</string>
 			<string>paragraph.S</string>
@@ -5530,6 +5535,7 @@
 			<string>Hdotbelow</string>
 			<string>Hbrevebelow</string>
 			<string>Imacron</string>
+			<string>Kcaron</string>
 			<string>Kdotbelow</string>
 			<string>Klinebelow</string>
 			<string>Obreve</string>
@@ -5626,6 +5632,7 @@
 			<string>hbrevebelow</string>
 			<string>hlinebelow</string>
 			<string>imacron</string>
+			<string>kcaron</string>
 			<string>kdotbelow</string>
 			<string>klinebelow</string>
 			<string>obreve</string>
