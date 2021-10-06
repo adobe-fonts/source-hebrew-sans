@@ -216,12 +216,13 @@ u10912	pnQof
 u10913	pnRosh
 u10914	pnShin
 u10915	pnTau
+u1091F	pnword
 u10916	pn1
+u1091A	pn2
+u1091B	pn3
 u10917	pn10
 u10918	pn20
 u10919	pn100
-u1091A	pn2
-u1091B	pn3
 u10380	ugAlpa
 u10381	ugBeta
 u10382	ugGamla
@@ -351,7 +352,6 @@ hyphen	hyphen.S	uni002D,uni00AD,uni2010,uni2011
 endash	endash.S
 emdash	emdash.S
 periodcentered	periodcentered.S
-u1091F	pnword
 bullet	bullet.S
 section	section.S
 paragraph	paragraph.S
@@ -453,6 +453,7 @@ Amacron	Amacron
 uni1EA0	Adotbelow
 uni1E06	Blinebelow
 Ccaron	Ccaron
+Dcaron	Dcaron
 uni1E0C	Ddotbelow
 uni1E0E	Dlinebelow
 Ebreve	Ebreve
@@ -466,6 +467,7 @@ Hbar	Hbar
 uni1E24	Hdotbelow
 uni1E2A	Hbrevebelow
 Imacron	Imacron
+uni01E8	Kcaron
 uni1E32	Kdotbelow
 uni1E34	Klinebelow
 Obreve	Obreve
@@ -473,6 +475,7 @@ Omacron	Omacron
 uni1ECC	Odotbelow
 Sacute	Sacute
 uni1E62	Sdotbelow
+Tcaron	Tcaron
 uni1E6C	Tdotbelow
 uni1E6E	Tlinebelow
 Umacron	Umacron
@@ -548,6 +551,7 @@ amacron	amacron
 uni1EA1	adotbelow
 uni1E07	blinebelow
 ccaron	ccaron
+dcaron	dcaron
 uni1E0D	ddotbelow
 uni1E0F	dlinebelow
 ebreve	ebreve
@@ -562,6 +566,7 @@ uni1E25	hdotbelow
 uni1E2B	hbrevebelow
 uni1E96	hlinebelow
 imacron	imacron
+uni01E9	kcaron
 uni1E33	kdotbelow
 uni1E35	klinebelow
 obreve	obreve
@@ -569,6 +574,7 @@ omacron	omacron
 uni1ECD	odotbelow
 sacute	sacute
 uni1E63	sdotbelow
+tcaron	tcaron
 uni1E6D	tdotbelow
 uni1E6F	tlinebelow
 umacron	umacron
@@ -578,12 +584,13 @@ uni1E95	zlinebelow
 uni0250	aturned
 uni0251	alphalatin
 uni0254	oopen
-uni0259	schwa
+uni0259	schwa	uni0258, uni01DD
 uni025B	eopen
 uni0261	gscript
 uni0263	gammalatin
 uni026A	ismall
 uni026B	lmiddletilde
+uni027E	rfishhook
 uni0280	rsmall
 uni0281	rsmallturned
 uni0283	esh
@@ -608,6 +615,7 @@ uni02BC	apostrophemod
 uni02BE	ringhalfrightmod
 uni02BF	ringhalfleftmod
 uni02C8	verticallinemod
+uni02CC	verticallinelowmod
 uni02D0	colontriangularmod
 uni02E4	glottalstopreversed.sups
 f_i	fi	uniFB01

@@ -18,3 +18,12 @@ table BASE {
 	latn romn -170 0,
 	DFLT romn -170 0;
 } BASE;
+
+#--------------------------------------
+
+#	languagesystem declarations:
+
+languagesystem DFLT dflt;
+languagesystem hebr dflt;
+	languagesystem hebr JII;
+languagesystem latn dflt;
