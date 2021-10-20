@@ -7,11 +7,10 @@ lookup MARK_BASE_above {
 	@bGC_K_above = [ K Klinebelow ];
 	@bGC_O_above = [ O Q Oslash ];
 	@bGC_Amacron_above = [ Amacron Emacron ];
-	@bGC_a_above = [ a c o oslash chi mu ];
+	@bGC_a_above = [ a c o oslash chilatin mu ];
 	@bGC_b_above = [ b h k klinebelow ];
 	@bGC_d_above = [ d theta ];
 	@bGC_e_above = [ e x eogonek gammalatin rsmall ];
-	@bGC_f_above = [ f florin ];
 	@bGC_g_above = [ g y ];
 	@bGC_i_above = [ i j ];
 	@bGC_l_above = [ l thorn ];
@@ -35,7 +34,6 @@ lookup MARK_BASE_above {
 	pos base @bGC_b_above <anchor 320 722> mark @MC_above;
 	pos base @bGC_d_above <anchor 280 722> mark @MC_above;
 	pos base @bGC_e_above <anchor 270 522> mark @MC_above;
-	pos base @bGC_f_above <anchor 250 722> mark @MC_above;
 	pos base @bGC_g_above <anchor 276 522> mark @MC_above;
 	pos base @bGC_i_above <anchor 144 722> mark @MC_above;
 	pos base @bGC_l_above <anchor 150 722> mark @MC_above;
@@ -67,6 +65,7 @@ lookup MARK_BASE_above {
 	pos base Imacron <anchor 160 832> mark @MC_above;
 	pos base Omacron <anchor 346 832> mark @MC_above;
 	pos base Umacron <anchor 336 832> mark @MC_above;
+	pos base f <anchor 250 722> mark @MC_above;
 	pos base m <anchor 450 522> mark @MC_above;
 	pos base q <anchor 298 522> mark @MC_above;
 	pos base s <anchor 240 522> mark @MC_above;
@@ -93,20 +92,23 @@ lookup MARK_BASE_above {
 
 
 lookup MARK_BASE_aboveHE {
-	@bGC_heAlef_aboveHE = [ heAlef heHe heTet ];
-	@bGC_heBet_aboveHE = [ heBet heKaf heHeWide ];
-	@bGC_heGimel_aboveHE = [ heGimel heKafWide ];
-	@bGC_heDalet_aboveHE = [ heDalet heNun heTsadiFin heResh heDaletWide ];
+	@bGC_heAlef_aboveHE = [ heAlef heHe heTet heAlefWide hrHe ];
+	@bGC_heBet_aboveHE = [ heBet heKaf ];
+	@bGC_heDalet_aboveHE = [ heDalet heNun heTsadiFin heResh ];
 	@bGC_heHet_aboveHE = [ heHet heLamed heMemFin heSamekh ];
 	@bGC_heYod_aboveHE = [ heYod heNunFin ];
-	@bGC_heLamedWide_aboveHE = [ heLamedWide heTavWide ];
+	@bGC_heTsadi_aboveHE = [ heTsadi hrGimel ];
+	@bGC_heDaletWide_aboveHE = [ heDaletWide heReshWide ];
+	@bGC_heLamedWide_aboveHE = [ heLamedWide heMemFinWide ];
 	pos base @bGC_heAlef_aboveHE <anchor 330 590> mark @MC_aboveHE;
 	pos base @bGC_heBet_aboveHE <anchor 260 590> mark @MC_aboveHE;
-	pos base @bGC_heGimel_aboveHE <anchor 220 590> mark @MC_aboveHE;
 	pos base @bGC_heDalet_aboveHE <anchor 230 590> mark @MC_aboveHE;
 	pos base @bGC_heHet_aboveHE <anchor 340 590> mark @MC_aboveHE;
 	pos base @bGC_heYod_aboveHE <anchor 150 590> mark @MC_aboveHE;
-	pos base @bGC_heLamedWide_aboveHE <anchor 265 590> mark @MC_aboveHE;
+	pos base @bGC_heTsadi_aboveHE <anchor 280 590> mark @MC_aboveHE;
+	pos base @bGC_heDaletWide_aboveHE <anchor 630 590> mark @MC_aboveHE;
+	pos base @bGC_heLamedWide_aboveHE <anchor 740 590> mark @MC_aboveHE;
+	pos base heGimel <anchor 220 590> mark @MC_aboveHE;
 	pos base heVav <anchor 160 590> mark @MC_aboveHE;
 	pos base heZayin <anchor 170 590> mark @MC_aboveHE;
 	pos base heKafFin <anchor 210 590> mark @MC_aboveHE;
@@ -114,36 +116,32 @@ lookup MARK_BASE_aboveHE {
 	pos base heAyin <anchor 290 590> mark @MC_aboveHE;
 	pos base hePe <anchor 311 590> mark @MC_aboveHE;
 	pos base hePeFin <anchor 285 590> mark @MC_aboveHE;
-	pos base heTsadi <anchor 280 590> mark @MC_aboveHE;
 	pos base heQof <anchor 320 590> mark @MC_aboveHE;
 	pos base heShin <anchor 380 590> mark @MC_aboveHE;
 	pos base heTav <anchor 350 590> mark @MC_aboveHE;
-	pos base heAlefWide <anchor 275 590> mark @MC_aboveHE;
-	pos base heMemFinWide <anchor 540 590> mark @MC_aboveHE;
-	pos base heReshWide <anchor 180 590> mark @MC_aboveHE;
+	pos base heHeWide <anchor 730 590> mark @MC_aboveHE;
+	pos base heKafWide <anchor 660 590> mark @MC_aboveHE;
+	pos base heTavWide <anchor 750 590> mark @MC_aboveHE;
 } MARK_BASE_aboveHE;
 
 
 lookup MARK_BASE_aboveLeftHE {
-	@bGC_heAlef_aboveLeftHE = [ heAlef heAyin ];
-	@bGC_heBet_aboveLeftHE = [ heBet heHe heHet heKaf heMemFin hePeFin heQof heMemFinWide ];
-	@bGC_heDalet_aboveLeftHE = [ heDalet heZayin heYod heKafFin heNunFin heSamekh heResh heShin heDaletWide heHeWide ];
-	@bGC_heTet_aboveLeftHE = [ heTet heTsadi ];
-	@bGC_heNun_aboveLeftHE = [ heNun hePe heTav ];
-	@bGC_heTsadiFin_aboveLeftHE = [ heTsadiFin heAlefWide heKafWide ];
+	@bGC_heAlef_aboveLeftHE = [ heAlef heAyin heAlefWide hrHe ];
+	@bGC_heBet_aboveLeftHE = [ heBet heHe heHet heKaf heMemFin hePeFin heQof heHeWide heKafWide heMemFinWide ];
+	@bGC_heDalet_aboveLeftHE = [ heDalet heZayin heYod heKafFin heNunFin heSamekh heResh heShin heDaletWide heReshWide ];
+	@bGC_heTet_aboveLeftHE = [ heTet heTsadi hrGimel ];
+	@bGC_heLamed_aboveLeftHE = [ heLamed heLamedWide ];
+	@bGC_heNun_aboveLeftHE = [ heNun hePe heTav heTavWide ];
 	pos base @bGC_heAlef_aboveLeftHE <anchor 20 590> mark @MC_aboveLeftHE;
 	pos base @bGC_heBet_aboveLeftHE <anchor 40 590> mark @MC_aboveLeftHE;
 	pos base @bGC_heDalet_aboveLeftHE <anchor -10 590> mark @MC_aboveLeftHE;
 	pos base @bGC_heTet_aboveLeftHE <anchor 0 590> mark @MC_aboveLeftHE;
+	pos base @bGC_heLamed_aboveLeftHE <anchor -50 590> mark @MC_aboveLeftHE;
 	pos base @bGC_heNun_aboveLeftHE <anchor 60 590> mark @MC_aboveLeftHE;
-	pos base @bGC_heTsadiFin_aboveLeftHE <anchor 5 590> mark @MC_aboveLeftHE;
 	pos base heGimel <anchor 61 590> mark @MC_aboveLeftHE;
 	pos base heVav <anchor 160 590> mark @MC_aboveLeftHE;
-	pos base heLamed <anchor -50 590> mark @MC_aboveLeftHE;
 	pos base heMem <anchor 10 590> mark @MC_aboveLeftHE;
-	pos base heLamedWide <anchor -65 590> mark @MC_aboveLeftHE;
-	pos base heReshWide <anchor -22 590> mark @MC_aboveLeftHE;
-	pos base heTavWide <anchor -40 590> mark @MC_aboveLeftHE;
+	pos base heTsadiFin <anchor 5 590> mark @MC_aboveLeftHE;
 } MARK_BASE_aboveLeftHE;
 
 
@@ -184,7 +182,7 @@ lookup MARK_BASE_below {
 	@bGC_w_below = [ w ae ];
 	@bGC_z_below = [ z eopen glottalstopreversed ];
 	@bGC_lslash_below = [ lslash oopen ismall ];
-	@bGC_tesh_below = [ tesh chi ];
+	@bGC_tesh_below = [ tesh chilatin ];
 	pos base @bGC_A_below <anchor 290 -22> mark @MC_below;
 	pos base @bGC_B_below <anchor 320 -22> mark @MC_below;
 	pos base @bGC_C_below <anchor 350 -22> mark @MC_below;
@@ -231,7 +229,6 @@ lookup MARK_BASE_below {
 	pos base ezh <anchor 220 -182> mark @MC_below;
 	pos base glottalstop <anchor 200 -22> mark @MC_below;
 	pos base ts <anchor 380 -22> mark @MC_below;
-	pos base florin <anchor 120 -182> mark @MC_below;
 	pos base mu <anchor 320 -182> mark @MC_below;
 	pos base Omega <anchor 360 -22> mark @MC_below;
 	pos base circledotted <anchor 288 -22> mark @MC_below;
@@ -239,36 +236,37 @@ lookup MARK_BASE_below {
 
 
 lookup MARK_BASE_belowLeftHE {
-	@bGC_heLamed_belowLeftHE = [ heLamed heLamedWide ];
-	pos base @bGC_heLamed_belowLeftHE <anchor 130 -22> mark @MC_belowLeftHE;
+	pos base heLamed <anchor 130 -22> mark @MC_belowLeftHE;
 	pos base heTsadiFin <anchor 335 -22> mark @MC_belowLeftHE;
 	pos base heQof <anchor 265 -22> mark @MC_belowLeftHE;
+	pos base heLamedWide <anchor 530 -22> mark @MC_belowLeftHE;
 } MARK_BASE_belowLeftHE;
 
 
 lookup MARK_BASE_belowPrimaryHE {
-	@bGC_heAlef_belowPrimaryHE = [ heAlef heAlefWide ];
-	@bGC_heBet_belowPrimaryHE = [ heBet heHeWide heTavWide ];
+	@bGC_heAlef_belowPrimaryHE = [ heAlef heAlefWide hrHe ];
 	@bGC_heGimel_belowPrimaryHE = [ heGimel heZayin heNun ];
 	@bGC_heHe_belowPrimaryHE = [ heHe heMemFin ];
 	@bGC_heHet_belowPrimaryHE = [ heHet heShin ];
-	@bGC_hePe_belowPrimaryHE = [ hePe heTsadi ];
+	@bGC_hePe_belowPrimaryHE = [ hePe heTsadi hrGimel ];
+	@bGC_heHeWide_belowPrimaryHE = [ heHeWide heMemFinWide ];
 	pos base @bGC_heAlef_belowPrimaryHE <anchor 310 -22> mark @MC_belowPrimaryHE;
-	pos base @bGC_heBet_belowPrimaryHE <anchor 270 -22> mark @MC_belowPrimaryHE;
 	pos base @bGC_heGimel_belowPrimaryHE <anchor 210 -22> mark @MC_belowPrimaryHE;
 	pos base @bGC_heHe_belowPrimaryHE <anchor 340 -22> mark @MC_belowPrimaryHE;
 	pos base @bGC_heHet_belowPrimaryHE <anchor 350 -22> mark @MC_belowPrimaryHE;
 	pos base @bGC_hePe_belowPrimaryHE <anchor 290 -22> mark @MC_belowPrimaryHE;
+	pos base @bGC_heHeWide_belowPrimaryHE <anchor 740 -22> mark @MC_belowPrimaryHE;
+	pos base heBet <anchor 270 -22> mark @MC_belowPrimaryHE;
 	pos base heTet <anchor 320 -22> mark @MC_belowPrimaryHE;
 	pos base heYod <anchor 150 -22> mark @MC_belowPrimaryHE;
-	pos base heKaf <anchor 255 -22> mark @MC_belowPrimaryHE;
+	pos base heKaf <anchor 260 -22> mark @MC_belowPrimaryHE;
 	pos base heKafFin <anchor 140 -22> mark @MC_belowPrimaryHE;
 	pos base heMem <anchor 380 -22> mark @MC_belowPrimaryHE;
 	pos base heSamekh <anchor 330 -22> mark @MC_belowPrimaryHE;
 	pos base heAyin <anchor 280 -22> mark @MC_belowPrimaryHE;
 	pos base heTav <anchor 360 -22> mark @MC_belowPrimaryHE;
-	pos base heKafWide <anchor 225 -22> mark @MC_belowPrimaryHE;
-	pos base heMemFinWide <anchor 540 -22> mark @MC_belowPrimaryHE;
+	pos base heKafWide <anchor 660 -22> mark @MC_belowPrimaryHE;
+	pos base heTavWide <anchor 760 -22> mark @MC_belowPrimaryHE;
 } MARK_BASE_belowPrimaryHE;
 
 
@@ -279,11 +277,11 @@ lookup MARK_BASE_belowRightHE {
 
 
 lookup MARK_BASE_belowSecondaryHE {
-	@bGC_heDalet_belowSecondaryHE = [ heDalet heDaletWide ];
-	@bGC_heResh_belowSecondaryHE = [ heResh heReshWide ];
-	pos base @bGC_heDalet_belowSecondaryHE <anchor 290 -22> mark @MC_belowSecondaryHE;
-	pos base @bGC_heResh_belowSecondaryHE <anchor 320 -22> mark @MC_belowSecondaryHE;
+	pos base heDalet <anchor 340 -22> mark @MC_belowSecondaryHE;
 	pos base heVav <anchor 210 -22> mark @MC_belowSecondaryHE;
+	pos base heResh <anchor 370 -22> mark @MC_belowSecondaryHE;
+	pos base heDaletWide <anchor 1140 -22> mark @MC_belowSecondaryHE;
+	pos base heReshWide <anchor 1170 -22> mark @MC_belowSecondaryHE;
 } MARK_BASE_belowSecondaryHE;
 
 
@@ -303,9 +301,12 @@ lookup MARK_BASE_center {
 
 
 lookup MARK_BASE_centerHE {
+	@bGC_heAlef_centerHE = [ heAlef heAlefWide hrHe ];
 	@bGC_heKafFin_centerHE = [ heKafFin heResh ];
+	@bGC_heTsadi_centerHE = [ heTsadi hrGimel ];
+	pos base @bGC_heAlef_centerHE <anchor 276 90> mark @MC_centerHE;
 	pos base @bGC_heKafFin_centerHE <anchor 150 200> mark @MC_centerHE;
-	pos base heAlef <anchor 276 90> mark @MC_centerHE;
+	pos base @bGC_heTsadi_centerHE <anchor 80 240> mark @MC_centerHE;
 	pos base heBet <anchor 190 280> mark @MC_centerHE;
 	pos base heGimel <anchor 135 290> mark @MC_centerHE;
 	pos base heDalet <anchor 140 200> mark @MC_centerHE;
@@ -322,19 +323,17 @@ lookup MARK_BASE_centerHE {
 	pos base heNun <anchor 135 280> mark @MC_centerHE;
 	pos base heSamekh <anchor 350 290> mark @MC_centerHE;
 	pos base hePe <anchor 350 280> mark @MC_centerHE;
-	pos base hePeFin <anchor 310 240> mark @MC_centerHE;
-	pos base heTsadi <anchor 80 240> mark @MC_centerHE;
+	pos base hePeFin <anchor 320 240> mark @MC_centerHE;
 	pos base heQof <anchor 320 300> mark @MC_centerHE;
 	pos base heShin <anchor 478 260> mark @MC_centerHE;
 	pos base heTav <anchor 360 200> mark @MC_centerHE;
-	pos base heAlefWide <anchor 270 90> mark @MC_centerHE;
-	pos base heDaletWide <anchor 125 190> mark @MC_centerHE;
-	pos base heHeWide <anchor 270 190> mark @MC_centerHE;
-	pos base heKafWide <anchor 185 250> mark @MC_centerHE;
-	pos base heLamedWide <anchor 185 275> mark @MC_centerHE;
-	pos base heMemFinWide <anchor 540 280> mark @MC_centerHE;
-	pos base heReshWide <anchor 140 190> mark @MC_centerHE;
-	pos base heTavWide <anchor 280 190> mark @MC_centerHE;
+	pos base heDaletWide <anchor 540 200> mark @MC_centerHE;
+	pos base heHeWide <anchor 740 200> mark @MC_centerHE;
+	pos base heKafWide <anchor 610 280> mark @MC_centerHE;
+	pos base heLamedWide <anchor 570 280> mark @MC_centerHE;
+	pos base heMemFinWide <anchor 740 280> mark @MC_centerHE;
+	pos base heReshWide <anchor 550 200> mark @MC_centerHE;
+	pos base heTavWide <anchor 760 200> mark @MC_centerHE;
 } MARK_BASE_centerHE;
 
 

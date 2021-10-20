@@ -4455,6 +4455,146 @@
 		</array>
 		<key>com.typesupply.metricsMachine4.groupColors</key>
 		<dict>
+			<key>public.kern1.HEB_ALEF</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern1.HEB_BET</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern1.HEB_DALET</key>
+			<array>
+				<real>0.5</real>
+				<integer>0</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern1.HEB_GIMEL</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.5</real>
+				<real>0.25</real>
+			</array>
+			<key>public.kern1.HEB_HE</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern1.HEB_LAMED</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern1.HEB_TET</key>
+			<array>
+				<integer>0</integer>
+				<real>0.5</real>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_ALEF</key>
+			<array>
+				<integer>1</integer>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_AYIN</key>
+			<array>
+				<integer>1</integer>
+				<real>0.5</real>
+				<integer>0</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_BET</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_DALET</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_GIMEL</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_HE</key>
+			<array>
+				<integer>0</integer>
+				<real>0.5</real>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_LAMED</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_MEM</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.5</real>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_PE</key>
+			<array>
+				<integer>1</integer>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_PEFIN</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_TET</key>
+			<array>
+				<real>0.5</real>
+				<integer>0</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.HEB_VAV</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
 		</dict>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0a1
@@ -5110,9 +5250,9 @@
 			<string>heResh</string>
 			<string>heShin</string>
 			<string>heTav</string>
-			<string>heVavdbl</string>
+			<string>heVavVav</string>
 			<string>heVavYod</string>
-			<string>heYoddbl</string>
+			<string>heYodYod</string>
 			<string>heAlefWide</string>
 			<string>heDaletWide</string>
 			<string>heHeWide</string>
@@ -5154,7 +5294,7 @@
 			<string>heKafRafe</string>
 			<string>hePeRafe</string>
 			<string>heYodHiriq</string>
-			<string>heYodDblYidPatah</string>
+			<string>heYodYodPatah</string>
 			<string>heAlefLamed</string>
 			<string>gampersand</string>
 			<string>heSheva</string>
@@ -5681,7 +5821,7 @@
 			<string>ts</string>
 			<string>tesh</string>
 			<string>theta</string>
-			<string>chi</string>
+			<string>chilatin</string>
 			<string>a.sups</string>
 			<string>e.sups</string>
 			<string>j.sups</string>
@@ -5957,6 +6097,7 @@
 			<string>ogonekcmb</string>
 			<string>tildeoverlaycmb</string>
 			<string>space.frac</string>
+			<string>aiShin.copy_1</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>

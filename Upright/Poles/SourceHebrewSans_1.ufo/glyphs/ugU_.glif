@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugU" format="2">
 	<unicode hex="1039C"/>
-	<advance width="630"/>
+	<advance width="794"/>
 	<outline>
 		<contour>
-			<point x="114" y="220" type="curve"/>
-			<point x="182" y="220" type="line"/>
-			<point x="182" y="390"/>
-			<point x="198" y="492"/>
-			<point x="242" y="568" type="curve"/>
-			<point x="44" y="568" type="line"/>
-			<point x="99" y="490"/>
-			<point x="114" y="390"/>
+			<point x="120" y="208" type="curve"/>
+			<point x="202" y="208" type="line"/>
+			<point x="202" y="412"/>
+			<point x="222" y="534"/>
+			<point x="274" y="626" type="curve"/>
+			<point x="36" y="626" type="line"/>
+			<point x="103" y="531"/>
+			<point x="120" y="412"/>
 		</contour>
 		<contour>
-			<point x="306" y="220" type="curve"/>
-			<point x="374" y="220" type="line"/>
-			<point x="374" y="390"/>
-			<point x="390" y="492"/>
-			<point x="434" y="568" type="curve"/>
-			<point x="246" y="568" type="line"/>
-			<point x="290" y="492"/>
-			<point x="306" y="390"/>
+			<point x="351" y="208" type="curve"/>
+			<point x="432" y="208" type="line"/>
+			<point x="432" y="412"/>
+			<point x="453" y="534"/>
+			<point x="504" y="626" type="curve"/>
+			<point x="279" y="626" type="line"/>
+			<point x="330" y="534"/>
+			<point x="351" y="412"/>
 		</contour>
 		<contour>
-			<point x="498" y="220" type="curve"/>
-			<point x="566" y="220" type="line"/>
-			<point x="566" y="390"/>
-			<point x="580" y="490"/>
-			<point x="636" y="568" type="curve"/>
-			<point x="438" y="568" type="line"/>
-			<point x="482" y="492"/>
-			<point x="498" y="390"/>
+			<point x="581" y="208" type="curve"/>
+			<point x="663" y="208" type="line"/>
+			<point x="663" y="412"/>
+			<point x="679" y="531"/>
+			<point x="747" y="626" type="curve"/>
+			<point x="509" y="626" type="line"/>
+			<point x="561" y="534"/>
+			<point x="581" y="412"/>
 		</contour>
-		<component base="ugTo" yOffset="-40"/>
+		<component base="ugTo" yOffset="-50"/>
 	</outline>
 	<lib>
 		<dict>

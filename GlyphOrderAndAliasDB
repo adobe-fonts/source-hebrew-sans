@@ -27,9 +27,9 @@ uni05E7	heQof
 uni05E8	heResh
 uni05E9	heShin
 uni05EA	heTav
-uni05F0	heVavdbl
+uni05F0	heVavVav
 uni05F1	heVavYod
-uni05F2	heYoddbl
+uni05F2	heYodYod
 uni05D0.j	heAlefWide	uniFB21
 uni05D3.j	heDaletWide	uniFB22
 uni05D4.j	heHeWide	uniFB23
@@ -71,9 +71,9 @@ u05D105BF	heBetRafe	uniFB4C
 u05DB05BF	heKafRafe	uniFB4D
 u05E405BF	hePeRafe	uniFB4E
 u05D905B4	heYodHiriq	uniFB1D
-u05F205B7	heYodDblYidPatah	uniFB1F
+u05F205B7	heYodYodPatah	uniFB1F
 u05D005DC	heAlefLamed	uniFB4F
-uni05D2_uni05DD	gampersand
+uni0026	gampersand
 uni05B0	heSheva
 uni05B1	heHatafSegol
 uni05B2	heHatafPatah
@@ -583,17 +583,19 @@ uni1E93	zdotbelow
 uni1E95	zlinebelow
 uni0250	aturned
 uni0251	alphalatin
-uni0254	oopen
+uniAB53	chilatin
 uni0259	schwa	uni0258, uni01DD
 uni025B	eopen
 uni0261	gscript
 uni0263	gammalatin
 uni026A	ismall
 uni026B	lmiddletilde
+uni0254	oopen
 uni027E	rfishhook
 uni0280	rsmall
 uni0281	rsmallturned
 uni0283	esh
+theta	theta
 uni028A	upsilonlatin
 uni028E	yturned
 uni0292	ezh
@@ -602,8 +604,6 @@ uni0295	glottalstopreversed
 uni02A4	dezh
 uni02A6	ts
 uni02A7	tesh
-theta	theta
-chi	chi
 ordfeminine	a.sups	uni00AA, uni1D43
 uni1D49	e.sups
 uni02B2	j.sups

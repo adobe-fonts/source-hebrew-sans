@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiAyin" format="2">
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="302" y="-12" type="curve" smooth="yes"/>
+			<point x="468" y="-12"/>
+			<point x="596" y="104"/>
+			<point x="596" y="568" type="curve"/>
+			<point x="436" y="568" type="line"/>
+			<point x="436" y="198"/>
+			<point x="390" y="158"/>
+			<point x="320" y="158" type="curve" smooth="yes"/>
+			<point x="250" y="158"/>
+			<point x="204" y="200"/>
+			<point x="204" y="576" type="curve"/>
+			<point x="24" y="554" type="line"/>
+			<point x="24" y="96"/>
+			<point x="147" y="-12"/>
+		</contour>
+		<contour>
+			<point x="282" y="148" type="curve" smooth="yes"/>
+			<point x="434" y="148"/>
+			<point x="538.9487020471" y="265.1944360918"/>
+			<point x="550" y="568" type="curve"/>
+			<point x="406" y="568" type="line"/>
+			<point x="394.102058652" y="377.6329384321"/>
+			<point x="364" y="318"/>
+			<point x="300" y="318" type="curve" smooth="yes"/>
+			<point x="224" y="318"/>
+			<point x="185.8287405207" y="379.6429073564"/>
+			<point x="174" y="576" type="curve"/>
+			<point x="14" y="560" type="line"/>
+			<point x="25.073867261" y="261.0055839534"/>
+			<point x="133" y="148"/>
+		</contour>
+	</outline>
+</glyph>

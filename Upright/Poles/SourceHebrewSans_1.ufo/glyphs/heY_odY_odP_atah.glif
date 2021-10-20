@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heYodYodPatah" format="2">
+	<unicode hex="FB1F"/>
+	<advance width="644"/>
+	<outline>
+		<component base="hePatah" xOffset="320" yOffset="180"/>
+		<component base="heYodYod"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.4,0.8,0.9989,1</string>
+		</dict>
+	</lib>
+</glyph>

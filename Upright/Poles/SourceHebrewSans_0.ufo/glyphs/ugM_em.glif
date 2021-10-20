@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugMem" format="2">
 	<unicode hex="1038E"/>
-	<advance width="494"/>
+	<advance width="578"/>
 	<outline>
 		<contour>
 			<point x="26" y="238" type="line"/>
@@ -13,16 +13,7 @@
 			<point x="74" y="289"/>
 			<point x="26" y="310" type="curve"/>
 		</contour>
-		<contour>
-			<point x="436" y="-55" type="curve"/>
-			<point x="460" y="-55" type="line"/>
-			<point x="460" y="293"/>
-			<point x="458" y="531"/>
-			<point x="487" y="601" type="curve"/>
-			<point x="410" y="601" type="line"/>
-			<point x="439" y="531"/>
-			<point x="436" y="293"/>
-		</contour>
+		<component base="ugGamla" xOffset="310"/>
 	</outline>
 	<lib>
 		<dict>

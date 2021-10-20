@@ -3,7 +3,7 @@
 	<unicode hex="05B6"/>
 	<outline>
 		<component base="heTsere"/>
-		<component base="dotbelowcmb" xScale="0.45" yScale="0.45" yOffset="-164"/>
+		<component base="dotbelowcmb" xScale="0.48" yScale="0.48" yOffset="-164"/>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
 	<anchor name="_belowLeftHE" x="-100" y="-22"/>
@@ -13,7 +13,7 @@
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

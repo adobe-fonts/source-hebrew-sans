@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugShin" format="2">
 	<unicode hex="1038C"/>
-	<advance width="794"/>
+	<advance width="1155"/>
 	<outline>
-		<contour>
-			<point x="374" y="0" type="curve"/>
-			<point x="442" y="0" type="line"/>
-			<point x="594" y="206"/>
-			<point x="706" y="353"/>
-			<point x="822" y="393" type="curve"/>
-			<point x="658" y="522" type="line"/>
-			<point x="647" y="413"/>
-			<point x="564" y="276"/>
-			<point x="440" y="106" type="curve"/>
-			<point x="441" y="324"/>
-			<point x="451" y="472"/>
-			<point x="512" y="568" type="curve"/>
-			<point x="304" y="568" type="line"/>
-			<point x="365" y="472"/>
-			<point x="375" y="324"/>
-			<point x="376" y="106" type="curve"/>
-			<point x="252" y="276"/>
-			<point x="169" y="413"/>
-			<point x="158" y="522" type="curve"/>
-			<point x="-6" y="393" type="line"/>
-			<point x="110" y="353"/>
-			<point x="222" y="206"/>
-		</contour>
+		<component base="ugGamla" xOffset="390"/>
+		<component base="ugGamla" xScale="0.76" xyScale="-0.64" yxScale="0.64" yScale="0.76" xOffset="452" yOffset="108"/>
+		<component base="ugGamla" xScale="0.76" xyScale="0.64" yxScale="-0.64" yScale="0.76" xOffset="416" yOffset="-134"/>
 	</outline>
 	<lib>
 		<dict>

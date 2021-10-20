@@ -48,6 +48,13 @@
 			<key>public.kern2.LAT_Y_UC_RIGHT</key>
 			<integer>-60</integer>
 		</dict>
+		<key>exclam.S</key>
+		<dict>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-30</integer>
+			<key>public.kern2.HEB_PE</key>
+			<integer>-10</integer>
+		</dict>
 		<key>exclamdown</key>
 		<dict>
 			<key>public.kern2.LAT_J_LC_RIGHT</key>
@@ -90,6 +97,89 @@
 			<key>trademark</key>
 			<integer>0</integer>
 		</dict>
+		<key>heGeresh</key>
+		<dict>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-50</integer>
+			<key>public.kern2.HEB_GIMEL</key>
+			<integer>-40</integer>
+			<key>public.kern2.HEB_PE</key>
+			<integer>-40</integer>
+		</dict>
+		<key>heKaf</key>
+		<dict>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-10</integer>
+		</dict>
+		<key>heMaqaf</key>
+		<dict>
+			<key>public.kern2.HEB_AYIN</key>
+			<integer>10</integer>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>40</integer>
+			<key>public.kern2.HEB_PE</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<integer>40</integer>
+			<key>public.kern2.HEB_TET</key>
+			<integer>10</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>40</integer>
+		</dict>
+		<key>heMem</key>
+		<dict>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-10</integer>
+		</dict>
+		<key>hePe</key>
+		<dict>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-10</integer>
+		</dict>
+		<key>heSofPasuq</key>
+		<dict>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>20</integer>
+		</dict>
+		<key>hyphen.S</key>
+		<dict>
+			<key>heVavDagesh</key>
+			<integer>20</integer>
+			<key>heYod</key>
+			<integer>0</integer>
+			<key>heYodDagesh</key>
+			<integer>20</integer>
+			<key>heZayinDagesh</key>
+			<integer>40</integer>
+			<key>public.kern2.HEB_ALEF</key>
+			<integer>-30</integer>
+			<key>public.kern2.HEB_AYIN</key>
+			<integer>-40</integer>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-40</integer>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_GIMEL</key>
+			<integer>-30</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-40</integer>
+			<key>public.kern2.HEB_MEM</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_PE</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>-20</integer>
+		</dict>
 		<key>ismall</key>
 		<dict>
 			<key>public.kern2.LAT_F_LC_RIGHT</key>
@@ -130,6 +220,37 @@
 			<key>public.kern2.LAT_Z_UC_RIGHT</key>
 			<integer>-30</integer>
 		</dict>
+		<key>periodcentered.S</key>
+		<dict>
+			<key>heVavDagesh</key>
+			<integer>20</integer>
+			<key>heYodDagesh</key>
+			<integer>20</integer>
+			<key>heZayinDagesh</key>
+			<integer>40</integer>
+			<key>public.kern2.HEB_ALEF</key>
+			<integer>-30</integer>
+			<key>public.kern2.HEB_AYIN</key>
+			<integer>-40</integer>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-40</integer>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_GIMEL</key>
+			<integer>-30</integer>
+			<key>public.kern2.HEB_HE</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-40</integer>
+			<key>public.kern2.HEB_MEM</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_PE</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>-20</integer>
+		</dict>
 		<key>pi</key>
 		<dict>
 			<key>public.kern2.PCT_GUILRIGHT_RIGHT</key>
@@ -159,6 +280,115 @@
 		<key>public.kern1.GRK_THETA_LC_LEFT</key>
 		<dict>
 			<key>public.kern2.GRK_CHI_LC_RIGHT</key>
+			<integer>-10</integer>
+		</dict>
+		<key>public.kern1.HEB_ALEF</key>
+		<dict>
+			<key>public.kern2.HEB_AYIN</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_MEM</key>
+			<integer>10</integer>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_TET</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>30</integer>
+		</dict>
+		<key>public.kern1.HEB_BET</key>
+		<dict>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>-10</integer>
+			<key>public.kern2.PCT_BRACERIGHT_RIGHT</key>
+			<integer>-30</integer>
+		</dict>
+		<key>public.kern1.HEB_DALET</key>
+		<dict>
+			<key>public.kern2.HEB_ALEF</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>10</integer>
+			<key>public.kern2.HEB_GIMEL</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_HE</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_PE</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_TET</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>10</integer>
+		</dict>
+		<key>public.kern1.HEB_GIMEL</key>
+		<dict>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-20</integer>
+			<key>public.kern2.PCT_BRACERIGHT_RIGHT</key>
+			<integer>-10</integer>
+		</dict>
+		<key>public.kern1.HEB_HE</key>
+		<dict>
+			<key>public.kern2.HEB_BET</key>
+			<integer>0</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>0</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>-10</integer>
+			<key>public.kern2.PCT_BRACERIGHT_RIGHT</key>
+			<integer>-20</integer>
+		</dict>
+		<key>public.kern1.HEB_LAMED</key>
+		<dict>
+			<key>public.kern2.HEB_ALEF</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_AYIN</key>
+			<integer>10</integer>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_GIMEL</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_HE</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_TET</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>20</integer>
+			<key>public.kern2.PCT_BRACERIGHT_RIGHT</key>
+			<integer>-10</integer>
+		</dict>
+		<key>public.kern1.HEB_TET</key>
+		<dict>
+			<key>public.kern2.HEB_AYIN</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_GIMEL</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_TET</key>
+			<integer>20</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>20</integer>
+			<key>public.kern2.PCT_BRACERIGHT_RIGHT</key>
 			<integer>-10</integer>
 		</dict>
 		<key>public.kern1.LAT_A_LC_LEFT</key>
@@ -1558,6 +1788,30 @@
 		<dict>
 			<key>asterisk</key>
 			<integer>-180</integer>
+			<key>heDaletDagesh</key>
+			<integer>-80</integer>
+			<key>heKafDageshFin</key>
+			<integer>-80</integer>
+			<key>heReshDagesh</key>
+			<integer>-80</integer>
+			<key>heVavDagesh</key>
+			<integer>0</integer>
+			<key>heZayinDagesh</key>
+			<integer>0</integer>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>-120</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-40</integer>
+			<key>public.kern2.HEB_MEM</key>
+			<integer>-30</integer>
+			<key>public.kern2.HEB_PEFIN</key>
+			<integer>-80</integer>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<integer>-80</integer>
+			<key>public.kern2.HEB_TET</key>
+			<integer>-50</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>-60</integer>
 			<key>public.kern2.LAT_HBAR_LC_RIGHT</key>
 			<integer>-10</integer>
 			<key>public.kern2.LAT_J_LC_RIGHT</key>
@@ -1627,6 +1881,14 @@
 			<integer>-20</integer>
 			<key>public.kern2.GRK_CHI_LC_RIGHT</key>
 			<integer>-20</integer>
+			<key>public.kern2.HEB_AYIN</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_MEM</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<integer>-10</integer>
 			<key>public.kern2.LAT_HBAR_LC_RIGHT</key>
 			<integer>-10</integer>
 			<key>public.kern2.LAT_T_LC_RIGHT</key>
@@ -1650,8 +1912,32 @@
 		</dict>
 		<key>public.kern1.PCT_GUILRIGHT_LEFT</key>
 		<dict>
+			<key>heVavDagesh</key>
+			<integer>20</integer>
+			<key>heYodDagesh</key>
+			<integer>20</integer>
+			<key>heZayinDagesh</key>
+			<integer>40</integer>
 			<key>public.kern2.GRK_CHI_LC_RIGHT</key>
 			<integer>-30</integer>
+			<key>public.kern2.HEB_AYIN</key>
+			<integer>-40</integer>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_DALET</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_GIMEL</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-40</integer>
+			<key>public.kern2.HEB_MEM</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_PE</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_SAMEKH</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_VAV</key>
+			<integer>-40</integer>
 			<key>public.kern2.LAT_J_UC_RIGHT</key>
 			<integer>-30</integer>
 			<key>public.kern2.LAT_S_UC_RIGHT</key>
@@ -1756,6 +2042,17 @@
 			<integer>-10</integer>
 			<key>public.kern2.PCT_COMMA_RIGHT</key>
 			<integer>-140</integer>
+		</dict>
+		<key>question.S</key>
+		<dict>
+			<key>public.kern2.HEB_BET</key>
+			<integer>-20</integer>
+			<key>public.kern2.HEB_GIMEL</key>
+			<integer>-10</integer>
+			<key>public.kern2.HEB_LAMED</key>
+			<integer>-30</integer>
+			<key>public.kern2.HEB_PE</key>
+			<integer>-20</integer>
 		</dict>
 		<key>questiondown</key>
 		<dict>

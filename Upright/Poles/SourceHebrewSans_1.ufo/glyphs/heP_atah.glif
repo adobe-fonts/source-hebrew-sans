@@ -2,7 +2,7 @@
 <glyph name="hePatah" format="2">
 	<unicode hex="05B7"/>
 	<outline>
-		<component base="heRafe" yOffset="-780"/>
+		<component base="heRafe" xScale="0.95" yOffset="-788"/>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
 	<anchor name="_belowLeftHE" x="-110" y="-22"/>
@@ -12,10 +12,8 @@
 	<guideline x="-170" y="0" angle="90" identifier="2L2adE99FR"/>
 	<lib>
 		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.2L2adE99FR</key>
-			<integer>5</integer>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -2,7 +2,16 @@
 <glyph name="heQamats" format="2">
 	<unicode hex="05B8"/>
 	<outline>
-		<component base="downtackbelowcmb"/>
+		<contour>
+			<point x="-34" y="-240" type="line"/>
+			<point x="34" y="-240" type="line"/>
+			<point x="34" y="-144" type="line"/>
+			<point x="110" y="-144" type="line"/>
+			<point x="110" y="-76" type="line"/>
+			<point x="-110" y="-76" type="line"/>
+			<point x="-110" y="-144" type="line"/>
+			<point x="-34" y="-144" type="line"/>
+		</contour>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
 	<anchor name="_belowLeftHE" x="-110" y="-22"/>
@@ -14,14 +23,8 @@
 	<guideline x="-180" y="0" angle="90" identifier="5bYeOjA5hK"/>
 	<lib>
 		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.5bYeOjA5hK</key>
-			<integer>5</integer>
-			<key>com.typemytype.robofont.guideline.magnetic.bYNHsEVlmS</key>
-			<integer>5</integer>
-			<key>com.typemytype.robofont.guideline.magnetic.kRZyMTKTdj</key>
-			<integer>5</integer>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>1,1,0,1</string>
 		</dict>
 	</lib>
 </glyph>

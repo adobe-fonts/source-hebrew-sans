@@ -2,48 +2,9 @@
 <glyph name="heQubuts" format="2">
 	<unicode hex="05BB"/>
 	<outline>
-		<contour>
-			<point x="-122" y="-136"/>
-			<point x="-105" y="-152"/>
-			<point x="-80" y="-152" type="curve" smooth="yes"/>
-			<point x="-58" y="-152"/>
-			<point x="-39" y="-135"/>
-			<point x="-39" y="-109" type="curve" smooth="yes"/>
-			<point x="-39" y="-87"/>
-			<point x="-58" y="-69"/>
-			<point x="-80" y="-69" type="curve" smooth="yes"/>
-			<point x="-105" y="-69"/>
-			<point x="-122" y="-88"/>
-			<point x="-122" y="-110" type="curve" smooth="yes"/>
-		</contour>
-		<contour>
-			<point x="-43" y="-225"/>
-			<point x="-23" y="-245"/>
-			<point x="0" y="-245" type="curve" smooth="yes"/>
-			<point x="23" y="-245"/>
-			<point x="43" y="-225"/>
-			<point x="43" y="-203" type="curve" smooth="yes"/>
-			<point x="43" y="-179"/>
-			<point x="23" y="-160"/>
-			<point x="0" y="-160" type="curve" smooth="yes"/>
-			<point x="-23" y="-160"/>
-			<point x="-43" y="-179"/>
-			<point x="-43" y="-203" type="curve" smooth="yes"/>
-		</contour>
-		<contour>
-			<point x="38" y="-325"/>
-			<point x="56" y="-340"/>
-			<point x="80" y="-340" type="curve" smooth="yes"/>
-			<point x="101" y="-340"/>
-			<point x="120" y="-325"/>
-			<point x="120" y="-299" type="curve" smooth="yes"/>
-			<point x="120" y="-277"/>
-			<point x="101" y="-258"/>
-			<point x="80" y="-258" type="curve" smooth="yes"/>
-			<point x="56" y="-258"/>
-			<point x="38" y="-277"/>
-			<point x="38" y="-299" type="curve" smooth="yes"/>
-		</contour>
+		<component base="dotbelowcmb" xScale="0.48" yScale="0.48" xOffset="-80" yOffset="-44"/>
+		<component base="dotbelowcmb" xScale="0.48" yScale="0.48" yOffset="-104"/>
+		<component base="dotbelowcmb" xScale="0.48" yScale="0.48" xOffset="80" yOffset="-164"/>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
 	<anchor name="_belowLeftHE" x="-110" y="-22"/>
@@ -53,10 +14,8 @@
 	<guideline x="-200" y="0" angle="90" identifier="PTRnnbDCEA"/>
 	<lib>
 		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.PTRnnbDCEA</key>
-			<integer>5</integer>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugShin" format="2">
 	<unicode hex="1038C"/>
-	<advance width="644"/>
+	<advance width="886"/>
 	<outline>
 		<contour>
-			<point x="378" y="-55" type="curve"/>
-			<point x="402" y="-55" type="line"/>
-			<point x="576" y="245"/>
-			<point x="694" y="457"/>
-			<point x="753" y="502" type="curve"/>
-			<point x="686" y="538" type="line"/>
-			<point x="681" y="471"/>
-			<point x="564" y="269"/>
-			<point x="402" y="-4" type="curve"/>
-			<point x="402" y="315"/>
-			<point x="400" y="538"/>
-			<point x="427" y="601" type="curve"/>
-			<point x="352" y="601" type="line"/>
-			<point x="379" y="538"/>
-			<point x="378" y="315"/>
-			<point x="378" y="-4" type="curve"/>
-			<point x="216" y="269"/>
-			<point x="98" y="471"/>
-			<point x="93" y="538" type="curve"/>
-			<point x="26" y="502" type="line"/>
-			<point x="85" y="457"/>
-			<point x="204" y="245"/>
+			<point x="432" y="-56" type="curve"/>
+			<point x="456" y="-56" type="line"/>
+			<point x="664" y="228"/>
+			<point x="801" y="428"/>
+			<point x="862" y="468" type="curve"/>
+			<point x="801" y="512" type="line"/>
+			<point x="783" y="443"/>
+			<point x="652" y="254"/>
+			<point x="456" y="-16" type="curve"/>
+			<point x="456" y="310"/>
+			<point x="457" y="534"/>
+			<point x="482" y="600" type="curve"/>
+			<point x="406" y="600" type="line"/>
+			<point x="431" y="534"/>
+			<point x="432" y="310"/>
+			<point x="432" y="-16" type="curve"/>
+			<point x="236" y="253"/>
+			<point x="105" y="442"/>
+			<point x="87" y="512" type="curve"/>
+			<point x="26" y="467" type="line"/>
+			<point x="87" y="427"/>
+			<point x="225" y="227"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>1,1,0,1</string>
 		</dict>
 	</lib>
 </glyph>

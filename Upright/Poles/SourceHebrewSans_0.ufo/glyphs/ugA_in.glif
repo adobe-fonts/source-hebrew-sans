@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugAin" format="2">
 	<unicode hex="10393"/>
-	<advance width="308"/>
+	<advance width="412"/>
 	<outline>
 		<contour>
-			<point x="8" y="184" type="line"/>
-			<point x="10" y="179" type="line"/>
-			<point x="130" y="265"/>
-			<point x="246" y="265"/>
-			<point x="366" y="179" type="curve"/>
-			<point x="368" y="184" type="line"/>
-			<point x="188" y="385" type="line"/>
+			<point x="26" y="184" type="line"/>
+			<point x="28" y="179" type="line"/>
+			<point x="88" y="222"/>
+			<point x="146" y="244"/>
+			<point x="206" y="244" type="curve" smooth="yes"/>
+			<point x="266" y="244"/>
+			<point x="324" y="222"/>
+			<point x="384" y="179" type="curve"/>
+			<point x="386" y="184" type="line"/>
+			<point x="206" y="386" type="line"/>
 		</contour>
 	</outline>
 	<lib>

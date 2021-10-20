@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugMem" format="2">
 	<unicode hex="1038E"/>
-	<advance width="554"/>
+	<advance width="678"/>
 	<outline>
 		<contour>
-			<point x="54" y="182" type="line"/>
-			<point x="140" y="242"/>
-			<point x="252" y="252"/>
-			<point x="442" y="252" type="curve"/>
-			<point x="442" y="316" type="line"/>
-			<point x="252" y="316"/>
-			<point x="140" y="326"/>
-			<point x="54" y="386" type="curve"/>
+			<point x="48" y="163" type="line"/>
+			<point x="151" y="235"/>
+			<point x="286" y="247"/>
+			<point x="514" y="247" type="curve"/>
+			<point x="514" y="323" type="line"/>
+			<point x="286" y="323"/>
+			<point x="151" y="335"/>
+			<point x="48" y="407" type="curve"/>
 		</contour>
-		<component base="ugGamla" xOffset="240"/>
+		<component base="ugGamla" xOffset="300"/>
 	</outline>
 	<lib>
 		<dict>

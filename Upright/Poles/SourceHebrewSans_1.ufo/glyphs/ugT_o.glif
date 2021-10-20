@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugTo" format="2">
 	<unicode hex="1039A"/>
-	<advance width="630"/>
+	<advance width="758"/>
 	<outline>
 		<contour>
-			<point x="54" y="182" type="line"/>
-			<point x="165" y="252"/>
-			<point x="344" y="252"/>
-			<point x="622" y="252" type="curve"/>
-			<point x="622" y="316" type="line"/>
-			<point x="344" y="316"/>
-			<point x="165" y="316"/>
-			<point x="54" y="386" type="curve"/>
+			<point x="48" y="162" type="line"/>
+			<point x="181" y="246"/>
+			<point x="396" y="246"/>
+			<point x="730" y="246" type="curve"/>
+			<point x="730" y="322" type="line"/>
+			<point x="396" y="322"/>
+			<point x="181" y="322"/>
+			<point x="48" y="406" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,1,0,1</string>
+			<string>0.9958,0.8001,0.4,1</string>
 		</dict>
 	</lib>
 </glyph>

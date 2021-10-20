@@ -4,12 +4,12 @@
 	<advance width="692"/>
 	<outline>
 		<component base="heYod"/>
-		<component base="heVav" xOffset="336"/>
+		<component base="heVav" xOffset="312"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

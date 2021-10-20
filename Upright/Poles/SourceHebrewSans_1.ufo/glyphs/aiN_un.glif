@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aiNun" format="2">
 	<unicode hex="1084D"/>
-	<advance width="468"/>
+	<advance width="368"/>
 	<outline>
 		<contour>
-			<point x="98" y="-168" type="line"/>
-			<point x="344" y="28"/>
-			<point x="430" y="181"/>
-			<point x="430" y="348" type="curve" smooth="yes"/>
-			<point x="430" y="601"/>
-			<point x="176" y="488"/>
-			<point x="176" y="698" type="curve" smooth="yes"/>
-			<point x="176" y="722"/>
-			<point x="184" y="757"/>
-			<point x="208" y="788" type="curve"/>
-			<point x="94" y="844" type="line"/>
-			<point x="43" y="768"/>
-			<point x="28" y="696"/>
-			<point x="28" y="636" type="curve" smooth="yes"/>
-			<point x="28" y="370"/>
-			<point x="282" y="505"/>
-			<point x="282" y="286" type="curve" smooth="yes"/>
-			<point x="282" y="204"/>
-			<point x="225" y="105"/>
-			<point x="2" y="-38" type="curve"/>
+			<point x="78" y="-168" type="line"/>
+			<point x="242" y="21"/>
+			<point x="330" y="232"/>
+			<point x="330" y="348" type="curve" smooth="yes"/>
+			<point x="330" y="516"/>
+			<point x="176" y="485"/>
+			<point x="176" y="660" type="curve" smooth="yes"/>
+			<point x="176" y="678"/>
+			<point x="178" y="696"/>
+			<point x="180" y="730" type="curve"/>
+			<point x="40" y="718" type="line"/>
+			<point x="32" y="677"/>
+			<point x="28" y="634"/>
+			<point x="28" y="600" type="curve" smooth="yes"/>
+			<point x="28" y="424"/>
+			<point x="182" y="450"/>
+			<point x="182" y="286" type="curve" smooth="yes"/>
+			<point x="182" y="190"/>
+			<point x="106" y="95"/>
+			<point x="-38" y="-48" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>1,1,0,1</string>
 		</dict>
 	</lib>
 </glyph>

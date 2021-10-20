@@ -64,11 +64,103 @@
 		</array>
 		<key>public.kern1.GRK_CHI_LC_LEFT</key>
 		<array>
-			<string>chi</string>
+			<string>chilatin</string>
 		</array>
 		<key>public.kern1.GRK_THETA_LC_LEFT</key>
 		<array>
 			<string>theta</string>
+		</array>
+		<key>public.kern1.HEB_ALEF</key>
+		<array>
+			<string>heAlef</string>
+			<string>heAlefMapiq</string>
+			<string>heAlefPatah</string>
+			<string>heAlefQamats</string>
+			<string>heAlefWide</string>
+			<string>heTsadi</string>
+			<string>heTsadiDagesh</string>
+		</array>
+		<key>public.kern1.HEB_BET</key>
+		<array>
+			<string>heBet</string>
+			<string>heBetDagesh</string>
+			<string>heBetRafe</string>
+		</array>
+		<key>public.kern1.HEB_DALET</key>
+		<array>
+			<string>heDalet</string>
+			<string>heZayin</string>
+			<string>heDaletDagesh</string>
+			<string>heZayinDagesh</string>
+			<string>heDaletWide</string>
+		</array>
+		<key>public.kern1.HEB_GIMEL</key>
+		<array>
+			<string>heGimel</string>
+			<string>heGimelDagesh</string>
+		</array>
+		<key>public.kern1.HEB_HE</key>
+		<array>
+			<string>heHe</string>
+			<string>heHet</string>
+			<string>heKafFin</string>
+			<string>heMemFin</string>
+			<string>heNun</string>
+			<string>heNunFin</string>
+			<string>heVav</string>
+			<string>hePe</string>
+			<string>hePeFin</string>
+			<string>heResh</string>
+			<string>heTav</string>
+			<string>heVavYod</string>
+			<string>heVavVav</string>
+			<string>heKaf</string>
+			<string>heHeMapiq</string>
+			<string>heHeWide</string>
+			<string>heKafWide</string>
+			<string>heMemFinWide</string>
+			<string>heReshWide</string>
+			<string>heTavWide</string>
+			<string>heVavDagesh</string>
+			<string>heVavHolam</string>
+			<string>heKafDagesh</string>
+			<string>heKafDageshFin</string>
+			<string>heKafRafe</string>
+			<string>heNunDagesh</string>
+			<string>hePeDagesh</string>
+			<string>hePeDageshFin</string>
+			<string>hePeRafe</string>
+			<string>heReshDagesh</string>
+			<string>heTavDagesh</string>
+			<string>heMem</string>
+			<string>heMemDagesh</string>
+		</array>
+		<key>public.kern1.HEB_LAMED</key>
+		<array>
+			<string>heLamed</string>
+			<string>heLamedDagesh</string>
+			<string>heLamedWide</string>
+			<string>heAyin</string>
+			<string>heYod</string>
+			<string>heYodYod</string>
+			<string>heYodDagesh</string>
+			<string>heTsadiFin</string>
+			<string>heQof</string>
+			<string>heQofDagesh</string>
+			<string>heYodHiriq</string>
+		</array>
+		<key>public.kern1.HEB_TET</key>
+		<array>
+			<string>heSamekh</string>
+			<string>heTet</string>
+			<string>heShinDagesh</string>
+			<string>heShinDageshDotted</string>
+			<string>heShinDotted</string>
+			<string>heSinDageshDotted</string>
+			<string>heSinDotted</string>
+			<string>heShin</string>
+			<string>heTetDagesh</string>
+			<string>heSamekhDagesh</string>
 		</array>
 		<key>public.kern1.LAT_A_LC_LEFT</key>
 		<array>
@@ -428,6 +520,9 @@
 		<array>
 			<string>quotedblbase</string>
 			<string>quotesinglbase</string>
+			<string>period</string>
+			<string>ellipsis</string>
+			<string>comma</string>
 		</array>
 		<key>public.kern1.PCT_EMDASH_LEFT</key>
 		<array>
@@ -477,11 +572,121 @@
 		</array>
 		<key>public.kern2.GRK_CHI_LC_RIGHT</key>
 		<array>
-			<string>chi</string>
+			<string>chilatin</string>
 		</array>
 		<key>public.kern2.GRK_THETA_LC_RIGHT</key>
 		<array>
 			<string>theta</string>
+		</array>
+		<key>public.kern2.HEB_ALEF</key>
+		<array>
+			<string>heAlef</string>
+			<string>heAlefMapiq</string>
+			<string>heAlefPatah</string>
+			<string>heAlefQamats</string>
+			<string>heAlefWide</string>
+		</array>
+		<key>public.kern2.HEB_AYIN</key>
+		<array>
+			<string>heAyin</string>
+			<string>heTsadi</string>
+			<string>heTsadiDagesh</string>
+		</array>
+		<key>public.kern2.HEB_BET</key>
+		<array>
+			<string>heBet</string>
+			<string>heKaf</string>
+			<string>heBetRafe</string>
+			<string>heKafRafe</string>
+			<string>heKafDagesh</string>
+			<string>heBetDagesh</string>
+			<string>heNunDagesh</string>
+			<string>heTav</string>
+			<string>heTavWide</string>
+			<string>heKafWide</string>
+			<string>heNun</string>
+			<string>heTavDagesh</string>
+		</array>
+		<key>public.kern2.HEB_DALET</key>
+		<array>
+			<string>heDalet</string>
+			<string>heKafFin</string>
+			<string>heResh</string>
+			<string>heDaletWide</string>
+			<string>heReshWide</string>
+			<string>heKafDageshFin</string>
+			<string>heDaletDagesh</string>
+			<string>heReshDagesh</string>
+		</array>
+		<key>public.kern2.HEB_GIMEL</key>
+		<array>
+			<string>heGimel</string>
+			<string>heGimelDagesh</string>
+		</array>
+		<key>public.kern2.HEB_HE</key>
+		<array>
+			<string>heHe</string>
+			<string>heHet</string>
+			<string>heMemFin</string>
+			<string>heHeWide</string>
+			<string>heMemFinWide</string>
+			<string>heHeMapiq</string>
+			<string>heQofDagesh</string>
+			<string>heQof</string>
+		</array>
+		<key>public.kern2.HEB_LAMED</key>
+		<array>
+			<string>heLamed</string>
+			<string>heLamedDagesh</string>
+			<string>heLamedWide</string>
+		</array>
+		<key>public.kern2.HEB_MEM</key>
+		<array>
+			<string>heMem</string>
+			<string>heMemDagesh</string>
+			<string>heTsadiFin</string>
+		</array>
+		<key>public.kern2.HEB_PE</key>
+		<array>
+			<string>hePe</string>
+			<string>hePeDagesh</string>
+			<string>hePeRafe</string>
+		</array>
+		<key>public.kern2.HEB_PEFIN</key>
+		<array>
+			<string>hePeDageshFin</string>
+			<string>hePeFin</string>
+		</array>
+		<key>public.kern2.HEB_SAMEKH</key>
+		<array>
+			<string>heSamekh</string>
+			<string>heSamekhDagesh</string>
+		</array>
+		<key>public.kern2.HEB_TET</key>
+		<array>
+			<string>heTet</string>
+			<string>heShinDagesh</string>
+			<string>heShinDageshDotted</string>
+			<string>heShinDotted</string>
+			<string>heSinDageshDotted</string>
+			<string>heSinDotted</string>
+			<string>heShin</string>
+			<string>heTetDagesh</string>
+		</array>
+		<key>public.kern2.HEB_VAV</key>
+		<array>
+			<string>heNunFin</string>
+			<string>heVav</string>
+			<string>heZayin</string>
+			<string>heVavHolam</string>
+			<string>heVavDagesh</string>
+			<string>heZayinDagesh</string>
+			<string>heYod</string>
+			<string>heYodDagesh</string>
+			<string>heVavVav</string>
+			<string>heVavYod</string>
+			<string>heYodYod</string>
+			<string>heYodHiriq</string>
 		</array>
 		<key>public.kern2.LAT_AE_UC_RIGHT</key>
 		<array>
@@ -808,6 +1013,9 @@
 		<array>
 			<string>quotedblbase</string>
 			<string>quotesinglbase</string>
+			<string>ellipsis</string>
+			<string>period</string>
+			<string>comma</string>
 		</array>
 		<key>public.kern2.PCT_EMDASH_RIGHT</key>
 		<array>

@@ -46,5 +46,15 @@
 			<point x="290" y="750" type="line"/>
 			<point x="260" y="750" type="line"/>
 		</contour>
+		<contour>
+			<point x="284" y="-12" type="move"/>
+			<point x="342" y="-12"/>
+			<point x="390" y="14"/>
+			<point x="422" y="44" type="curve"/>
+			<point x="402" y="66" type="line"/>
+			<point x="374" y="40"/>
+			<point x="332" y="18"/>
+			<point x="284" y="18" type="curve"/>
+		</contour>
 	</outline>
 </glyph>

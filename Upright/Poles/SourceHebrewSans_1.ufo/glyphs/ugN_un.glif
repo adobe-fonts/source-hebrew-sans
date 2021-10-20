@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugNun" format="2">
 	<unicode hex="10390"/>
-	<advance width="660"/>
+	<advance width="794"/>
 	<outline>
 		<contour>
-			<point x="424" y="182" type="line"/>
-			<point x="484" y="225"/>
-			<point x="541" y="252"/>
-			<point x="652" y="252" type="curve"/>
-			<point x="652" y="316" type="line"/>
-			<point x="541" y="316"/>
-			<point x="484" y="343"/>
-			<point x="424" y="386" type="curve"/>
+			<point x="492" y="162" type="line"/>
+			<point x="564" y="213"/>
+			<point x="694" y="246"/>
+			<point x="766" y="246" type="curve"/>
+			<point x="766" y="322" type="line"/>
+			<point x="694" y="322"/>
+			<point x="564" y="355"/>
+			<point x="492" y="406" type="curve"/>
 		</contour>
 		<contour>
-			<point x="54" y="182" type="line"/>
-			<point x="114" y="225"/>
-			<point x="171" y="252"/>
-			<point x="282" y="252" type="curve"/>
-			<point x="282" y="316" type="line"/>
-			<point x="171" y="316"/>
-			<point x="114" y="343"/>
-			<point x="54" y="386" type="curve"/>
+			<point x="48" y="162" type="line"/>
+			<point x="120" y="213"/>
+			<point x="250" y="246"/>
+			<point x="322" y="246" type="curve"/>
+			<point x="322" y="322" type="line"/>
+			<point x="250" y="322"/>
+			<point x="120" y="355"/>
+			<point x="48" y="406" type="curve"/>
 		</contour>
 		<contour>
-			<point x="244" y="182" type="line"/>
-			<point x="304" y="225"/>
-			<point x="361" y="252"/>
-			<point x="472" y="252" type="curve"/>
-			<point x="472" y="316" type="line"/>
-			<point x="361" y="316"/>
-			<point x="304" y="343"/>
-			<point x="244" y="386" type="curve"/>
+			<point x="276" y="162" type="line"/>
+			<point x="348" y="213"/>
+			<point x="478" y="246"/>
+			<point x="550" y="246" type="curve"/>
+			<point x="550" y="322" type="line"/>
+			<point x="478" y="322"/>
+			<point x="348" y="355"/>
+			<point x="276" y="406" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,1,0,1</string>
+			<string>0.9958,0.8001,0.4,1</string>
 		</dict>
 	</lib>
 </glyph>

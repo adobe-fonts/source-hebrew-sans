@@ -2,8 +2,8 @@
 <glyph name="heTsere" format="2">
 	<unicode hex="05B5"/>
 	<outline>
-		<component base="dotbelowcmb" xScale="0.45" yScale="0.45" xOffset="-70" yOffset="-44"/>
-		<component base="dotbelowcmb" xScale="0.45" yScale="0.45" xOffset="70" yOffset="-44"/>
+		<component base="dotbelowcmb" xScale="0.48" yScale="0.48" xOffset="-70" yOffset="-44"/>
+		<component base="dotbelowcmb" xScale="0.48" yScale="0.48" xOffset="70" yOffset="-44"/>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
 	<anchor name="_belowLeftHE" x="-100" y="-22"/>
@@ -13,7 +13,7 @@
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,0,0,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -3,7 +3,62 @@
 	<unicode hex="00A7"/>
 	<advance width="540"/>
 	<outline>
-		<component base="section"/>
+		<contour>
+			<point x="242" y="-174" type="curve" smooth="yes"/>
+			<point x="379" y="-174"/>
+			<point x="446" y="-102"/>
+			<point x="446" y="-8" type="curve" smooth="yes"/>
+			<point x="446" y="166"/>
+			<point x="178" y="156"/>
+			<point x="178" y="250" type="curve" smooth="yes"/>
+			<point x="178" y="279"/>
+			<point x="197" y="302"/>
+			<point x="238" y="314" type="curve"/>
+			<point x="152" y="384" type="line"/>
+			<point x="80" y="360"/>
+			<point x="34" y="296"/>
+			<point x="34" y="238" type="curve" smooth="yes"/>
+			<point x="34" y="48"/>
+			<point x="292" y="48"/>
+			<point x="292" y="-16" type="curve" smooth="yes"/>
+			<point x="292" y="-36"/>
+			<point x="278" y="-48"/>
+			<point x="242" y="-48" type="curve" smooth="yes"/>
+			<point x="208" y="-48"/>
+			<point x="170" y="-32"/>
+			<point x="138" y="2" type="curve"/>
+			<point x="40" y="-84" type="line"/>
+			<point x="86" y="-146"/>
+			<point x="168" y="-174"/>
+		</contour>
+		<contour>
+			<point x="400" y="54" type="line"/>
+			<point x="470" y="88"/>
+			<point x="506" y="138"/>
+			<point x="506" y="202" type="curve" smooth="yes"/>
+			<point x="506" y="382"/>
+			<point x="238" y="398"/>
+			<point x="238" y="454" type="curve" smooth="yes"/>
+			<point x="238" y="476"/>
+			<point x="253" y="484"/>
+			<point x="282" y="484" type="curve" smooth="yes"/>
+			<point x="313" y="484"/>
+			<point x="353" y="463"/>
+			<point x="384" y="436" type="curve"/>
+			<point x="462" y="542" type="line"/>
+			<point x="420" y="575"/>
+			<point x="354" y="610"/>
+			<point x="272" y="610" type="curve" smooth="yes"/>
+			<point x="155" y="610"/>
+			<point x="84" y="546"/>
+			<point x="84" y="448" type="curve" smooth="yes"/>
+			<point x="84" y="272"/>
+			<point x="362" y="286"/>
+			<point x="362" y="188" type="curve" smooth="yes"/>
+			<point x="362" y="157"/>
+			<point x="344" y="136"/>
+			<point x="302" y="122" type="curve"/>
+		</contour>
 	</outline>
 	<lib>
 		<dict>

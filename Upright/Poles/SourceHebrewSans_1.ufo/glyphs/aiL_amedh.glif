@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aiLamedh" format="2">
 	<unicode hex="1084B"/>
-	<advance width="440"/>
+	<advance width="460"/>
 	<outline>
 		<contour>
-			<point x="270" y="0" type="curve" smooth="yes"/>
-			<point x="406" y="0" type="line"/>
-			<point x="406" y="172" type="line"/>
-			<point x="286" y="172" type="line" smooth="yes"/>
-			<point x="228" y="172"/>
-			<point x="206" y="182"/>
-			<point x="206" y="222" type="curve" smooth="yes"/>
-			<point x="206" y="317"/>
-			<point x="302" y="509"/>
-			<point x="486" y="644" type="curve"/>
-			<point x="400" y="754" type="line"/>
-			<point x="178" y="572"/>
-			<point x="58" y="380"/>
-			<point x="58" y="170" type="curve" smooth="yes"/>
-			<point x="58" y="51"/>
-			<point x="130" y="0"/>
+			<point x="300" y="-12" type="curve" smooth="yes"/>
+			<point x="348" y="-12"/>
+			<point x="397" y="3"/>
+			<point x="446" y="10" type="curve"/>
+			<point x="446" y="182" type="line"/>
+			<point x="402" y="175"/>
+			<point x="359" y="160"/>
+			<point x="316" y="160" type="curve" smooth="yes"/>
+			<point x="237" y="160"/>
+			<point x="206" y="184"/>
+			<point x="206" y="284" type="curve" smooth="yes"/>
+			<point x="206" y="384"/>
+			<point x="260" y="596"/>
+			<point x="302" y="732" type="curve"/>
+			<point x="132" y="716" type="line"/>
+			<point x="102" y="594"/>
+			<point x="58" y="406"/>
+			<point x="58" y="232" type="curve" smooth="yes"/>
+			<point x="58" y="62"/>
+			<point x="140" y="-12"/>
 		</contour>
 	</outline>
 	<guideline x="85" y="742" angle="0" identifier="9V9V0tdXPP"/>

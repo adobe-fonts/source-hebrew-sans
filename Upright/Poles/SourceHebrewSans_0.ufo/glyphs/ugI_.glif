@@ -1,48 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugI" format="2">
 	<unicode hex="1039B"/>
-	<advance width="548"/>
+	<advance width="658"/>
 	<outline>
 		<contour>
-			<point x="139" y="-275" type="curve"/>
-			<point x="158" y="-275" type="line"/>
-			<point x="158" y="-147"/>
-			<point x="168" y="-61"/>
-			<point x="187" y="-32" type="curve"/>
-			<point x="110" y="-32" type="line"/>
-			<point x="129" y="-61"/>
-			<point x="139" y="-147"/>
+			<point x="139" y="-299" type="curve"/>
+			<point x="158" y="-299" type="line"/>
+			<point x="158" y="-171"/>
+			<point x="168" y="-85"/>
+			<point x="187" y="-56" type="curve"/>
+			<point x="110" y="-56" type="line"/>
+			<point x="129" y="-85"/>
+			<point x="139" y="-171"/>
 		</contour>
-		<contour>
-			<point x="26" y="261" type="line"/>
-			<point x="93" y="287"/>
-			<point x="312" y="287"/>
-			<point x="633" y="287" type="curve"/>
-			<point x="633" y="306" type="line"/>
-			<point x="312" y="306"/>
-			<point x="93" y="306"/>
-			<point x="26" y="333" type="curve"/>
-		</contour>
-		<contour>
-			<point x="26" y="525" type="line"/>
-			<point x="93" y="551"/>
-			<point x="312" y="551"/>
-			<point x="633" y="551" type="curve"/>
-			<point x="633" y="570" type="line"/>
-			<point x="312" y="570"/>
-			<point x="93" y="570"/>
-			<point x="26" y="597" type="curve"/>
-		</contour>
-		<contour>
-			<point x="26" y="-3" type="line"/>
-			<point x="93" y="23"/>
-			<point x="312" y="23"/>
-			<point x="633" y="23" type="curve"/>
-			<point x="633" y="42" type="line"/>
-			<point x="312" y="42"/>
-			<point x="93" y="42"/>
-			<point x="26" y="69" type="curve"/>
-		</contour>
+		<component base="ugHo"/>
 	</outline>
 	<lib>
 		<dict>

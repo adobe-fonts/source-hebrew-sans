@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugQopa" format="2">
 	<unicode hex="10396"/>
-	<advance width="540"/>
+	<advance width="658"/>
 	<outline>
 		<contour>
-			<point x="54" y="182" type="line"/>
-			<point x="122" y="231"/>
-			<point x="184" y="252"/>
-			<point x="288" y="252" type="curve"/>
-			<point x="288" y="316" type="line"/>
-			<point x="184" y="316"/>
-			<point x="122" y="337"/>
-			<point x="54" y="386" type="curve"/>
+			<point x="48" y="162" type="line"/>
+			<point x="130" y="220"/>
+			<point x="204" y="246"/>
+			<point x="329" y="246" type="curve"/>
+			<point x="329" y="322" type="line"/>
+			<point x="204" y="322"/>
+			<point x="130" y="348"/>
+			<point x="48" y="406" type="curve"/>
 		</contour>
 		<contour>
-			<point x="522" y="182" type="curve"/>
-			<point x="522" y="386" type="line"/>
-			<point x="460" y="342"/>
-			<point x="392" y="316"/>
-			<point x="288" y="316" type="curve"/>
-			<point x="288" y="252" type="line"/>
-			<point x="392" y="252"/>
-			<point x="460" y="226"/>
+			<point x="610" y="162" type="curve"/>
+			<point x="610" y="406" type="line"/>
+			<point x="535" y="354"/>
+			<point x="454" y="322"/>
+			<point x="329" y="322" type="curve"/>
+			<point x="329" y="246" type="line"/>
+			<point x="454" y="246"/>
+			<point x="535" y="214"/>
 		</contour>
 	</outline>
 	<guideline x="288" y="284" angle="90" identifier="ypaYjsbVDr"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,1,0,1</string>
+			<string>0.9958,0.8001,0.4,1</string>
 		</dict>
 	</lib>
 </glyph>

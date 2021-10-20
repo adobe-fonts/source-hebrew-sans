@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hrDalethResh" format="2">
 	<unicode hex="108E3"/>
-	<advance width="470"/>
+	<advance width="452"/>
 	<outline>
-		<contour>
-			<point x="4" y="516" type="line"/>
-			<point x="426" y="516" type="line"/>
-			<point x="426" y="546" type="line"/>
-			<point x="4" y="546" type="line"/>
-		</contour>
-		<contour>
-			<point x="304" y="0" type="line"/>
-			<point x="332" y="0" type="line"/>
-			<point x="332" y="516" type="line"/>
-			<point x="310" y="516" type="line"/>
-			<point x="304" y="490"/>
-			<point x="304" y="462"/>
-			<point x="304" y="426" type="curve" smooth="yes"/>
-		</contour>
+		<component base="heResh"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>0.502,0.0015,0.9985,1</string>
+			<string>0.4,0.8,0.9989,1</string>
 		</dict>
 	</lib>
 </glyph>

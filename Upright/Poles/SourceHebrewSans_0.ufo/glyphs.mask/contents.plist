@@ -2,10 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
+		<key>Euro.S</key>
+		<string>E_uro.S_.glif</string>
+		<key>aiBeth</key>
+		<string>aiB_eth.glif</string>
+		<key>aiGimel</key>
+		<string>aiG_imel.glif</string>
+		<key>aiHe</key>
+		<string>aiH_e.glif</string>
 		<key>aiKaph</key>
 		<string>aiK_aph.glif</string>
+		<key>aiLamedh</key>
+		<string>aiL_amedh.glif</string>
+		<key>aiMem</key>
+		<string>aiM_em.glif</string>
+		<key>aiNun</key>
+		<string>aiN_un.glif</string>
+		<key>aiPe</key>
+		<string>aiP_e.glif</string>
+		<key>aiQoph</key>
+		<string>aiQ_oph.glif</string>
+		<key>aiSamekh</key>
+		<string>aiS_amekh.glif</string>
+		<key>aiShin</key>
+		<string>aiS_hin.glif</string>
+		<key>aiTeth</key>
+		<string>aiT_eth.glif</string>
 		<key>at.S</key>
 		<string>at.S_.glif</string>
+		<key>cent.S</key>
+		<string>cent.S_.glif</string>
+		<key>copyright.S</key>
+		<string>copyright.S_.glif</string>
 		<key>dollar.S</key>
 		<string>dollar.S_.glif</string>
 		<key>dong.S</key>
@@ -16,52 +44,106 @@
 		<string>five.D_nom.glif</string>
 		<key>five.S</key>
 		<string>five.S_.glif</string>
+		<key>four.S</key>
+		<string>four.S_.glif</string>
 		<key>franc.S</key>
 		<string>franc.S_.glif</string>
 		<key>gampersand</key>
 		<string>gampersand.glif</string>
 		<key>guarani.S</key>
 		<string>guarani.S_.glif</string>
+		<key>heAlef</key>
+		<string>heA_lef.glif</string>
 		<key>heAlefWide</key>
 		<string>heA_lefW_ide.glif</string>
+		<key>heHatafPatah</key>
+		<string>heH_atafP_atah.glif</string>
+		<key>heHatafQamats</key>
+		<string>heH_atafQ_amats.glif</string>
+		<key>heHatafQamatsQatan</key>
+		<string>heH_atafQ_amatsQ_atan.glif</string>
 		<key>heHatafSegol</key>
 		<string>heH_atafS_egol.glif</string>
+		<key>heHiriq</key>
+		<string>heH_iriq.glif</string>
 		<key>heLamedWide</key>
 		<string>heL_amedW_ide.glif</string>
 		<key>hePatah</key>
 		<string>heP_atah.glif</string>
+		<key>hePeFin</key>
+		<string>heP_eF_in.glif</string>
+		<key>heQamats</key>
+		<string>heQ_amats.glif</string>
+		<key>heQubuts</key>
+		<string>heQ_ubuts.glif</string>
 		<key>heSegol</key>
 		<string>heS_egol.glif</string>
 		<key>heSheva</key>
 		<string>heS_heva.glif</string>
+		<key>heSheva.kaf</key>
+		<string>heS_heva.kaf.glif</string>
 		<key>heShin</key>
 		<string>heS_hin.glif</string>
+		<key>heTet</key>
+		<string>heT_et.glif</string>
+		<key>heTsadi</key>
+		<string>heT_sadi.glif</string>
+		<key>heTsadiFin</key>
+		<string>heT_sadiF_in.glif</string>
 		<key>heTsere</key>
 		<string>heT_sere.glif</string>
+		<key>hrHe</key>
+		<string>hrH_e.glif</string>
+		<key>hrWaw</key>
+		<string>hrW_aw.glif</string>
 		<key>hryvnia.S</key>
 		<string>hryvnia.S_.glif</string>
 		<key>liraturkish.S</key>
 		<string>liraturkish.S_.glif</string>
+		<key>nine.Dnom</key>
+		<string>nine.D_nom.glif</string>
 		<key>nine.S</key>
 		<string>nine.S_.glif</string>
 		<key>pn10</key>
 		<string>pn10.glif</string>
 		<key>pn20</key>
 		<string>pn20.glif</string>
+		<key>pnDelt</key>
+		<string>pnD_elt.glif</string>
+		<key>pnKaf</key>
+		<string>pnK_af.glif</string>
+		<key>pnMem</key>
+		<string>pnM_em.glif</string>
+		<key>pnPe</key>
+		<string>pnP_e.glif</string>
+		<key>pnRosh</key>
+		<string>pnR_osh.glif</string>
+		<key>question.S</key>
+		<string>question.S_.glif</string>
 		<key>ruble.S</key>
 		<string>ruble.S_.glif</string>
+		<key>section.S</key>
+		<string>section.S_.glif</string>
 		<key>seven.P</key>
 		<string>seven.P_.glif</string>
+		<key>seven.S</key>
+		<string>seven.S_.glif</string>
 		<key>six.S</key>
 		<string>six.S_.glif</string>
+		<key>sterling.S</key>
+		<string>sterling.S_.glif</string>
 		<key>three.Dnom</key>
 		<string>three.D_nom.glif</string>
+		<key>three.S</key>
+		<string>three.S_.glif</string>
 		<key>two.Dnom</key>
 		<string>two.D_nom.glif</string>
 		<key>two.P</key>
 		<string>two.P_.glif</string>
 		<key>two.S</key>
 		<string>two.S_.glif</string>
+		<key>ugAin</key>
+		<string>ugA_in.glif</string>
 		<key>ugBeta</key>
 		<string>ugB_eta.glif</string>
 		<key>ugDelta</key>
@@ -120,5 +202,7 @@
 		<string>ugword.glif</string>
 		<key>yuan.S</key>
 		<string>yuan.S_.glif</string>
+		<key>zero.S</key>
+		<string>zero.S_.glif</string>
 	</dict>
 </plist>
