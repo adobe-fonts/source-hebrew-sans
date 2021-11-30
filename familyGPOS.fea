@@ -10,9 +10,9 @@ feature mkmk {
 	include (../mkmk.fea);
 } mkmk;
 
-#feature kern {
-#	lookupflag IgnoreMarks;
-#    lookup KERN useExtension {
-#		include (../kern.fea);
-#    } KERN;
-#} kern;
+feature kern {
+lookupflag IgnoreMarks;
+#   lookup KERN useExtension {
+	include (../kern.fea);
+#   } KERN;
+} kern;
