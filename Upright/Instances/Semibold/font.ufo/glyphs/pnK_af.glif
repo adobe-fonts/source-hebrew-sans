@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnKaf" format="2">
+	<unicode hex="1090A"/>
+	<advance width="504"/>
+	<outline>
+		<contour>
+			<point x="296" y="-174" type="line"/>
+			<point x="396" y="-174" type="line"/>
+			<point x="396" y="523" type="line"/>
+			<point x="296" y="523" type="line"/>
+			<point x="296" y="433" type="line"/>
+			<point x="315" y="441" type="line"/>
+			<point x="273" y="506"/>
+			<point x="185" y="535"/>
+			<point x="57" y="535" type="curve"/>
+			<point x="57" y="421" type="line"/>
+			<point x="248" y="421"/>
+			<point x="296" y="391"/>
+			<point x="296" y="339" type="curve" smooth="yes"/>
+			<point x="296" y="279"/>
+			<point x="248" y="248"/>
+			<point x="57" y="248" type="curve"/>
+			<point x="57" y="134" type="line"/>
+			<point x="195" y="134"/>
+			<point x="274" y="163"/>
+			<point x="316" y="221" type="curve"/>
+			<point x="296" y="225" type="line"/>
+		</contour>
+	</outline>
+</glyph>

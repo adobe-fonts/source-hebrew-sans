@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heYodYodPatah" format="2">
+	<unicode hex="FB1F"/>
+	<advance width="464"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="124" y="124" type="line"/>
+			<point x="296" y="124" type="line"/>
+			<point x="296" y="152" type="line"/>
+			<point x="124" y="152" type="line"/>
+		</contour>
+		<contour>
+			<point name="hintSet0004" x="90" y="242" type="line"/>
+			<point x="135" y="310"/>
+			<point x="174" y="389"/>
+			<point x="174" y="448" type="curve"/>
+			<point x="174" y="516"/>
+			<point x="150" y="546"/>
+			<point x="76" y="546" type="curve"/>
+			<point x="4" y="546" type="line"/>
+			<point x="4" y="516" type="line"/>
+			<point x="62" y="516" type="line"/>
+			<point x="133" y="516"/>
+			<point x="146" y="495"/>
+			<point x="146" y="450" type="curve"/>
+			<point x="146" y="398"/>
+			<point x="112" y="322"/>
+			<point x="66" y="256" type="curve"/>
+		</contour>
+		<contour>
+			<point x="322" y="242" type="line"/>
+			<point x="367" y="310"/>
+			<point x="406" y="389"/>
+			<point x="406" y="448" type="curve"/>
+			<point x="406" y="516"/>
+			<point x="382" y="546"/>
+			<point x="308" y="546" type="curve"/>
+			<point x="236" y="546" type="line"/>
+			<point x="236" y="516" type="line"/>
+			<point x="294" y="516" type="line"/>
+			<point x="365" y="516"/>
+			<point x="378" y="495"/>
+			<point x="378" y="450" type="curve"/>
+			<point x="378" y="398"/>
+			<point x="344" y="322"/>
+			<point x="298" y="256" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 124 28</string>
+							<string>hstem 516 30</string>
+							<string>vstem 124 172</string>
+							<string>vstem 378 28</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0004</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 124 28</string>
+							<string>hstem 516 30</string>
+							<string>vstem 146 28</string>
+							<string>vstem 378 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>86fce5d859eb37f04384742ea7dcb3674781a924d6e53489b19a589584a60947be39160467cf563d757566e370018742f20aefed18c1319f73f1ea2d2d66d25f</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

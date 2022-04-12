@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrAleph" format="2">
+	<unicode hex="108E0"/>
+	<advance width="627"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="91" y="0" type="line"/>
+			<point x="349" y="0" type="line"/>
+			<point x="458" y="0"/>
+			<point x="528" y="53"/>
+			<point x="528" y="198" type="curve"/>
+			<point x="528" y="548" type="line"/>
+			<point x="488" y="548" type="line"/>
+			<point x="488" y="212" type="line"/>
+			<point x="488" y="84"/>
+			<point x="429" y="44"/>
+			<point x="336" y="44" type="curve"/>
+			<point x="264" y="44" type="line"/>
+			<point x="239" y="225"/>
+			<point x="174" y="438"/>
+			<point x="116" y="553" type="curve"/>
+			<point x="67" y="546" type="line"/>
+			<point x="129" y="425"/>
+			<point x="201" y="220"/>
+			<point x="227" y="44" type="curve"/>
+			<point x="91" y="44" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 44</string>
+							<string>vstem 488 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w627l910l3490458052853c528198l528548l488548l4882124888442944c33644l26444239225174438c116553l67546129425201220c22744l9144</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

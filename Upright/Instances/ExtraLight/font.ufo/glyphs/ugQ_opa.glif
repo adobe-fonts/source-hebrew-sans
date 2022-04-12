@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugQopa" format="2">
+	<unicode hex="10396"/>
+	<advance width="514"/>
+	<outline>
+		<contour>
+			<point x="26" y="238" type="line"/>
+			<point x="55" y="257"/>
+			<point x="146" y="264"/>
+			<point x="256" y="264" type="curve"/>
+			<point x="256" y="284" type="line"/>
+			<point x="146" y="284"/>
+			<point x="55" y="291"/>
+			<point x="26" y="310" type="curve"/>
+		</contour>
+		<contour>
+			<point x="488" y="238" type="curve"/>
+			<point x="488" y="310" type="line"/>
+			<point x="459" y="291"/>
+			<point x="367" y="284"/>
+			<point x="256" y="284" type="curve"/>
+			<point x="256" y="264" type="line"/>
+			<point x="367" y="264"/>
+			<point x="459" y="257"/>
+		</contour>
+	</outline>
+</glyph>

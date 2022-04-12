@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnKaf" format="2">
+	<unicode hex="1090A"/>
+	<advance width="496"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="306" y="-202" type="line"/>
+			<point x="334" y="-202" type="line"/>
+			<point x="334" y="510" type="line"/>
+			<point x="306" y="510" type="line"/>
+			<point x="306" y="434" type="line"/>
+			<point x="272" y="495"/>
+			<point x="185" y="522"/>
+			<point x="46" y="522" type="curve"/>
+			<point x="46" y="492" type="line"/>
+			<point x="228" y="492"/>
+			<point x="306" y="441"/>
+			<point x="306" y="346" type="curve"/>
+			<point x="306" y="244"/>
+			<point x="228" y="196"/>
+			<point x="46" y="196" type="curve"/>
+			<point x="46" y="166" type="line"/>
+			<point x="179" y="166"/>
+			<point x="270" y="193"/>
+			<point x="306" y="253" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 166 30</string>
+							<string>hstem 492 30</string>
+							<string>vstem 306 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w496l306-202l334-202l334510l306510l306434272495185522c46522l46492228492306441c306346306244228196c46196l46166179166270193c306253</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugHota" format="2">
+	<unicode hex="10388"/>
+	<advance width="634"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="26" y="236" type="line"/>
+			<point x="59" y="254"/>
+			<point x="158" y="263"/>
+			<point x="304" y="263" type="curve"/>
+			<point x="304" y="93"/>
+			<point x="298" y="-21"/>
+			<point x="278" y="-58" type="curve"/>
+			<point x="355" y="-58" type="line"/>
+			<point x="334" y="-21"/>
+			<point x="328" y="93"/>
+			<point x="328" y="263" type="curve"/>
+			<point x="476" y="263"/>
+			<point x="576" y="255"/>
+			<point x="608" y="236" type="curve"/>
+			<point x="608" y="308" type="line"/>
+			<point x="576" y="289"/>
+			<point x="476" y="282"/>
+			<point x="328" y="282" type="curve"/>
+			<point x="328" y="451"/>
+			<point x="334" y="563"/>
+			<point x="355" y="600" type="curve"/>
+			<point x="278" y="600" type="line"/>
+			<point x="298" y="563"/>
+			<point x="304" y="451"/>
+			<point x="304" y="282" type="curve"/>
+			<point x="158" y="282"/>
+			<point x="59" y="290"/>
+			<point x="26" y="308" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 263 19</string>
+							<string>vstem 304 24</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>a180460b0a48eab7665f51f94b2ed13a4e2eaadd60aa02cd2fda81196b178cff0f3c771fb189a9ad3066c4acf8da1b60b07185f11c18df92ba464f620bfd3e7b</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

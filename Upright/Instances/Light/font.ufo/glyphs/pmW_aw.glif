@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmWaw" format="2">
+	<unicode hex="10865"/>
+	<advance width="284"/>
+	<outline>
+		<contour>
+			<point x="145" y="0" type="line"/>
+			<point x="185" y="0" type="line"/>
+			<point x="185" y="388" type="line" smooth="yes"/>
+			<point x="185" y="514"/>
+			<point x="138" y="548"/>
+			<point x="44" y="548" type="curve" smooth="yes"/>
+			<point x="5" y="548" type="line"/>
+			<point x="5" y="504" type="line"/>
+			<point x="31" y="504" type="line" smooth="yes"/>
+			<point x="108" y="504"/>
+			<point x="145" y="483"/>
+			<point x="145" y="375" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

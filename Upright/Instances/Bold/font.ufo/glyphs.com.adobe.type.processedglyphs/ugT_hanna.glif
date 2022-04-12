@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugThanna" format="2">
+	<unicode hex="10398"/>
+	<advance width="359"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="70" y="162" type="curve"/>
+			<point x="140" y="162" type="line"/>
+			<point x="142" y="125"/>
+			<point x="143" y="82"/>
+			<point x="143" y="34" type="curve"/>
+			<point x="215" y="34" type="line"/>
+			<point x="215" y="82"/>
+			<point x="216" y="125"/>
+			<point x="219" y="162" type="curve"/>
+			<point x="289" y="162" type="line"/>
+			<point x="266" y="195"/>
+			<point x="249" y="237"/>
+			<point x="237" y="288" type="curve"/>
+			<point x="248" y="333"/>
+			<point x="265" y="369"/>
+			<point x="289" y="403" type="curve"/>
+			<point x="220" y="403" type="line"/>
+			<point x="217" y="442"/>
+			<point x="215" y="485"/>
+			<point x="215" y="531" type="curve"/>
+			<point x="143" y="531" type="line"/>
+			<point x="143" y="485"/>
+			<point x="142" y="442"/>
+			<point x="138" y="403" type="curve"/>
+			<point x="70" y="403" type="line"/>
+			<point x="94" y="369"/>
+			<point x="110" y="333"/>
+			<point x="122" y="288" type="curve"/>
+			<point x="110" y="237"/>
+			<point x="93" y="195"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 162 241</string>
+							<string>vstem 143 72</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>a0939aa9595f5639565866ba6ce70a216b36d81b367707ed800b3328f342babbbd807d36cec86de120efcf41edd2c6207f5c7a46474a4c695d69380477f3ee11</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

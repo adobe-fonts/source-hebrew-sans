@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heQamats" format="2">
+	<unicode hex="05B8"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="-26" y="-241" type="line"/>
+			<point x="26" y="-241" type="line"/>
+			<point x="26" y="-141" type="line"/>
+			<point x="100" y="-141" type="line"/>
+			<point x="100" y="-89" type="line"/>
+			<point x="-100" y="-89" type="line"/>
+			<point x="-100" y="-141" type="line"/>
+			<point x="-26" y="-141" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_belowPrimaryHE" x="0" y="-25"/>
+	<anchor name="_belowLeftHE" x="-104" y="-25"/>
+	<anchor name="_belowRightHE" x="104" y="-25"/>
+	<anchor name="belowPrimaryHE" x="-172" y="-25"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-25"/>
+	<guideline y="46" identifier="Ota23jXeoc"/>
+	<guideline x="-87" identifier="sFmUGK18RC"/>
+	<guideline x="-172" identifier="prZ02GHauW"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -141 52</string>
+							<string>vstem -26 52</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l-26-241l26-241l26-141l100-141l100-89l-100-89l-100-141l-26-141</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

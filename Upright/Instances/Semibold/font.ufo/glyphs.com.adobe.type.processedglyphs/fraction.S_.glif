@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction.S" format="2">
+	<unicode hex="2044"/>
+	<advance width="91"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="-158" y="-12" type="line"/>
+			<point x="-88" y="-12" type="line"/>
+			<point x="249" y="571" type="line"/>
+			<point x="179" y="571" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 583</string>
+							<string>vstem -158 407</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w91l-158-12l-88-12l249571l179571</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

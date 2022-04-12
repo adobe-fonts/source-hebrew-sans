@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrLamedh" format="2">
+	<unicode hex="108EB"/>
+	<advance width="379"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="121" y="-12" type="line"/>
+			<point x="284" y="157"/>
+			<point x="324" y="260"/>
+			<point x="324" y="395" type="curve"/>
+			<point x="324" y="604"/>
+			<point x="27" y="741"/>
+			<point x="-314" y="743" type="curve"/>
+			<point x="-325" y="698" type="line"/>
+			<point x="-21" y="696"/>
+			<point x="284" y="578"/>
+			<point x="284" y="393" type="curve"/>
+			<point x="284" y="268"/>
+			<point x="252" y="185"/>
+			<point x="90" y="16" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 698 45</string>
+							<string>vstem 284 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w379l121-12284157324260c32439532460427741c-314743l-325698-21696284578c284393284268252185c9016</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

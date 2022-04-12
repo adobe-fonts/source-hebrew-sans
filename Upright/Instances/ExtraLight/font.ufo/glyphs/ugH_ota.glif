@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugHota" format="2">
+	<unicode hex="10388"/>
+	<advance width="634"/>
+	<outline>
+		<contour>
+			<point x="304" y="272" type="curve"/>
+			<point x="328" y="272" type="line"/>
+			<point x="328" y="446"/>
+			<point x="334" y="562"/>
+			<point x="355" y="600" type="curve"/>
+			<point x="278" y="600" type="line"/>
+			<point x="298" y="562"/>
+			<point x="304" y="446"/>
+		</contour>
+		<contour>
+			<point x="278" y="-58" type="curve"/>
+			<point x="355" y="-58" type="line"/>
+			<point x="334" y="-20"/>
+			<point x="328" y="97"/>
+			<point x="328" y="272" type="curve"/>
+			<point x="304" y="272" type="line"/>
+			<point x="304" y="97"/>
+			<point x="298" y="-20"/>
+		</contour>
+		<contour>
+			<point x="26" y="236" type="line"/>
+			<point x="60" y="255"/>
+			<point x="163" y="263"/>
+			<point x="316" y="263" type="curve"/>
+			<point x="316" y="282" type="line"/>
+			<point x="163" y="282"/>
+			<point x="60" y="289"/>
+			<point x="26" y="308" type="curve"/>
+		</contour>
+		<contour>
+			<point x="608" y="236" type="curve"/>
+			<point x="608" y="308" type="line"/>
+			<point x="575" y="289"/>
+			<point x="471" y="282"/>
+			<point x="316" y="282" type="curve"/>
+			<point x="316" y="263" type="line"/>
+			<point x="471" y="263"/>
+			<point x="575" y="255"/>
+		</contour>
+	</outline>
+</glyph>

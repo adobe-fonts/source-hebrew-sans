@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.Subs" format="2">
+	<unicode hex="2081"/>
+	<advance width="380"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="172" y="-150" type="line"/>
+			<point x="278" y="-150" type="line"/>
+			<point x="278" y="220" type="line"/>
+			<point x="190" y="220" type="line"/>
+			<point name="hintSet0004" x="154" y="196"/>
+			<point x="130" y="184"/>
+			<point x="72" y="176" type="curve"/>
+			<point name="hintSet0005" x="72" y="100" type="line"/>
+			<point x="172" y="100" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 100 120</string>
+							<string>vstem 172 106</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0004</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 100 76</string>
+							<string>vstem 172 106</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0005</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 100 120</string>
+							<string>vstem 172 106</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w380l172-150l278-150l278220l190220154196130184c72176l72100l172100</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

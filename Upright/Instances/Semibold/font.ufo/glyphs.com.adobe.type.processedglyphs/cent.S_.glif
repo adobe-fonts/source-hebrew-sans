@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent.S" format="2">
+	<unicode hex="00A2"/>
+	<advance width="513"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="270" y="-66" type="line"/>
+			<point x="337" y="-66" type="line"/>
+			<point x="337" y="32" type="line"/>
+			<point x="392" y="36"/>
+			<point x="441" y="58"/>
+			<point x="482" y="91" type="curve"/>
+			<point x="435" y="173" type="line"/>
+			<point x="404" y="151"/>
+			<point x="372" y="137"/>
+			<point x="337" y="134" type="curve"/>
+			<point x="337" y="424" type="line"/>
+			<point x="367" y="420"/>
+			<point x="392" y="410"/>
+			<point x="422" y="390" type="curve"/>
+			<point x="470" y="472" type="line"/>
+			<point x="431" y="503"/>
+			<point x="387" y="521"/>
+			<point x="337" y="526" type="curve"/>
+			<point x="337" y="626" type="line"/>
+			<point x="270" y="626" type="line"/>
+			<point x="270" y="524" type="line"/>
+			<point x="152" y="509"/>
+			<point x="66" y="426"/>
+			<point x="66" y="279" type="curve"/>
+			<point x="66" y="134"/>
+			<point x="149" y="51"/>
+			<point x="270" y="34" type="curve"/>
+		</contour>
+		<contour>
+			<point x="163" y="282" type="curve"/>
+			<point x="163" y="360"/>
+			<point x="208" y="406"/>
+			<point x="270" y="420" type="curve"/>
+			<point x="270" y="139" type="line"/>
+			<point x="206" y="155"/>
+			<point x="163" y="202"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 32 102</string>
+							<string>vstem 66 97</string>
+							<string>vstem 270 67</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>effdd44183ea3278ec135c6d66cf046ef21671b145d6502955af47f2c35722114b5eab7d07fbfcacf6dfc7fda1e06f3ee766eef02c405008cf2ac0b2e58466d8</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

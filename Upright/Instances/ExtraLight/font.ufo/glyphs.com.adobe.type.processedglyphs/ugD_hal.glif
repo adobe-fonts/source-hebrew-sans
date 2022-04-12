@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugDhal" format="2">
+	<unicode hex="1038F"/>
+	<advance width="848"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="412" y="-56" type="curve"/>
+			<point x="436" y="-56" type="line"/>
+			<point x="624" y="223"/>
+			<point x="763" y="429"/>
+			<point x="822" y="468" type="curve"/>
+			<point x="761" y="512" type="line"/>
+			<point x="742" y="441"/>
+			<point x="607" y="242"/>
+			<point x="424" y="-32" type="curve"/>
+			<point x="241" y="241"/>
+			<point x="106" y="440"/>
+			<point x="87" y="512" type="curve"/>
+			<point x="26" y="467" type="line"/>
+			<point x="85" y="428"/>
+			<point x="224" y="222"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -56 24</string>
+							<string>vstem 26 796</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w848c412-56l436-56624223763429c822468l761512742441607242c424-32241241106440c87512l2646785428224222</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

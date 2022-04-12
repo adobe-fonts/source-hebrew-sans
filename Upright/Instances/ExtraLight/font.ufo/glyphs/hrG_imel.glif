@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrGimel" format="2">
+	<unicode hex="108E2"/>
+	<advance width="502"/>
+	<outline>
+		<contour>
+			<point x="54" y="0" type="line"/>
+			<point x="452" y="0" type="line"/>
+			<point x="458" y="24" type="line"/>
+			<point x="274" y="190"/>
+			<point x="132" y="364"/>
+			<point x="58" y="550" type="curve"/>
+			<point x="24" y="546" type="line"/>
+			<point x="102" y="358"/>
+			<point x="238" y="182"/>
+			<point x="432" y="10" type="curve"/>
+			<point x="444" y="28" type="line"/>
+			<point x="54" y="28" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="belowPrimaryHE" x="240" y="-30"/>
+	<anchor name="aboveHE" x="240" y="590"/>
+	<anchor name="centerHE" x="130" y="160"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
+</glyph>

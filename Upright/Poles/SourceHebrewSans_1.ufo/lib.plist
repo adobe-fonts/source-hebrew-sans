@@ -36,9 +36,9 @@
 					<string>heResh</string>
 					<string>heShin</string>
 					<string>heTav</string>
-					<string>heVavdbl</string>
+					<string>heVavVav</string>
 					<string>heVavYod</string>
-					<string>heYoddbl</string>
+					<string>heYodYod</string>
 					<string>heAlefWide</string>
 					<string>heDaletWide</string>
 					<string>heHeWide</string>
@@ -80,7 +80,7 @@
 					<string>heKafRafe</string>
 					<string>hePeRafe</string>
 					<string>heYodHiriq</string>
-					<string>heYodDblYidPatah</string>
+					<string>heYodYodPatah</string>
 					<string>heAlefLamed</string>
 					<string>gampersand</string>
 					<string>heSheva</string>
@@ -345,6 +345,7 @@
 					<string>parenright.Numr</string>
 					<string>period.Numr</string>
 					<string>comma.Numr</string>
+					<string>ampersand.S</string>
 					<string>exclam.S</string>
 					<string>exclamdown.S</string>
 					<string>question.S</string>
@@ -462,6 +463,7 @@
 					<string>Adotbelow</string>
 					<string>Blinebelow</string>
 					<string>Ccaron</string>
+					<string>Dcaron</string>
 					<string>Ddotbelow</string>
 					<string>Dlinebelow</string>
 					<string>Ebreve</string>
@@ -483,6 +485,7 @@
 					<string>Odotbelow</string>
 					<string>Sacute</string>
 					<string>Sdotbelow</string>
+					<string>Tcaron</string>
 					<string>Tdotbelow</string>
 					<string>Tlinebelow</string>
 					<string>Umacron</string>
@@ -558,6 +561,7 @@
 					<string>adotbelow</string>
 					<string>blinebelow</string>
 					<string>ccaron</string>
+					<string>dcaron</string>
 					<string>ddotbelow</string>
 					<string>dlinebelow</string>
 					<string>ebreve</string>
@@ -580,6 +584,7 @@
 					<string>odotbelow</string>
 					<string>sacute</string>
 					<string>sdotbelow</string>
+					<string>tcaron</string>
 					<string>tdotbelow</string>
 					<string>tlinebelow</string>
 					<string>umacron</string>
@@ -588,16 +593,19 @@
 					<string>zlinebelow</string>
 					<string>aturned</string>
 					<string>alphalatin</string>
-					<string>oopen</string>
+					<string>chilatin</string>
 					<string>schwa</string>
 					<string>eopen</string>
 					<string>gscript</string>
 					<string>gammalatin</string>
 					<string>ismall</string>
 					<string>lmiddletilde</string>
+					<string>oopen</string>
+					<string>rfishhook</string>
 					<string>rsmall</string>
 					<string>rsmallturned</string>
 					<string>esh</string>
+					<string>theta</string>
 					<string>upsilonlatin</string>
 					<string>yturned</string>
 					<string>ezh</string>
@@ -606,8 +614,6 @@
 					<string>dezh</string>
 					<string>ts</string>
 					<string>tesh</string>
-					<string>theta</string>
-					<string>chi</string>
 					<string>a.sups</string>
 					<string>e.sups</string>
 					<string>j.sups</string>
@@ -619,6 +625,7 @@
 					<string>ringhalfrightmod</string>
 					<string>ringhalfleftmod</string>
 					<string>verticallinemod</string>
+					<string>verticallinelowmod</string>
 					<string>colontriangularmod</string>
 					<string>glottalstopreversed.sups</string>
 					<string>fi</string>
@@ -883,6 +890,7 @@
 					<string>ogonekcmb</string>
 					<string>tildeoverlaycmb</string>
 					<string>space.frac</string>
+					<string>aiShin.copy_1</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -5559,6 +5567,7 @@
 			<string>parenright.Numr</string>
 			<string>period.Numr</string>
 			<string>comma.Numr</string>
+			<string>ampersand.S</string>
 			<string>exclam.S</string>
 			<string>exclamdown.S</string>
 			<string>question.S</string>
@@ -5676,6 +5685,7 @@
 			<string>Adotbelow</string>
 			<string>Blinebelow</string>
 			<string>Ccaron</string>
+			<string>Dcaron</string>
 			<string>Ddotbelow</string>
 			<string>Dlinebelow</string>
 			<string>Ebreve</string>
@@ -5697,6 +5707,7 @@
 			<string>Odotbelow</string>
 			<string>Sacute</string>
 			<string>Sdotbelow</string>
+			<string>Tcaron</string>
 			<string>Tdotbelow</string>
 			<string>Tlinebelow</string>
 			<string>Umacron</string>
@@ -5772,6 +5783,7 @@
 			<string>adotbelow</string>
 			<string>blinebelow</string>
 			<string>ccaron</string>
+			<string>dcaron</string>
 			<string>ddotbelow</string>
 			<string>dlinebelow</string>
 			<string>ebreve</string>
@@ -5794,6 +5806,7 @@
 			<string>odotbelow</string>
 			<string>sacute</string>
 			<string>sdotbelow</string>
+			<string>tcaron</string>
 			<string>tdotbelow</string>
 			<string>tlinebelow</string>
 			<string>umacron</string>
@@ -5802,16 +5815,19 @@
 			<string>zlinebelow</string>
 			<string>aturned</string>
 			<string>alphalatin</string>
-			<string>oopen</string>
+			<string>chilatin</string>
 			<string>schwa</string>
 			<string>eopen</string>
 			<string>gscript</string>
 			<string>gammalatin</string>
 			<string>ismall</string>
 			<string>lmiddletilde</string>
+			<string>oopen</string>
+			<string>rfishhook</string>
 			<string>rsmall</string>
 			<string>rsmallturned</string>
 			<string>esh</string>
+			<string>theta</string>
 			<string>upsilonlatin</string>
 			<string>yturned</string>
 			<string>ezh</string>
@@ -5820,8 +5836,6 @@
 			<string>dezh</string>
 			<string>ts</string>
 			<string>tesh</string>
-			<string>theta</string>
-			<string>chilatin</string>
 			<string>a.sups</string>
 			<string>e.sups</string>
 			<string>j.sups</string>
@@ -5833,6 +5847,7 @@
 			<string>ringhalfrightmod</string>
 			<string>ringhalfleftmod</string>
 			<string>verticallinemod</string>
+			<string>verticallinelowmod</string>
 			<string>colontriangularmod</string>
 			<string>glottalstopreversed.sups</string>
 			<string>fi</string>

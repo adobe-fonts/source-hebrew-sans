@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugword" format="2">
+	<advance width="270"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="130" y="185" type="curve"/>
+			<point x="164" y="185" type="line"/>
+			<point x="164" y="245"/>
+			<point x="180" y="321"/>
+			<point x="217" y="363" type="curve"/>
+			<point x="78" y="363" type="line"/>
+			<point x="115" y="321"/>
+			<point x="130" y="245"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 185 178</string>
+							<string>vstem 130 34</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w270c130185l164185164245180321c217363l78363115321130245</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

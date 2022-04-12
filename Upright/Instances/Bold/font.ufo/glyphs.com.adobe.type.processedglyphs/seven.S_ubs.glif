@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.Subs" format="2">
+	<unicode hex="2087"/>
+	<advance width="376"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="121" y="-150" type="curve"/>
+			<point x="228" y="-150" type="line"/>
+			<point name="hintSet0002" x="234" y="-32"/>
+			<point x="260" y="37"/>
+			<point x="344" y="144" type="curve"/>
+			<point x="344" y="216" type="line"/>
+			<point x="50" y="216" type="line"/>
+			<point x="50" y="119" type="line"/>
+			<point x="229" y="119" type="line"/>
+			<point name="hintSet0007" x="164" y="33"/>
+			<point x="128" y="-40"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 119 97</string>
+							<string>vstem 121 107</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0002</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 119 97</string>
+							<string>vstem 50 294</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0007</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 119 97</string>
+							<string>vstem 121 107</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w376c121-150l228-150234-3226037c344144l344216l50216l50119l22911916433128-40</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugU" format="2">
+	<unicode hex="1039C"/>
+	<advance width="658"/>
+	<outline>
+		<contour>
+			<point x="116" y="245" type="curve"/>
+			<point x="135" y="245" type="line"/>
+			<point x="135" y="432"/>
+			<point x="141" y="560"/>
+			<point x="162" y="600" type="curve"/>
+			<point x="90" y="600" type="line"/>
+			<point x="110" y="560"/>
+			<point x="116" y="432"/>
+		</contour>
+		<contour>
+			<point x="296" y="245" type="curve"/>
+			<point x="315" y="245" type="line"/>
+			<point x="315" y="432"/>
+			<point x="321" y="560"/>
+			<point x="342" y="600" type="curve"/>
+			<point x="270" y="600" type="line"/>
+			<point x="290" y="560"/>
+			<point x="296" y="432"/>
+		</contour>
+		<contour>
+			<point x="476" y="245" type="curve"/>
+			<point x="495" y="245" type="line"/>
+			<point x="495" y="432"/>
+			<point x="501" y="560"/>
+			<point x="522" y="600" type="curve"/>
+			<point x="450" y="600" type="line"/>
+			<point x="470" y="560"/>
+			<point x="476" y="432"/>
+		</contour>
+		<component base="ugTo" yOffset="-30"/>
+	</outline>
+</glyph>

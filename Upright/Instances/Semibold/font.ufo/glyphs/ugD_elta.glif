@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugDelta" format="2">
+	<unicode hex="10384"/>
+	<advance width="740"/>
+	<outline>
+		<contour>
+			<point x="118" y="223" type="curve"/>
+			<point x="175" y="223" type="line"/>
+			<point x="175" y="420"/>
+			<point x="190" y="544"/>
+			<point x="229" y="616" type="curve"/>
+			<point x="58" y="616" type="line"/>
+			<point x="106" y="543"/>
+			<point x="118" y="420"/>
+		</contour>
+		<contour>
+			<point x="329" y="223" type="curve"/>
+			<point x="385" y="223" type="line"/>
+			<point x="385" y="420"/>
+			<point x="400" y="544"/>
+			<point x="439" y="616" type="curve"/>
+			<point x="275" y="616" type="line"/>
+			<point x="314" y="544"/>
+			<point x="329" y="420"/>
+		</contour>
+		<contour>
+			<point x="539" y="223" type="curve"/>
+			<point x="596" y="223" type="line"/>
+			<point x="596" y="420"/>
+			<point x="608" y="543"/>
+			<point x="657" y="616" type="curve"/>
+			<point x="485" y="616" type="line"/>
+			<point x="525" y="544"/>
+			<point x="539" y="420"/>
+		</contour>
+		<component base="ugNun" yOffset="-42"/>
+	</outline>
+</glyph>

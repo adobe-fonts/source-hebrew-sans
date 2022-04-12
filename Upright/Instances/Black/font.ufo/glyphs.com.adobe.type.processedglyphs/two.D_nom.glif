@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.Dnom" format="2">
+	<advance width="380"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="42" y="0" type="line"/>
+			<point x="334" y="0" type="line"/>
+			<point x="334" y="112" type="line"/>
+			<point name="hintSet0003" x="230" y="112" type="line"/>
+			<point x="280" y="160"/>
+			<point x="320" y="208"/>
+			<point x="320" y="258" type="curve"/>
+			<point x="320" y="336"/>
+			<point x="265" y="382"/>
+			<point x="182" y="382" type="curve"/>
+			<point x="130" y="382"/>
+			<point x="84" y="370"/>
+			<point x="36" y="330" type="curve"/>
+			<point x="98" y="244" type="line"/>
+			<point x="127" y="263"/>
+			<point x="145" y="270"/>
+			<point x="175" y="270" type="curve"/>
+			<point x="200" y="270"/>
+			<point x="216" y="256"/>
+			<point x="216" y="234" type="curve"/>
+			<point name="hintSet0010" x="216" y="200"/>
+			<point x="138" y="141"/>
+			<point x="42" y="84" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 112</string>
+							<string>vstem 42 292</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0003</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 112</string>
+							<string>hstem 270 112</string>
+							<string>vstem 216 104</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0010</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 112</string>
+							<string>vstem 42 292</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>20ae9c8ad02047fa271ca2e85a320bc71d8f9a0ac60a25251300035a4b271b3f3cde65125cd4d107c216f6e64b0376f0e440bd3e2106301c64b13bd7f061f2d7</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

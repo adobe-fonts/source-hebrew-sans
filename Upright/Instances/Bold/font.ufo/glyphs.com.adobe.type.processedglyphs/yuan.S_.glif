@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yuan.S" format="2">
+	<advance width="528"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="201" y="0" type="line"/>
+			<point x="327" y="0" type="line"/>
+			<point x="327" y="219" type="line"/>
+			<point x="491" y="219" type="line"/>
+			<point x="491" y="310" type="line"/>
+			<point x="361" y="310" type="line"/>
+			<point x="516" y="564" type="line"/>
+			<point x="368" y="564" type="line"/>
+			<point x="324" y="474" type="line"/>
+			<point x="305" y="431"/>
+			<point x="285" y="390"/>
+			<point x="268" y="346" type="curve"/>
+			<point x="264" y="346" type="line"/>
+			<point x="246" y="390"/>
+			<point x="227" y="432"/>
+			<point x="208" y="474" type="curve"/>
+			<point x="164" y="564" type="line"/>
+			<point x="12" y="564" type="line"/>
+			<point x="167" y="310" type="line"/>
+			<point x="105" y="310" type="line"/>
+			<point x="37" y="304" type="line"/>
+			<point x="37" y="219" type="line"/>
+			<point x="201" y="219" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 219 91</string>
+							<string>vstem 201 126</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>c320e370800f13e224f8c9e88026af43358a60908e8ca8e89bdaf17f89ceb7c97f66d7778b60ce62a3f0054752656dd41114bf6c5d15cd6449b6a4fd9451ceff</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

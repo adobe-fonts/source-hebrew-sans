@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiShin" format="2">
+	<unicode hex="10854"/>
+	<advance width="733"/>
+	<outline>
+		<contour>
+			<point x="349" y="-12" type="curve" smooth="yes"/>
+			<point x="546" y="-12"/>
+			<point x="695" y="187"/>
+			<point x="713" y="564" type="curve"/>
+			<point x="577" y="564" type="line"/>
+			<point x="573" y="261"/>
+			<point x="489" y="133"/>
+			<point x="367" y="133" type="curve" smooth="yes"/>
+			<point x="270" y="133"/>
+			<point x="184" y="221"/>
+			<point x="185" y="571" type="curve"/>
+			<point x="31" y="558" type="line"/>
+			<point x="38" y="137"/>
+			<point x="175" y="-12"/>
+		</contour>
+		<contour>
+			<point x="242" y="149" type="line"/>
+			<point x="396" y="261"/>
+			<point x="453" y="349"/>
+			<point x="459" y="571" type="curve"/>
+			<point x="322" y="559" type="line"/>
+			<point x="317" y="387"/>
+			<point x="284" y="310"/>
+			<point x="195" y="228" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

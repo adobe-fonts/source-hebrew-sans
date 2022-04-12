@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.S" format="2">
+	<unicode hex="0032"/>
+	<advance width="479"/>
+	<outline>
+		<contour>
+			<point x="48" y="0" type="line"/>
+			<point x="428" y="0" type="line"/>
+			<point x="428" y="40" type="line"/>
+			<point x="220" y="40" type="line" smooth="yes"/>
+			<point x="185" y="40"/>
+			<point x="147" y="37"/>
+			<point x="112" y="35" type="curve"/>
+			<point x="244" y="155"/>
+			<point x="391" y="285"/>
+			<point x="391" y="404" type="curve" smooth="yes"/>
+			<point x="391" y="501"/>
+			<point x="328" y="560"/>
+			<point x="226" y="560" type="curve" smooth="yes"/>
+			<point x="153" y="560"/>
+			<point x="100" y="540"/>
+			<point x="45" y="496" type="curve"/>
+			<point x="67" y="462" type="line"/>
+			<point x="121" y="504"/>
+			<point x="167" y="518"/>
+			<point x="223" y="518" type="curve" smooth="yes"/>
+			<point x="308" y="518"/>
+			<point x="349" y="471"/>
+			<point x="349" y="401" type="curve" smooth="yes"/>
+			<point x="349" y="298"/>
+			<point x="216" y="173"/>
+			<point x="48" y="29" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

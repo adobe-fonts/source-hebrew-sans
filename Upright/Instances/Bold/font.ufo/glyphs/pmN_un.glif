@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmNun" format="2">
+	<unicode hex="1086E"/>
+	<advance width="441"/>
+	<outline>
+		<contour>
+			<point x="46" y="0" type="line"/>
+			<point x="364" y="0" type="line"/>
+			<point x="364" y="373" type="line" smooth="yes"/>
+			<point x="364" y="514"/>
+			<point x="290" y="564"/>
+			<point x="177" y="564" type="curve" smooth="yes"/>
+			<point x="82" y="564" type="line"/>
+			<point x="82" y="417" type="line"/>
+			<point x="125" y="417" type="line" smooth="yes"/>
+			<point x="196" y="417"/>
+			<point x="237" y="393"/>
+			<point x="237" y="305" type="curve" smooth="yes"/>
+			<point x="237" y="140" type="line"/>
+			<point x="46" y="140" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnRosh" format="2">
+	<unicode hex="10913"/>
+	<advance width="512"/>
+	<outline>
+		<contour>
+			<point x="384" y="-202" type="line"/>
+			<point x="412" y="-202" type="line"/>
+			<point x="412" y="510" type="line"/>
+			<point x="290" y="510" type="line" smooth="yes"/>
+			<point x="148" y="510"/>
+			<point x="56" y="452"/>
+			<point x="56" y="338" type="curve" smooth="yes"/>
+			<point x="56" y="214"/>
+			<point x="160" y="166"/>
+			<point x="294" y="166" type="curve" smooth="yes"/>
+			<point x="384" y="166" type="line"/>
+		</contour>
+		<contour>
+			<point x="304" y="196" type="line" smooth="yes"/>
+			<point x="168" y="196"/>
+			<point x="84" y="237"/>
+			<point x="84" y="340" type="curve" smooth="yes"/>
+			<point x="84" y="436"/>
+			<point x="166" y="480"/>
+			<point x="300" y="480" type="curve" smooth="yes"/>
+			<point x="384" y="480" type="line"/>
+			<point x="384" y="196" type="line"/>
+		</contour>
+	</outline>
+</glyph>

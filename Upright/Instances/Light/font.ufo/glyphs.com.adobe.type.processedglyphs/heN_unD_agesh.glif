@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heNunDagesh" format="2">
+	<unicode hex="FB40"/>
+	<advance width="396"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="53" y="0" type="line"/>
+			<point x="299" y="0" type="line"/>
+			<point x="299" y="379" type="line"/>
+			<point x="299" y="512"/>
+			<point x="249" y="548"/>
+			<point x="148" y="548" type="curve"/>
+			<point x="75" y="548" type="line"/>
+			<point x="75" y="504" type="line"/>
+			<point x="136" y="504" type="line"/>
+			<point x="221" y="504"/>
+			<point x="259" y="482"/>
+			<point x="259" y="366" type="curve"/>
+			<point x="259" y="42" type="line"/>
+			<point x="53" y="42" type="line"/>
+		</contour>
+		<contour>
+			<point x="148" y="243" type="curve"/>
+			<point x="169" y="243"/>
+			<point x="184" y="258"/>
+			<point x="184" y="282" type="curve"/>
+			<point x="184" y="304"/>
+			<point x="169" y="319"/>
+			<point x="148" y="319" type="curve"/>
+			<point x="127" y="319"/>
+			<point x="112" y="304"/>
+			<point x="112" y="282" type="curve"/>
+			<point x="112" y="258"/>
+			<point x="127" y="243"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 42</string>
+							<string>hstem 243 76</string>
+							<string>hstem 504 44</string>
+							<string>vstem 112 72</string>
+							<string>vstem 259 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>64cd3b7773d3529fc96815f2b86b1bd4c8a14961a70f45c86ff82fcfcf6602c97d1350dca7ad83c467282e05518fdde71a3f217ce764858afd6a02f2f4ca3e44</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

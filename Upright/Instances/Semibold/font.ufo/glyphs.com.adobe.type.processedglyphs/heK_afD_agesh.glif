@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heKafDagesh" format="2">
+	<unicode hex="FB3B"/>
+	<advance width="544"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="48" y="0" type="line"/>
+			<point x="446" y="0" type="line"/>
+			<point x="458" y="100"/>
+			<point x="467" y="190"/>
+			<point x="467" y="301" type="curve"/>
+			<point x="467" y="484"/>
+			<point x="391" y="559"/>
+			<point x="242" y="559" type="curve"/>
+			<point x="68" y="559" type="line"/>
+			<point x="68" y="444" type="line"/>
+			<point x="192" y="444" type="line"/>
+			<point x="319" y="444"/>
+			<point x="367" y="392"/>
+			<point x="367" y="238" type="curve"/>
+			<point x="367" y="190"/>
+			<point x="363" y="152"/>
+			<point x="358" y="110" type="curve"/>
+			<point x="48" y="110" type="line"/>
+		</contour>
+		<contour>
+			<point x="210" y="236" type="curve"/>
+			<point x="239" y="236"/>
+			<point x="258" y="254"/>
+			<point x="258" y="282" type="curve"/>
+			<point x="258" y="309"/>
+			<point x="239" y="328"/>
+			<point x="210" y="328" type="curve"/>
+			<point x="181" y="328"/>
+			<point x="162" y="309"/>
+			<point x="162" y="282" type="curve"/>
+			<point x="162" y="254"/>
+			<point x="181" y="236"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 110</string>
+							<string>hstem 236 92</string>
+							<string>hstem 444 115</string>
+							<string>vstem 162 96</string>
+							<string>vstem 367 100</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>682a9b599cc39cbd958a98fd1d7ad004d128621943409d033266e5f183779059ac834eff8c9c39369288e979e30e4eb1ba196cd5098bb3bc16259cb4e9ab507b</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

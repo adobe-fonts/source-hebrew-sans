@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcaron" format="2">
+	<unicode hex="01E8"/>
+	<advance width="628"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="72" y="0" type="line"/>
+			<point x="244" y="0" type="line"/>
+			<point x="244" y="162" type="line"/>
+			<point x="306" y="250" type="line"/>
+			<point x="450" y="0" type="line"/>
+			<point x="638" y="0" type="line"/>
+			<point x="406" y="386" type="line"/>
+			<point x="600" y="650" type="line"/>
+			<point x="412" y="650" type="line"/>
+			<point x="248" y="408" type="line"/>
+			<point x="244" y="408" type="line"/>
+			<point x="244" y="650" type="line"/>
+			<point x="72" y="650" type="line"/>
+		</contour>
+		<contour>
+			<point x="232" y="700" type="line"/>
+			<point x="412" y="700" type="line"/>
+			<point x="542" y="860" type="line"/>
+			<point x="412" y="860" type="line"/>
+			<point name="hintSet0017" x="324" y="800" type="line"/>
+			<point x="320" y="800" type="line"/>
+			<point name="hintSet0019" x="232" y="860" type="line"/>
+			<point x="102" y="860" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 650 -20</string>
+							<string>hstem 700 160</string>
+							<string>vstem 72 172</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0017</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 650 -20</string>
+							<string>hstem 700 100</string>
+							<string>vstem 72 172</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0019</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 650 -20</string>
+							<string>hstem 700 160</string>
+							<string>vstem 72 172</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>c13609524394ec48f29f2f5f0107fa16683dbf327604b85183f488322a86dffab292ebc2452d340aef1be5a722d4bf0193cb4d24c439558d1615eed5da85f9c7</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

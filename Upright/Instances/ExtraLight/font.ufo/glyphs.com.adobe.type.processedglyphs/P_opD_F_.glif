@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PopDF" format="2">
+	<unicode hex="202C"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="-14" y="646" type="line"/>
+			<point x="14" y="646" type="line"/>
+			<point x="14" y="828" type="line"/>
+			<point x="88" y="750" type="line"/>
+			<point x="108" y="770" type="line"/>
+			<point x="2" y="874" type="line"/>
+			<point x="-2" y="874" type="line"/>
+			<point x="-108" y="770" type="line"/>
+			<point x="-88" y="750" type="line"/>
+			<point x="-14" y="828" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 646 228</string>
+							<string>vstem -14 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l-14646l14646l14828l88750l108770l2874l-2874l-108770l-88750l-14828</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

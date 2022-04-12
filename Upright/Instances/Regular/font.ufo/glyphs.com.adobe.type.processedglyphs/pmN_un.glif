@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmNun" format="2">
+	<unicode hex="1086E"/>
+	<advance width="414"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="50" y="0" type="line"/>
+			<point x="323" y="0" type="line"/>
+			<point x="323" y="377" type="line"/>
+			<point x="323" y="513"/>
+			<point x="264" y="554"/>
+			<point x="159" y="554" type="curve"/>
+			<point x="78" y="554" type="line"/>
+			<point x="78" y="472" type="line"/>
+			<point x="132" y="472" type="line"/>
+			<point x="211" y="472"/>
+			<point x="251" y="449"/>
+			<point x="251" y="343" type="curve"/>
+			<point x="251" y="78" type="line"/>
+			<point x="50" y="78" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 78</string>
+							<string>hstem 472 82</string>
+							<string>vstem 251 72</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w414l500l3230l323377323513264554c159554l78554l78472l132472211472251449c251343l25178l5078</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heLamedDagesh" format="2">
+	<unicode hex="FB3C"/>
+	<advance width="507"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="140" y="-12" type="line"/>
+			<point x="377" y="117"/>
+			<point x="466" y="259"/>
+			<point x="466" y="406" type="curve"/>
+			<point x="466" y="512"/>
+			<point x="416" y="564"/>
+			<point x="262" y="564" type="curve"/>
+			<point x="189" y="564" type="line"/>
+			<point x="189" y="724" type="line"/>
+			<point x="62" y="724" type="line"/>
+			<point x="62" y="417" type="line"/>
+			<point x="248" y="417" type="line"/>
+			<point x="314" y="417"/>
+			<point x="339" y="404"/>
+			<point x="339" y="355" type="curve"/>
+			<point x="339" y="280"/>
+			<point x="264" y="203"/>
+			<point x="91" y="116" type="curve"/>
+		</contour>
+		<contour>
+			<point name="hintSet0010" x="170" y="260" type="curve"/>
+			<point x="199" y="260"/>
+			<point x="219" y="277"/>
+			<point x="219" y="305" type="curve"/>
+			<point x="219" y="332"/>
+			<point x="199" y="350"/>
+			<point x="170" y="350" type="curve"/>
+			<point x="141" y="350"/>
+			<point x="121" y="332"/>
+			<point x="121" y="305" type="curve"/>
+			<point x="121" y="277"/>
+			<point x="141" y="260"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 417 147</string>
+							<string>vstem 62 127</string>
+							<string>vstem 339 127</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0010</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 260 90</string>
+							<string>hstem 417 147</string>
+							<string>vstem 121 98</string>
+							<string>vstem 339 127</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>f65eeffb6293827a819c6e05330a221c427acf755f4a4d5a38cb13addc44f6115be6d7ebd74525f08c3fd82176741dc015aa3ebf05c7e756f0540776d83fc9fc</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

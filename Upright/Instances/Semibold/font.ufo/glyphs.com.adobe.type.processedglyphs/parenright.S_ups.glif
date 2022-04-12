@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.Sups" format="2">
+	<unicode hex="207E"/>
+	<advance width="253"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="100" y="286" type="line"/>
+			<point x="157" y="370"/>
+			<point x="189" y="449"/>
+			<point x="189" y="565" type="curve"/>
+			<point x="189" y="681"/>
+			<point x="157" y="760"/>
+			<point x="100" y="844" type="curve"/>
+			<point x="37" y="817" type="line"/>
+			<point x="85" y="737"/>
+			<point x="106" y="654"/>
+			<point x="106" y="565" type="curve"/>
+			<point x="106" y="476"/>
+			<point x="85" y="393"/>
+			<point x="37" y="313" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 286 558</string>
+							<string>vstem 106 83</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w253l100286157370189449c189565189681157760c100844l3781785737106654c10656510647685393c37313</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

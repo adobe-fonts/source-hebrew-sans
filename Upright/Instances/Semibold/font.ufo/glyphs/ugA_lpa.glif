@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugAlpa" format="2">
+	<unicode hex="10380"/>
+	<advance width="718"/>
+	<outline>
+		<contour>
+			<point x="39" y="192" type="line"/>
+			<point x="118" y="243"/>
+			<point x="262" y="253"/>
+			<point x="489" y="253" type="curve"/>
+			<point x="489" y="307" type="line"/>
+			<point x="262" y="307"/>
+			<point x="118" y="317"/>
+			<point x="39" y="368" type="curve"/>
+		</contour>
+		<contour>
+			<point x="308" y="192" type="line"/>
+			<point x="378" y="239"/>
+			<point x="499" y="253"/>
+			<point x="691" y="253" type="curve"/>
+			<point x="691" y="307" type="line"/>
+			<point x="499" y="307"/>
+			<point x="378" y="321"/>
+			<point x="308" y="368" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

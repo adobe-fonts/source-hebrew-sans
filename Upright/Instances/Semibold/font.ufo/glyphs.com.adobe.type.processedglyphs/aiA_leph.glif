@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiAleph" format="2">
+	<unicode hex="10840"/>
+	<advance width="618"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="496" y="-9" type="curve"/>
+			<point x="622" y="24" type="line"/>
+			<point x="570" y="73"/>
+			<point x="516" y="127"/>
+			<point x="462" y="185" type="curve"/>
+			<point x="526" y="278"/>
+			<point x="558" y="393"/>
+			<point x="558" y="495" type="curve"/>
+			<point x="558" y="517"/>
+			<point x="559" y="537"/>
+			<point x="556" y="559" type="curve"/>
+			<point x="433" y="559" type="line"/>
+			<point x="437" y="528"/>
+			<point x="440" y="496"/>
+			<point x="440" y="437" type="curve"/>
+			<point x="440" y="367"/>
+			<point x="428" y="303"/>
+			<point x="403" y="252" type="curve"/>
+			<point x="314" y="355"/>
+			<point x="233" y="464"/>
+			<point x="180" y="566" type="curve"/>
+			<point x="57" y="539" type="line"/>
+			<point x="129" y="420"/>
+			<point x="231" y="283"/>
+			<point x="333" y="164" type="curve"/>
+			<point x="287" y="130"/>
+			<point x="226" y="110"/>
+			<point x="148" y="110" type="curve"/>
+			<point x="60" y="110" type="line"/>
+			<point x="60" y="0" type="line"/>
+			<point x="116" y="0" type="line"/>
+			<point x="228" y="0"/>
+			<point x="319" y="40"/>
+			<point x="388" y="101" type="curve"/>
+			<point x="426" y="60"/>
+			<point x="462" y="23"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 110</string>
+							<string>vstem 440 118</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>069ad66ff56b9271994a078afc4cb4b1fa247f452df58ef82249864f7c1552e40c6c20fdd6be5e9cf921ddbbfff6d3e59bb1adb97c4a8097230f70378bf93dc3</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrTeth" format="2">
+	<unicode hex="108E8"/>
+	<advance width="556"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="310" y="-12" type="curve"/>
+			<point x="419" y="-12"/>
+			<point x="500" y="54"/>
+			<point x="500" y="166" type="curve"/>
+			<point x="500" y="274"/>
+			<point x="438" y="306"/>
+			<point x="360" y="306" type="curve"/>
+			<point x="330" y="306" type="line"/>
+			<point x="330" y="274" type="line"/>
+			<point x="356" y="274" type="line"/>
+			<point x="420" y="274"/>
+			<point x="472" y="250"/>
+			<point x="472" y="166" type="curve"/>
+			<point x="472" y="70"/>
+			<point x="406" y="18"/>
+			<point x="312" y="18" type="curve"/>
+			<point x="190" y="18"/>
+			<point x="124" y="68"/>
+			<point x="124" y="232" type="curve"/>
+			<point x="124" y="378"/>
+			<point x="190" y="518"/>
+			<point x="502" y="518" type="curve"/>
+			<point x="502" y="546" type="line"/>
+			<point x="166" y="546"/>
+			<point x="96" y="394"/>
+			<point x="96" y="226" type="curve"/>
+			<point x="96" y="50"/>
+			<point x="172" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 30</string>
+							<string>hstem 274 32</string>
+							<string>hstem 518 28</string>
+							<string>vstem 96 28</string>
+							<string>vstem 472 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>dbeabd92cc6c0657262efe7df25234bf2ac59f6b03dedfa09cc574ab112e886070ec54f5c1dedcc6575d2b61274df5d679837a08e615216b75fc530664140a16</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

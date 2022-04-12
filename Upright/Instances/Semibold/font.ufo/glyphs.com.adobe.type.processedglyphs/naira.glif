@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="naira" format="2">
+	<unicode hex="20A6"/>
+	<advance width="513"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="144" y="544" type="line"/>
+			<point x="148" y="544" type="line"/>
+			<point x="188" y="409" type="line"/>
+			<point x="155" y="409" type="line"/>
+		</contour>
+		<contour>
+			<point name="hintSet0004" x="79" y="0" type="line"/>
+			<point x="165" y="0" type="line"/>
+			<point x="165" y="227" type="line"/>
+			<point x="245" y="227" type="line"/>
+			<point x="323" y="0" type="line"/>
+			<point x="434" y="0" type="line"/>
+			<point x="434" y="227" type="line"/>
+			<point x="504" y="227" type="line"/>
+			<point x="504" y="289" type="line"/>
+			<point x="434" y="289" type="line"/>
+			<point x="434" y="347" type="line"/>
+			<point x="504" y="347" type="line"/>
+			<point x="504" y="409" type="line"/>
+			<point x="434" y="409" type="line"/>
+			<point x="434" y="636" type="line"/>
+			<point x="348" y="636" type="line"/>
+			<point x="348" y="409" type="line"/>
+			<point x="268" y="409" type="line"/>
+			<point x="190" y="636" type="line"/>
+			<point x="79" y="636" type="line"/>
+			<point x="79" y="409" type="line"/>
+			<point x="7" y="404" type="line"/>
+			<point x="7" y="347" type="line"/>
+			<point x="79" y="347" type="line"/>
+			<point x="79" y="289" type="line"/>
+			<point x="7" y="284" type="line"/>
+			<point x="7" y="227" type="line"/>
+			<point x="79" y="227" type="line"/>
+		</contour>
+		<contour>
+			<point name="hintSet0032" x="165" y="289" type="line"/>
+			<point x="160" y="347" type="line"/>
+			<point x="206" y="347" type="line"/>
+			<point x="221" y="296" type="line"/>
+			<point x="223" y="289" type="line"/>
+		</contour>
+		<contour>
+			<point x="292" y="341" type="line"/>
+			<point x="290" y="347" type="line"/>
+			<point x="348" y="347" type="line"/>
+			<point x="353" y="289" type="line"/>
+			<point x="307" y="289" type="line"/>
+		</contour>
+		<contour>
+			<point name="hintSet0042" x="365" y="92" type="line"/>
+			<point x="325" y="227" type="line"/>
+			<point x="358" y="227" type="line"/>
+			<point x="369" y="92" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 92</string>
+							<string>hstem 227 62</string>
+							<string>hstem 347 62</string>
+							<string>hstem 544 92</string>
+							<string>vstem 79 70.5</string>
+							<string>vstem 348 86</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0004</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 92</string>
+							<string>hstem 227 62</string>
+							<string>hstem 347 62</string>
+							<string>hstem 544 92</string>
+							<string>vstem 79 86</string>
+							<string>vstem 348 86</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0032</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 92</string>
+							<string>hstem 227 62</string>
+							<string>hstem 347 62</string>
+							<string>hstem 544 92</string>
+							<string>vstem 79 83.5</string>
+							<string>vstem 350.5 83.5</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0042</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 92</string>
+							<string>hstem 227 62</string>
+							<string>hstem 347 62</string>
+							<string>hstem 544 92</string>
+							<string>vstem 79 86</string>
+							<string>vstem 363.5 70.5</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>e13a35b07679fb66d9b8f07ce8f21e2cb235ef74a0d9e99510002722387b2fe4ab189b128dbe0010c735ff9d4981fd125a68525c2ec9befc855d20176c1a3630</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

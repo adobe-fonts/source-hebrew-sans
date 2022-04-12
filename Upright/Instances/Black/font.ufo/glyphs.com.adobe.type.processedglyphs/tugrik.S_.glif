@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tugrik.S" format="2">
+	<advance width="540"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="196" y="0" type="line"/>
+			<point x="344" y="0" type="line"/>
+			<point x="344" y="128" type="line"/>
+			<point x="466" y="194" type="line"/>
+			<point x="430" y="266" type="line"/>
+			<point x="344" y="218" type="line"/>
+			<point x="344" y="268" type="line"/>
+			<point x="466" y="334" type="line"/>
+			<point x="430" y="406" type="line"/>
+			<point x="344" y="358" type="line"/>
+			<point x="344" y="416" type="line"/>
+			<point x="508" y="416" type="line"/>
+			<point x="508" y="568" type="line"/>
+			<point x="32" y="568" type="line"/>
+			<point x="32" y="416" type="line"/>
+			<point x="196" y="416" type="line"/>
+			<point x="196" y="276" type="line"/>
+			<point x="76" y="212" type="line"/>
+			<point x="112" y="140" type="line"/>
+			<point x="196" y="186" type="line"/>
+			<point x="196" y="136" type="line"/>
+			<point x="76" y="72" type="line"/>
+			<point x="112" y="0" type="line"/>
+			<point x="196" y="46" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 416 152</string>
+							<string>vstem 196 148</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>dc5a34bf2163dc3d7225124cae565b70977e6f42fdb272bb174be6007569210429c9cc4e19188c8b1f822d6bd7470c25b510d07f19d412307330b2686434884c</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

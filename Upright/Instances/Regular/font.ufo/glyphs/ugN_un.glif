@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugNun" format="2">
+	<unicode hex="10390"/>
+	<advance width="708"/>
+	<outline>
+		<contour>
+			<point x="425" y="210" type="line"/>
+			<point x="492" y="241"/>
+			<point x="595" y="257"/>
+			<point x="681" y="257" type="curve"/>
+			<point x="681" y="298" type="line"/>
+			<point x="595" y="298"/>
+			<point x="492" y="314"/>
+			<point x="425" y="345" type="curve"/>
+		</contour>
+		<contour>
+			<point x="34" y="210" type="line"/>
+			<point x="100" y="241"/>
+			<point x="201" y="257"/>
+			<point x="283" y="257" type="curve"/>
+			<point x="283" y="298" type="line"/>
+			<point x="201" y="298"/>
+			<point x="100" y="314"/>
+			<point x="34" y="345" type="curve"/>
+		</contour>
+		<contour>
+			<point x="232" y="210" type="line"/>
+			<point x="297" y="241"/>
+			<point x="398" y="257"/>
+			<point x="481" y="257" type="curve"/>
+			<point x="481" y="298" type="line"/>
+			<point x="398" y="298"/>
+			<point x="297" y="314"/>
+			<point x="232" y="345" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

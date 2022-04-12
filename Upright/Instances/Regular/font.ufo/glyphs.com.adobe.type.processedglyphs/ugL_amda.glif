@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugLamda" format="2">
+	<unicode hex="1038D"/>
+	<advance width="753"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="132" y="-56" type="curve"/>
+			<point x="177" y="-56" type="line"/>
+			<point x="177" y="287"/>
+			<point x="177" y="519"/>
+			<point x="224" y="610" type="curve"/>
+			<point x="84" y="610" type="line"/>
+			<point x="132" y="519"/>
+			<point x="132" y="287"/>
+		</contour>
+		<contour>
+			<point x="354" y="-56" type="curve"/>
+			<point x="399" y="-56" type="line"/>
+			<point x="399" y="287"/>
+			<point x="399" y="519"/>
+			<point x="446" y="610" type="curve"/>
+			<point x="306" y="610" type="line"/>
+			<point x="354" y="519"/>
+			<point x="354" y="287"/>
+		</contour>
+		<contour>
+			<point x="576" y="-56" type="curve"/>
+			<point x="621" y="-56" type="line"/>
+			<point x="621" y="287"/>
+			<point x="621" y="519"/>
+			<point x="668" y="610" type="curve"/>
+			<point x="528" y="610" type="line"/>
+			<point x="576" y="519"/>
+			<point x="576" y="287"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -56 666</string>
+							<string>vstem 132 45</string>
+							<string>vstem 354 45</string>
+							<string>vstem 576 45</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>62b6deb4b94b950c2faca762d9e49a3fb12c5aee622d5993fe4cfb086f65adcb4fe53e246cd1ea8f163898dba472b92e0d77c683182b54374732ed8aa09a1c5e</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

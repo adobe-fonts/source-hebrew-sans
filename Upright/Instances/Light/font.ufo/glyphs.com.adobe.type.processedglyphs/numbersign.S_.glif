@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign.S" format="2">
+	<unicode hex="0023"/>
+	<advance width="479"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="95" y="-11" type="line"/>
+			<point x="130" y="-11" type="line"/>
+			<point x="154" y="163" type="line"/>
+			<point x="303" y="163" type="line"/>
+			<point x="280" y="-11" type="line"/>
+			<point x="315" y="-11" type="line"/>
+			<point x="338" y="163" type="line"/>
+			<point x="429" y="163" type="line"/>
+			<point x="429" y="199" type="line"/>
+			<point x="343" y="199" type="line"/>
+			<point x="364" y="369" type="line"/>
+			<point x="449" y="369" type="line"/>
+			<point x="449" y="405" type="line"/>
+			<point x="367" y="405" type="line"/>
+			<point x="387" y="560" type="line"/>
+			<point x="352" y="560" type="line"/>
+			<point x="332" y="405" type="line"/>
+			<point x="183" y="405" type="line"/>
+			<point x="202" y="560" type="line"/>
+			<point x="167" y="560" type="line"/>
+			<point x="148" y="405" type="line"/>
+			<point x="56" y="405" type="line"/>
+			<point x="56" y="369" type="line"/>
+			<point x="144" y="369" type="line"/>
+			<point x="123" y="199" type="line"/>
+			<point x="36" y="199" type="line"/>
+			<point x="36" y="163" type="line"/>
+			<point x="119" y="163" type="line"/>
+		</contour>
+		<contour>
+			<point x="158" y="199" type="line"/>
+			<point x="179" y="369" type="line"/>
+			<point x="329" y="369" type="line"/>
+			<point x="308" y="199" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 163 36</string>
+							<string>hstem 369 36</string>
+							<string>vstem 36 413</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>d9d469ec0c93223b6ec3ee4a936124e5f4755be4eefbf1ebe8b4ed70aaf54b6b5246e58bb20b04366202ca3dafa6bd7ef4db2078dca3af6566e3f3c1ccc1383f</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

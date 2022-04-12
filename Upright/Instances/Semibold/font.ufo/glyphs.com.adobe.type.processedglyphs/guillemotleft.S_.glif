@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft.S" format="2">
+	<unicode hex="00AB"/>
+	<advance width="455"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="182" y="69" type="line"/>
+			<point x="228" y="105" type="line"/>
+			<point x="113" y="260" type="line"/>
+			<point x="228" y="414" type="line"/>
+			<point x="182" y="451" type="line"/>
+			<point x="47" y="302" type="line"/>
+			<point x="47" y="218" type="line"/>
+		</contour>
+		<contour>
+			<point x="356" y="69" type="line"/>
+			<point x="402" y="105" type="line"/>
+			<point x="287" y="260" type="line"/>
+			<point x="402" y="414" type="line"/>
+			<point x="356" y="451" type="line"/>
+			<point x="221" y="302" type="line"/>
+			<point x="221" y="218" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 69 382</string>
+							<string>vstem 47 66</string>
+							<string>vstem 221 66</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w455l18269l228105l113260l228414l182451l47302l47218l35669l402105l287260l402414l356451l221302l221218</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

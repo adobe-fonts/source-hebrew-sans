@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiQoph" format="2">
+	<unicode hex="10852"/>
+	<advance width="563"/>
+	<outline>
+		<contour>
+			<point x="316" y="88" type="line"/>
+			<point x="448" y="194"/>
+			<point x="512" y="297"/>
+			<point x="512" y="400" type="curve" smooth="yes"/>
+			<point x="512" y="505"/>
+			<point x="468" y="554"/>
+			<point x="332" y="554" type="curve" smooth="yes"/>
+			<point x="159" y="554" type="line" smooth="yes"/>
+			<point x="112" y="554"/>
+			<point x="99" y="569"/>
+			<point x="99" y="602" type="curve" smooth="yes"/>
+			<point x="99" y="642"/>
+			<point x="105" y="681"/>
+			<point x="116" y="731" type="curve"/>
+			<point x="45" y="728" type="line"/>
+			<point x="31" y="672"/>
+			<point x="26" y="623"/>
+			<point x="26" y="575" type="curve" smooth="yes"/>
+			<point x="26" y="507"/>
+			<point x="66" y="472"/>
+			<point x="130" y="472" type="curve" smooth="yes"/>
+			<point x="322" y="472" type="line" smooth="yes"/>
+			<point x="406" y="472"/>
+			<point x="440" y="452"/>
+			<point x="440" y="379" type="curve" smooth="yes"/>
+			<point x="440" y="301"/>
+			<point x="385" y="224"/>
+			<point x="267" y="138" type="curve"/>
+		</contour>
+		<contour>
+			<point x="141" y="-184" type="line"/>
+			<point x="213" y="-184" type="line"/>
+			<point x="213" y="553" type="line"/>
+			<point x="153" y="553" type="line"/>
+			<point x="144" y="521"/>
+			<point x="141" y="486"/>
+			<point x="141" y="441" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="liraturkish.S" format="2">
+	<advance width="528"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="100" y="-12" type="line"/>
+			<point x="351" y="-19"/>
+			<point x="497" y="70"/>
+			<point x="497" y="236" type="curve"/>
+			<point x="497" y="247"/>
+			<point x="495" y="267"/>
+			<point x="490" y="287" type="curve"/>
+			<point x="371" y="259" type="line"/>
+			<point x="374" y="244"/>
+			<point x="374" y="235"/>
+			<point x="374" y="230" type="curve"/>
+			<point x="374" y="168"/>
+			<point x="311" y="126"/>
+			<point x="227" y="117" type="curve"/>
+			<point x="227" y="245" type="line"/>
+			<point x="394" y="333" type="line"/>
+			<point x="362" y="396" type="line"/>
+			<point x="227" y="325" type="line"/>
+			<point x="227" y="381" type="line"/>
+			<point x="394" y="469" type="line"/>
+			<point x="362" y="532" type="line"/>
+			<point x="227" y="460" type="line"/>
+			<point x="227" y="564" type="line"/>
+			<point x="100" y="564" type="line"/>
+			<point x="100" y="391" type="line"/>
+			<point x="11" y="344" type="line"/>
+			<point x="43" y="280" type="line"/>
+			<point x="100" y="311" type="line"/>
+			<point x="100" y="255" type="line"/>
+			<point x="11" y="208" type="line"/>
+			<point x="43" y="144" type="line"/>
+			<point x="100" y="175" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 576</string>
+							<string>vstem 100 127</string>
+							<string>vstem 374 123</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>f77663d00b759f184f3a6b46afee8d9ff6fb0099b111c131bca89e6d6e3f6eb6d52c252b5c3b1cff5a99a5be257dcfe2299dce1c3215c08cb634373164dedefa</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

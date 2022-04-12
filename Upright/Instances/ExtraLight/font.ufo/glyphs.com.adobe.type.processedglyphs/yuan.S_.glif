@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yuan.S" format="2">
+	<advance width="472"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="222" y="0" type="line"/>
+			<point x="250" y="0" type="line"/>
+			<point x="250" y="270" type="line"/>
+			<point x="420" y="270" type="line"/>
+			<point x="420" y="298" type="line"/>
+			<point x="262" y="298" type="line"/>
+			<point x="440" y="546" type="line"/>
+			<point x="404" y="546" type="line"/>
+			<point name="hintSet0008" x="304" y="400" type="line"/>
+			<point x="279" y="363"/>
+			<point x="266" y="346"/>
+			<point x="238" y="300" type="curve"/>
+			<point x="234" y="300" type="line"/>
+			<point x="206" y="346"/>
+			<point x="192" y="364"/>
+			<point x="168" y="400" type="curve"/>
+			<point x="68" y="546" type="line"/>
+			<point x="32" y="546" type="line"/>
+			<point name="hintSet0014" x="208" y="298" type="line"/>
+			<point x="118" y="298" type="line"/>
+			<point x="52" y="296" type="line"/>
+			<point x="52" y="270" type="line"/>
+			<point x="222" y="270" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 270 28</string>
+							<string>vstem 222 28</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0008</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 270 30</string>
+							<string>vstem 222 28</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 270 28</string>
+							<string>vstem 222 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>4ba649da0ddffc3e39d33c3b07e4f33ec2827c1b4cbca5fc1447f7b299e452aa10da95310dd5ea6c1e20dd7042d286f9471b0391feef317fb500c3b686f091cc</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

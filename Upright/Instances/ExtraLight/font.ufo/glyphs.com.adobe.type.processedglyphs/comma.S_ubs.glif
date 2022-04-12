@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma.Subs" format="2">
+	<advance width="152"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="46" y="-254" type="line"/>
+			<point x="88" y="-234"/>
+			<point x="118" y="-190"/>
+			<point x="118" y="-144" type="curve"/>
+			<point x="118" y="-108"/>
+			<point x="102" y="-90"/>
+			<point x="78" y="-90" type="curve"/>
+			<point x="62" y="-90"/>
+			<point x="46" y="-102"/>
+			<point x="46" y="-124" type="curve"/>
+			<point x="46" y="-144"/>
+			<point x="62" y="-152"/>
+			<point x="78" y="-152" type="curve"/>
+			<point x="81" y="-152"/>
+			<point x="85" y="-152"/>
+			<point x="88" y="-151" type="curve"/>
+			<point x="88" y="-188"/>
+			<point x="66" y="-218"/>
+			<point x="34" y="-232" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -152 62</string>
+							<string>vstem 88 30</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w152l46-25488-234118-190c118-144118-108102-90c78-9062-9046-102c46-12446-14462-152c78-15281-15285-152c88-15188-18866-218c34-232</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

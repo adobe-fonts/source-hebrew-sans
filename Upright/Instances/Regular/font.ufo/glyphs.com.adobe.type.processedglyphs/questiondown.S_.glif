@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown.S" format="2">
+	<advance width="425"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="256" y="348" type="curve"/>
+			<point x="254" y="352" type="line"/>
+			<point x="182" y="352" type="line"/>
+			<point x="108" y="256"/>
+			<point x="52" y="187"/>
+			<point x="52" y="92" type="curve"/>
+			<point x="52" y="10"/>
+			<point x="115" y="-42"/>
+			<point x="210" y="-42" type="curve"/>
+			<point x="277" y="-42"/>
+			<point x="326" y="-16"/>
+			<point x="369" y="25" type="curve"/>
+			<point x="329" y="80" type="line"/>
+			<point x="292" y="48"/>
+			<point x="259" y="31"/>
+			<point x="216" y="31" type="curve"/>
+			<point x="151" y="31"/>
+			<point x="122" y="69"/>
+			<point x="122" y="112" type="curve"/>
+			<point x="122" y="182"/>
+			<point x="169" y="243"/>
+		</contour>
+		<contour>
+			<point x="216" y="566" type="curve"/>
+			<point x="183" y="566"/>
+			<point x="156" y="540"/>
+			<point x="156" y="504" type="curve"/>
+			<point x="156" y="466"/>
+			<point x="183" y="440"/>
+			<point x="216" y="440" type="curve"/>
+			<point x="249" y="440"/>
+			<point x="275" y="466"/>
+			<point x="275" y="504" type="curve"/>
+			<point x="275" y="540"/>
+			<point x="249" y="566"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -42 73</string>
+							<string>hstem 440 126</string>
+							<string>vstem 52 70</string>
+							<string>vstem 156 119</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>a95aa1015736f44ef4d398122bc48358a3d81b744186b71891b7a0beafa52c5eaa735c9f924502bafa9b59bd4ed4016ef5d3a45b8a38b08d18a858f04ca1e494</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

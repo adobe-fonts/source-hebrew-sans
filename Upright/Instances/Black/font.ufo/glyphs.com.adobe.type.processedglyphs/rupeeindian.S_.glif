@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rupeeindian.S" format="2">
+	<advance width="540"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="68" y="116" type="line"/>
+			<point x="142" y="116" type="line"/>
+			<point x="147" y="116" type="line"/>
+			<point x="266" y="0" type="line"/>
+			<point x="458" y="0" type="line"/>
+			<point x="304" y="156" type="line"/>
+			<point x="354" y="186"/>
+			<point x="389" y="234"/>
+			<point x="399" y="304" type="curve"/>
+			<point x="470" y="304" type="line"/>
+			<point x="470" y="388" type="line"/>
+			<point x="398" y="388" type="line"/>
+			<point x="391" y="427"/>
+			<point x="372" y="460"/>
+			<point x="342" y="484" type="curve"/>
+			<point x="470" y="484" type="line"/>
+			<point x="470" y="568" type="line"/>
+			<point x="68" y="568" type="line"/>
+			<point name="hintSet0014" x="68" y="432" type="line"/>
+			<point x="130" y="432" type="line"/>
+			<point x="181" y="432"/>
+			<point x="214" y="421"/>
+			<point x="227" y="388" type="curve"/>
+			<point x="144" y="388" type="line"/>
+			<point x="68" y="382" type="line"/>
+			<point x="68" y="304" type="line"/>
+			<point x="226" y="304" type="line"/>
+			<point x="212" y="270"/>
+			<point x="180" y="252"/>
+			<point x="130" y="252" type="curve"/>
+			<point x="68" y="252" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 116 136</string>
+							<string>hstem 304 84</string>
+							<string>hstem 484 84</string>
+							<string>vstem 68 402</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 116 136</string>
+							<string>hstem 304 84</string>
+							<string>hstem 432 136</string>
+							<string>vstem 68 402</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>a5ad9cbb3bd05ae468998749a82a57d705e29ea197a0b31dec195110042586eb0fa5dd9b97a1d2a781213a30857cd401a8097117359f317154a49e03a5c4a755</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

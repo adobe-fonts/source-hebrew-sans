@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugBeta" format="2">
+	<unicode hex="10381"/>
+	<advance width="695"/>
+	<outline>
+		<contour>
+			<point x="142" y="231" type="curve"/>
+			<point x="184" y="231" type="line"/>
+			<point x="184" y="425"/>
+			<point x="195" y="550"/>
+			<point x="232" y="610" type="curve"/>
+			<point x="95" y="610" type="line"/>
+			<point x="131" y="550"/>
+			<point x="142" y="425"/>
+		</contour>
+		<contour>
+			<point x="414" y="231" type="curve"/>
+			<point x="456" y="231" type="line"/>
+			<point x="456" y="425"/>
+			<point x="467" y="550"/>
+			<point x="504" y="610" type="curve"/>
+			<point x="366" y="610" type="line"/>
+			<point x="403" y="550"/>
+			<point x="414" y="425"/>
+		</contour>
+		<component base="ugAlpa" yOffset="-37"/>
+	</outline>
+</glyph>

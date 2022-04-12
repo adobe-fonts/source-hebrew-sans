@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmHe" format="2">
+	<unicode hex="10864"/>
+	<advance width="652"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="468" y="0" type="line"/>
+			<point x="568" y="0" type="line"/>
+			<point x="568" y="351" type="line"/>
+			<point x="568" y="502"/>
+			<point x="490" y="559"/>
+			<point x="374" y="559" type="curve"/>
+			<point x="76" y="559" type="line"/>
+			<point x="76" y="444" type="line"/>
+			<point x="223" y="444" type="line"/>
+			<point x="189" y="288"/>
+			<point x="125" y="128"/>
+			<point x="62" y="12" type="curve"/>
+			<point x="186" y="-6" type="line"/>
+			<point x="236" y="97"/>
+			<point x="285" y="270"/>
+			<point x="315" y="444" type="curve"/>
+			<point x="328" y="444" type="line"/>
+			<point x="414" y="444"/>
+			<point x="468" y="411"/>
+			<point x="468" y="300" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 444 115</string>
+							<string>vstem 468 100</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w652l4680l5680l568351568502490559c374559l76559l76444l223444189288125128c6212l186-623697285270c315444l328444414444468411c468300</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

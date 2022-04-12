@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiTaw" format="2">
+	<unicode hex="10855"/>
+	<advance width="673"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="98" y="-164" type="line"/>
+			<point x="224" y="-164" type="line"/>
+			<point x="224" y="417" type="line"/>
+			<point x="334" y="417" type="line"/>
+			<point x="417" y="417"/>
+			<point x="469" y="387"/>
+			<point x="469" y="283" type="curve"/>
+			<point x="469" y="0" type="line"/>
+			<point x="596" y="0" type="line"/>
+			<point x="596" y="352" type="line"/>
+			<point x="596" y="506"/>
+			<point x="514" y="564"/>
+			<point x="395" y="564" type="curve"/>
+			<point x="224" y="564" type="line"/>
+			<point x="224" y="724" type="line"/>
+			<point x="98" y="724" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 417 147</string>
+							<string>vstem 98 126</string>
+							<string>vstem 469 127</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w673l98-164l224-164l224417l334417417417469387c469283l4690l5960l596352596506514564c395564l224564l224724l98724</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrWaw" format="2">
+	<unicode hex="108E5"/>
+	<advance width="439"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="205" y="-12" type="line"/>
+			<point x="359" y="82"/>
+			<point x="397" y="204"/>
+			<point x="397" y="322" type="curve"/>
+			<point x="397" y="451"/>
+			<point x="295" y="563"/>
+			<point x="152" y="574" type="curve"/>
+			<point x="118" y="427" type="line"/>
+			<point x="194" y="418"/>
+			<point x="270" y="376"/>
+			<point x="270" y="288" type="curve"/>
+			<point x="270" y="231"/>
+			<point x="244" y="168"/>
+			<point x="129" y="106" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 586</string>
+							<string>vstem 270 127</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w439l205-1235982397204c397322397451295563c152574l118427194418270376c270288270231244168c129106</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

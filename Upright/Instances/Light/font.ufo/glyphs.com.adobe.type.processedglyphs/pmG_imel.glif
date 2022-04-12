@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmGimel" format="2">
+	<unicode hex="10862"/>
+	<advance width="376"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="262" y="0" type="line"/>
+			<point x="302" y="0" type="line"/>
+			<point x="266" y="417" type="line"/>
+			<point x="258" y="502"/>
+			<point x="220" y="548"/>
+			<point x="139" y="548" type="curve"/>
+			<point x="75" y="548" type="line"/>
+			<point x="75" y="504" type="line"/>
+			<point x="127" y="504" type="line"/>
+			<point x="195" y="504"/>
+			<point x="225" y="476"/>
+			<point x="231" y="400" type="curve"/>
+			<point x="248" y="176" type="line"/>
+			<point x="228" y="101"/>
+			<point x="142" y="44"/>
+			<point x="53" y="37" type="curve"/>
+			<point x="53" y="-8" type="line"/>
+			<point x="145" y="-3"/>
+			<point x="225" y="59"/>
+			<point x="253" y="122" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -8 45</string>
+							<string>hstem 504 44</string>
+							<string>vstem 53 249</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w376l2620l3020l266417258502220548c139548l75548l75504l127504195504225476c231400l24817622810114244c5337l53-8145-322559c253122</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

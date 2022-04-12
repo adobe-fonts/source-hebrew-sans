@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugTet" format="2">
+	<unicode hex="10389"/>
+	<advance width="635"/>
+	<outline>
+		<contour>
+			<point x="304" y="196" type="curve"/>
+			<point x="328" y="196" type="line"/>
+			<point x="328" y="410"/>
+			<point x="333" y="555"/>
+			<point x="355" y="600" type="curve"/>
+			<point x="278" y="600" type="line"/>
+			<point x="300" y="555"/>
+			<point x="304" y="410"/>
+		</contour>
+		<contour>
+			<point x="26" y="237" type="line"/>
+			<point x="60" y="256"/>
+			<point x="163" y="264"/>
+			<point x="316" y="264" type="curve"/>
+			<point x="316" y="283" type="line"/>
+			<point x="163" y="283"/>
+			<point x="60" y="290"/>
+			<point x="26" y="309" type="curve"/>
+		</contour>
+		<contour>
+			<point x="609" y="237" type="curve"/>
+			<point x="609" y="309" type="line"/>
+			<point x="576" y="290"/>
+			<point x="472" y="283"/>
+			<point x="316" y="283" type="curve"/>
+			<point x="316" y="264" type="line"/>
+			<point x="472" y="264"/>
+			<point x="576" y="256"/>
+		</contour>
+	</outline>
+</glyph>

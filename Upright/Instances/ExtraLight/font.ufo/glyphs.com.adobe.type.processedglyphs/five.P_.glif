@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.P" format="2">
+	<advance width="472"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="230" y="-52" type="curve"/>
+			<point x="329" y="-52"/>
+			<point x="416" y="16"/>
+			<point x="416" y="146" type="curve"/>
+			<point x="416" y="274"/>
+			<point x="340" y="326"/>
+			<point x="238" y="326" type="curve"/>
+			<point x="192" y="326"/>
+			<point x="152" y="316"/>
+			<point x="114" y="292" type="curve"/>
+			<point x="136" y="518" type="line"/>
+			<point x="388" y="518" type="line"/>
+			<point x="388" y="546" type="line"/>
+			<point x="112" y="546" type="line"/>
+			<point x="88" y="270" type="line"/>
+			<point x="112" y="254" type="line"/>
+			<point x="148" y="282"/>
+			<point x="188" y="296"/>
+			<point x="236" y="296" type="curve"/>
+			<point x="332" y="296"/>
+			<point x="386" y="242"/>
+			<point x="386" y="144" type="curve"/>
+			<point x="386" y="36"/>
+			<point x="312" y="-22"/>
+			<point x="230" y="-22" type="curve"/>
+			<point x="174" y="-22"/>
+			<point x="122" y="-12"/>
+			<point x="72" y="32" type="curve"/>
+			<point x="54" y="8" type="line"/>
+			<point x="106" y="-36"/>
+			<point x="156" y="-52"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -52 30</string>
+							<string>hstem 296 30</string>
+							<string>hstem 518 28</string>
+							<string>vstem 386 30</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>099320ed7e89d65c82f8a0d84df9f2beea366ff64a977e53931e400f66a931a82fce9fdbb862aafcc57f074b266dd7682bee265b2d5ea8a065e6db1eec5a6d25</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

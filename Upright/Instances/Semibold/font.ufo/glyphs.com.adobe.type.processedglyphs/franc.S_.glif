@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc.S" format="2">
+	<advance width="513"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="126" y="0" type="line"/>
+			<point x="234" y="0" type="line"/>
+			<point x="234" y="84" type="line"/>
+			<point x="379" y="84" type="line"/>
+			<point x="379" y="158" type="line"/>
+			<point x="234" y="158" type="line"/>
+			<point x="234" y="235" type="line"/>
+			<point x="436" y="235" type="line"/>
+			<point x="436" y="333" type="line"/>
+			<point x="234" y="333" type="line"/>
+			<point x="234" y="457" type="line"/>
+			<point x="481" y="457" type="line"/>
+			<point x="481" y="559" type="line"/>
+			<point x="126" y="559" type="line"/>
+			<point name="hintSet0014" x="126" y="158" type="line"/>
+			<point x="49" y="153" type="line"/>
+			<point name="hintSet0016" x="49" y="84" type="line"/>
+			<point x="126" y="84" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 84 74</string>
+							<string>hstem 235 98</string>
+							<string>hstem 457 102</string>
+							<string>vstem 126 108</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 84 71.5</string>
+							<string>hstem 235 98</string>
+							<string>hstem 457 102</string>
+							<string>vstem 126 108</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0016</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 84 74</string>
+							<string>hstem 235 98</string>
+							<string>hstem 457 102</string>
+							<string>vstem 126 108</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w513l1260l2340l23484l37984l379158l234158l234235l436235l436333l234333l234457l481457l481559l126559l126158l49153l4984l12684</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

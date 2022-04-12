@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiSamekh" format="2">
+	<unicode hex="1084E"/>
+	<advance width="468"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="80" y="230" type="line"/>
+			<point x="187" y="296"/>
+			<point x="236" y="402"/>
+			<point x="255" y="504" type="curve"/>
+			<point x="339" y="501"/>
+			<point x="372" y="475"/>
+			<point x="372" y="393" type="curve"/>
+			<point x="372" y="235"/>
+			<point x="245" y="-28"/>
+			<point x="49" y="-173" type="curve"/>
+			<point x="75" y="-208" type="line"/>
+			<point x="282" y="-43"/>
+			<point x="412" y="218"/>
+			<point x="412" y="397" type="curve"/>
+			<point x="412" y="496"/>
+			<point x="375" y="544"/>
+			<point x="261" y="548" type="curve"/>
+			<point x="264" y="571"/>
+			<point x="265" y="593"/>
+			<point x="265" y="615" type="curve"/>
+			<point x="265" y="655"/>
+			<point x="263" y="693"/>
+			<point x="259" y="735" type="curve"/>
+			<point x="219" y="731" type="line"/>
+			<point x="223" y="689"/>
+			<point x="224" y="650"/>
+			<point x="224" y="598" type="curve"/>
+			<point x="224" y="582"/>
+			<point x="223" y="565"/>
+			<point x="222" y="548" type="curve"/>
+			<point x="5" y="548" type="line"/>
+			<point x="5" y="504" type="line"/>
+			<point x="216" y="504" type="line"/>
+			<point x="200" y="417"/>
+			<point x="158" y="328"/>
+			<point x="56" y="266" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 504 44</string>
+							<string>vstem 224 41</string>
+							<string>vstem 372 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>c5df65970a6c0beeba6af15642ac20edc9803cac12bef44c4d12d72c0c415f04fc481a6ee4c010fa5f1d277d6ffa05d9e8099d79f9abbe05f0fdb69453423e09</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

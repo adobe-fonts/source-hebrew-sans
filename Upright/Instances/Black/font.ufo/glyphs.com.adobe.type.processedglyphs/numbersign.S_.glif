@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign.S" format="2">
+	<unicode hex="0023"/>
+	<advance width="540"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="86" y="-4" type="line"/>
+			<point x="184" y="-4" type="line"/>
+			<point x="204" y="140" type="line"/>
+			<point x="296" y="140" type="line"/>
+			<point x="276" y="-4" type="line"/>
+			<point x="374" y="-4" type="line"/>
+			<point x="394" y="140" type="line"/>
+			<point x="490" y="140" type="line"/>
+			<point x="490" y="248" type="line"/>
+			<point x="406" y="248" type="line"/>
+			<point x="418" y="344" type="line"/>
+			<point x="510" y="344" type="line"/>
+			<point x="510" y="452" type="line"/>
+			<point x="432" y="452" type="line"/>
+			<point x="448" y="574" type="line"/>
+			<point x="352" y="574" type="line"/>
+			<point x="334" y="452" type="line"/>
+			<point x="242" y="452" type="line"/>
+			<point x="258" y="574" type="line"/>
+			<point x="162" y="574" type="line"/>
+			<point name="hintSet0020" x="144" y="452" type="line"/>
+			<point x="54" y="452" type="line"/>
+			<point x="54" y="344" type="line"/>
+			<point name="hintSet0023" x="130" y="344" type="line"/>
+			<point x="118" y="248" type="line"/>
+			<point x="34" y="248" type="line"/>
+			<point x="34" y="140" type="line"/>
+			<point x="106" y="140" type="line"/>
+		</contour>
+		<contour>
+			<point x="216" y="248" type="line"/>
+			<point x="228" y="344" type="line"/>
+			<point x="320" y="344" type="line"/>
+			<point x="308" y="248" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 140 108</string>
+							<string>hstem 344 108</string>
+							<string>vstem 124 98</string>
+							<string>vstem 314 98</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0020</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 140 108</string>
+							<string>hstem 344 108</string>
+							<string>vstem 54 168</string>
+							<string>vstem 314 98</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0023</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 140 108</string>
+							<string>hstem 344 108</string>
+							<string>vstem 124 98</string>
+							<string>vstem 314 98</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>cc2a856e9a62f6dbee7593e0eb3d87f5fc096c4bfd8dcaba9d60bc6db6eafb0bb83468309135d21e0ed2c07d9329ef19639629f148761312ec7c3bad14543d7f</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

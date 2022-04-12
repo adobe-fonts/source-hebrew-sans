@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet.S" format="2">
+	<unicode hex="2022"/>
+	<advance width="281"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="140" y="163" type="curve"/>
+			<point x="192" y="163"/>
+			<point x="241" y="205"/>
+			<point x="241" y="273" type="curve"/>
+			<point x="241" y="340"/>
+			<point x="192" y="383"/>
+			<point x="140" y="383" type="curve"/>
+			<point x="89" y="383"/>
+			<point x="40" y="340"/>
+			<point x="40" y="273" type="curve"/>
+			<point x="40" y="205"/>
+			<point x="89" y="163"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 163 220</string>
+							<string>vstem 40 201</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w281c140163192163241205c241273241340192383c1403838938340340c402734020589163</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

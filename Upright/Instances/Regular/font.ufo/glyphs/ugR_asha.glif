@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugRasha" format="2">
+	<unicode hex="10397"/>
+	<advance width="938"/>
+	<outline>
+		<contour>
+			<point x="34" y="327" type="line"/>
+			<point x="82" y="355"/>
+			<point x="169" y="370"/>
+			<point x="309" y="370" type="curve"/>
+			<point x="309" y="410" type="line"/>
+			<point x="169" y="410"/>
+			<point x="84" y="424"/>
+			<point x="34" y="458" type="curve"/>
+		</contour>
+		<contour>
+			<point x="268" y="327" type="line"/>
+			<point x="314" y="354"/>
+			<point x="405" y="370"/>
+			<point x="549" y="370" type="curve"/>
+			<point x="549" y="410" type="line"/>
+			<point x="405" y="410"/>
+			<point x="316" y="426"/>
+			<point x="268" y="458" type="curve"/>
+		</contour>
+		<contour>
+			<point x="34" y="98" type="line"/>
+			<point x="84" y="132"/>
+			<point x="169" y="145"/>
+			<point x="309" y="145" type="curve"/>
+			<point x="309" y="186" type="line"/>
+			<point x="169" y="186"/>
+			<point x="82" y="200"/>
+			<point x="34" y="228" type="curve"/>
+		</contour>
+		<contour>
+			<point x="557" y="210" type="line"/>
+			<point x="614" y="249"/>
+			<point x="731" y="257"/>
+			<point x="911" y="257" type="curve"/>
+			<point x="911" y="298" type="line"/>
+			<point x="731" y="298"/>
+			<point x="614" y="307"/>
+			<point x="557" y="345" type="curve"/>
+		</contour>
+		<contour>
+			<point x="268" y="98" type="line"/>
+			<point x="316" y="129"/>
+			<point x="405" y="145"/>
+			<point x="549" y="145" type="curve"/>
+			<point x="549" y="186" type="line"/>
+			<point x="405" y="186"/>
+			<point x="314" y="202"/>
+			<point x="268" y="228" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

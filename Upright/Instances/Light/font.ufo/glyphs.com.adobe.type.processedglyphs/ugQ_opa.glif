@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugQopa" format="2">
+	<unicode hex="10396"/>
+	<advance width="528"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="500" y="230" type="curve"/>
+			<point x="500" y="320" type="line"/>
+			<point x="467" y="297"/>
+			<point x="376" y="288"/>
+			<point x="263" y="288" type="curve"/>
+			<point x="152" y="288"/>
+			<point x="62" y="297"/>
+			<point x="28" y="320" type="curve"/>
+			<point x="28" y="230" type="line"/>
+			<point x="62" y="253"/>
+			<point x="152" y="262"/>
+			<point x="263" y="262" type="curve"/>
+			<point x="376" y="262"/>
+			<point x="467" y="253"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 262 26</string>
+							<string>vstem 28 472</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w528c500230l500320467297376288c26328815228862297c28320l2823062253152262c263262376262467253</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

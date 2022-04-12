@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugKaf" format="2">
+	<unicode hex="1038B"/>
+	<advance width="658"/>
+	<outline>
+		<contour>
+			<point x="26" y="130" type="line"/>
+			<point x="60" y="149"/>
+			<point x="160" y="156"/>
+			<point x="308" y="156" type="curve"/>
+			<point x="308" y="176" type="line"/>
+			<point x="160" y="176"/>
+			<point x="60" y="183"/>
+			<point x="26" y="202" type="curve"/>
+		</contour>
+		<contour>
+			<point x="26" y="346" type="line"/>
+			<point x="60" y="365"/>
+			<point x="160" y="372"/>
+			<point x="308" y="372" type="curve"/>
+			<point x="308" y="392" type="line"/>
+			<point x="160" y="392"/>
+			<point x="60" y="399"/>
+			<point x="26" y="418" type="curve"/>
+		</contour>
+		<contour>
+			<point x="326" y="238" type="line"/>
+			<point x="362" y="258"/>
+			<point x="472" y="264"/>
+			<point x="632" y="264" type="curve"/>
+			<point x="632" y="284" type="line"/>
+			<point x="472" y="284"/>
+			<point x="362" y="290"/>
+			<point x="326" y="310" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

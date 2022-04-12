@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal.Subs" format="2">
+	<unicode hex="208C"/>
+	<advance width="362"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="33" y="87" type="line"/>
+			<point x="329" y="87" type="line"/>
+			<point x="329" y="121" type="line"/>
+			<point x="33" y="121" type="line"/>
+		</contour>
+		<contour>
+			<point x="33" y="-75" type="line"/>
+			<point x="329" y="-75" type="line"/>
+			<point x="329" y="-41" type="line"/>
+			<point x="33" y="-41" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -75 34</string>
+							<string>hstem 87 34</string>
+							<string>vstem 33 296</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w362l3387l32987l329121l33121l33-75l329-75l329-41l33-41</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

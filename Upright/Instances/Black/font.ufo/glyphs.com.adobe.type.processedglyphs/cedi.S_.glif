@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedi.S" format="2">
+	<advance width="540"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="280" y="-110" type="line"/>
+			<point x="372" y="-110" type="line"/>
+			<point x="372" y="-11" type="line"/>
+			<point x="423" y="-5"/>
+			<point x="470" y="14"/>
+			<point x="516" y="50" type="curve"/>
+			<point x="450" y="172" type="line"/>
+			<point x="422" y="155"/>
+			<point x="397" y="144"/>
+			<point x="372" y="140" type="curve"/>
+			<point x="372" y="427" type="line"/>
+			<point x="392" y="423"/>
+			<point x="413" y="414"/>
+			<point x="438" y="400" type="curve"/>
+			<point x="504" y="522" type="line"/>
+			<point x="465" y="555"/>
+			<point x="420" y="573"/>
+			<point x="372" y="578" type="curve"/>
+			<point x="372" y="666" type="line"/>
+			<point x="280" y="666" type="line"/>
+			<point x="280" y="575" type="line"/>
+			<point x="145" y="551"/>
+			<point x="54" y="444"/>
+			<point x="54" y="278" type="curve"/>
+			<point x="54" y="120"/>
+			<point x="145" y="18"/>
+			<point x="280" y="-7" type="curve"/>
+		</contour>
+		<contour>
+			<point x="198" y="284" type="curve"/>
+			<point x="198" y="349"/>
+			<point x="229" y="396"/>
+			<point x="280" y="418" type="curve"/>
+			<point x="280" y="151" type="line"/>
+			<point x="229" y="173"/>
+			<point x="198" y="220"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -110 776</string>
+							<string>vstem 54 144</string>
+							<string>vstem 280 92</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>9b3d5d942c9f8f252ebff526f471d4ee2729e7c8102765f1166cbd27dab761baba68c5643bbbc760e03813612853fb99e1b17fd517e2c062b3ed812e0ece6d40</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

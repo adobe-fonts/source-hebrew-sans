@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugGhain" format="2">
+	<unicode hex="10399"/>
+	<advance width="740"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="44" y="175" type="line"/>
+			<point x="106" y="213"/>
+			<point x="194" y="232"/>
+			<point x="310" y="241" type="curve"/>
+			<point x="247" y="150"/>
+			<point x="189" y="86"/>
+			<point x="127" y="53" type="curve"/>
+			<point x="312" y="-54" type="line"/>
+			<point x="310" y="27"/>
+			<point x="345" y="124"/>
+			<point x="407" y="246" type="curve"/>
+			<point x="495" y="249"/>
+			<point x="597" y="249"/>
+			<point x="713" y="249" type="curve"/>
+			<point x="713" y="315" type="line"/>
+			<point x="613" y="315"/>
+			<point x="524" y="315"/>
+			<point x="444" y="317" type="curve"/>
+			<point x="483" y="390"/>
+			<point x="530" y="471"/>
+			<point x="583" y="562" type="curve"/>
+			<point x="526" y="595" type="line"/>
+			<point name="hintSet0010" x="465" y="490"/>
+			<point x="412" y="398"/>
+			<point x="363" y="320" type="curve"/>
+			<point x="220" y="327"/>
+			<point x="116" y="345"/>
+			<point x="44" y="389" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 249 66</string>
+							<string>vstem 44 669</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0010</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 249 71</string>
+							<string>vstem 44 669</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>5cbe00818661e9bef4a376ad61662aaa1cbc59b78e6636494a5e700cddc5d2f3f83fdf189d3e26340d56ff9fb9690b93a7d031354316716e0495dfe114a13038</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

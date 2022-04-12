@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrHe" format="2">
+	<unicode hex="108E4"/>
+	<advance width="608"/>
+	<outline>
+		<contour>
+			<point x="84" y="0" type="curve"/>
+			<point x="168" y="0" type="line"/>
+			<point x="165" y="28"/>
+			<point x="162" y="55"/>
+			<point x="162" y="80" type="curve" smooth="yes"/>
+			<point x="162" y="201"/>
+			<point x="181" y="286"/>
+			<point x="222" y="377" type="curve"/>
+			<point x="174" y="397" type="line"/>
+			<point x="119" y="308"/>
+			<point x="82" y="203"/>
+			<point x="82" y="57" type="curve" smooth="yes"/>
+			<point x="82" y="37"/>
+			<point x="82" y="20"/>
+		</contour>
+		<contour>
+			<point x="503" y="-7" type="curve"/>
+			<point x="594" y="13" type="line"/>
+			<point x="432" y="175"/>
+			<point x="250" y="376"/>
+			<point x="149" y="560" type="curve"/>
+			<point x="59" y="544" type="line"/>
+			<point x="177" y="354"/>
+			<point x="356" y="139"/>
+		</contour>
+		<component base="aiZayin" xOffset="408"/>
+	</outline>
+	<anchor name="aboveHE" x="317" y="590"/>
+	<anchor name="belowPrimaryHE" x="316" y="-27"/>
+	<anchor name="aboveLeftHE" x="33" y="590"/>
+	<anchor name="centerHE" x="260" y="109"/>
+</glyph>

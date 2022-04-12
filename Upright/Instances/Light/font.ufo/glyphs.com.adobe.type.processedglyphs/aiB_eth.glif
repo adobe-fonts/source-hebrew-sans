@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiBeth" format="2">
+	<unicode hex="10841"/>
+	<advance width="481"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="53" y="0" type="line"/>
+			<point x="140" y="0" type="line"/>
+			<point x="325" y="0"/>
+			<point x="426" y="109"/>
+			<point x="426" y="305" type="curve"/>
+			<point x="426" y="482"/>
+			<point x="354" y="548"/>
+			<point x="217" y="548" type="curve"/>
+			<point x="158" y="548" type="line"/>
+			<point x="115" y="548"/>
+			<point x="104" y="562"/>
+			<point x="104" y="595" type="curve"/>
+			<point x="104" y="641"/>
+			<point x="113" y="685"/>
+			<point x="126" y="735" type="curve"/>
+			<point x="85" y="731" type="line"/>
+			<point x="70" y="675"/>
+			<point x="62" y="629"/>
+			<point x="62" y="582" type="curve"/>
+			<point x="62" y="528"/>
+			<point x="92" y="504"/>
+			<point x="140" y="504" type="curve"/>
+			<point x="206" y="504" type="line"/>
+			<point x="326" y="504"/>
+			<point x="385" y="454"/>
+			<point x="385" y="294" type="curve"/>
+			<point x="385" y="128"/>
+			<point x="300" y="42"/>
+			<point x="141" y="42" type="curve"/>
+			<point x="53" y="42" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 42</string>
+							<string>hstem 504 44</string>
+							<string>vstem 62 42</string>
+							<string>vstem 385 41</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>12cf4d460ff6d11ef18c315849e0680693b3ce309245727ee1893fa38ec174c05d0c1c06b0c36ff3c2c99279d7343f4219917522b9800e3289f049fc2c198ee2</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

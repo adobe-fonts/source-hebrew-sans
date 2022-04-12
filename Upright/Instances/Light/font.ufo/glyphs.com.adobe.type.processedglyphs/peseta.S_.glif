@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta.S" format="2">
+	<advance width="479"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="95" y="0" type="line"/>
+			<point x="135" y="0" type="line"/>
+			<point x="135" y="208" type="line"/>
+			<point x="185" y="208" type="line"/>
+			<point x="304" y="208"/>
+			<point x="389" y="259"/>
+			<point x="398" y="365" type="curve"/>
+			<point x="464" y="365" type="line"/>
+			<point x="464" y="400" type="line"/>
+			<point x="398" y="400" type="line"/>
+			<point x="391" y="507"/>
+			<point x="305" y="548"/>
+			<point x="185" y="548" type="curve"/>
+			<point x="95" y="548" type="line"/>
+			<point x="95" y="400" type="line"/>
+			<point x="16" y="396" type="line"/>
+			<point x="16" y="365" type="line"/>
+			<point x="95" y="365" type="line"/>
+		</contour>
+		<contour>
+			<point x="135" y="510" type="line"/>
+			<point x="174" y="510" type="line"/>
+			<point x="284" y="510"/>
+			<point x="348" y="482"/>
+			<point x="355" y="400" type="curve"/>
+			<point x="135" y="400" type="line"/>
+		</contour>
+		<contour>
+			<point x="135" y="246" type="line"/>
+			<point x="135" y="365" type="line"/>
+			<point x="355" y="365" type="line"/>
+			<point x="346" y="285"/>
+			<point x="283" y="246"/>
+			<point x="174" y="246" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 208 38</string>
+							<string>hstem 365 35</string>
+							<string>hstem 510 38</string>
+							<string>vstem 95 40</string>
+							<string>vstem 355 109</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>7cff6093b081597cb5e30962f7c6ef99f5280e00503e90c88507db8b4c6f739866865d9cf4c904876d61de2c123a7eea9de0cbfa77566be97052b5884972bf2b</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

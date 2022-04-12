@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heYodHiriq" format="2">
+	<unicode hex="FB1D"/>
+	<advance width="240"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="100" y="235" type="line"/>
+			<point x="147" y="305"/>
+			<point x="185" y="384"/>
+			<point x="185" y="444" type="curve"/>
+			<point x="185" y="516"/>
+			<point x="159" y="548"/>
+			<point x="78" y="548" type="curve"/>
+			<point x="5" y="548" type="line"/>
+			<point x="5" y="504" type="line"/>
+			<point x="60" y="504" type="line"/>
+			<point x="131" y="504"/>
+			<point x="145" y="483"/>
+			<point x="145" y="439" type="curve"/>
+			<point x="145" y="389"/>
+			<point x="112" y="316"/>
+			<point x="67" y="253" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 504 44</string>
+							<string>vstem 145 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w240l100235147305185384c185444185516159548c78548l5548l5504l60504131504145483c145439145389112316c67253</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

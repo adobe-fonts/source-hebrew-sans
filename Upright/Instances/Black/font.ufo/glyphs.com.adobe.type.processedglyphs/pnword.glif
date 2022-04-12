@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnword" format="2">
+	<advance width="320"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="160" y="162" type="curve"/>
+			<point x="218" y="162"/>
+			<point x="260" y="208"/>
+			<point x="260" y="266" type="curve"/>
+			<point x="260" y="324"/>
+			<point x="218" y="370"/>
+			<point x="160" y="370" type="curve"/>
+			<point x="102" y="370"/>
+			<point x="60" y="324"/>
+			<point x="60" y="266" type="curve"/>
+			<point x="60" y="208"/>
+			<point x="102" y="162"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 162 208</string>
+							<string>vstem 60 200</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w320c160162218162260208c260266260324218370c16037010237060324c6026660208102162</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

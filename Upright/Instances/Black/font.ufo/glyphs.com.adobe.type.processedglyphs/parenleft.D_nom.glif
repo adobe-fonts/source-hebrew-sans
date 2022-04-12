@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft.Dnom" format="2">
+	<advance width="212"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="154" y="-104" type="curve"/>
+			<point x="246" y="-68" type="line"/>
+			<point x="204" y="14"/>
+			<point x="180" y="96"/>
+			<point x="180" y="186" type="curve"/>
+			<point x="180" y="276"/>
+			<point x="204" y="358"/>
+			<point x="246" y="440" type="curve"/>
+			<point x="154" y="476" type="line"/>
+			<point x="96" y="386"/>
+			<point x="62" y="308"/>
+			<point x="62" y="186" type="curve"/>
+			<point x="62" y="64"/>
+			<point x="96" y="-14"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -104 580</string>
+							<string>vstem 62 118</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w212c154-104l246-682041418096c180186180276204358c246440l1544769638662308c62186626496-14</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

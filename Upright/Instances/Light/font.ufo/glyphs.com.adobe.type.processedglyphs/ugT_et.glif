@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugTet" format="2">
+	<unicode hex="10389"/>
+	<advance width="647"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="307" y="192" type="curve"/>
+			<point x="337" y="192" type="line"/>
+			<point x="337" y="216"/>
+			<point x="337" y="240"/>
+			<point x="337" y="262" type="curve"/>
+			<point x="485" y="261"/>
+			<point x="582" y="251"/>
+			<point x="619" y="230" type="curve"/>
+			<point x="619" y="319" type="line"/>
+			<point x="582" y="297"/>
+			<point x="485" y="288"/>
+			<point x="337" y="287" type="curve"/>
+			<point x="339" y="450"/>
+			<point x="346" y="560"/>
+			<point x="369" y="603" type="curve"/>
+			<point x="275" y="603" type="line"/>
+			<point x="299" y="560"/>
+			<point x="305" y="450"/>
+			<point x="307" y="287" type="curve"/>
+			<point x="161" y="288"/>
+			<point x="66" y="297"/>
+			<point x="28" y="319" type="curve"/>
+			<point x="28" y="230" type="line"/>
+			<point x="66" y="251"/>
+			<point x="161" y="261"/>
+			<point x="307" y="262" type="curve"/>
+			<point x="307" y="240"/>
+			<point x="307" y="216"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 262 25</string>
+							<string>vstem 307 30</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>48cd4e5983939eac1649c86791e9d6bb54246943d3c6f3ec7db362cc9f93d33aa4a828a9aa2ebfb2e0d7a1ad6860adfe8010a7029bb6eb9a6b8f3c7ae58b4cc8</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

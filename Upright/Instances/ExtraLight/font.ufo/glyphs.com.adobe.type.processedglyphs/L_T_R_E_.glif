@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LTRE" format="2">
+	<unicode hex="202A"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="40" y="648" type="line"/>
+			<point x="144" y="754" type="line"/>
+			<point x="144" y="758" type="line"/>
+			<point x="40" y="864" type="line"/>
+			<point x="20" y="844" type="line"/>
+			<point x="98" y="770" type="line"/>
+			<point x="0" y="770" type="line"/>
+			<point x="0" y="742" type="line"/>
+			<point x="98" y="742" type="line"/>
+			<point x="20" y="668" type="line"/>
+		</contour>
+		<contour>
+			<point x="-124" y="742" type="line"/>
+			<point x="-42" y="742" type="line"/>
+			<point x="-42" y="770" type="line"/>
+			<point x="-124" y="770" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 742 28</string>
+							<string>vstem -124 82</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l40648l144754l144758l40864l20844l98770l0770l0742l98742l20668l-124742l-42742l-42770l-124770</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heYodDagesh" format="2">
+	<unicode hex="FB39"/>
+	<advance width="261"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="128" y="216" type="line"/>
+			<point x="179" y="291"/>
+			<point x="214" y="369"/>
+			<point x="214" y="432" type="curve"/>
+			<point x="214" y="517"/>
+			<point x="182" y="554"/>
+			<point x="83" y="554" type="curve"/>
+			<point x="8" y="554" type="line"/>
+			<point x="8" y="472" type="line"/>
+			<point x="55" y="472" type="line"/>
+			<point x="125" y="472"/>
+			<point x="142" y="451"/>
+			<point x="142" y="408" type="curve"/>
+			<point x="142" y="364"/>
+			<point x="111" y="301"/>
+			<point x="71" y="245" type="curve"/>
+		</contour>
+		<contour>
+			<point x="40" y="332" type="curve"/>
+			<point x="66" y="332"/>
+			<point x="85" y="349"/>
+			<point x="85" y="376" type="curve"/>
+			<point x="85" y="402"/>
+			<point x="66" y="420"/>
+			<point x="40" y="420" type="curve"/>
+			<point x="14" y="420"/>
+			<point x="-5" y="402"/>
+			<point x="-5" y="376" type="curve"/>
+			<point x="-5" y="349"/>
+			<point x="14" y="332"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 332 88</string>
+							<string>hstem 472 82</string>
+							<string>vstem -5 90</string>
+							<string>vstem 142 72</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>782c4d08009746b67b7db8c88f3dbf8d3b9f50fd8cd64ded18da478bd2a0f24502a48ac1ee5345e0a5a5933ca56f21ba399c56f87704b56b55787af94a62ec12</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

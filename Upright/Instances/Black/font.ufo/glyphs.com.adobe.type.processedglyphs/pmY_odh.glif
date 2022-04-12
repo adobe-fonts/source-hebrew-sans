@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmYodh" format="2">
+	<unicode hex="10869"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="24" y="220" type="curve"/>
+			<point x="184" y="220" type="line"/>
+			<point x="184" y="357"/>
+			<point x="220" y="410"/>
+			<point x="274" y="410" type="curve"/>
+			<point x="326" y="410"/>
+			<point x="360" y="363"/>
+			<point x="360" y="212" type="curve"/>
+			<point x="540" y="228" type="line"/>
+			<point x="540" y="484"/>
+			<point x="429" y="580"/>
+			<point x="292" y="580" type="curve"/>
+			<point x="140" y="580"/>
+			<point x="24" y="463"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 410 170</string>
+							<string>vstem 24 160</string>
+							<string>vstem 360 180</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w600c24220l184220184357220410c274410326410360363c360212l540228540484429580c29258014058024463</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

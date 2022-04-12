@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugMem" format="2">
+	<unicode hex="1038E"/>
+	<advance width="660"/>
+	<outline>
+		<contour>
+			<point x="44" y="176" type="line"/>
+			<point x="137" y="239"/>
+			<point x="276" y="250"/>
+			<point x="503" y="250" type="curve"/>
+			<point x="503" y="316" type="line"/>
+			<point x="276" y="316"/>
+			<point x="137" y="327"/>
+			<point x="44" y="390" type="curve"/>
+		</contour>
+		<component base="ugGamla" xOffset="302"/>
+	</outline>
+</glyph>

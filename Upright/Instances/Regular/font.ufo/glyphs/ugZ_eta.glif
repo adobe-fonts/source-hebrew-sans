@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugZeta" format="2">
+	<unicode hex="10387"/>
+	<advance width="308"/>
+	<outline>
+		<contour>
+			<point x="132" y="183" type="curve"/>
+			<point x="177" y="183" type="line"/>
+			<point x="177" y="402"/>
+			<point x="184" y="543"/>
+			<point x="225" y="610" type="curve"/>
+			<point x="84" y="610" type="line"/>
+			<point x="125" y="543"/>
+			<point x="132" y="402"/>
+		</contour>
+		<contour>
+			<point x="132" y="-56" type="curve"/>
+			<point x="177" y="-56" type="line"/>
+			<point x="177" y="154"/>
+			<point x="186" y="290"/>
+			<point x="225" y="353" type="curve"/>
+			<point x="84" y="353" type="line"/>
+			<point x="123" y="290"/>
+			<point x="132" y="154"/>
+		</contour>
+	</outline>
+</glyph>

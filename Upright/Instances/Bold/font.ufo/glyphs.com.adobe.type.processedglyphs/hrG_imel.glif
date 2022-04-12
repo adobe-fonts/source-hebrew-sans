@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrGimel" format="2">
+	<unicode hex="108E2"/>
+	<advance width="571"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="46" y="0" type="line"/>
+			<point x="516" y="0" type="line"/>
+			<point x="539" y="123" type="line"/>
+			<point x="347" y="218"/>
+			<point x="216" y="364"/>
+			<point x="159" y="571" type="curve"/>
+			<point x="4" y="549" type="line"/>
+			<point x="60" y="353"/>
+			<point x="155" y="238"/>
+			<point x="300" y="140" type="curve"/>
+			<point x="46" y="140" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 140</string>
+							<string>vstem 4 535</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w571l460l5160l539123347218216364c159571l454960353155238c300140l46140</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

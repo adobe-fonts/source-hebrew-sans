@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heHeMapiq" format="2">
+	<unicode hex="FB34"/>
+	<advance width="639"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="477" y="0" type="line"/>
+			<point x="549" y="0" type="line"/>
+			<point x="549" y="351" type="line"/>
+			<point x="549" y="499"/>
+			<point x="475" y="554"/>
+			<point x="362" y="554" type="curve"/>
+			<point x="83" y="554" type="line"/>
+			<point x="83" y="472" type="line"/>
+			<point x="332" y="472" type="line"/>
+			<point x="421" y="472"/>
+			<point x="477" y="436"/>
+			<point x="477" y="317" type="curve"/>
+		</contour>
+		<contour>
+			<point x="107" y="0" type="line"/>
+			<point x="179" y="0" type="line"/>
+			<point x="179" y="329" type="line"/>
+			<point x="119" y="329" type="line"/>
+			<point x="110" y="296"/>
+			<point x="107" y="261"/>
+			<point x="107" y="217" type="curve"/>
+		</contour>
+		<contour>
+			<point x="321" y="204" type="curve"/>
+			<point x="347" y="204"/>
+			<point x="366" y="221"/>
+			<point x="366" y="248" type="curve"/>
+			<point x="366" y="274"/>
+			<point x="347" y="292"/>
+			<point x="321" y="292" type="curve"/>
+			<point x="295" y="292"/>
+			<point x="276" y="274"/>
+			<point x="276" y="248" type="curve"/>
+			<point x="276" y="221"/>
+			<point x="295" y="204"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 204 88</string>
+							<string>hstem 472 82</string>
+							<string>vstem 107 72</string>
+							<string>vstem 276 90</string>
+							<string>vstem 477 72</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>c8de123b09c625a5f11f0bba0128c227ac694f9316458e1460166a7300e00d638ec3729011018e4067b9044531bf1ab1df6f9ce7739c75ddbe789806156babb1</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

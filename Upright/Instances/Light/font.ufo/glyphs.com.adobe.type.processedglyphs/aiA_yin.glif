@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiAyin" format="2">
+	<unicode hex="1084F"/>
+	<advance width="546"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="276" y="203" type="curve"/>
+			<point x="411" y="203"/>
+			<point x="489" y="293"/>
+			<point x="492" y="548" type="curve"/>
+			<point x="452" y="548" type="line"/>
+			<point x="452" y="327"/>
+			<point x="390" y="248"/>
+			<point x="277" y="248" type="curve"/>
+			<point x="165" y="248"/>
+			<point x="105" y="328"/>
+			<point x="105" y="553" type="curve"/>
+			<point x="60" y="547" type="line"/>
+			<point x="63" y="290"/>
+			<point x="141" y="203"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 203 45</string>
+							<string>vstem 60 45</string>
+							<string>vstem 452 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w546c276203411203489293c492548l452548452327390248c277248165248105328c105553l6054763290141203</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

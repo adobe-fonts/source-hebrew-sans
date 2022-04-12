@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph.S" format="2">
+	<unicode hex="00B6"/>
+	<advance width="515"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="373" y="-120" type="line"/>
+			<point x="419" y="-120" type="line"/>
+			<point x="419" y="548" type="line"/>
+			<point x="373" y="548" type="line"/>
+		</contour>
+		<contour>
+			<point x="291" y="133" type="curve"/>
+			<point x="319" y="133" type="line"/>
+			<point x="319" y="548" type="line"/>
+			<point x="275" y="548" type="line"/>
+			<point x="138" y="548"/>
+			<point x="42" y="491"/>
+			<point x="42" y="340" type="curve"/>
+			<point x="42" y="192"/>
+			<point x="144" y="133"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -120 668</string>
+							<string>vstem 42 277</string>
+							<string>vstem 373 46</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w515l373-120l419-120l419548l373548c291133l319133l319548l27554813854842491c4234042192144133</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

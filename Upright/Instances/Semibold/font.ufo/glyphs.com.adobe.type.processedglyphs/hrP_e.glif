@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrPe" format="2">
+	<unicode hex="108F0"/>
+	<advance width="585"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="404" y="-174" type="line"/>
+			<point x="504" y="-174" type="line"/>
+			<point x="504" y="341" type="line"/>
+			<point x="504" y="516"/>
+			<point x="416" y="571"/>
+			<point x="285" y="571" type="curve"/>
+			<point x="170" y="571"/>
+			<point x="72" y="494"/>
+			<point x="72" y="357" type="curve"/>
+			<point x="72" y="248"/>
+			<point x="129" y="191"/>
+			<point x="234" y="191" type="curve"/>
+			<point name="hintSet0006" x="278" y="191" type="line"/>
+			<point x="278" y="307" type="line"/>
+			<point name="hintSet0008" x="250" y="307" type="line"/>
+			<point x="201" y="307"/>
+			<point x="172" y="322"/>
+			<point x="172" y="370" type="curve"/>
+			<point x="172" y="424"/>
+			<point x="214" y="456"/>
+			<point x="269" y="456" type="curve"/>
+			<point x="354" y="456"/>
+			<point x="404" y="430"/>
+			<point x="404" y="296" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 191 116</string>
+							<string>hstem 456 115</string>
+							<string>vstem 72 100</string>
+							<string>vstem 404 100</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0006</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 191 116</string>
+							<string>hstem 456 115</string>
+							<string>vstem 72 206</string>
+							<string>vstem 404 100</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0008</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 191 116</string>
+							<string>hstem 456 115</string>
+							<string>vstem 72 100</string>
+							<string>vstem 404 100</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>44f9786ebbfdf2780f2d4aca7141dcd73b242d50fa63b12686a9a8e38275c43a9b48bb5e560c85031ff8374db54b7d1f8458ed3efae3a9c748e3cc9a1b60e854</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

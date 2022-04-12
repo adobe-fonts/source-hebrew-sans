@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmWaw" format="2">
+	<unicode hex="10865"/>
+	<advance width="356"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="136" y="0" type="line"/>
+			<point x="284" y="0" type="line"/>
+			<point x="284" y="372" type="line"/>
+			<point x="284" y="514"/>
+			<point x="208" y="568"/>
+			<point x="98" y="568" type="curve"/>
+			<point x="14" y="568" type="line"/>
+			<point x="14" y="396" type="line"/>
+			<point x="26" y="396" type="line"/>
+			<point x="94" y="396"/>
+			<point x="136" y="372"/>
+			<point x="136" y="290" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 396 172</string>
+							<string>vstem 136 148</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w356l1360l2840l284372284514208568c98568l14568l14396l2639694396136372c136290</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

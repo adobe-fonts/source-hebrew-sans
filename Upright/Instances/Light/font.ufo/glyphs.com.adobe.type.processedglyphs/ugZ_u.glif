@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugZu" format="2">
+	<unicode hex="10391"/>
+	<advance width="516"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="485" y="86" type="line"/>
+			<point x="489" y="88" type="line"/>
+			<point x="448" y="148"/>
+			<point x="426" y="209"/>
+			<point x="426" y="274" type="curve"/>
+			<point x="426" y="338"/>
+			<point x="448" y="399"/>
+			<point x="489" y="459" type="curve"/>
+			<point x="485" y="462" type="line"/>
+			<point x="418" y="399" type="line"/>
+			<point x="218" y="399"/>
+			<point x="80" y="406"/>
+			<point x="28" y="431" type="curve"/>
+			<point x="28" y="342" type="line"/>
+			<point x="78" y="366"/>
+			<point x="206" y="373"/>
+			<point x="391" y="374" type="curve"/>
+			<point x="284" y="274" type="line"/>
+			<point x="386" y="178" type="line"/>
+			<point x="204" y="179"/>
+			<point x="77" y="186"/>
+			<point x="28" y="209" type="curve"/>
+			<point x="28" y="120" type="line"/>
+			<point x="80" y="146"/>
+			<point x="216" y="152"/>
+			<point x="413" y="153" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 153 25</string>
+							<string>hstem 374 25</string>
+							<string>vstem 28 461</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>38d409ef164e6d7ca12a880725344270e30b7596069c7b21e4b5c9c4695c0869319cb027d13690b7f7ebaf66b86a153b81daea176c4303f9f2cb8e20075d2dc2</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

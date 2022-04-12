@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.0P" format="2">
+	<advance width="538"/>
+	<outline>
+		<contour>
+			<point x="269" y="210" type="curve" smooth="yes"/>
+			<point x="302" y="210"/>
+			<point x="330" y="235"/>
+			<point x="330" y="276" type="curve" smooth="yes"/>
+			<point x="330" y="318"/>
+			<point x="302" y="343"/>
+			<point x="269" y="343" type="curve" smooth="yes"/>
+			<point x="236" y="343"/>
+			<point x="208" y="318"/>
+			<point x="208" y="276" type="curve" smooth="yes"/>
+			<point x="208" y="235"/>
+			<point x="236" y="210"/>
+		</contour>
+		<component base="zero.P"/>
+	</outline>
+</glyph>

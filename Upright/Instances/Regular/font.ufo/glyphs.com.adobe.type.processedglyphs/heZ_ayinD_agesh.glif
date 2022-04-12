@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heZayinDagesh" format="2">
+	<unicode hex="FB36"/>
+	<advance width="318"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="8" y="472" type="line"/>
+			<point x="122" y="472" type="line"/>
+			<point x="111" y="443"/>
+			<point x="104" y="412"/>
+			<point x="104" y="372" type="curve"/>
+			<point x="104" y="298"/>
+			<point x="118" y="158"/>
+			<point x="135" y="0" type="curve"/>
+			<point x="207" y="0" type="line"/>
+			<point x="188" y="169"/>
+			<point x="175" y="296"/>
+			<point x="175" y="377" type="curve"/>
+			<point x="175" y="413"/>
+			<point x="175" y="440"/>
+			<point x="181" y="472" type="curve"/>
+			<point x="278" y="472" type="line"/>
+			<point x="278" y="554" type="line"/>
+			<point x="8" y="554" type="line"/>
+		</contour>
+		<contour>
+			<point x="14" y="204" type="curve"/>
+			<point x="40" y="204"/>
+			<point x="59" y="221"/>
+			<point x="59" y="248" type="curve"/>
+			<point x="59" y="274"/>
+			<point x="40" y="292"/>
+			<point x="14" y="292" type="curve"/>
+			<point x="-12" y="292"/>
+			<point x="-31" y="274"/>
+			<point x="-31" y="248" type="curve"/>
+			<point x="-31" y="221"/>
+			<point x="-12" y="204"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 204 88</string>
+							<string>hstem 472 82</string>
+							<string>vstem -31 90</string>
+							<string>vstem 104 71</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>935570a4daa521846c03d11771915c8da627cbcb9aa2c30631f20566cca760a4c982acd37630e24e8d6684cc6d6a2242238143586715f22675fdb879dfa9ebf9</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

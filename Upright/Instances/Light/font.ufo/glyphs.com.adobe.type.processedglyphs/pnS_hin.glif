@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnShin" format="2">
+	<unicode hex="10914"/>
+	<advance width="777"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="218" y="161" type="curve"/>
+			<point x="292" y="161"/>
+			<point x="359" y="221"/>
+			<point x="388" y="351" type="curve"/>
+			<point x="407" y="222"/>
+			<point x="461" y="161"/>
+			<point x="529" y="161" type="curve"/>
+			<point x="639" y="161"/>
+			<point x="718" y="285"/>
+			<point x="724" y="512" type="curve"/>
+			<point x="684" y="512" type="line"/>
+			<point x="681" y="320"/>
+			<point x="619" y="208"/>
+			<point x="532" y="208" type="curve"/>
+			<point x="457" y="208"/>
+			<point x="413" y="302"/>
+			<point x="413" y="516" type="curve"/>
+			<point x="373" y="511" type="line"/>
+			<point x="369" y="320"/>
+			<point x="308" y="208"/>
+			<point x="221" y="208" type="curve"/>
+			<point x="144" y="208"/>
+			<point x="103" y="293"/>
+			<point x="103" y="517" type="curve"/>
+			<point x="60" y="511" type="line"/>
+			<point x="62" y="255"/>
+			<point x="122" y="161"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 161 47</string>
+							<string>vstem 60 43</string>
+							<string>vstem 373 40</string>
+							<string>vstem 684 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>bcf68d39ec3b526a856cf8fb9a6809b17280186dc5e0bb2effc0120fc5579afc78453674d12000e8834faec9f2f2e065e79b7b08c91231cd152dd15d6b4da19c</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

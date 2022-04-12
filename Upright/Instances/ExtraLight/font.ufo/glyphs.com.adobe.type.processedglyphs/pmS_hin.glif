@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmShin" format="2">
+	<unicode hex="10875"/>
+	<advance width="690"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="336" y="-12" type="curve"/>
+			<point x="500" y="-12"/>
+			<point x="632" y="206"/>
+			<point x="632" y="390" type="curve"/>
+			<point x="632" y="514"/>
+			<point x="599" y="546"/>
+			<point x="522" y="546" type="curve"/>
+			<point x="482" y="546" type="line"/>
+			<point x="482" y="516" type="line"/>
+			<point x="518" y="516" type="line"/>
+			<point x="580" y="516"/>
+			<point x="606" y="495"/>
+			<point x="606" y="390" type="curve"/>
+			<point x="606" y="224"/>
+			<point x="486" y="18"/>
+			<point x="336" y="18" type="curve"/>
+			<point x="258" y="18"/>
+			<point x="200" y="50"/>
+			<point x="162" y="126" type="curve"/>
+			<point x="323" y="238"/>
+			<point x="404" y="350"/>
+			<point x="404" y="444" type="curve"/>
+			<point x="404" y="508"/>
+			<point x="386" y="546"/>
+			<point x="316" y="546" type="curve"/>
+			<point x="270" y="546" type="line"/>
+			<point x="270" y="516" type="line"/>
+			<point x="302" y="516" type="line"/>
+			<point x="368" y="516"/>
+			<point x="378" y="486"/>
+			<point x="378" y="442" type="curve"/>
+			<point x="378" y="365"/>
+			<point x="306" y="252"/>
+			<point x="152" y="148" type="curve"/>
+			<point x="116" y="232"/>
+			<point x="99" y="362"/>
+			<point x="98" y="550" type="curve"/>
+			<point x="64" y="546" type="line"/>
+			<point x="74" y="130"/>
+			<point x="154" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 30</string>
+							<string>hstem 516 30</string>
+							<string>vstem 64 34</string>
+							<string>vstem 378 26</string>
+							<string>vstem 606 26</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>61c0de6239361fcf924ee1958a012ad24514f5079045bcbd8460fadd6ad928847975a809d1cebbb62ad349ac9707ea111d8c633e91a3e596e7971ee07e182ae3</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugThanna" format="2">
+	<unicode hex="10398"/>
+	<advance width="268"/>
+	<outline>
+		<contour>
+			<point x="122" y="64" type="curve"/>
+			<point x="146" y="64" type="line"/>
+			<point x="146" y="228"/>
+			<point x="150" y="338"/>
+			<point x="172" y="372" type="curve"/>
+			<point x="96" y="372" type="line"/>
+			<point x="118" y="338"/>
+			<point x="122" y="228"/>
+		</contour>
+		<contour>
+			<point x="96" y="172" type="curve"/>
+			<point x="172" y="172" type="line"/>
+			<point x="150" y="206"/>
+			<point x="146" y="316"/>
+			<point x="146" y="480" type="curve"/>
+			<point x="122" y="480" type="line"/>
+			<point x="122" y="316"/>
+			<point x="118" y="206"/>
+		</contour>
+	</outline>
+</glyph>

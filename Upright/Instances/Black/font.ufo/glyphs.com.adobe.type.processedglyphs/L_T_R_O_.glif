@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LTRO" format="2">
+	<unicode hex="202D"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="60" y="648" type="line"/>
+			<point x="164" y="754" type="line"/>
+			<point x="164" y="758" type="line"/>
+			<point x="60" y="864" type="line"/>
+			<point x="40" y="844" type="line"/>
+			<point x="132" y="756" type="line"/>
+			<point x="40" y="668" type="line"/>
+		</contour>
+		<contour>
+			<point x="-40" y="648" type="line"/>
+			<point x="64" y="754" type="line"/>
+			<point x="64" y="758" type="line"/>
+			<point x="-40" y="864" type="line"/>
+			<point x="-60" y="844" type="line"/>
+			<point x="18" y="770" type="line"/>
+			<point x="-144" y="770" type="line"/>
+			<point x="-144" y="742" type="line"/>
+			<point x="18" y="742" type="line"/>
+			<point x="-60" y="668" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 742 28</string>
+							<string>vstem -144 308</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0l60648l164754l164758l60864l40844l132756l40668l-40648l64754l64758l-40864l-60844l18770l-144770l-144742l18742l-60668</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

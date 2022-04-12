@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdblup.S" format="2">
+	<unicode hex="21D1"/>
+	<advance width="620"/>
+	<outline>
+		<contour>
+			<point x="64" y="258" type="line"/>
+			<point x="308" y="512" type="line"/>
+			<point x="312" y="512" type="line"/>
+			<point x="556" y="258" type="line"/>
+			<point x="576" y="278" type="line"/>
+			<point x="312" y="546" type="line"/>
+			<point x="308" y="546" type="line"/>
+			<point x="44" y="278" type="line"/>
+		</contour>
+		<contour>
+			<point x="396" y="-4" type="line"/>
+			<point x="424" y="-4" type="line"/>
+			<point x="424" y="430" type="line"/>
+			<point x="396" y="430" type="line"/>
+		</contour>
+		<contour>
+			<point x="196" y="-4" type="line"/>
+			<point x="224" y="-4" type="line"/>
+			<point x="224" y="430" type="line"/>
+			<point x="196" y="430" type="line"/>
+		</contour>
+	</outline>
+</glyph>

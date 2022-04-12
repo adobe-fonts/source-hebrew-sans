@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugSamka" format="2">
+	<unicode hex="10392"/>
+	<advance width="642"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="148" y="306" type="curve"/>
+			<point x="230" y="306" type="line"/>
+			<point x="230" y="462"/>
+			<point x="256" y="546"/>
+			<point x="314" y="625" type="curve"/>
+			<point x="64" y="625" type="line"/>
+			<point x="122" y="546"/>
+			<point x="148" y="462"/>
+		</contour>
+		<contour>
+			<point x="298" y="-57" type="curve"/>
+			<point x="380" y="-57" type="line"/>
+			<point x="380" y="111"/>
+			<point x="404" y="205"/>
+			<point x="464" y="289" type="curve"/>
+			<point x="214" y="289" type="line"/>
+			<point x="274" y="205"/>
+			<point x="298" y="111"/>
+		</contour>
+		<contour>
+			<point x="448" y="306" type="curve"/>
+			<point x="530" y="306" type="line"/>
+			<point x="530" y="462"/>
+			<point x="556" y="546"/>
+			<point x="614" y="625" type="curve"/>
+			<point x="364" y="625" type="line"/>
+			<point x="422" y="546"/>
+			<point x="448" y="462"/>
+		</contour>
+	</outline>
+	<guideline x="278" y="284" angle="90" identifier="n037E1FBxO"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 306 319</string>
+							<string>vstem 148 82</string>
+							<string>vstem 298 82</string>
+							<string>vstem 448 82</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>31c6e4f41e49944160c709a1f3bb29d3c5c79c57cc30e6a36e239ab1f9476b929ca778c3483f88d20b124de339e8f2e1881c08a0bda4416306dc0f7e38ac4413</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

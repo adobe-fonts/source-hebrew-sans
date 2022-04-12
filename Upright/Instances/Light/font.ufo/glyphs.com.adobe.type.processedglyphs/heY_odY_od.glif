@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heYodYod" format="2">
+	<unicode hex="05F2"/>
+	<advance width="482"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="100" y="235" type="line"/>
+			<point x="147" y="305"/>
+			<point x="185" y="384"/>
+			<point x="185" y="444" type="curve"/>
+			<point x="185" y="516"/>
+			<point x="159" y="548"/>
+			<point x="78" y="548" type="curve"/>
+			<point x="5" y="548" type="line"/>
+			<point x="5" y="504" type="line"/>
+			<point x="60" y="504" type="line"/>
+			<point x="131" y="504"/>
+			<point x="145" y="483"/>
+			<point x="145" y="439" type="curve"/>
+			<point x="145" y="389"/>
+			<point x="112" y="316"/>
+			<point x="67" y="253" type="curve"/>
+		</contour>
+		<contour>
+			<point x="340" y="235" type="line"/>
+			<point x="387" y="305"/>
+			<point x="425" y="384"/>
+			<point x="425" y="444" type="curve"/>
+			<point x="425" y="516"/>
+			<point x="399" y="548"/>
+			<point x="318" y="548" type="curve"/>
+			<point x="245" y="548" type="line"/>
+			<point x="245" y="504" type="line"/>
+			<point x="300" y="504" type="line"/>
+			<point x="371" y="504"/>
+			<point x="385" y="483"/>
+			<point x="385" y="439" type="curve"/>
+			<point x="385" y="389"/>
+			<point x="352" y="316"/>
+			<point x="307" y="253" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 504 44</string>
+							<string>vstem 145 40</string>
+							<string>vstem 385 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>073e4166acfad2e2bc4efe2984bf0e9372a1152da3247c9df0006d5395df5b08358219e0b01a0baa03b74c71101cfaecd5ecd5fe4f96866d04797d678a0ed6b0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

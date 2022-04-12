@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="newsheqel.S" format="2">
+	<unicode hex="20AA"/>
+	<advance width="528"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="11" y="0" type="line"/>
+			<point x="123" y="0" type="line"/>
+			<point x="123" y="440" type="line"/>
+			<point x="186" y="440" type="line"/>
+			<point x="247" y="440"/>
+			<point x="286" y="417"/>
+			<point x="286" y="343" type="curve"/>
+			<point x="286" y="211" type="line"/>
+			<point x="360" y="211" type="line"/>
+			<point x="360" y="400" type="line"/>
+			<point x="360" y="520"/>
+			<point x="294" y="564"/>
+			<point x="189" y="564" type="curve"/>
+			<point x="11" y="564" type="line"/>
+		</contour>
+		<contour>
+			<point x="168" y="0" type="line"/>
+			<point x="345" y="0" type="line"/>
+			<point x="450" y="0"/>
+			<point x="517" y="44"/>
+			<point x="517" y="164" type="curve"/>
+			<point x="517" y="564" type="line"/>
+			<point x="405" y="564" type="line"/>
+			<point x="405" y="221" type="line"/>
+			<point x="405" y="147"/>
+			<point x="366" y="124"/>
+			<point x="303" y="124" type="curve"/>
+			<point x="242" y="124" type="line"/>
+			<point x="242" y="353" type="line"/>
+			<point x="168" y="353" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="264" y="282" angle="90" identifier="51LWLohGsJ"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 124</string>
+							<string>hstem 211 142</string>
+							<string>hstem 440 124</string>
+							<string>vstem 11 112</string>
+							<string>vstem 168 74</string>
+							<string>vstem 286 74</string>
+							<string>vstem 405 112</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>c314dc95f93ab084d1c4a610de2ed394f2343f947535bf60adbe5fcbf311b41ff5f0094a419b5bd84df7e7230e3c8b121204b0d70ccfd92c7d27cc1afb4f19e5</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

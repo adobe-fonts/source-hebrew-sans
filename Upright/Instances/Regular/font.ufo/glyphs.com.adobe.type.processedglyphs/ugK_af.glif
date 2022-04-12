@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugKaf" format="2">
+	<unicode hex="1038B"/>
+	<advance width="695"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="34" y="94" type="line"/>
+			<point x="87" y="125"/>
+			<point x="201" y="141"/>
+			<point x="331" y="141" type="curve"/>
+			<point x="331" y="182" type="line"/>
+			<point x="201" y="182"/>
+			<point x="87" y="198"/>
+			<point x="34" y="229" type="curve"/>
+		</contour>
+		<contour>
+			<point x="34" y="330" type="line"/>
+			<point x="87" y="361"/>
+			<point x="201" y="377"/>
+			<point x="331" y="377" type="curve"/>
+			<point x="331" y="418" type="line"/>
+			<point x="201" y="418"/>
+			<point x="87" y="434"/>
+			<point x="34" y="465" type="curve"/>
+		</contour>
+		<contour>
+			<point x="349" y="210" type="line"/>
+			<point x="404" y="243"/>
+			<point x="529" y="257"/>
+			<point x="668" y="257" type="curve"/>
+			<point x="668" y="298" type="line"/>
+			<point x="529" y="298"/>
+			<point x="404" y="312"/>
+			<point x="349" y="345" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 141 41</string>
+							<string>hstem 257 41</string>
+							<string>hstem 377 41</string>
+							<string>vstem 34 297</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>26b84c4109f7b30328e0d2d8aecc2afed87ad876c472abaaaf8abd9e4a69a0dd8952444912990d523d589decd8e97bea5ed5d5bb8a0d359d8a5abaa0c743f10f</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

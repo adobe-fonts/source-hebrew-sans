@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright.S" format="2">
+	<unicode hex="203A"/>
+	<advance width="271"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="89" y="90" type="line"/>
+			<point x="226" y="245" type="line"/>
+			<point x="226" y="307" type="line"/>
+			<point x="89" y="462" type="line"/>
+			<point x="54" y="432" type="line"/>
+			<point x="172" y="276" type="line"/>
+			<point x="54" y="118" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 90 372</string>
+							<string>vstem 172 54</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w271l8990l226245l226307l89462l54432l172276l54118</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

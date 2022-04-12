@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc.S" format="2">
+	<advance width="472"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="138" y="0" type="line"/>
+			<point x="166" y="0" type="line"/>
+			<point x="166" y="126" type="line"/>
+			<point x="324" y="126" type="line"/>
+			<point x="324" y="154" type="line"/>
+			<point x="166" y="154" type="line"/>
+			<point x="166" y="276" type="line"/>
+			<point x="389" y="276" type="line"/>
+			<point x="389" y="304" type="line"/>
+			<point x="166" y="304" type="line"/>
+			<point x="166" y="518" type="line"/>
+			<point x="444" y="518" type="line"/>
+			<point x="444" y="546" type="line"/>
+			<point x="138" y="546" type="line"/>
+			<point x="138" y="154" type="line"/>
+			<point x="56" y="152" type="line"/>
+			<point x="56" y="126" type="line"/>
+			<point x="138" y="126" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 126 28</string>
+							<string>hstem 276 28</string>
+							<string>hstem 518 28</string>
+							<string>vstem 138 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w472l1380l1660l166126l324126l324154l166154l166276l389276l389304l166304l166518l444518l444546l138546l138154l56152l56126l138126</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

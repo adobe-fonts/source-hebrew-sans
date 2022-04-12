@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrYodh" format="2">
+	<unicode hex="108E9"/>
+	<advance width="466"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="388" y="-12" type="curve"/>
+			<point x="388" y="16" type="line"/>
+			<point x="238" y="16"/>
+			<point x="86" y="145"/>
+			<point x="86" y="308" type="curve"/>
+			<point x="86" y="437"/>
+			<point x="171" y="528"/>
+			<point x="280" y="528" type="curve"/>
+			<point x="335" y="528"/>
+			<point x="379" y="507"/>
+			<point x="410" y="476" type="curve"/>
+			<point x="428" y="496" type="line"/>
+			<point x="395" y="529"/>
+			<point x="350" y="556"/>
+			<point x="280" y="556" type="curve"/>
+			<point x="159" y="556"/>
+			<point x="54" y="466"/>
+			<point x="54" y="308" type="curve"/>
+			<point x="54" y="118"/>
+			<point x="228" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 28</string>
+							<string>hstem 528 28</string>
+							<string>vstem 54 32</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w466c388-12l388162381686145c8630886437171528c280528335528379507c410476l428496395529350556c28055615955654466c5430854118228-12</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

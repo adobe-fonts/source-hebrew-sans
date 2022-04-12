@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugKha" format="2">
+	<unicode hex="10383"/>
+	<advance width="279"/>
+	<outline>
+		<contour>
+			<point x="125" y="-56" type="curve"/>
+			<point x="154" y="-56" type="line"/>
+			<point x="154" y="68"/>
+			<point x="165" y="161"/>
+			<point x="186" y="193" type="curve"/>
+			<point x="93" y="193" type="line"/>
+			<point x="114" y="161"/>
+			<point x="125" y="68"/>
+		</contour>
+		<contour>
+			<point x="125" y="364" type="curve"/>
+			<point x="154" y="364" type="line"/>
+			<point x="154" y="483"/>
+			<point x="165" y="572"/>
+			<point x="186" y="603" type="curve"/>
+			<point x="93" y="603" type="line"/>
+			<point x="114" y="572"/>
+			<point x="125" y="483"/>
+		</contour>
+		<contour>
+			<point x="125" y="159" type="curve"/>
+			<point x="154" y="159" type="line"/>
+			<point x="154" y="278"/>
+			<point x="165" y="366"/>
+			<point x="186" y="397" type="curve"/>
+			<point x="93" y="397" type="line"/>
+			<point x="114" y="366"/>
+			<point x="125" y="278"/>
+		</contour>
+	</outline>
+</glyph>

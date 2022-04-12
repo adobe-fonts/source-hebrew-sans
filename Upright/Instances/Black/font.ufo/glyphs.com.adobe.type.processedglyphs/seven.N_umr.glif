@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.Numr" format="2">
+	<advance width="380"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="116" y="198" type="curve"/>
+			<point x="240" y="198" type="line"/>
+			<point name="hintSet0002" x="246" y="314"/>
+			<point x="270" y="380"/>
+			<point x="352" y="484" type="curve"/>
+			<point x="352" y="568" type="line"/>
+			<point x="50" y="568" type="line"/>
+			<point x="50" y="456" type="line"/>
+			<point x="220" y="456" type="line"/>
+			<point name="hintSet0007" x="158" y="374"/>
+			<point x="122" y="304"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 456 112</string>
+							<string>vstem 116 124</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0002</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 456 112</string>
+							<string>vstem 50 302</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0007</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 456 112</string>
+							<string>vstem 116 124</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w380c116198l240198246314270380c352484l352568l50568l50456l220456158374122304</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

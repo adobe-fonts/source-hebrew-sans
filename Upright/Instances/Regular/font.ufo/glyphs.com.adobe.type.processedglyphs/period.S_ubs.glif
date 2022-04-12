@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.Subs" format="2">
+	<advance width="177"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="89" y="-158" type="curve"/>
+			<point x="115" y="-158"/>
+			<point x="134" y="-139"/>
+			<point x="134" y="-111" type="curve"/>
+			<point x="134" y="-82"/>
+			<point x="115" y="-63"/>
+			<point x="89" y="-63" type="curve"/>
+			<point x="62" y="-63"/>
+			<point x="43" y="-82"/>
+			<point x="43" y="-111" type="curve"/>
+			<point x="43" y="-139"/>
+			<point x="62" y="-158"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -158 95</string>
+							<string>vstem 43 91</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w177c89-158115-158134-139c134-111134-82115-63c89-6362-6343-82c43-11143-13962-158</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

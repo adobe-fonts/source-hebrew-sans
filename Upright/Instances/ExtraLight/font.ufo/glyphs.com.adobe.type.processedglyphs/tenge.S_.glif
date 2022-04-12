@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tenge.S" format="2">
+	<advance width="472"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="220" y="0" type="line"/>
+			<point x="248" y="0" type="line"/>
+			<point x="248" y="406" type="line"/>
+			<point x="434" y="406" type="line"/>
+			<point x="434" y="436" type="line"/>
+			<point x="100" y="436" type="line"/>
+			<point x="34" y="432" type="line"/>
+			<point x="34" y="406" type="line"/>
+			<point x="220" y="406" type="line"/>
+		</contour>
+		<contour>
+			<point x="34" y="516" type="line"/>
+			<point x="434" y="516" type="line"/>
+			<point x="434" y="546" type="line"/>
+			<point x="34" y="546" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 406 30</string>
+							<string>hstem 516 30</string>
+							<string>vstem 220 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w472l2200l2480l248406l434406l434436l100436l34432l34406l220406l34516l434516l434546l34546</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

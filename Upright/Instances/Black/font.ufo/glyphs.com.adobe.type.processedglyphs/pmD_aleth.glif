@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmDaleth" format="2">
+	<unicode hex="10863"/>
+	<advance width="538"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="14" y="396" type="line"/>
+			<point x="288" y="396" type="line"/>
+			<point x="274" y="352"/>
+			<point x="264" y="306"/>
+			<point x="264" y="246" type="curve"/>
+			<point x="264" y="0" type="line"/>
+			<point x="412" y="0" type="line"/>
+			<point x="412" y="396" type="line"/>
+			<point x="504" y="396" type="line"/>
+			<point x="504" y="568" type="line"/>
+			<point x="14" y="568" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 396 172</string>
+							<string>vstem 264 148</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w538l14396l288396274352264306c264246l2640l4120l412396l504396l504568l14568</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

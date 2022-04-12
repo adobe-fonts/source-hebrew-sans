@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrKaph" format="2">
+	<unicode hex="108EA"/>
+	<advance width="516"/>
+	<outline>
+		<contour>
+			<point x="54" y="0" type="line"/>
+			<point x="398" y="0" type="line"/>
+			<point x="410" y="98"/>
+			<point x="420" y="190"/>
+			<point x="420" y="300" type="curve" smooth="yes"/>
+			<point x="420" y="480"/>
+			<point x="348" y="546"/>
+			<point x="212" y="546" type="curve" smooth="yes"/>
+			<point x="74" y="546" type="line"/>
+			<point x="74" y="516" type="line"/>
+			<point x="206" y="516" type="line" smooth="yes"/>
+			<point x="330" y="516"/>
+			<point x="392" y="464"/>
+			<point x="392" y="294" type="curve" smooth="yes"/>
+			<point x="392" y="195"/>
+			<point x="384" y="115"/>
+			<point x="373" y="28" type="curve"/>
+			<point x="54" y="28" type="line"/>
+		</contour>
+	</outline>
+</glyph>

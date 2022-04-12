@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiZayin" format="2">
+	<unicode hex="10846"/>
+	<advance width="244"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="114" y="0" type="line"/>
+			<point x="142" y="0" type="line"/>
+			<point x="142" y="546" type="line"/>
+			<point x="114" y="546" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 546</string>
+							<string>vstem 114 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w244l1140l1420l142546l114546</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

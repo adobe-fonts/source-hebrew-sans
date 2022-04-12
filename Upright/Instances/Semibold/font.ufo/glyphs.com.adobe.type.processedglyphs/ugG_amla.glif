@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugGamla" format="2">
+	<unicode hex="10382"/>
+	<advance width="334"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="138" y="-56" type="curve"/>
+			<point x="196" y="-56" type="line"/>
+			<point x="196" y="284"/>
+			<point x="196" y="512"/>
+			<point x="257" y="616" type="curve"/>
+			<point x="77" y="616" type="line"/>
+			<point x="138" y="512"/>
+			<point x="138" y="284"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -56 672</string>
+							<string>vstem 138 58</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w334c138-56l196-56196284196512c257616l77616138512138284</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

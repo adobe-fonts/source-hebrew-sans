@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heDaletWide" format="2">
+	<unicode hex="FB22"/>
+	<advance width="1295"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="8" y="472" type="line"/>
+			<point x="1102" y="472" type="line"/>
+			<point x="1093" y="439"/>
+			<point x="1089" y="405"/>
+			<point x="1089" y="360" type="curve"/>
+			<point x="1089" y="0" type="line"/>
+			<point x="1161" y="0" type="line"/>
+			<point x="1161" y="472" type="line"/>
+			<point x="1255" y="472" type="line"/>
+			<point x="1255" y="554" type="line"/>
+			<point x="8" y="554" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 472 82</string>
+							<string>vstem 1089 72</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w1295l8472l110247210934391089405c1089360l10890l11610l1161472l1255472l1255554l8554</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

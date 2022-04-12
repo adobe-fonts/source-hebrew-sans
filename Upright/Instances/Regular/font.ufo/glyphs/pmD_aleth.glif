@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmDaleth" format="2">
+	<unicode hex="10863"/>
+	<advance width="495"/>
+	<outline>
+		<contour>
+			<point x="8" y="472" type="line"/>
+			<point x="455" y="472" type="line"/>
+			<point x="455" y="554" type="line"/>
+			<point x="8" y="554" type="line"/>
+		</contour>
+		<contour>
+			<point x="289" y="0" type="line"/>
+			<point x="361" y="0" type="line"/>
+			<point x="361" y="472" type="line"/>
+			<point x="302" y="472" type="line"/>
+			<point x="293" y="439"/>
+			<point x="289" y="405"/>
+			<point x="289" y="360" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

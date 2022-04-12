@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heTsadiDagesh" format="2">
+	<unicode hex="FB46"/>
+	<advance width="502"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="130" y="126" type="curve"/>
+			<point x="148" y="126"/>
+			<point x="162" y="140"/>
+			<point x="162" y="162" type="curve"/>
+			<point x="162" y="182"/>
+			<point x="148" y="196"/>
+			<point x="130" y="196" type="curve"/>
+			<point x="112" y="196"/>
+			<point x="98" y="182"/>
+			<point x="98" y="162" type="curve"/>
+			<point x="98" y="140"/>
+			<point x="112" y="126"/>
+		</contour>
+		<contour>
+			<point x="44" y="0" type="line"/>
+			<point x="452" y="0" type="line"/>
+			<point x="458" y="24" type="line"/>
+			<point x="392" y="84"/>
+			<point x="330" y="145"/>
+			<point x="276" y="207" type="curve"/>
+			<point x="374" y="292"/>
+			<point x="444" y="387"/>
+			<point x="444" y="448" type="curve"/>
+			<point x="444" y="516"/>
+			<point x="420" y="546"/>
+			<point x="346" y="546" type="curve"/>
+			<point x="284" y="546" type="line"/>
+			<point x="284" y="516" type="line"/>
+			<point x="332" y="516" type="line"/>
+			<point x="403" y="516"/>
+			<point x="416" y="495"/>
+			<point x="416" y="450" type="curve"/>
+			<point x="416" y="395"/>
+			<point x="360" y="313"/>
+			<point x="257" y="228" type="curve"/>
+			<point x="170" y="332"/>
+			<point x="101" y="439"/>
+			<point x="58" y="550" type="curve"/>
+			<point x="24" y="546" type="line"/>
+			<point x="101" y="365"/>
+			<point x="230" y="194"/>
+			<point x="414" y="28" type="curve"/>
+			<point x="44" y="28" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 28</string>
+							<string>hstem 126 70</string>
+							<string>hstem 516 30</string>
+							<string>vstem 98 64</string>
+							<string>vstem 416 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>a278043e8716718d1202a26237958a6a7a28d7f33e2eb69eecafc19ccaf7d7689d620f920feb25c879001c668cbe163f88b8043beebd94879bc5352078d09ba2</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

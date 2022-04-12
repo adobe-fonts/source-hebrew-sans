@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.S" format="2">
+	<unicode hex="0039"/>
+	<advance width="540"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="186" y="368" type="curve"/>
+			<point x="186" y="407"/>
+			<point x="217" y="434"/>
+			<point x="256" y="434" type="curve"/>
+			<point x="290" y="434"/>
+			<point x="331" y="419"/>
+			<point x="348" y="349" type="curve"/>
+			<point x="321" y="314"/>
+			<point x="290" y="300"/>
+			<point x="252" y="300" type="curve"/>
+			<point x="211" y="300"/>
+			<point x="186" y="322"/>
+		</contour>
+		<contour>
+			<point x="234" y="-52" type="curve"/>
+			<point x="374" y="-52"/>
+			<point x="498" y="44"/>
+			<point x="498" y="272" type="curve"/>
+			<point x="498" y="500"/>
+			<point x="374" y="580"/>
+			<point x="252" y="580" type="curve"/>
+			<point x="137" y="580"/>
+			<point x="42" y="504"/>
+			<point x="42" y="364" type="curve"/>
+			<point x="42" y="232"/>
+			<point x="126" y="172"/>
+			<point x="224" y="172" type="curve"/>
+			<point x="274" y="172"/>
+			<point x="320" y="186"/>
+			<point x="352" y="218" type="curve"/>
+			<point x="337" y="127"/>
+			<point x="285" y="94"/>
+			<point x="224" y="94" type="curve"/>
+			<point x="182" y="94"/>
+			<point x="154" y="98"/>
+			<point x="110" y="120" type="curve"/>
+			<point x="52" y="-6" type="line"/>
+			<point x="108" y="-40"/>
+			<point x="160" y="-52"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -52 146</string>
+							<string>hstem 172 128</string>
+							<string>hstem 434 146</string>
+							<string>vstem 42 144</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>57ef1fef825d579ff5a4c873f3b58290a07c7599c78620c83c9393d987827e4969a122b29dd3166ece38564d325e429319b633c378567dcec628e404f9280edb</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

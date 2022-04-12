@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ugSamka" format="2">
+	<unicode hex="10392"/>
+	<advance width="404"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="122" y="293" type="curve"/>
+			<point x="146" y="293" type="line"/>
+			<point x="146" y="457"/>
+			<point x="154" y="567"/>
+			<point x="173" y="601" type="curve"/>
+			<point x="96" y="601" type="line"/>
+			<point x="115" y="567"/>
+			<point x="122" y="457"/>
+		</contour>
+		<contour>
+			<point x="218" y="-55" type="curve"/>
+			<point x="242" y="-55" type="line"/>
+			<point x="242" y="121"/>
+			<point x="248" y="239"/>
+			<point x="269" y="277" type="curve"/>
+			<point x="192" y="277" type="line"/>
+			<point x="212" y="239"/>
+			<point x="218" y="121"/>
+		</contour>
+		<contour>
+			<point x="314" y="293" type="curve"/>
+			<point x="338" y="293" type="line"/>
+			<point x="338" y="457"/>
+			<point x="346" y="567"/>
+			<point x="365" y="601" type="curve"/>
+			<point x="288" y="601" type="line"/>
+			<point x="307" y="567"/>
+			<point x="314" y="457"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -55 656</string>
+							<string>vstem 122 24</string>
+							<string>vstem 218 24</string>
+							<string>vstem 314 24</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>2b8cff25e886f2e11158119b18401843fb2777524efac97b9f61aa070f25fbaa1c7cb6a70633aa1de46c9f51829fceebc51570f3e5a7f796bfcc0a6d3efe8471</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

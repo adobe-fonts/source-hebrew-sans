@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pnSade" format="2">
+	<unicode hex="10911"/>
+	<advance width="824"/>
+	<outline>
+		<contour>
+			<point x="95" y="-174" type="line"/>
+			<point x="196" y="-174" type="line"/>
+			<point x="196" y="63" type="line" smooth="yes"/>
+			<point x="196" y="103"/>
+			<point x="194" y="141"/>
+			<point x="183" y="220" type="curve"/>
+			<point x="169" y="210" type="line"/>
+			<point x="201" y="160"/>
+			<point x="228" y="134"/>
+			<point x="275" y="134" type="curve" smooth="yes"/>
+			<point x="344" y="134"/>
+			<point x="411" y="186"/>
+			<point x="445" y="300" type="curve"/>
+			<point x="426" y="300" type="line"/>
+			<point x="448" y="184"/>
+			<point x="499" y="134"/>
+			<point x="568" y="134" type="curve" smooth="yes"/>
+			<point x="697" y="134"/>
+			<point x="794" y="292"/>
+			<point x="796" y="523" type="curve"/>
+			<point x="701" y="523" type="line"/>
+			<point x="699" y="368"/>
+			<point x="653" y="249"/>
+			<point x="585" y="249" type="curve" smooth="yes"/>
+			<point x="533" y="249"/>
+			<point x="501" y="305"/>
+			<point x="501" y="528" type="curve"/>
+			<point x="400" y="517" type="line"/>
+			<point x="398" y="362"/>
+			<point x="355" y="249"/>
+			<point x="292" y="249" type="curve" smooth="yes"/>
+			<point x="234" y="249"/>
+			<point x="200" y="301"/>
+			<point x="200" y="530" type="curve"/>
+			<point x="95" y="518" type="line"/>
+		</contour>
+	</outline>
+</glyph>

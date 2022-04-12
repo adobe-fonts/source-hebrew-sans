@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hrLamedh" format="2">
+	<unicode hex="108EB"/>
+	<advance width="376"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="122" y="-12" type="line"/>
+			<point x="280" y="162"/>
+			<point x="318" y="262"/>
+			<point x="318" y="396" type="curve"/>
+			<point x="318" y="604"/>
+			<point x="16" y="732"/>
+			<point x="-324" y="732" type="curve"/>
+			<point x="-332" y="702" type="line"/>
+			<point x="-21" y="702"/>
+			<point x="290" y="580"/>
+			<point x="290" y="398" type="curve"/>
+			<point x="290" y="267"/>
+			<point x="260" y="182"/>
+			<point x="98" y="4" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="belowLeftHE" x="30" y="-30"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 702 30</string>
+							<string>vstem 290 28</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w376l122-12280162318262c31839631860416732c-324732l-332702-21702290580c290398290267260182c984</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

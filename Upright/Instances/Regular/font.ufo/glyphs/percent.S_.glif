@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent.S" format="2">
+	<unicode hex="0025"/>
+	<advance width="824"/>
+	<outline>
+		<component base="zero.Dnom" yOffset="197"/>
+		<component base="fraction.S" xOffset="370"/>
+		<component base="zero.Dnom" xOffset="457"/>
+	</outline>
+</glyph>

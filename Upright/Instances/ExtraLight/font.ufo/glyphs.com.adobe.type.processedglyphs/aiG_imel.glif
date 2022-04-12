@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiGimel" format="2">
+	<unicode hex="10842"/>
+	<advance width="524"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="452" y="-4" type="curve"/>
+			<point x="486" y="0" type="line"/>
+			<point x="434" y="336"/>
+			<point x="282" y="497"/>
+			<point x="112" y="558" type="curve"/>
+			<point x="90" y="536" type="line"/>
+			<point x="137" y="518"/>
+			<point x="181" y="494"/>
+			<point x="222" y="462" type="curve"/>
+			<point x="155" y="287"/>
+			<point x="75" y="125"/>
+			<point x="0" y="0" type="curve"/>
+			<point x="36" y="0" type="line"/>
+			<point x="98" y="109"/>
+			<point x="185" y="284"/>
+			<point x="245" y="443" type="curve"/>
+			<point x="348" y="352"/>
+			<point x="423" y="209"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -4 562</string>
+							<string>vstem 0 486</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w524c452-4l4860434336282497c112558l90536137518181494c22246215528775125c00l36098109185284c245443348352423209</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

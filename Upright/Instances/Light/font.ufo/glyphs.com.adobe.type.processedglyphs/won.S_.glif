@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="won.S" format="2">
+	<advance width="479"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="218" y="340" type="line"/>
+			<point x="237" y="469" type="line"/>
+			<point x="241" y="469" type="line"/>
+			<point x="259" y="342" type="line"/>
+			<point x="268" y="293" type="line"/>
+			<point x="209" y="293" type="line"/>
+		</contour>
+		<contour>
+			<point x="105" y="0" type="line"/>
+			<point x="156" y="0" type="line"/>
+			<point x="203" y="257" type="line"/>
+			<point x="275" y="257" type="line"/>
+			<point x="324" y="0" type="line"/>
+			<point x="378" y="0" type="line"/>
+			<point x="420" y="257" type="line"/>
+			<point x="488" y="257" type="line"/>
+			<point x="488" y="293" type="line"/>
+			<point x="426" y="293" type="line"/>
+			<point x="467" y="548" type="line"/>
+			<point x="424" y="548" type="line"/>
+			<point x="388" y="293" type="line"/>
+			<point x="308" y="293" type="line"/>
+			<point x="266" y="508" type="line"/>
+			<point x="216" y="508" type="line"/>
+			<point x="174" y="293" type="line"/>
+			<point x="95" y="293" type="line"/>
+			<point x="58" y="548" type="line"/>
+			<point x="12" y="548" type="line"/>
+			<point x="55" y="293" type="line"/>
+			<point name="hintSet0027" x="-13" y="289" type="line"/>
+			<point name="hintSet0028" x="-13" y="257" type="line"/>
+			<point x="61" y="257" type="line"/>
+		</contour>
+		<contour>
+			<point x="128" y="39" type="line"/>
+			<point x="115" y="158" type="line"/>
+			<point x="101" y="257" type="line"/>
+			<point x="167" y="257" type="line"/>
+			<point x="148" y="158" type="line"/>
+			<point x="132" y="39" type="line"/>
+		</contour>
+		<contour>
+			<point x="350" y="39" type="line"/>
+			<point x="334" y="158" type="line"/>
+			<point x="315" y="257" type="line"/>
+			<point x="383" y="257" type="line"/>
+			<point x="369" y="158" type="line"/>
+			<point x="354" y="39" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 39</string>
+							<string>hstem 257 36</string>
+							<string>hstem 469 39</string>
+							<string>vstem -13 501</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0027</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 39</string>
+							<string>hstem 257 34</string>
+							<string>hstem 469 39</string>
+							<string>vstem -13 501</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0028</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 39</string>
+							<string>hstem 257 36</string>
+							<string>hstem 469 39</string>
+							<string>vstem -13 501</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>878b9babbf0c06305f51c98b2b46346bc1a0fb13f5bb1d1c62d97dd5eb87c2d61f811845a4ab458f4c8aefe8eed7e3e3a53775ce8a597cabd2fd323873dbae39</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

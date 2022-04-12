@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.Numr" format="2">
+	<advance width="193"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="96" y="219" type="curve"/>
+			<point x="128" y="219"/>
+			<point x="151" y="242"/>
+			<point x="151" y="275" type="curve"/>
+			<point x="151" y="307"/>
+			<point x="128" y="331"/>
+			<point x="96" y="331" type="curve"/>
+			<point x="65" y="331"/>
+			<point x="42" y="307"/>
+			<point x="42" y="275" type="curve"/>
+			<point x="42" y="242"/>
+			<point x="65" y="219"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 219 112</string>
+							<string>vstem 42 109</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w193c96219128219151242c151275151307128331c963316533142307c422754224265219</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

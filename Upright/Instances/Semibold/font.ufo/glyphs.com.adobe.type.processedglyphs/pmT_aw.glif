@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pmTaw" format="2">
+	<unicode hex="10876"/>
+	<advance width="679"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="495" y="0" type="line"/>
+			<point x="595" y="0" type="line"/>
+			<point x="595" y="351" type="line"/>
+			<point x="595" y="502"/>
+			<point x="517" y="559"/>
+			<point x="401" y="559" type="curve"/>
+			<point x="80" y="559" type="line"/>
+			<point x="80" y="444" type="line"/>
+			<point x="147" y="444" type="line"/>
+			<point x="138" y="417"/>
+			<point x="134" y="384"/>
+			<point x="134" y="343" type="curve"/>
+			<point x="134" y="277"/>
+			<point x="138" y="203"/>
+			<point x="146" y="110" type="curve"/>
+			<point x="48" y="110" type="line"/>
+			<point x="48" y="0" type="line"/>
+			<point x="237" y="0" type="line"/>
+			<point x="252" y="82" type="line"/>
+			<point x="237" y="194"/>
+			<point x="230" y="287"/>
+			<point x="230" y="382" type="curve"/>
+			<point x="230" y="444" type="line"/>
+			<point x="356" y="444" type="line"/>
+			<point x="441" y="444"/>
+			<point x="495" y="411"/>
+			<point x="495" y="300" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 110</string>
+							<string>hstem 444 115</string>
+							<string>vstem 134 96</string>
+							<string>vstem 495 100</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>b51d7cc6c9fc6ef2b96b8400ee75f86be13bcbb2d54b21e684a7d901acb04aea81af278bfd124bff6c5e184f7c1bf5fb9f82e449f6f6e953c57c6c7511873a66</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

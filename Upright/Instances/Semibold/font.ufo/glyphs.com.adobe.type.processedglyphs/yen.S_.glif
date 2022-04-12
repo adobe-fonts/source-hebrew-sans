@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.S" format="2">
+	<unicode hex="00A5"/>
+	<advance width="513"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="206" y="0" type="line"/>
+			<point x="306" y="0" type="line"/>
+			<point x="306" y="136" type="line"/>
+			<point x="472" y="136" type="line"/>
+			<point x="472" y="198" type="line"/>
+			<point x="306" y="198" type="line"/>
+			<point x="306" y="257" type="line"/>
+			<point x="472" y="257" type="line"/>
+			<point x="472" y="318" type="line"/>
+			<point x="340" y="318" type="line"/>
+			<point x="495" y="559" type="line"/>
+			<point x="378" y="559" type="line"/>
+			<point x="318" y="454" type="line"/>
+			<point x="298" y="413"/>
+			<point x="280" y="378"/>
+			<point x="260" y="334" type="curve"/>
+			<point x="256" y="334" type="line"/>
+			<point x="235" y="378"/>
+			<point x="217" y="413"/>
+			<point x="197" y="454" type="curve"/>
+			<point x="138" y="559" type="line"/>
+			<point x="18" y="559" type="line"/>
+			<point x="172" y="318" type="line"/>
+			<point x="41" y="318" type="line"/>
+			<point x="41" y="257" type="line"/>
+			<point x="206" y="257" type="line"/>
+			<point x="206" y="198" type="line"/>
+			<point x="41" y="198" type="line"/>
+			<point x="41" y="136" type="line"/>
+			<point x="206" y="136" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 136 62</string>
+							<string>hstem 257 61</string>
+							<string>vstem 206 100</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>0de1f38de8f7318bf0ceea36f3df13f5163c42655764a4e49ae5f7837838118e2320322c3a73287da4892973ed7c9dc72e1419a9bb0553942a0b1b11e7b17642</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
