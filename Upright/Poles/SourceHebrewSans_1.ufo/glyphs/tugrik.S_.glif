@@ -3,40 +3,40 @@
 	<advance width="540"/>
 	<outline>
 		<contour>
-			<point x="196" y="0" type="line"/>
-			<point x="344" y="0" type="line"/>
-			<point x="344" y="416" type="line"/>
-			<point x="508" y="416" type="line"/>
+			<point x="184" y="0" type="line"/>
+			<point x="356" y="0" type="line"/>
+			<point x="356" y="444" type="line"/>
+			<point x="508" y="444" type="line"/>
 			<point x="508" y="568" type="line"/>
 			<point x="32" y="568" type="line"/>
-			<point x="32" y="416" type="line"/>
-			<point x="196" y="416" type="line"/>
+			<point x="32" y="444" type="line"/>
+			<point x="184" y="444" type="line"/>
 		</contour>
 		<contour>
-			<point x="112" y="0" type="line"/>
-			<point x="200" y="48" type="line"/>
-			<point x="340" y="126" type="line"/>
-			<point x="466" y="194" type="line"/>
-			<point x="430" y="266" type="line"/>
-			<point x="340" y="216" type="line"/>
-			<point x="200" y="138" type="line"/>
-			<point x="76" y="72" type="line"/>
+			<point x="112" y="16" type="line"/>
+			<point x="200" y="64" type="line"/>
+			<point x="340" y="142" type="line"/>
+			<point x="466" y="210" type="line"/>
+			<point x="430" y="282" type="line"/>
+			<point x="340" y="232" type="line"/>
+			<point x="200" y="154" type="line"/>
+			<point x="76" y="88" type="line"/>
 		</contour>
 		<contour>
-			<point x="112" y="140" type="line"/>
-			<point x="200" y="188" type="line"/>
-			<point x="340" y="266" type="line"/>
-			<point x="466" y="334" type="line"/>
-			<point x="430" y="406" type="line"/>
-			<point x="340" y="356" type="line"/>
-			<point x="200" y="278" type="line"/>
-			<point x="76" y="212" type="line"/>
+			<point x="112" y="156" type="line"/>
+			<point x="200" y="204" type="line"/>
+			<point x="340" y="282" type="line"/>
+			<point x="466" y="350" type="line"/>
+			<point x="430" y="422" type="line"/>
+			<point x="340" y="372" type="line"/>
+			<point x="200" y="294" type="line"/>
+			<point x="76" y="228" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,1,0,1</string>
+			<string>0.1313,0.9997,0.0236,1</string>
 		</dict>
 	</lib>
 </glyph>

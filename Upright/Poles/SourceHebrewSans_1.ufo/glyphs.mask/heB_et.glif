@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heBet" format="2">
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="44" y="0" type="line"/>
+			<point x="520" y="0" type="line"/>
+			<point x="520" y="166" type="line"/>
+			<point x="44" y="166" type="line"/>
+		</contour>
+		<contour>
+			<point x="460" y="0" type="line"/>
+			<point x="472" y="102"/>
+			<point x="478" y="190"/>
+			<point x="478" y="302" type="curve" smooth="yes"/>
+			<point x="478" y="486"/>
+			<point x="400" y="568"/>
+			<point x="242" y="568" type="curve" smooth="yes"/>
+			<point x="64" y="568" type="line"/>
+			<point x="64" y="396" type="line"/>
+			<point x="162" y="396" type="line" smooth="yes"/>
+			<point x="292" y="396"/>
+			<point x="330" y="344"/>
+			<point x="330" y="200" type="curve" smooth="yes"/>
+			<point x="330" y="188"/>
+			<point x="329" y="178"/>
+			<point x="328" y="166" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

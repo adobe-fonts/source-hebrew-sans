@@ -4,13 +4,13 @@
 	<advance width="540"/>
 	<outline>
 		<contour>
-			<point x="196" y="0" type="line"/>
-			<point x="344" y="0" type="line"/>
-			<point x="344" y="120" type="line"/>
+			<point x="184" y="0" type="line"/>
+			<point x="356" y="0" type="line"/>
+			<point x="356" y="120" type="line"/>
 			<point x="506" y="120" type="line"/>
 			<point x="506" y="204" type="line"/>
-			<point x="344" y="204" type="line"/>
-			<point x="344" y="248" type="line"/>
+			<point x="356" y="204" type="line"/>
+			<point x="356" y="248" type="line"/>
 			<point x="506" y="248" type="line"/>
 			<point x="506" y="332" type="line"/>
 			<point x="392" y="332" type="line"/>
@@ -29,17 +29,17 @@
 			<point x="148" y="332" type="line"/>
 			<point x="34" y="332" type="line"/>
 			<point x="34" y="248" type="line"/>
-			<point x="196" y="248" type="line"/>
-			<point x="196" y="204" type="line"/>
+			<point x="184" y="248" type="line"/>
+			<point x="184" y="204" type="line"/>
 			<point x="34" y="204" type="line"/>
 			<point x="34" y="120" type="line"/>
-			<point x="196" y="120" type="line"/>
+			<point x="184" y="120" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,1,0,1</string>
+			<string>0.1313,0.9997,0.0236,1</string>
 		</dict>
 	</lib>
 </glyph>

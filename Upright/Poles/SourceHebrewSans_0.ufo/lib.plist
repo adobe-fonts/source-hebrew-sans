@@ -895,8 +895,6 @@
 				<string>glyphList</string>
 			</dict>
 		</array>
-		<key>com.robofont.generateFeaturesWithFontTools</key>
-		<false/>
 		<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 		<integer>1</integer>
 		<key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -918,6 +916,8 @@
 			<real>0.5</real>
 			<real>0.7</real>
 		</array>
+		<key>com.typemytype.robofont.generateFeaturesWithFontTools</key>
+		<false/>
 		<key>com.typemytype.robofont.guideline.magnetic.OSKuCxXjYV</key>
 		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.ZEw2HhY2kh</key>
@@ -951,8 +951,6 @@
 		<string>curve</string>
 		<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
 		<integer>0</integer>
-		<key>com.typemytype.robofont.smartSets.uniqueKey</key>
-		<string>4553304016</string>
 		<key>com.typesupply.MetricsMachine4.groupColors</key>
 		<dict>
 			<key>@MMK_L_CYR_ACYR_LC_LEFT</key>

@@ -896,8 +896,6 @@
 				<string>glyphList</string>
 			</dict>
 		</array>
-		<key>com.robofont.generateFeaturesWithFontTools</key>
-		<false/>
 		<key>com.schriftgestaltung.fontMasterID</key>
 		<string>A57419AF-C607-4C6D-867D-F9F312359F5B</string>
 		<key>com.schriftgestaltung.useNiceNames</key>
@@ -923,6 +921,10 @@
 			<real>0.5</real>
 			<real>0.7</real>
 		</array>
+		<key>com.typemytype.robofont.generateFeaturesWithFontTools</key>
+		<false/>
+		<key>com.typemytype.robofont.guideline.magnetic.18a6MfQN3R</key>
+		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.AtDU8rN4Ca</key>
 		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.BJryQvW5UM</key>
@@ -931,25 +933,51 @@
 		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.O4hwt37K4P</key>
 		<integer>5</integer>
+		<key>com.typemytype.robofont.guideline.magnetic.QBfh3chESc</key>
+		<integer>5</integer>
+		<key>com.typemytype.robofont.guideline.magnetic.TRat8ZHmYR</key>
+		<integer>5</integer>
+		<key>com.typemytype.robofont.guideline.magnetic.VQyPFL1CiD</key>
+		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.WAv4QgEHsL</key>
 		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.YU6A6dS46f</key>
 		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.eUUNiL9bA1</key>
 		<integer>5</integer>
+		<key>com.typemytype.robofont.guideline.magnetic.iavSAjxhNB</key>
+		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.jt5Nfn49bl</key>
+		<integer>5</integer>
+		<key>com.typemytype.robofont.guideline.magnetic.lN7ao5y28N</key>
 		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.m3CmYj1ltL</key>
 		<integer>5</integer>
+		<key>com.typemytype.robofont.guideline.magnetic.sS60vtNwgs</key>
+		<integer>5</integer>
 		<key>com.typemytype.robofont.guideline.magnetic.ya1R8RELXb</key>
 		<integer>5</integer>
+		<key>com.typemytype.robofont.guideline.showMeasurements.18a6MfQN3R</key>
+		<false/>
 		<key>com.typemytype.robofont.guideline.showMeasurements.AtDU8rN4Ca</key>
 		<false/>
 		<key>com.typemytype.robofont.guideline.showMeasurements.BJryQvW5UM</key>
 		<false/>
+		<key>com.typemytype.robofont.guideline.showMeasurements.QBfh3chESc</key>
+		<false/>
+		<key>com.typemytype.robofont.guideline.showMeasurements.TRat8ZHmYR</key>
+		<false/>
+		<key>com.typemytype.robofont.guideline.showMeasurements.VQyPFL1CiD</key>
+		<false/>
+		<key>com.typemytype.robofont.guideline.showMeasurements.iavSAjxhNB</key>
+		<false/>
 		<key>com.typemytype.robofont.guideline.showMeasurements.jt5Nfn49bl</key>
 		<false/>
+		<key>com.typemytype.robofont.guideline.showMeasurements.lN7ao5y28N</key>
+		<false/>
 		<key>com.typemytype.robofont.guideline.showMeasurements.m3CmYj1ltL</key>
+		<false/>
+		<key>com.typemytype.robofont.guideline.showMeasurements.sS60vtNwgs</key>
 		<false/>
 		<key>com.typemytype.robofont.guideline.showMeasurements.ya1R8RELXb</key>
 		<false/>
@@ -966,8 +994,6 @@
 		<string>curve</string>
 		<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
 		<integer>0</integer>
-		<key>com.typemytype.robofont.smartSets.uniqueKey</key>
-		<string>7908439312</string>
 		<key>com.typesupply.MetricsMachine4.groupColors</key>
 		<dict>
 			<key>@MMK_L_CYR_ACYR_LC_LEFT</key>

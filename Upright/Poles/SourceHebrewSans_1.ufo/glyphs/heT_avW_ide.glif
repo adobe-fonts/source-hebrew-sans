@@ -39,4 +39,10 @@
 	<anchor name="belowPrimaryHE" x="760" y="-22"/>
 	<anchor name="centerHE" x="760" y="220"/>
 	<anchor name="aboveLeftHE" x="60" y="590"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
+		</dict>
+	</lib>
 </glyph>

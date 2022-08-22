@@ -6,13 +6,13 @@
 		<contour>
 			<point x="4" y="0" type="line"/>
 			<point x="134" y="0" type="line"/>
-			<point x="134" y="424" type="line"/>
-			<point x="190" y="424" type="line" smooth="yes"/>
-			<point x="249" y="424"/>
-			<point x="286" y="402"/>
-			<point x="286" y="332" type="curve" smooth="yes"/>
-			<point x="286" y="222" type="line"/>
-			<point x="370" y="222" type="line"/>
+			<point x="134" y="434" type="line"/>
+			<point x="190" y="434" type="line" smooth="yes"/>
+			<point x="249" y="434"/>
+			<point x="286" y="412"/>
+			<point x="286" y="342" type="curve" smooth="yes"/>
+			<point x="286" y="212" type="line"/>
+			<point x="370" y="212" type="line"/>
 			<point x="370" y="400" type="line" smooth="yes"/>
 			<point x="370" y="523"/>
 			<point x="301" y="568"/>
@@ -27,20 +27,20 @@
 			<point x="536" y="168" type="curve" smooth="yes"/>
 			<point x="536" y="568" type="line"/>
 			<point x="406" y="568" type="line"/>
-			<point x="406" y="236" type="line" smooth="yes"/>
-			<point x="406" y="166"/>
-			<point x="368" y="144"/>
-			<point x="308" y="144" type="curve" smooth="yes"/>
-			<point x="254" y="144" type="line"/>
-			<point x="254" y="346" type="line"/>
-			<point x="170" y="346" type="line"/>
+			<point x="406" y="226" type="line" smooth="yes"/>
+			<point x="406" y="156"/>
+			<point x="368" y="134"/>
+			<point x="308" y="134" type="curve" smooth="yes"/>
+			<point x="254" y="134" type="line"/>
+			<point x="254" y="356" type="line"/>
+			<point x="170" y="356" type="line"/>
 		</contour>
 	</outline>
 	<guideline x="270" y="284" angle="90" identifier="la2l8YmETM"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,1,0,1</string>
+			<string>0.1313,0.9997,0.0236,1</string>
 		</dict>
 	</lib>
 </glyph>
