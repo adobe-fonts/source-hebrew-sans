@@ -3,21 +3,21 @@
 	<unicode hex="05C7"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="-25" y="-300" type="line"/>
-			<point x="25" y="-300" type="line"/>
-			<point x="21" y="-130" type="line"/>
-			<point x="94" y="-130" type="line"/>
-			<point x="94" y="-84" type="line"/>
-			<point x="-96" y="-84" type="line"/>
-			<point x="-96" y="-130" type="line"/>
-			<point x="-21" y="-130" type="line"/>
+			<point name="hintSet0000" x="-26" y="-305" type="line"/>
+			<point x="26" y="-305" type="line"/>
+			<point x="26" y="-141" type="line"/>
+			<point x="104" y="-141" type="line"/>
+			<point x="104" y="-89" type="line"/>
+			<point x="-104" y="-89" type="line"/>
+			<point x="-104" y="-141" type="line"/>
+			<point x="-26" y="-141" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-104" y="-30"/>
-	<anchor name="_belowRightHE" x="104" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-158" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-25"/>
+	<anchor name="_belowLeftHE" x="-104" y="-25"/>
+	<anchor name="_belowRightHE" x="104" y="-25"/>
+	<anchor name="belowPrimaryHE" x="-158" y="-25"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-25"/>
 	<guideline y="46" identifier="0QQY0Nsl6b"/>
 	<lib>
 		<dict>
@@ -30,13 +30,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -130 46</string>
-							<string>vstem -23 46</string>
+							<string>hstem -141 52</string>
+							<string>vstem -26 52</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0l-25-300l25-300l21-130l94-130l94-84l-96-84l-96-130l-21-130</string>
+				<string>w0l-26-305l26-305l26-141l104-141l104-89l-104-89l-104-141l-26-141</string>
 			</dict>
 		</dict>
 	</lib>

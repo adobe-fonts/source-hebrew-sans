@@ -1,3 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnMem" format="2">
+	<unicode hex="1090C"/>
+	<advance width="819"/>
+	<outline>
+		<contour>
+			<point x="680" y="-197" type="line"/>
+			<point x="722" y="-197" type="line"/>
+			<point x="722" y="512" type="line"/>
+			<point x="684" y="512" type="line"/>
+			<point x="681" y="320"/>
+			<point x="619" y="208"/>
+			<point x="532" y="208" type="curve" smooth="yes"/>
+			<point x="457" y="208"/>
+			<point x="413" y="302"/>
+			<point x="413" y="516" type="curve"/>
+			<point x="373" y="511" type="line"/>
+			<point x="369" y="320"/>
+			<point x="308" y="208"/>
+			<point x="221" y="208" type="curve" smooth="yes"/>
+			<point x="144" y="208"/>
+			<point x="103" y="293"/>
+			<point x="103" y="517" type="curve"/>
+			<point x="60" y="511" type="line"/>
+			<point x="62" y="255"/>
+			<point x="122" y="161"/>
+			<point x="218" y="161" type="curve" smooth="yes"/>
+			<point x="297" y="161"/>
+			<point x="369" y="230"/>
+			<point x="393" y="380" type="curve"/>
+			<point x="384" y="380" type="line"/>
+			<point x="399" y="231"/>
+			<point x="456" y="161"/>
+			<point x="529" y="161" type="curve" smooth="yes"/>
+			<point x="607" y="161"/>
+			<point x="664" y="231"/>
+			<point x="691" y="325" type="curve"/>
+			<point x="687" y="330" type="line"/>
+			<point x="682" y="249"/>
+			<point x="680" y="202"/>
+			<point x="680" y="154" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
 </glyph>

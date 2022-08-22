@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnSemk" format="2">
 	<unicode hex="1090E"/>
-	<advance width="555"/>
+	<advance width="554"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="241" y="-120" type="line"/>
-			<point x="314" y="-120" type="line"/>
-			<point x="314" y="111" type="line"/>
-			<point x="516" y="111" type="line"/>
-			<point x="516" y="193" type="line"/>
-			<point x="314" y="193" type="line"/>
-			<point x="314" y="298" type="line"/>
-			<point x="481" y="298" type="line"/>
-			<point x="481" y="373" type="line"/>
-			<point x="314" y="373" type="line"/>
-			<point x="314" y="472" type="line"/>
-			<point x="516" y="472" type="line"/>
-			<point x="516" y="554" type="line"/>
-			<point x="39" y="554" type="line"/>
-			<point x="39" y="472" type="line"/>
-			<point x="241" y="472" type="line"/>
-			<point x="241" y="373" type="line"/>
-			<point x="74" y="373" type="line"/>
-			<point x="74" y="298" type="line"/>
-			<point x="241" y="298" type="line"/>
-			<point x="241" y="193" type="line"/>
-			<point x="39" y="193" type="line"/>
-			<point x="39" y="111" type="line"/>
-			<point x="241" y="111" type="line"/>
+			<point name="hintSet0000" x="244" y="-185" type="line"/>
+			<point x="317" y="-185" type="line"/>
+			<point x="317" y="58" type="line"/>
+			<point x="518" y="58" type="line"/>
+			<point x="518" y="133" type="line"/>
+			<point x="317" y="133" type="line"/>
+			<point x="317" y="254" type="line"/>
+			<point x="484" y="254" type="line"/>
+			<point x="484" y="321" type="line"/>
+			<point x="317" y="321" type="line"/>
+			<point x="317" y="443" type="line"/>
+			<point x="518" y="443" type="line"/>
+			<point x="518" y="518" type="line"/>
+			<point x="43" y="518" type="line"/>
+			<point x="43" y="443" type="line"/>
+			<point x="244" y="443" type="line"/>
+			<point x="244" y="321" type="line"/>
+			<point x="77" y="321" type="line"/>
+			<point x="77" y="254" type="line"/>
+			<point x="244" y="254" type="line"/>
+			<point x="244" y="133" type="line"/>
+			<point x="43" y="133" type="line"/>
+			<point x="43" y="58" type="line"/>
+			<point x="244" y="58" type="line"/>
 		</contour>
 	</outline>
+	<guideline x="244" y="208" angle="33.12" identifier="ZERkEcgpwh"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -41,15 +42,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 111 82</string>
-							<string>hstem 298 75</string>
-							<string>hstem 472 82</string>
-							<string>vstem 241 73</string>
+							<string>hstem 58 75</string>
+							<string>hstem 254 67</string>
+							<string>hstem 443 75</string>
+							<string>vstem 244 73</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>d533a6cba03fe2ebbac3279c8c6402bc8dfa2ca21ab747ba2c10f516ad161f940f1e834f43616657f7666aa3c769cdd0c3b1f6a1a6122b2dc5a1c02001d067c3</string>
+				<string>c886615fa9ac826cf5964df295ce52f919e343ff4e596540af90444bb30ad18d3f3990d4afeb236dd0f322e458e9d8219a70a2de1f81cf0c53a52dfa01424c5a</string>
 			</dict>
 		</dict>
 	</lib>

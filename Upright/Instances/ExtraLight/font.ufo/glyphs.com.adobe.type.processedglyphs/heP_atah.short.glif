@@ -2,10 +2,10 @@
 <glyph name="hePatah.short" format="2">
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="76" y="-89" type="line"/>
-			<point x="-76" y="-89" type="line"/>
-			<point x="-76" y="-128" type="line"/>
-			<point x="76" y="-128" type="line"/>
+			<point name="hintSet0000" x="-76" y="-136" type="line"/>
+			<point x="76" y="-136" type="line"/>
+			<point x="76" y="-108" type="line"/>
+			<point x="-76" y="-108" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
@@ -24,13 +24,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -128 39</string>
+							<string>hstem -136 28</string>
 							<string>vstem -76 152</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0l76-89l-76-89l-76-128l76-128</string>
+				<string>w0l-76-136l76-136l76-108l-76-108</string>
 			</dict>
 		</dict>
 	</lib>

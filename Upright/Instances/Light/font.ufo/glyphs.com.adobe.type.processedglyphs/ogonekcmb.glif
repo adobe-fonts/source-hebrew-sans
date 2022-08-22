@@ -3,26 +3,26 @@
 	<unicode hex="0328"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="27" y="-203" type="curve"/>
-			<point x="48" y="-203"/>
-			<point x="77" y="-193"/>
-			<point x="92" y="-180" type="curve"/>
-			<point x="76" y="-154" type="line"/>
-			<point x="63" y="-164"/>
-			<point x="50" y="-168"/>
-			<point x="33" y="-168" type="curve"/>
-			<point x="8" y="-168"/>
-			<point x="-16" y="-151"/>
-			<point x="-16" y="-116" type="curve"/>
-			<point x="-16" y="-73"/>
-			<point x="14" y="-30"/>
-			<point x="61" y="4" type="curve"/>
-			<point x="17" y="4" type="line"/>
-			<point x="-19" y="-25"/>
-			<point x="-54" y="-71"/>
-			<point x="-54" y="-122" type="curve"/>
-			<point x="-54" y="-176"/>
-			<point x="-19" y="-203"/>
+			<point name="hintSet0000" x="14" y="-213" type="curve"/>
+			<point x="45" y="-213"/>
+			<point x="71" y="-199"/>
+			<point x="88" y="-184" type="curve"/>
+			<point x="72" y="-157" type="line"/>
+			<point x="55" y="-170"/>
+			<point x="41" y="-176"/>
+			<point x="19" y="-176" type="curve"/>
+			<point x="-10" y="-176"/>
+			<point x="-37" y="-159"/>
+			<point x="-37" y="-119" type="curve"/>
+			<point x="-37" y="-77"/>
+			<point x="-4" y="-33"/>
+			<point x="38" y="4" type="curve"/>
+			<point x="-3" y="4" type="line"/>
+			<point x="-39" y="-28"/>
+			<point x="-76" y="-74"/>
+			<point x="-76" y="-125" type="curve"/>
+			<point x="-76" y="-186"/>
+			<point x="-36" y="-213"/>
 		</contour>
 	</outline>
 	<anchor name="_ogonekLC" x="0" y="0"/>
@@ -37,13 +37,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -203 35</string>
-							<string>vstem -54 38</string>
+							<string>hstem -213 37</string>
+							<string>vstem -76 39</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0c27-20348-20377-193c92-180l76-15463-16450-168c33-1688-168-16-151c-16-116-16-7314-30c614l174-19-25-54-71c-54-122-54-176-19-203</string>
+				<string>5a95cbb5b697673c6f4285c9ad78be4171c437b93a01bb9dc0446892f7dd9a3d56fa833660de1e94a59ac8b2e3aab2976004cc789164646c93ca26e0c07a4833</string>
 			</dict>
 		</dict>
 	</lib>

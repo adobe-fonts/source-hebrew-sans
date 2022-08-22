@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heShin" format="2">
 	<unicode hex="05E9"/>
-	<advance width="733"/>
+	<advance width="758"/>
 	<outline>
 		<contour>
-			<point x="362" y="-12" type="curve" smooth="yes"/>
-			<point x="551" y="-12"/>
-			<point x="700" y="170"/>
-			<point x="700" y="397" type="curve" smooth="yes"/>
-			<point x="700" y="529"/>
-			<point x="654" y="564"/>
-			<point x="534" y="564" type="curve" smooth="yes"/>
-			<point x="493" y="564" type="line"/>
-			<point x="493" y="417" type="line"/>
-			<point x="513" y="417" type="line" smooth="yes"/>
-			<point x="559" y="417"/>
-			<point x="576" y="394"/>
-			<point x="576" y="336" type="curve" smooth="yes"/>
-			<point x="576" y="234"/>
-			<point x="484" y="128"/>
-			<point x="377" y="128" type="curve" smooth="yes"/>
-			<point x="248" y="128"/>
-			<point x="192" y="184"/>
-			<point x="185" y="570" type="curve"/>
-			<point x="31" y="528" type="line"/>
-			<point x="48" y="121"/>
-			<point x="164" y="-12"/>
+			<point x="379" y="-12" type="curve" smooth="yes"/>
+			<point x="568" y="-12"/>
+			<point x="716" y="170"/>
+			<point x="716" y="397" type="curve" smooth="yes"/>
+			<point x="716" y="529"/>
+			<point x="659" y="564"/>
+			<point x="542" y="564" type="curve" smooth="yes"/>
+			<point x="508" y="564" type="line"/>
+			<point x="508" y="437" type="line"/>
+			<point x="521" y="437" type="line" smooth="yes"/>
+			<point x="552" y="437"/>
+			<point x="564" y="410"/>
+			<point x="564" y="344" type="curve" smooth="yes"/>
+			<point x="564" y="230"/>
+			<point x="486" y="112"/>
+			<point x="394" y="112" type="curve" smooth="yes"/>
+			<point x="265" y="112"/>
+			<point x="210" y="169"/>
+			<point x="210" y="571" type="curve"/>
+			<point x="48" y="558" type="line"/>
+			<point x="64" y="125"/>
+			<point x="174" y="-12"/>
 		</contour>
 		<contour>
-			<point x="324" y="120" type="line"/>
-			<point x="428" y="268"/>
-			<point x="455" y="343"/>
-			<point x="455" y="428" type="curve" smooth="yes"/>
-			<point x="455" y="531"/>
-			<point x="404" y="564"/>
-			<point x="301" y="564" type="curve" smooth="yes"/>
-			<point x="260" y="564" type="line"/>
-			<point x="260" y="417" type="line"/>
-			<point x="271" y="417" type="line" smooth="yes"/>
-			<point x="319" y="417"/>
-			<point x="332" y="400"/>
-			<point x="332" y="369" type="curve" smooth="yes"/>
-			<point x="332" y="332"/>
-			<point x="306" y="277"/>
-			<point x="215" y="162" type="curve"/>
+			<point x="258" y="133" type="line"/>
+			<point x="405" y="242"/>
+			<point x="473" y="323"/>
+			<point x="473" y="429" type="curve" smooth="yes"/>
+			<point x="473" y="527"/>
+			<point x="424" y="564"/>
+			<point x="311" y="564" type="curve" smooth="yes"/>
+			<point x="273" y="564" type="line"/>
+			<point x="273" y="437" type="line"/>
+			<point x="280" y="437" type="line" smooth="yes"/>
+			<point x="315" y="437"/>
+			<point x="325" y="414"/>
+			<point x="325" y="383" type="curve" smooth="yes"/>
+			<point x="325" y="327"/>
+			<point x="296" y="283"/>
+			<point x="212" y="228" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="320" y="541"/>
-	<anchor name="belowPrimaryHE" x="343" y="-30"/>
-	<anchor name="sinHE" x="78" y="511"/>
-	<anchor name="centerHE" x="408" y="259"/>
-	<anchor name="shinHE" x="503" y="511"/>
-	<anchor name="aboveLeftHE" x="-22" y="541"/>
+	<anchor name="aboveHE" x="387" y="590"/>
+	<anchor name="belowPrimaryHE" x="361" y="-23"/>
+	<anchor name="sinHE" x="121" y="560"/>
+	<anchor name="centerHE" x="488" y="258"/>
+	<anchor name="shinHE" x="638" y="560"/>
+	<anchor name="aboveLeftHE" x="-1" y="590"/>
 </glyph>

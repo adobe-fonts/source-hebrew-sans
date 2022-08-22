@@ -3,25 +3,25 @@
 	<advance width="380"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="134" y="180" type="line"/>
-			<point x="164" y="234" type="line"/>
-			<point x="208" y="316" type="line"/>
-			<point x="212" y="316" type="line"/>
-			<point x="206" y="196" type="line"/>
-			<point x="206" y="180" type="line"/>
+			<point name="hintSet0000" x="144" y="160" type="line"/>
+			<point x="178" y="234" type="line"/>
+			<point x="214" y="310" type="line"/>
+			<point x="218" y="310" type="line"/>
+			<point x="212" y="190" type="line"/>
+			<point x="212" y="160" type="line"/>
 		</contour>
 		<contour>
-			<point x="206" y="0" type="line"/>
-			<point x="312" y="0" type="line"/>
-			<point x="312" y="72" type="line"/>
-			<point x="370" y="72" type="line"/>
-			<point x="370" y="180" type="line"/>
-			<point x="312" y="180" type="line"/>
-			<point x="312" y="390" type="line"/>
-			<point x="154" y="390" type="line"/>
-			<point x="22" y="164" type="line"/>
-			<point x="22" y="72" type="line"/>
-			<point x="206" y="72" type="line"/>
+			<point x="212" y="0" type="line"/>
+			<point x="322" y="0" type="line"/>
+			<point x="322" y="80" type="line"/>
+			<point x="380" y="80" type="line"/>
+			<point x="380" y="160" type="line"/>
+			<point x="322" y="160" type="line"/>
+			<point x="322" y="390" type="line"/>
+			<point x="164" y="390" type="line"/>
+			<point x="32" y="142" type="line"/>
+			<point x="32" y="80" type="line"/>
+			<point x="212" y="80" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -35,14 +35,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 72 108</string>
-							<string>hstem 316 74</string>
-							<string>vstem 206 106</string>
+							<string>hstem 80 80</string>
+							<string>hstem 310 80</string>
+							<string>vstem 212 110</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w380l134180l164234l208316l212316l206196l206180l2060l3120l31272l37072l370180l312180l312390l154390l22164l2272l20672</string>
+				<string>w380l144160l178234l214310l218310l212190l212160l2120l3220l32280l38080l380160l322160l322390l164390l32142l3280l21280</string>
 			</dict>
 		</dict>
 	</lib>

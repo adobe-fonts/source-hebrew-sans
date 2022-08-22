@@ -32,11 +32,11 @@
 			<point x="346" y="82"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="274" y="512"/>
-	<anchor name="belowLC" x="274" y="-20"/>
-	<anchor name="hornLC" x="368" y="491"/>
+	<anchor name="aboveLC" x="274" y="514"/>
+	<anchor name="aboverightLC" x="522" y="514"/>
+	<anchor name="belowLC" x="274" y="-22"/>
+	<anchor name="hornLC" x="368" y="493"/>
 	<anchor name="ogonekLC" x="274" y="0"/>
-	<anchor name="baseLC" x="274" y="0"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>

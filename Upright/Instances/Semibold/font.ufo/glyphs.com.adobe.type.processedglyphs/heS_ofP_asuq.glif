@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heSofPasuq" format="2">
 	<unicode hex="05C3"/>
-	<advance width="288"/>
+	<advance width="275"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="144" y="355" type="curve"/>
-			<point x="186" y="355"/>
-			<point x="214" y="387"/>
-			<point x="214" y="428" type="curve"/>
-			<point x="214" y="471"/>
-			<point x="186" y="501"/>
-			<point x="145" y="501" type="curve"/>
-			<point x="103" y="501"/>
-			<point x="74" y="471"/>
-			<point x="74" y="428" type="curve"/>
-			<point x="74" y="387"/>
-			<point x="103" y="355"/>
+			<point name="hintSet0000" x="138" y="378" type="curve"/>
+			<point x="180" y="378"/>
+			<point x="212" y="411"/>
+			<point x="212" y="456" type="curve"/>
+			<point x="212" y="501"/>
+			<point x="180" y="534"/>
+			<point x="138" y="534" type="curve"/>
+			<point x="96" y="534"/>
+			<point x="63" y="501"/>
+			<point x="63" y="456" type="curve"/>
+			<point x="63" y="411"/>
+			<point x="96" y="378"/>
 		</contour>
 		<contour>
-			<point x="144" y="-11" type="curve"/>
-			<point x="186" y="-11"/>
-			<point x="214" y="20"/>
-			<point x="214" y="61" type="curve"/>
-			<point x="214" y="105"/>
-			<point x="186" y="135"/>
-			<point x="145" y="135" type="curve"/>
-			<point x="103" y="135"/>
-			<point x="74" y="104"/>
-			<point x="74" y="61" type="curve"/>
-			<point x="74" y="20"/>
-			<point x="103" y="-11"/>
+			<point x="138" y="-12" type="curve"/>
+			<point x="180" y="-12"/>
+			<point x="212" y="21"/>
+			<point x="212" y="66" type="curve"/>
+			<point x="212" y="111"/>
+			<point x="180" y="144"/>
+			<point x="138" y="144" type="curve"/>
+			<point x="96" y="144"/>
+			<point x="63" y="111"/>
+			<point x="63" y="66" type="curve"/>
+			<point x="63" y="21"/>
+			<point x="96" y="-12"/>
 		</contour>
 	</outline>
 	<lib>
@@ -43,14 +43,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -11 146</string>
-							<string>hstem 355 146</string>
-							<string>vstem 74 140</string>
+							<string>hstem -12 156</string>
+							<string>hstem 378 156</string>
+							<string>vstem 63 149</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>0252f903591a32b0be5c48944b2ceb8c667157fb2f7bd396162189345b7778044ddf881db0e57c3ec6b915100e9bd037d00082cbfb7906fae70e295981dc66ba</string>
+				<string>861e8462cdb836a4c849d117625fa7ead11177c55167dcd84fdf9b60bea3f7d754b508474ce05155d538314f1b7f7cf28cac1c63b5f983435db0313f00e004da</string>
 			</dict>
 		</dict>
 	</lib>

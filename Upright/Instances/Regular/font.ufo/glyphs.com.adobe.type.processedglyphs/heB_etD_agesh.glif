@@ -6,24 +6,24 @@
 		<contour>
 			<point name="hintSet0000" x="50" y="0" type="line"/>
 			<point x="493" y="0" type="line"/>
-			<point x="493" y="79" type="line"/>
-			<point x="435" y="79" type="line"/>
-			<point x="440" y="151"/>
-			<point x="443" y="219"/>
+			<point x="493" y="72" type="line"/>
+			<point x="435" y="72" type="line"/>
+			<point x="439" y="147"/>
+			<point x="443" y="216"/>
 			<point x="443" y="301" type="curve"/>
 			<point x="443" y="482"/>
 			<point x="369" y="554"/>
 			<point x="224" y="554" type="curve"/>
 			<point x="70" y="554" type="line"/>
-			<point x="70" y="472" type="line"/>
-			<point x="191" y="472" type="line"/>
-			<point x="317" y="472"/>
-			<point x="370" y="420"/>
-			<point x="370" y="259" type="curve"/>
-			<point x="370" y="192"/>
-			<point x="368" y="144"/>
-			<point x="365" y="79" type="curve"/>
-			<point x="50" y="79" type="line"/>
+			<point x="70" y="482" type="line"/>
+			<point x="182" y="482" type="line"/>
+			<point x="308" y="482"/>
+			<point x="360" y="432"/>
+			<point x="360" y="278" type="curve"/>
+			<point x="360" y="202"/>
+			<point x="359" y="146"/>
+			<point x="355" y="72" type="curve"/>
+			<point x="50" y="72" type="line"/>
 		</contour>
 		<contour>
 			<point x="203" y="238" type="curve"/>
@@ -51,16 +51,16 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 79</string>
+							<string>hstem 0 72</string>
 							<string>hstem 238 88</string>
-							<string>hstem 472 82</string>
+							<string>hstem 482 72</string>
 							<string>vstem 158 90</string>
-							<string>vstem 370 73</string>
+							<string>vstem 360 83</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>e8e5f885f008911bd4a135d4138ca16949dd39db0c88e2e21118225bce01232592ab449b8548b5997201fa0b21a868b38348df0caa269f607c37b9cdb4a13191</string>
+				<string>d523e2541a2ff53e2bbd0b60b7ec358831daee942a0dccc099f9476cd19ab1ca5f4b8bd227d943c65d1dd231abbc0a87b79364ffba1b02c673f496dd7da2d4d5</string>
 			</dict>
 		</dict>
 	</lib>

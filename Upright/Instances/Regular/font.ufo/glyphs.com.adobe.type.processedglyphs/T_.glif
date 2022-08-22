@@ -14,9 +14,10 @@
 			<point x="226" y="586" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveUC" x="267" y="676"/>
-	<anchor name="belowLC" x="268" y="-20"/>
-	<anchor name="baseLC" x="268" y="0"/>
+	<anchor name="aboverightUC" x="460" y="678"/>
+	<anchor name="aboveUC" x="267" y="678"/>
+	<anchor name="baseLC" x="267" y="0"/>
+	<anchor name="belowLC" x="267" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>

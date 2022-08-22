@@ -4,24 +4,24 @@
 	<advance width="512"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="292" y="0" type="line"/>
+			<point name="hintSet0000" x="268" y="0" type="line"/>
 			<point x="440" y="0" type="line"/>
 			<point x="440" y="352" type="line"/>
 			<point x="440" y="508"/>
 			<point x="356" y="568"/>
 			<point x="234" y="568" type="curve"/>
 			<point x="14" y="568" type="line"/>
-			<point x="14" y="396" type="line"/>
-			<point x="162" y="396" type="line"/>
-			<point x="242" y="396"/>
-			<point x="292" y="368"/>
-			<point x="292" y="270" type="curve"/>
+			<point x="14" y="420" type="line"/>
+			<point x="138" y="420" type="line"/>
+			<point x="218" y="420"/>
+			<point x="268" y="392"/>
+			<point x="268" y="294" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="180" y="530"/>
-	<anchor name="belowSecondaryHE" x="320" y="-30"/>
-	<anchor name="centerHE" x="140" y="190"/>
-	<anchor name="aboveLeftHE" x="-30" y="530"/>
+	<anchor name="aboveHE" x="230" y="590"/>
+	<anchor name="belowSecondaryHE" x="370" y="-22"/>
+	<anchor name="centerHE" x="150" y="220"/>
+	<anchor name="aboveLeftHE" x="-10" y="590"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -33,13 +33,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 396 172</string>
-							<string>vstem 292 148</string>
+							<string>hstem 420 148</string>
+							<string>vstem 268 172</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w512l2920l4400l440352440508356568c234568l14568l14396l162396242396292368c292270</string>
+				<string>w512l2680l4400l440352440508356568c234568l14568l14420l138420218420268392c268294</string>
 			</dict>
 		</dict>
 	</lib>

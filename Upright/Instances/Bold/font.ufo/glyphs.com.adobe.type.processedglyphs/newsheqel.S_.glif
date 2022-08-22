@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="newsheqel.S" format="2">
-	<unicode hex="20AA"/>
 	<advance width="528"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="11" y="0" type="line"/>
 			<point x="123" y="0" type="line"/>
-			<point x="123" y="440" type="line"/>
-			<point x="186" y="440" type="line"/>
-			<point x="247" y="440"/>
-			<point x="286" y="417"/>
-			<point x="286" y="343" type="curve"/>
-			<point x="286" y="211" type="line"/>
-			<point x="360" y="211" type="line"/>
+			<point x="123" y="462" type="line"/>
+			<point x="186" y="462" type="line"/>
+			<point x="247" y="462"/>
+			<point x="285" y="439"/>
+			<point x="285" y="365" type="curve"/>
+			<point x="285" y="190" type="line"/>
+			<point x="360" y="190" type="line"/>
 			<point x="360" y="400" type="line"/>
 			<point x="360" y="520"/>
 			<point x="294" y="564"/>
@@ -27,13 +26,13 @@
 			<point x="517" y="164" type="curve"/>
 			<point x="517" y="564" type="line"/>
 			<point x="405" y="564" type="line"/>
-			<point x="405" y="221" type="line"/>
-			<point x="405" y="147"/>
-			<point x="366" y="124"/>
-			<point x="303" y="124" type="curve"/>
-			<point x="242" y="124" type="line"/>
-			<point x="242" y="353" type="line"/>
-			<point x="168" y="353" type="line"/>
+			<point x="405" y="199" type="line"/>
+			<point x="405" y="125"/>
+			<point x="365" y="102"/>
+			<point x="302" y="102" type="curve"/>
+			<point x="243" y="102" type="line"/>
+			<point x="243" y="374" type="line"/>
+			<point x="168" y="374" type="line"/>
 		</contour>
 	</outline>
 	<guideline x="264" y="282" angle="90" identifier="51LWLohGsJ"/>
@@ -48,18 +47,18 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 124</string>
-							<string>hstem 211 142</string>
-							<string>hstem 440 124</string>
+							<string>hstem 0 102</string>
+							<string>hstem 190 184</string>
+							<string>hstem 462 102</string>
 							<string>vstem 11 112</string>
-							<string>vstem 168 74</string>
-							<string>vstem 286 74</string>
+							<string>vstem 168 75</string>
+							<string>vstem 285 75</string>
 							<string>vstem 405 112</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>c314dc95f93ab084d1c4a610de2ed394f2343f947535bf60adbe5fcbf311b41ff5f0094a419b5bd84df7e7230e3c8b121204b0d70ccfd92c7d27cc1afb4f19e5</string>
+				<string>a0cd6fd065be7922a3c4fc1032c1e8478d0f23bc9e8293d71be87de3368f6f9341dc50110a177f7c97108e03b48971b105397824ae022c4ba75f11bcc54b007d</string>
 			</dict>
 		</dict>
 	</lib>

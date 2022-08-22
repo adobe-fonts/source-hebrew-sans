@@ -3,32 +3,32 @@
 	<unicode hex="05B5"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="-61" y="-155" type="curve"/>
-			<point x="-41" y="-155"/>
-			<point x="-26" y="-140"/>
-			<point x="-26" y="-120" type="curve"/>
-			<point x="-26" y="-100"/>
-			<point x="-41" y="-85"/>
-			<point x="-61" y="-85" type="curve"/>
-			<point x="-81" y="-85"/>
-			<point x="-96" y="-100"/>
-			<point x="-96" y="-120" type="curve"/>
-			<point x="-96" y="-140"/>
-			<point x="-81" y="-155"/>
+			<point name="hintSet0000" x="-70" y="-157" type="curve"/>
+			<point x="-54" y="-157"/>
+			<point x="-41" y="-144"/>
+			<point x="-41" y="-125" type="curve"/>
+			<point x="-41" y="-107"/>
+			<point x="-54" y="-94"/>
+			<point x="-70" y="-94" type="curve"/>
+			<point x="-86" y="-94"/>
+			<point x="-99" y="-107"/>
+			<point x="-99" y="-125" type="curve"/>
+			<point x="-99" y="-144"/>
+			<point x="-86" y="-157"/>
 		</contour>
 		<contour>
-			<point x="61" y="-155" type="curve"/>
-			<point x="81" y="-155"/>
-			<point x="96" y="-140"/>
-			<point x="96" y="-120" type="curve"/>
-			<point x="96" y="-100"/>
-			<point x="81" y="-85"/>
-			<point x="61" y="-85" type="curve"/>
-			<point x="41" y="-85"/>
-			<point x="26" y="-100"/>
-			<point x="26" y="-120" type="curve"/>
-			<point x="26" y="-140"/>
-			<point x="41" y="-155"/>
+			<point x="70" y="-157" type="curve"/>
+			<point x="86" y="-157"/>
+			<point x="99" y="-144"/>
+			<point x="99" y="-125" type="curve"/>
+			<point x="99" y="-107"/>
+			<point x="86" y="-94"/>
+			<point x="70" y="-94" type="curve"/>
+			<point x="54" y="-94"/>
+			<point x="41" y="-107"/>
+			<point x="41" y="-125" type="curve"/>
+			<point x="41" y="-144"/>
+			<point x="54" y="-157"/>
 		</contour>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
@@ -47,14 +47,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -155 70</string>
-							<string>vstem -96 70</string>
-							<string>vstem 26 70</string>
+							<string>hstem -157 63</string>
+							<string>vstem -99 58</string>
+							<string>vstem 41 58</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>dd64454258b089b50bb4ee1689c45f517add26e06597358c8829e9d185835bc1464eb679b39b81b7a2a4c1d1dba6fd66934c3b59ae01397aa933865ea63a939f</string>
+				<string>cb7a47d5f30eea995d1010d6f6107047252aa3ff3ed6a8f62cca947e7638cc5436be26939aa5638000171cc359e9e0b54fd70e8c96b1a08622240257a9c42866</string>
 			</dict>
 		</dict>
 	</lib>

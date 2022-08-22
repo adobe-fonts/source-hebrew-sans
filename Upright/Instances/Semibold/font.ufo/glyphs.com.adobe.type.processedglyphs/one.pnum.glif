@@ -10,8 +10,8 @@
 			<point x="151" y="612"/>
 			<point x="108" y="596"/>
 			<point x="44" y="584" type="curve"/>
-			<point x="44" y="512" type="line"/>
-			<point x="162" y="512" type="line"/>
+			<point x="44" y="508" type="line"/>
+			<point x="162" y="508" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -26,13 +26,13 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 21 -21</string>
-							<string>hstem 512 124</string>
+							<string>hstem 508 128</string>
 							<string>vstem 162 115</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w390l1620l2770l277636l191636151612108596c44584l44512l162512</string>
+				<string>w390l1620l2770l277636l191636151612108596c44584l44508l162508</string>
 			</dict>
 		</dict>
 	</lib>

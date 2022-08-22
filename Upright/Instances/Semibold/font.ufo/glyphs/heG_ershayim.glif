@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heGershayim" format="2">
 	<unicode hex="05F4"/>
-	<advance width="448"/>
+	<advance width="482"/>
 	<outline>
-		<contour>
-			<point x="235" y="352" type="line"/>
-			<point x="315" y="356" type="line"/>
-			<point x="419" y="603" type="line"/>
-			<point x="309" y="597" type="line"/>
-		</contour>
-		<contour>
-			<point x="39" y="352" type="line"/>
-			<point x="119" y="356" type="line"/>
-			<point x="224" y="603" type="line"/>
-			<point x="113" y="597" type="line"/>
-		</contour>
+		<component base="heGeresh"/>
+		<component base="heGeresh" xOffset="207"/>
 	</outline>
 </glyph>

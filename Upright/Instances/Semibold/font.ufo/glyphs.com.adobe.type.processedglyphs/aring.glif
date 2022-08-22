@@ -16,10 +16,10 @@
 			<point x="390" y="503"/>
 			<point x="268" y="503" type="curve"/>
 			<point x="190" y="503"/>
-			<point x="120" y="473"/>
+			<point x="120" y="474"/>
 			<point x="66" y="439" type="curve"/>
-			<point x="108" y="362" type="line"/>
-			<point x="152" y="388"/>
+			<point x="108" y="364" type="line"/>
+			<point x="152" y="390"/>
 			<point x="198" y="410"/>
 			<point x="246" y="410" type="curve"/>
 			<point x="313" y="410"/>
@@ -44,35 +44,34 @@
 			<point x="269" y="78"/>
 		</contour>
 		<contour>
-			<point name="hintSet0018" x="278" y="559" type="curve"/>
-			<point x="355" y="559"/>
-			<point x="399" y="603"/>
-			<point x="399" y="660" type="curve"/>
-			<point x="399" y="718"/>
-			<point x="355" y="762"/>
-			<point x="278" y="762" type="curve"/>
-			<point x="201" y="762"/>
-			<point x="157" y="718"/>
-			<point x="157" y="660" type="curve"/>
-			<point x="157" y="603"/>
-			<point x="201" y="559"/>
+			<point name="hintSet0018" x="272" y="559" type="curve"/>
+			<point x="349" y="559"/>
+			<point x="393" y="603"/>
+			<point x="393" y="660" type="curve"/>
+			<point x="393" y="718"/>
+			<point x="349" y="762"/>
+			<point x="272" y="762" type="curve"/>
+			<point x="195" y="762"/>
+			<point x="151" y="718"/>
+			<point x="151" y="660" type="curve"/>
+			<point x="151" y="603"/>
+			<point x="195" y="559"/>
 		</contour>
 		<contour>
-			<point x="278" y="605" type="curve"/>
-			<point x="250" y="605"/>
-			<point x="228" y="627"/>
-			<point x="228" y="660" type="curve"/>
-			<point x="228" y="694"/>
-			<point x="250" y="716"/>
-			<point x="278" y="716" type="curve"/>
-			<point x="306" y="716"/>
-			<point x="328" y="694"/>
-			<point x="328" y="660" type="curve"/>
-			<point x="328" y="627"/>
-			<point x="306" y="605"/>
+			<point x="272" y="605" type="curve"/>
+			<point x="244" y="605"/>
+			<point x="222" y="627"/>
+			<point x="222" y="660" type="curve"/>
+			<point x="222" y="694"/>
+			<point x="244" y="716"/>
+			<point x="272" y="716" type="curve"/>
+			<point x="300" y="716"/>
+			<point x="322" y="694"/>
+			<point x="322" y="660" type="curve"/>
+			<point x="322" y="627"/>
+			<point x="300" y="605"/>
 		</contour>
 	</outline>
-	<anchor name="ogonekLC" x="384" y="0"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -101,7 +100,7 @@
 							<string>hstem 410 93</string>
 							<string>hstem 559 46</string>
 							<string>hstem 716 46</string>
-							<string>vstem 157 71</string>
+							<string>vstem 151 71</string>
 							<string>vstem 352 99</string>
 						</array>
 					</dict>
@@ -166,13 +165,13 @@
 							<string>hstem 410 93</string>
 							<string>hstem 559 46</string>
 							<string>hstem 716 46</string>
-							<string>vstem 157 71</string>
-							<string>vstem 328 71</string>
+							<string>vstem 151 71</string>
+							<string>vstem 322 71</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>77f3a90e1bd9e33b9abbece499128cb62e3ed97314f7b548def4ee7baf6b867ac2588a42f4617e771f539e0be4906e1583a57a54fb588ff4f9ad72e54978b87c</string>
+				<string>275d24bddcdf650512ffe8145807001d8923c42a7039049f24b5df0b4a4d4c08d760cf9bb9a178ea12c0966409a04d8e2e6da85176b1cb870797fa2ab8d44bac</string>
 			</dict>
 		</dict>
 	</lib>

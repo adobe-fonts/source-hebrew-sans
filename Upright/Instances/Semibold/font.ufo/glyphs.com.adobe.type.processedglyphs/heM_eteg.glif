@@ -3,16 +3,16 @@
 	<unicode hex="05BD"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="-18" y="-269" type="line"/>
-			<point x="18" y="-269" type="line"/>
-			<point x="18" y="-86" type="line"/>
-			<point x="-18" y="-86" type="line"/>
+			<point name="hintSet0000" x="-26" y="-305" type="line"/>
+			<point x="26" y="-305" type="line"/>
+			<point x="26" y="-89" type="line"/>
+			<point x="-26" y="-89" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-23" y="-30"/>
-	<anchor name="_belowRightHE" x="23" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-25"/>
+	<anchor name="_belowLeftHE" x="-23" y="-25"/>
+	<anchor name="_belowRightHE" x="23" y="-25"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-25"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -24,13 +24,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -269 183</string>
-							<string>vstem -18 36</string>
+							<string>hstem -305 216</string>
+							<string>vstem -26 52</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0l-18-269l18-269l18-86l-18-86</string>
+				<string>w0l-26-305l26-305l26-89l-26-89</string>
 			</dict>
 		</dict>
 	</lib>

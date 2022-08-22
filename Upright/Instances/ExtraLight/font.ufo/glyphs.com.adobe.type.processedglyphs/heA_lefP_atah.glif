@@ -16,13 +16,13 @@
 			<point x="502" y="546"/>
 			<point x="434" y="546" type="curve"/>
 			<point x="364" y="546" type="line"/>
-			<point x="364" y="516" type="line"/>
-			<point x="420" y="516" type="line"/>
-			<point x="480" y="516"/>
-			<point x="506" y="501"/>
-			<point x="506" y="450" type="curve"/>
-			<point x="506" y="383"/>
-			<point x="464" y="288"/>
+			<point x="364" y="518" type="line"/>
+			<point x="416" y="518" type="line"/>
+			<point x="476" y="518"/>
+			<point x="502" y="503"/>
+			<point x="502" y="450" type="curve"/>
+			<point x="502" y="383"/>
+			<point x="463" y="287"/>
 			<point x="392" y="192" type="curve"/>
 			<point x="287" y="311"/>
 			<point x="189" y="432"/>
@@ -37,15 +37,15 @@
 			<point x="98" y="43"/>
 			<point x="98" y="22"/>
 			<point x="100" y="0" type="curve"/>
-			<point x="130" y="0" type="line"/>
-			<point x="128" y="22"/>
-			<point x="126" y="43"/>
-			<point x="126" y="62" type="curve"/>
-			<point x="126" y="209"/>
-			<point x="154" y="296"/>
-			<point x="197" y="386" type="curve"/>
-			<point x="303" y="248"/>
-			<point x="424" y="113"/>
+			<point x="132" y="0" type="line"/>
+			<point x="130" y="22"/>
+			<point x="128" y="43"/>
+			<point x="128" y="62" type="curve"/>
+			<point x="128" y="208"/>
+			<point x="156" y="295"/>
+			<point x="198" y="384" type="curve"/>
+			<point x="304" y="247"/>
+			<point x="424" y="112"/>
 		</contour>
 		<contour>
 			<point x="234" y="-136" type="line"/>
@@ -66,15 +66,15 @@
 						<key>stems</key>
 						<array>
 							<string>hstem -136 28</string>
-							<string>hstem 516 30</string>
-							<string>vstem 98 28</string>
+							<string>hstem 518 28</string>
+							<string>vstem 98 30</string>
 							<string>vstem 234 172</string>
-							<string>vstem 506 28</string>
+							<string>vstem 502 32</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>251efa954951e3657975a2037bd21291dc01d6d691d4e2c5624bb1687255f48c5f32e136080c5a939986caee44bcb338b43e08305af08b36e5bf29147be101aa</string>
+				<string>8bc7127994e762eda083218b30c2cd1942d00fdd8afd7b62c11d3aa86009a8e36a1b5cea7d46c5324280910367d31a89cf97334ad8acec6e985a52a3f76232a7</string>
 			</dict>
 		</dict>
 	</lib>

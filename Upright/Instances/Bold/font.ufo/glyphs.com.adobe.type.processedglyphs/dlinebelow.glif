@@ -40,10 +40,10 @@
 			<point x="312" y="108"/>
 		</contour>
 		<contour>
-			<point name="hintSet0018" x="151" y="-188" type="line"/>
-			<point x="447" y="-188" type="line"/>
-			<point x="447" y="-95" type="line"/>
-			<point x="151" y="-95" type="line"/>
+			<point name="hintSet0018" x="130" y="-170" type="line"/>
+			<point x="426" y="-170" type="line"/>
+			<point x="426" y="-77" type="line"/>
+			<point x="130" y="-77" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -57,7 +57,7 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -188 93</string>
+							<string>hstem -170 93</string>
 							<string>hstem -12 120</string>
 							<string>hstem 388 120</string>
 							<string>hstem 701 -20</string>
@@ -70,7 +70,7 @@
 						<string>hintSet0003</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -188 93</string>
+							<string>hstem -170 93</string>
 							<string>hstem 21 -21</string>
 							<string>hstem 388 120</string>
 							<string>hstem 701 -20</string>
@@ -83,7 +83,7 @@
 						<string>hintSet0011</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -188 93</string>
+							<string>hstem -170 93</string>
 							<string>hstem -12 120</string>
 							<string>hstem 388 120</string>
 							<string>hstem 701 -20</string>
@@ -96,16 +96,16 @@
 						<string>hintSet0018</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -188 93</string>
+							<string>hstem -170 93</string>
 							<string>hstem 21 -21</string>
 							<string>hstem 388 120</string>
 							<string>hstem 701 -20</string>
-							<string>vstem 151 296</string>
+							<string>vstem 130 296</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>5f7de5e67af2ecfa225c315d9dcbf19cee7a43d555a4dc88c9676a3ac28929f2695e30fbf0e97d6fd75be771eb74fb05a0df5a05a335d45d923fd59737efacf8</string>
+				<string>874a5948ae808e1bb2cabb88140e0b3c7f080fa82b6f391046202afe234d2c07a3301c8981ce02dfe87994205b73f7c97cdd8d4ae651adc35ad62b1532748189</string>
 			</dict>
 		</dict>
 	</lib>

@@ -32,16 +32,18 @@
 			<point x="440" y="89"/>
 		</contour>
 		<contour>
-			<point x="228" y="692" type="line"/>
-			<point x="335" y="780" type="line"/>
+			<point x="145" y="704" type="line"/>
+			<point x="237" y="704" type="line"/>
+			<point name="hintSet0012" x="335" y="780" type="line"/>
 			<point x="339" y="780" type="line"/>
-			<point x="446" y="692" type="line"/>
-			<point x="496" y="725" type="line"/>
-			<point x="399" y="836" type="line"/>
-			<point x="275" y="836" type="line"/>
-			<point x="178" y="725" type="line"/>
+			<point name="hintSet0014" x="437" y="704" type="line"/>
+			<point x="529" y="704" type="line"/>
+			<point x="395" y="848" type="line"/>
+			<point x="279" y="848" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboverightUC" x="590" y="676"/>
+	<anchor name="belowLC" x="337" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -55,14 +57,38 @@
 						<array>
 							<string>hstem -12 101</string>
 							<string>hstem 565 101</string>
-							<string>hstem 780 56</string>
+							<string>hstem 704 144</string>
+							<string>vstem 49 119</string>
+							<string>vstem 506 120</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0012</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 101</string>
+							<string>hstem 565 101</string>
+							<string>hstem 780 68</string>
+							<string>vstem 49 119</string>
+							<string>vstem 506 120</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 101</string>
+							<string>hstem 565 101</string>
+							<string>hstem 704 144</string>
 							<string>vstem 49 119</string>
 							<string>vstem 506 120</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>707ba11cf1047b7d21063550adfe5aa6350b52ab9225a69f5e8c29377d2cb35f3c3c933d151709efbe52c127192feecc7236fc77751516c1e948d5eb456aa9bc</string>
+				<string>917f545330166032608c52a53535b4c03b966e54cf977dd546ab8139fd50f354048d7425a5fc5ba5609c6165d5838c57fed4df7145362d48b3b2a019a6dd20fd</string>
 			</dict>
 		</dict>
 	</lib>

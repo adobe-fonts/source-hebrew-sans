@@ -16,9 +16,9 @@
 			<point x="370" y="490"/>
 			<point x="258" y="490" type="curve"/>
 			<point x="180" y="490"/>
-			<point x="114" y="450"/>
+			<point x="114" y="452"/>
 			<point x="84" y="428" type="curve"/>
-			<point x="100" y="404" type="line"/>
+			<point x="100" y="406" type="line"/>
 			<point x="130" y="428"/>
 			<point x="188" y="462"/>
 			<point x="256" y="462" type="curve"/>
@@ -44,12 +44,14 @@
 			<point x="258" y="16"/>
 		</contour>
 		<contour>
-			<point x="294" y="574" type="line"/>
-			<point x="312" y="590" type="line"/>
-			<point x="180" y="744" type="line"/>
-			<point x="156" y="724" type="line"/>
+			<point x="300" y="570" type="line"/>
+			<point x="330" y="570" type="line"/>
+			<point x="190" y="720" type="line"/>
+			<point x="152" y="720" type="line"/>
+			<point x="150" y="716" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="240" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -63,7 +65,6 @@
 						<array>
 							<string>hstem -12 28</string>
 							<string>hstem 462 28</string>
-							<string>hstem 724 -20</string>
 							<string>vstem 60 32</string>
 							<string>vstem 374 30</string>
 						</array>
@@ -75,7 +76,6 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 462 28</string>
-							<string>hstem 724 -20</string>
 							<string>vstem 60 32</string>
 							<string>vstem 374 30</string>
 						</array>
@@ -87,14 +87,13 @@
 						<array>
 							<string>hstem -12 28</string>
 							<string>hstem 462 28</string>
-							<string>hstem 724 -20</string>
 							<string>vstem 60 32</string>
 							<string>vstem 374 30</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>b872e673f138fbc9a30fad3ea436bc6bf48485d77fe40a8d35ecc9e56755be8f3b7615b77afa8092b7750bdc027714849a8315e9c2d44a8d71aa9cd09b43f416</string>
+				<string>9aba936b36fc9ab80441b4c27c1676f29a8091966331fa201346317f7408bab04d6ec9ad5bde70138e830c619c4735433e44e28831ab2a775b96ed6edb173baa</string>
 			</dict>
 		</dict>
 	</lib>

@@ -2,17 +2,17 @@
 <glyph name="hePatah.short" format="2">
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="80" y="-86" type="line"/>
-			<point x="-80" y="-86" type="line"/>
-			<point x="-80" y="-129" type="line"/>
-			<point x="80" y="-129" type="line"/>
+			<point name="hintSet0000" x="-82" y="-140" type="line"/>
+			<point x="82" y="-140" type="line"/>
+			<point x="82" y="-91" type="line"/>
+			<point x="-82" y="-91" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-79" y="-30"/>
-	<anchor name="_belowRightHE" x="79" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-142" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="16" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-27"/>
+	<anchor name="_belowLeftHE" x="-79" y="-27"/>
+	<anchor name="_belowRightHE" x="79" y="-27"/>
+	<anchor name="belowPrimaryHE" x="-142" y="-27"/>
+	<anchor name="_belowSecondaryHE" x="16" y="-27"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -24,13 +24,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -129 43</string>
-							<string>vstem -80 160</string>
+							<string>hstem -140 49</string>
+							<string>vstem -82 164</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0l80-86l-80-86l-80-129l80-129</string>
+				<string>w0l-82-140l82-140l82-91l-82-91</string>
 			</dict>
 		</dict>
 	</lib>

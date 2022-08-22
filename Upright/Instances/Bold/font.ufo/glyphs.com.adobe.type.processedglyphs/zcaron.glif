@@ -16,14 +16,14 @@
 			<point x="38" y="79" type="line"/>
 		</contour>
 		<contour>
-			<point x="177" y="577" type="line"/>
-			<point x="327" y="577" type="line"/>
-			<point x="435" y="708" type="line"/>
-			<point x="379" y="760" type="line"/>
-			<point x="254" y="668" type="line"/>
-			<point x="250" y="668" type="line"/>
-			<point x="125" y="760" type="line"/>
-			<point x="69" y="708" type="line"/>
+			<point x="177" y="570" type="line"/>
+			<point x="313" y="570" type="line"/>
+			<point x="444" y="753" type="line"/>
+			<point x="332" y="753" type="line"/>
+			<point name="hintSet0014" x="247" y="667" type="line"/>
+			<point x="243" y="667" type="line"/>
+			<point name="hintSet0016" x="158" y="753" type="line"/>
+			<point x="46" y="753" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -39,14 +39,35 @@
 						<array>
 							<string>hstem 0 115</string>
 							<string>hstem 381 115</string>
-							<string>hstem 577 91</string>
-							<string>hstem 708 -20</string>
-							<string>vstem 38 398</string>
+							<string>hstem 570 183</string>
+							<string>vstem 38 406</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 115</string>
+							<string>hstem 381 115</string>
+							<string>hstem 570 97</string>
+							<string>vstem 38 406</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0016</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 115</string>
+							<string>hstem 381 115</string>
+							<string>hstem 570 183</string>
+							<string>vstem 38 406</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w460l380l4360l436115l221115l429418l429496l61496l61381l246381l3879l177577l327577l435708l379760l254668l250668l125760l69708</string>
+				<string>w460l380l4360l436115l221115l429418l429496l61496l61381l246381l3879l177570l313570l444753l332753l247667l243667l158753l46753</string>
 			</dict>
 		</dict>
 	</lib>

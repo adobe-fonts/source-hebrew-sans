@@ -6,30 +6,32 @@
 		<contour>
 			<point name="hintSet0000" x="323" y="-12" type="curve"/>
 			<point x="457" y="-12"/>
-			<point x="558" y="60"/>
-			<point x="558" y="271" type="curve"/>
+			<point x="558" y="59"/>
+			<point x="558" y="267" type="curve"/>
 			<point x="558" y="656" type="line"/>
 			<point x="478" y="656" type="line"/>
-			<point x="478" y="269" type="line"/>
-			<point x="478" y="111"/>
+			<point x="478" y="265" type="line"/>
+			<point x="478" y="110"/>
 			<point x="410" y="61"/>
 			<point x="323" y="61" type="curve"/>
 			<point x="237" y="61"/>
-			<point x="170" y="111"/>
-			<point x="170" y="269" type="curve"/>
+			<point x="170" y="110"/>
+			<point x="170" y="265" type="curve"/>
 			<point x="170" y="656" type="line"/>
 			<point x="87" y="656" type="line"/>
-			<point x="87" y="271" type="line"/>
-			<point x="87" y="60"/>
+			<point x="87" y="267" type="line"/>
+			<point x="87" y="59"/>
 			<point x="189" y="-12"/>
 		</contour>
 		<contour>
-			<point x="339" y="697" type="line"/>
-			<point x="376" y="739" type="line"/>
-			<point x="234" y="867" type="line"/>
-			<point x="187" y="812" type="line"/>
+			<point x="325" y="706" type="line"/>
+			<point x="399" y="706" type="line"/>
+			<point x="267" y="841" type="line"/>
+			<point x="166" y="841" type="line"/>
+			<point x="162" y="832" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="322" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -43,13 +45,14 @@
 						<array>
 							<string>hstem -12 73</string>
 							<string>hstem 656 -20</string>
+							<string>hstem 832 9</string>
 							<string>vstem 87 83</string>
 							<string>vstem 478 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>467ba4a593bce0c502481f6e7ed7f0a19ef697414f09333a20060595528e5272994dfe01d0abfb92cf8833aec34299482ca78ab59d2f0118d346f445c1afeea5</string>
+				<string>c13bd859fe392117d30b8d6b4e19f2acf6dc78aaf1f1527b5d5f51275ba4f1d040f670d357cac075f4ef321b7e175ed20ed50b356c1ef3551ed7e92272e5d5e9</string>
 			</dict>
 		</dict>
 	</lib>

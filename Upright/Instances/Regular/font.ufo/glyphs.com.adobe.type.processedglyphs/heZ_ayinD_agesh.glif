@@ -4,24 +4,24 @@
 	<advance width="318"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="8" y="472" type="line"/>
-			<point x="122" y="472" type="line"/>
-			<point x="111" y="443"/>
-			<point x="104" y="412"/>
-			<point x="104" y="372" type="curve"/>
-			<point x="104" y="298"/>
-			<point x="118" y="158"/>
-			<point x="135" y="0" type="curve"/>
-			<point x="207" y="0" type="line"/>
-			<point x="188" y="169"/>
-			<point x="175" y="296"/>
-			<point x="175" y="377" type="curve"/>
-			<point x="175" y="413"/>
-			<point x="175" y="440"/>
-			<point x="181" y="472" type="curve"/>
-			<point x="278" y="472" type="line"/>
-			<point x="278" y="554" type="line"/>
-			<point x="8" y="554" type="line"/>
+			<point name="hintSet0000" x="11" y="482" type="line"/>
+			<point x="131" y="482" type="line"/>
+			<point x="108" y="443"/>
+			<point x="102" y="410"/>
+			<point x="102" y="369" type="curve"/>
+			<point x="102" y="308"/>
+			<point x="120" y="157"/>
+			<point x="141" y="0" type="curve"/>
+			<point x="224" y="0" type="line"/>
+			<point x="200" y="168"/>
+			<point x="183" y="307"/>
+			<point x="183" y="374" type="curve"/>
+			<point x="183" y="413"/>
+			<point x="184" y="451"/>
+			<point x="193" y="482" type="curve"/>
+			<point x="282" y="482" type="line"/>
+			<point x="282" y="554" type="line"/>
+			<point x="11" y="554" type="line"/>
 		</contour>
 		<contour>
 			<point x="14" y="204" type="curve"/>
@@ -50,14 +50,14 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 204 88</string>
-							<string>hstem 472 82</string>
+							<string>hstem 482 72</string>
 							<string>vstem -31 90</string>
-							<string>vstem 104 71</string>
+							<string>vstem 102 81</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>935570a4daa521846c03d11771915c8da627cbcb9aa2c30631f20566cca760a4c982acd37630e24e8d6684cc6d6a2242238143586715f22675fdb879dfa9ebf9</string>
+				<string>f693d9a6afb7c56a2f94e75008ad5351e2d7a4877499c7ede351fe41e6c3386ef8148e08c95ae12a6dba00f67736c9f06ec9bb78c5b41d6ce3136794a0182c9b</string>
 			</dict>
 		</dict>
 	</lib>

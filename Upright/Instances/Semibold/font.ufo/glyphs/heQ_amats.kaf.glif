@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQamats.kaf" format="2">
 	<outline>
-		<contour>
-			<point x="81" y="-84" type="line"/>
-			<point x="-83" y="-84" type="line"/>
-			<point x="-83" y="-130" type="line"/>
-			<point x="-20" y="-130" type="line"/>
-			<point x="-28" y="-226" type="line"/>
-			<point x="28" y="-226" type="line"/>
-			<point x="20" y="-130" type="line"/>
-			<point x="81" y="-130" type="line"/>
-		</contour>
+		<component base="heQamats.short"/>
 	</outline>
-	<anchor name="_centerSecondaryHE" x="0" y="-30"/>
+	<anchor name="_centerSecondaryHE" x="0" y="-25"/>
 </glyph>

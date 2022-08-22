@@ -3,10 +3,10 @@
 	<unicode hex="05BD"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="-15" y="-263" type="line"/>
-			<point x="15" y="-263" type="line"/>
-			<point x="15" y="-93" type="line"/>
-			<point x="-15" y="-93" type="line"/>
+			<point name="hintSet0000" x="-14" y="-312" type="line"/>
+			<point x="14" y="-312" type="line"/>
+			<point x="14" y="-108" type="line"/>
+			<point x="-14" y="-108" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
@@ -24,13 +24,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -263 170</string>
-							<string>vstem -15 30</string>
+							<string>hstem -312 204</string>
+							<string>vstem -14 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0l-15-263l15-263l15-93l-15-93</string>
+				<string>w0l-14-312l14-312l14-108l-14-108</string>
 			</dict>
 		</dict>
 	</lib>

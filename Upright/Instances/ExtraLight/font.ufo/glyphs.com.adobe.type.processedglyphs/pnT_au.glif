@@ -6,16 +6,16 @@
 		<contour>
 			<point name="hintSet0000" x="234" y="0" type="line"/>
 			<point x="262" y="0" type="line"/>
-			<point x="262" y="264" type="line"/>
-			<point x="476" y="264" type="line"/>
-			<point x="476" y="294" type="line"/>
-			<point x="262" y="294" type="line"/>
-			<point x="262" y="546" type="line"/>
-			<point x="234" y="546" type="line"/>
-			<point x="234" y="294" type="line"/>
-			<point x="20" y="294" type="line"/>
-			<point x="20" y="264" type="line"/>
-			<point x="234" y="264" type="line"/>
+			<point x="262" y="246" type="line"/>
+			<point x="476" y="246" type="line"/>
+			<point x="476" y="276" type="line"/>
+			<point x="262" y="276" type="line"/>
+			<point x="262" y="510" type="line"/>
+			<point x="234" y="510" type="line"/>
+			<point x="234" y="276" type="line"/>
+			<point x="20" y="276" type="line"/>
+			<point x="20" y="246" type="line"/>
+			<point x="234" y="246" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -29,13 +29,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 264 30</string>
+							<string>hstem 246 30</string>
 							<string>vstem 234 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w496l2340l2620l262264l476264l476294l262294l262546l234546l234294l20294l20264l234264</string>
+				<string>w496l2340l2620l262246l476246l476276l262276l262510l234510l234276l20276l20246l234246</string>
 			</dict>
 		</dict>
 	</lib>

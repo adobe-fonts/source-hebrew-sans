@@ -3,14 +3,14 @@
 	<unicode hex="05BD"/>
 	<outline>
 		<contour>
-			<point x="-20" y="-273" type="line"/>
-			<point x="20" y="-273" type="line"/>
-			<point x="20" y="-82" type="line"/>
-			<point x="-20" y="-82" type="line"/>
+			<point x="-34" y="-300" type="line"/>
+			<point x="34" y="-300" type="line"/>
+			<point x="34" y="-76" type="line"/>
+			<point x="-34" y="-76" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-25" y="-30"/>
-	<anchor name="_belowRightHE" x="25" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
+	<anchor name="_belowLeftHE" x="-25" y="-22"/>
+	<anchor name="_belowRightHE" x="25" y="-22"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-22"/>
 </glyph>

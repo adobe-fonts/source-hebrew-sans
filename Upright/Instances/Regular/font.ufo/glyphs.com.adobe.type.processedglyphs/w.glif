@@ -8,9 +8,9 @@
 			<point x="255" y="0" type="line"/>
 			<point x="323" y="260" type="line"/>
 			<point x="336" y="306"/>
-			<point x="346" y="352"/>
-			<point x="357" y="401" type="curve"/>
-			<point x="361" y="401" type="line"/>
+			<point x="347" y="352"/>
+			<point x="357" y="402" type="curve"/>
+			<point x="361" y="402" type="line"/>
 			<point x="373" y="352"/>
 			<point x="382" y="307"/>
 			<point x="394" y="261" type="curve"/>
@@ -40,8 +40,9 @@
 			<point x="24" y="486" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="360" y="507"/>
-	<anchor name="belowLC" x="360" y="-20"/>
+	<anchor name="aboveLC" x="360" y="509"/>
+	<anchor name="aboverightLC" x="666" y="509"/>
+	<anchor name="belowLC" x="360" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -54,13 +55,13 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 70</string>
-							<string>hstem 401 85</string>
+							<string>hstem 402 84</string>
 							<string>vstem 24 670</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>2ea4b8a7d7ff3087d4b143fb61ccd52c7bbefea83f2621ea83acd290d608f5420f5901acf12c09a90c698706b59069e9a9cd491b25e1bb843870e856b5f96517</string>
+				<string>9f5b178ab51610277462b315c79ab41139224fd64e15165ed79fbf22cddb0e255b06b3d9015539189674c5241e801789dcafa29717e5fc1e585051b5ee418311</string>
 			</dict>
 		</dict>
 	</lib>

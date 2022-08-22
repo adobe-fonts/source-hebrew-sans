@@ -18,10 +18,10 @@
 			<point x="1124" y="344" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLeftHE" x="0" y="590"/>
 	<anchor name="aboveHE" x="570" y="590"/>
-	<anchor name="centerHE" x="550" y="260"/>
 	<anchor name="belowSecondaryHE" x="1140" y="-30"/>
+	<anchor name="centerHE" x="550" y="260"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>

@@ -11,22 +11,22 @@
 			<point x="398" y="500"/>
 			<point x="358" y="546"/>
 			<point x="236" y="546" type="curve"/>
-			<point x="76" y="546" type="line"/>
-			<point x="76" y="720" type="line"/>
-			<point x="48" y="720" type="line"/>
-			<point x="48" y="516" type="line"/>
-			<point x="230" y="516" type="line"/>
-			<point x="330" y="516"/>
-			<point x="370" y="490"/>
-			<point x="370" y="398" type="curve"/>
-			<point x="370" y="270"/>
-			<point x="290" y="140"/>
-			<point x="86" y="14" type="curve"/>
+			<point x="84" y="546" type="line"/>
+			<point x="84" y="736" type="line"/>
+			<point x="54" y="736" type="line"/>
+			<point x="54" y="518" type="line"/>
+			<point x="226" y="518" type="line"/>
+			<point x="326" y="518"/>
+			<point x="366" y="492"/>
+			<point x="366" y="398" type="curve"/>
+			<point x="366" y="270"/>
+			<point x="287" y="139"/>
+			<point x="84" y="14" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="200" y="590"/>
-	<anchor name="belowLeftHE" x="110" y="-30"/>
-	<anchor name="centerHE" x="160" y="315"/>
+	<anchor name="aboveHE" x="230" y="590"/>
+	<anchor name="belowLeftHE" x="170" y="-30"/>
+	<anchor name="centerHE" x="170" y="320"/>
 	<anchor name="aboveLeftHE" x="-80" y="590"/>
 	<lib>
 		<dict>
@@ -39,14 +39,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 516 30</string>
-							<string>vstem 48 28</string>
-							<string>vstem 370 28</string>
+							<string>hstem 518 28</string>
+							<string>vstem 54 30</string>
+							<string>vstem 366 32</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w456l102-12306114398262c398396398500358546c236546l76546l76720l48720l48516l230516330516370490c370398370270290140c8614</string>
+				<string>w456l102-12306114398262c398396398500358546c236546l84546l84736l54736l54518l226518326518366492c366398366270287139c8414</string>
 			</dict>
 		</dict>
 	</lib>

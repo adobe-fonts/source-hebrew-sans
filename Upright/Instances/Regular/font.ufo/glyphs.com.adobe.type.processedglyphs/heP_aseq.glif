@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePaseq" format="2">
 	<unicode hex="05C0"/>
-	<advance width="283"/>
+	<advance width="264"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="100" y="-106" type="line"/>
-			<point x="170" y="-106" type="line"/>
-			<point x="170" y="647" type="line"/>
+			<point x="159" y="-106" type="line"/>
+			<point x="159" y="648" type="line"/>
 			<point x="100" y="648" type="line"/>
 		</contour>
 	</outline>
@@ -22,12 +22,12 @@
 						<key>stems</key>
 						<array>
 							<string>hstem -106 754</string>
-							<string>vstem 100 70</string>
+							<string>vstem 100 59</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w283l100-106l170-106l170647l100648</string>
+				<string>w264l100-106l159-106l159648l100648</string>
 			</dict>
 		</dict>
 	</lib>

@@ -4,15 +4,15 @@
 	<advance width="495"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="8" y="472" type="line"/>
-			<point x="302" y="472" type="line"/>
-			<point x="293" y="439"/>
-			<point x="289" y="405"/>
-			<point x="289" y="360" type="curve"/>
-			<point x="289" y="0" type="line"/>
+			<point name="hintSet0000" x="8" y="482" type="line"/>
+			<point x="299" y="482" type="line"/>
+			<point x="286" y="450"/>
+			<point x="279" y="406"/>
+			<point x="279" y="362" type="curve"/>
+			<point x="279" y="0" type="line"/>
 			<point x="361" y="0" type="line"/>
-			<point x="361" y="472" type="line"/>
-			<point x="455" y="472" type="line"/>
+			<point x="361" y="482" type="line"/>
+			<point x="455" y="482" type="line"/>
 			<point x="455" y="554" type="line"/>
 			<point x="8" y="554" type="line"/>
 		</contour>
@@ -43,14 +43,14 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 204 88</string>
-							<string>hstem 472 82</string>
+							<string>hstem 482 72</string>
 							<string>vstem 108 90</string>
-							<string>vstem 289 72</string>
+							<string>vstem 279 82</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9a022934b2993dc6b8a7412a36d7fbeee28d1395404843198b27790e7008216f41853e541d3b626c07e62f7bcdcf1dca03ecdfa76c0395ed3e66cdcd4ee19e46</string>
+				<string>626b7910d4e36fbddb5c66ec1af5b39ddcb07dfd22dd5638876b46234a2085f8a5dc6e0fb8a22d69f53773eaa08ac34f3bdbcfdf48285cc6c8291c40655c3612</string>
 			</dict>
 		</dict>
 	</lib>

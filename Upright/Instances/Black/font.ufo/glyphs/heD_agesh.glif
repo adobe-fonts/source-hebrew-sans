@@ -2,23 +2,10 @@
 <glyph name="heDagesh" format="2">
 	<unicode hex="05BC"/>
 	<outline>
-		<contour>
-			<point x="0" y="206" type="curve" smooth="yes"/>
-			<point x="23" y="206"/>
-			<point x="44" y="222"/>
-			<point x="44" y="250" type="curve" smooth="yes"/>
-			<point x="44" y="276"/>
-			<point x="23" y="294"/>
-			<point x="0" y="294" type="curve" smooth="yes"/>
-			<point x="-23" y="294"/>
-			<point x="-44" y="276"/>
-			<point x="-44" y="250" type="curve" smooth="yes"/>
-			<point x="-44" y="223"/>
-			<point x="-23" y="206"/>
-		</contour>
+		<component base="dotaccentcmb" xScale="0.5" yScale="0.5" yOffset="-40"/>
 	</outline>
-	<anchor name="_centerHE" x="0" y="250"/>
-	<anchor name="centerSecondaryHE" x="0" y="190"/>
-	<anchor name="_centerSecondaryHE" x="0" y="335"/>
+	<anchor name="_centerHE" x="0" y="284"/>
+	<anchor name="centerSecondaryHE" x="0" y="224"/>
+	<anchor name="_centerSecondaryHE" x="0" y="370"/>
 	<guideline y="285" identifier="znpAucETLd"/>
 </glyph>

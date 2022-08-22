@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heKafFin" format="2">
 	<unicode hex="05DA"/>
-	<advance width="512"/>
+	<advance width="522"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="292" y="-200" type="line"/>
-			<point x="440" y="-200" type="line"/>
-			<point x="440" y="352" type="line"/>
-			<point x="440" y="508"/>
-			<point x="356" y="568"/>
-			<point x="234" y="568" type="curve"/>
-			<point x="14" y="568" type="line"/>
-			<point x="14" y="396" type="line"/>
-			<point x="162" y="396" type="line"/>
-			<point x="242" y="396"/>
-			<point x="292" y="368"/>
-			<point x="292" y="270" type="curve"/>
+			<point name="hintSet0000" x="278" y="-156" type="line"/>
+			<point x="450" y="-156" type="line"/>
+			<point x="450" y="352" type="line"/>
+			<point x="450" y="508"/>
+			<point x="366" y="568"/>
+			<point x="244" y="568" type="curve"/>
+			<point x="24" y="568" type="line"/>
+			<point x="24" y="420" type="line"/>
+			<point x="148" y="420" type="line"/>
+			<point x="228" y="420"/>
+			<point x="278" y="392"/>
+			<point x="278" y="294" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="190" y="530"/>
-	<anchor name="centerSecondaryHE" x="140" y="300"/>
-	<anchor name="aboveLeftHE" x="-30" y="530"/>
-	<anchor name="belowPrimaryHE" x="140" y="-30"/>
+	<anchor name="aboveHE" x="220" y="590"/>
+	<anchor name="centerSecondaryHE" x="160" y="300"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
+	<anchor name="belowPrimaryHE" x="160" y="-22"/>
+	<anchor name="centerHE" x="160" y="220"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -33,13 +34,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 396 172</string>
-							<string>vstem 292 148</string>
+							<string>hstem 420 148</string>
+							<string>vstem 278 172</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w512l292-200l440-200l440352440508356568c234568l14568l14396l162396242396292368c292270</string>
+				<string>w522l278-156l450-156l450352450508366568c244568l24568l24420l148420228420278392c278294</string>
 			</dict>
 		</dict>
 	</lib>

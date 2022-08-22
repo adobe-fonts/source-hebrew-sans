@@ -5,23 +5,23 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="48" y="0" type="line"/>
-			<point x="446" y="0" type="line"/>
-			<point x="458" y="100"/>
-			<point x="467" y="190"/>
+			<point x="406" y="0" type="line"/>
+			<point x="449" y="103"/>
+			<point x="467" y="196"/>
 			<point x="467" y="301" type="curve"/>
 			<point x="467" y="484"/>
-			<point x="391" y="559"/>
-			<point x="242" y="559" type="curve"/>
+			<point x="386" y="559"/>
+			<point x="230" y="559" type="curve"/>
 			<point x="68" y="559" type="line"/>
-			<point x="68" y="444" type="line"/>
-			<point x="192" y="444" type="line"/>
-			<point x="319" y="444"/>
-			<point x="367" y="392"/>
-			<point x="367" y="238" type="curve"/>
-			<point x="367" y="190"/>
-			<point x="363" y="152"/>
-			<point x="358" y="110" type="curve"/>
-			<point x="48" y="110" type="line"/>
+			<point x="68" y="459" type="line"/>
+			<point x="185" y="459" type="line"/>
+			<point x="298" y="459"/>
+			<point x="348" y="410"/>
+			<point x="348" y="285" type="curve"/>
+			<point x="348" y="216"/>
+			<point x="339" y="158"/>
+			<point x="321" y="100" type="curve"/>
+			<point x="48" y="100" type="line"/>
 		</contour>
 		<contour>
 			<point x="210" y="236" type="curve"/>
@@ -49,16 +49,16 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 110</string>
+							<string>hstem 0 100</string>
 							<string>hstem 236 92</string>
-							<string>hstem 444 115</string>
+							<string>hstem 459 100</string>
 							<string>vstem 162 96</string>
-							<string>vstem 367 100</string>
+							<string>vstem 348 119</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>682a9b599cc39cbd958a98fd1d7ad004d128621943409d033266e5f183779059ac834eff8c9c39369288e979e30e4eb1ba196cd5098bb3bc16259cb4e9ab507b</string>
+				<string>34eac42e9776da0171269bd45df2d9fd56c312a0ea12eda1d512ead21a600abd89617ff12b18c8ad3b91c39e451317a8a689ab0528209be2b7accf2e35e94977</string>
 			</dict>
 		</dict>
 	</lib>

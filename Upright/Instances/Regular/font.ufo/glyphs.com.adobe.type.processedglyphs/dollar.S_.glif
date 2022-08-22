@@ -8,36 +8,36 @@
 			<point x="281" y="-110" type="line"/>
 			<point x="281" y="-10" type="line"/>
 			<point x="373" y="0"/>
-			<point x="431" y="60"/>
-			<point x="431" y="148" type="curve"/>
-			<point x="431" y="324"/>
-			<point x="154" y="310"/>
-			<point x="154" y="413" type="curve"/>
-			<point x="154" y="459"/>
-			<point x="193" y="491"/>
-			<point x="252" y="491" type="curve"/>
-			<point x="304" y="491"/>
-			<point x="336" y="480"/>
-			<point x="381" y="447" type="curve"/>
-			<point name="hintSet0007" x="419" y="506" type="line"/>
-			<point x="379" y="541"/>
+			<point x="433" y="60"/>
+			<point x="433" y="148" type="curve"/>
+			<point x="433" y="324"/>
+			<point x="156" y="307"/>
+			<point x="156" y="418" type="curve"/>
+			<point x="156" y="463"/>
+			<point x="194" y="497"/>
+			<point x="252" y="497" type="curve"/>
+			<point x="304" y="497"/>
+			<point x="336" y="486"/>
+			<point x="381" y="453" type="curve"/>
+			<point x="419" y="506" type="line"/>
+			<point name="hintSet0008" x="379" y="541"/>
 			<point x="335" y="560"/>
 			<point x="279" y="565" type="curve"/>
 			<point name="hintSet0009" x="279" y="664" type="line"/>
 			<point x="220" y="664" type="line"/>
 			<point x="220" y="564" type="line"/>
 			<point x="136" y="553"/>
-			<point x="81" y="496"/>
-			<point x="81" y="415" type="curve"/>
-			<point x="81" y="247"/>
-			<point x="358" y="260"/>
-			<point x="358" y="147" type="curve"/>
-			<point x="358" y="97"/>
-			<point x="319" y="63"/>
-			<point x="245" y="63" type="curve"/>
-			<point x="187" y="63"/>
-			<point x="143" y="74"/>
-			<point x="90" y="118" type="curve"/>
+			<point x="79" y="496"/>
+			<point x="79" y="415" type="curve"/>
+			<point x="79" y="247"/>
+			<point x="356" y="263"/>
+			<point x="356" y="142" type="curve"/>
+			<point x="356" y="92"/>
+			<point x="319" y="58"/>
+			<point x="245" y="58" type="curve"/>
+			<point x="187" y="58"/>
+			<point x="143" y="69"/>
+			<point x="90" y="112" type="curve"/>
 			<point name="hintSet0016" x="52" y="59" type="line"/>
 			<point x="100" y="15"/>
 			<point x="158" y="-6"/>
@@ -55,23 +55,23 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -110 173</string>
-							<string>hstem 491 173</string>
-							<string>vstem 81 73</string>
+							<string>hstem -110 168</string>
+							<string>hstem 497 68</string>
+							<string>vstem 79 77</string>
 							<string>vstem 222 59</string>
-							<string>vstem 358 73</string>
+							<string>vstem 356 77</string>
 						</array>
 					</dict>
 					<dict>
 						<key>pointTag</key>
-						<string>hintSet0007</string>
+						<string>hintSet0008</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -110 173</string>
-							<string>hstem 491 74</string>
-							<string>vstem 81 73</string>
+							<string>hstem -110 168</string>
+							<string>hstem 497 68</string>
+							<string>vstem 79 77</string>
 							<string>vstem 220 59</string>
-							<string>vstem 358 73</string>
+							<string>vstem 356 77</string>
 						</array>
 					</dict>
 					<dict>
@@ -79,11 +79,11 @@
 						<string>hintSet0009</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -110 173</string>
-							<string>hstem 491 173</string>
-							<string>vstem 81 73</string>
+							<string>hstem -110 168</string>
+							<string>hstem 497 167</string>
+							<string>vstem 79 77</string>
 							<string>vstem 220 59</string>
-							<string>vstem 358 73</string>
+							<string>vstem 356 77</string>
 						</array>
 					</dict>
 					<dict>
@@ -91,16 +91,16 @@
 						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -11 74</string>
-							<string>hstem 491 173</string>
-							<string>vstem 81 73</string>
+							<string>hstem -11 69</string>
+							<string>hstem 497 68</string>
+							<string>vstem 79 77</string>
 							<string>vstem 222 59</string>
-							<string>vstem 358 73</string>
+							<string>vstem 356 77</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>5694571f2aba47f045427119559163ab1d35a789ff008b4201694dd0c21694e86cefeeab8039efb70f86e1de1b8d3375ff1a9bb87ee150b64d7e58aa2e7e2d12</string>
+				<string>05fb162461fadf0684a7d74afc7f90fc5799003bc6293706713be2fc4613ae84766a7ce4c4d48384263d9e03e3c823cae181d1c7adf7d314001751de5a00868f</string>
 			</dict>
 		</dict>
 	</lib>

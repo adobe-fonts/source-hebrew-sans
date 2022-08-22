@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heSinDageshDotted" format="2">
 	<unicode hex="FB2D"/>
-	<advance width="540"/>
+	<advance width="709"/>
+	<outline>
+		<component base="heShin"/>
+		<component base="heDagesh" xOffset="454" yOffset="-24"/>
+		<component base="heShin"/>
+		<component base="heSinDot" xOffset="91" yOffset="-30"/>
+	</outline>
 </glyph>

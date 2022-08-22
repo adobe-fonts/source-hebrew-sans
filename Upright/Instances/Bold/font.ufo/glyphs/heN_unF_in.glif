@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heNunFin" format="2">
 	<unicode hex="05DF"/>
-	<advance width="350"/>
+	<advance width="366"/>
 	<outline>
 		<contour>
-			<point x="146" y="-200" type="line"/>
-			<point x="273" y="-200" type="line"/>
-			<point x="273" y="375" type="line" smooth="yes"/>
-			<point x="273" y="514"/>
-			<point x="203" y="564"/>
-			<point x="96" y="564" type="curve" smooth="yes"/>
-			<point x="12" y="564" type="line"/>
-			<point x="12" y="417" type="line"/>
-			<point x="35" y="417" type="line" smooth="yes"/>
-			<point x="105" y="417"/>
-			<point x="146" y="394"/>
-			<point x="146" y="307" type="curve" smooth="yes"/>
+			<point x="142" y="-164" type="line"/>
+			<point x="289" y="-164" type="line"/>
+			<point x="289" y="373" type="line" smooth="yes"/>
+			<point x="289" y="514"/>
+			<point x="215" y="564"/>
+			<point x="102" y="564" type="curve" smooth="yes"/>
+			<point x="20" y="564" type="line"/>
+			<point x="20" y="437" type="line"/>
+			<point x="30" y="437" type="line" smooth="yes"/>
+			<point x="101" y="437"/>
+			<point x="142" y="414"/>
+			<point x="142" y="325" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="143" y="541"/>
-	<anchor name="belowRightHE" x="90" y="-30"/>
-	<anchor name="aboveLeftHE" x="-10" y="541"/>
+	<anchor name="aboveHE" x="151" y="590"/>
+	<anchor name="belowRightHE" x="98" y="-23"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
 </glyph>

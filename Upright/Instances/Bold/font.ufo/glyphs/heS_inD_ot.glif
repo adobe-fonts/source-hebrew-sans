@@ -2,20 +2,7 @@
 <glyph name="heSinDot" format="2">
 	<unicode hex="05C2"/>
 	<outline>
-		<contour>
-			<point x="0" y="580" type="curve" smooth="yes"/>
-			<point x="22" y="580"/>
-			<point x="42" y="596"/>
-			<point x="42" y="623" type="curve" smooth="yes"/>
-			<point x="42" y="648"/>
-			<point x="22" y="665"/>
-			<point x="0" y="665" type="curve" smooth="yes"/>
-			<point x="-22" y="665"/>
-			<point x="-42" y="648"/>
-			<point x="-42" y="623" type="curve" smooth="yes"/>
-			<point x="-42" y="597"/>
-			<point x="-22" y="580"/>
-		</contour>
+		<component base="dotaccentcmb" xScale="0.588" yScale="0.588" yOffset="295"/>
 	</outline>
-	<anchor name="_sinHE" x="0" y="541"/>
+	<anchor name="_sinHE" x="0" y="590"/>
 </glyph>

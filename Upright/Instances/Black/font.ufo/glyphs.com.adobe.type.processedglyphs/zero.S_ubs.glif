@@ -5,31 +5,31 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="190" y="-162" type="curve"/>
-			<point x="280" y="-162"/>
-			<point x="348" y="-88"/>
-			<point x="348" y="36" type="curve"/>
-			<point x="348" y="160"/>
-			<point x="280" y="232"/>
-			<point x="190" y="232" type="curve"/>
-			<point x="100" y="232"/>
-			<point x="32" y="160"/>
-			<point x="32" y="36" type="curve"/>
-			<point x="32" y="-88"/>
-			<point x="100" y="-162"/>
+			<point x="286" y="-162"/>
+			<point x="358" y="-84"/>
+			<point x="358" y="46" type="curve"/>
+			<point x="358" y="176"/>
+			<point x="286" y="252"/>
+			<point x="190" y="252" type="curve"/>
+			<point x="94" y="252"/>
+			<point x="22" y="176"/>
+			<point x="22" y="46" type="curve"/>
+			<point x="22" y="-84"/>
+			<point x="94" y="-162"/>
 		</contour>
 		<contour>
-			<point x="190" y="-50" type="curve"/>
-			<point x="160" y="-50"/>
-			<point x="130" y="-28"/>
-			<point x="130" y="36" type="curve"/>
-			<point x="130" y="100"/>
-			<point x="160" y="120"/>
-			<point x="190" y="120" type="curve"/>
-			<point x="220" y="120"/>
-			<point x="250" y="100"/>
-			<point x="250" y="36" type="curve"/>
-			<point x="250" y="-28"/>
-			<point x="220" y="-50"/>
+			<point x="190" y="-68" type="curve"/>
+			<point x="164" y="-68"/>
+			<point x="140" y="-42"/>
+			<point x="140" y="46" type="curve"/>
+			<point x="140" y="134"/>
+			<point x="164" y="158"/>
+			<point x="190" y="158" type="curve"/>
+			<point x="216" y="158"/>
+			<point x="240" y="134"/>
+			<point x="240" y="46" type="curve"/>
+			<point x="240" y="-42"/>
+			<point x="216" y="-68"/>
 		</contour>
 	</outline>
 	<lib>
@@ -43,15 +43,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -162 112</string>
-							<string>hstem 120 112</string>
-							<string>vstem 32 98</string>
-							<string>vstem 250 98</string>
+							<string>hstem -162 94</string>
+							<string>hstem 158 94</string>
+							<string>vstem 22 118</string>
+							<string>vstem 240 118</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>fad7698daf8a1719d577283252b923619e29f235cf72e48de9e3fd37cc5fc44dc30ae17fcb1c47f5c530e68746fa405fd2e65ddac98b743142a7a0773c720dcf</string>
+				<string>dca057849b36d65df9da68b9e13229f730551b42654d805bc31201a6970b294d2b3e8f957408d16d57d88ea19e08511081c59566bfd65e785979daaec2c13696</string>
 			</dict>
 		</dict>
 	</lib>

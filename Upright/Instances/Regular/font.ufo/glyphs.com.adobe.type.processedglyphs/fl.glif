@@ -4,22 +4,22 @@
 	<advance width="547"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="461" y="-12" type="curve"/>
-			<point x="483" y="-12"/>
-			<point x="497" y="-9"/>
-			<point x="508" y="-4" type="curve"/>
-			<point x="497" y="58" type="line"/>
-			<point x="488" y="56"/>
-			<point x="484" y="56"/>
-			<point x="479" y="56" type="curve"/>
-			<point x="467" y="56"/>
-			<point x="456" y="66"/>
-			<point x="456" y="92" type="curve"/>
+			<point name="hintSet0000" x="461" y="-9" type="curve"/>
+			<point x="481" y="-9"/>
+			<point x="497" y="-6"/>
+			<point x="508" y="-1" type="curve"/>
+			<point x="497" y="61" type="line"/>
+			<point x="489" y="59"/>
+			<point x="485" y="59"/>
+			<point x="480" y="59" type="curve"/>
+			<point x="467" y="59"/>
+			<point x="456" y="68"/>
+			<point x="456" y="94" type="curve"/>
 			<point x="456" y="712" type="line"/>
 			<point x="374" y="712" type="line"/>
-			<point x="374" y="98" type="line"/>
-			<point x="374" y="27"/>
-			<point x="399" y="-12"/>
+			<point x="374" y="100" type="line"/>
+			<point x="374" y="30"/>
+			<point x="399" y="-9"/>
 		</contour>
 		<contour>
 			<point name="hintSet0009" x="96" y="0" type="line"/>
@@ -33,18 +33,18 @@
 			<point x="200" y="657"/>
 			<point x="246" y="657" type="curve"/>
 			<point x="264" y="657"/>
-			<point x="283" y="653"/>
-			<point x="301" y="645" type="curve"/>
+			<point x="281" y="654"/>
+			<point x="301" y="648" type="curve"/>
 			<point x="319" y="708" type="line"/>
-			<point x="297" y="717"/>
+			<point x="298" y="717"/>
 			<point x="268" y="724"/>
 			<point x="238" y="724" type="curve"/>
 			<point x="141" y="724"/>
 			<point x="96" y="662"/>
 			<point x="96" y="563" type="curve"/>
 			<point x="96" y="486" type="line"/>
-			<point x="30" y="481" type="line"/>
-			<point x="30" y="419" type="line"/>
+			<point x="24" y="481" type="line"/>
+			<point x="24" y="419" type="line"/>
 			<point x="96" y="419" type="line"/>
 		</contour>
 	</outline>
@@ -59,7 +59,7 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -12 68</string>
+							<string>hstem -9 68</string>
 							<string>hstem 419 67</string>
 							<string>hstem 712 -20</string>
 							<string>vstem 96 82</string>
@@ -104,7 +104,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>c8f4fa2c501e13045c9b5d717ac702245f4c31160eda73f453196eb54cededb5ebfbed42cb54025bbd0af9a5582bd3ea2577a803a413543a13252d0b308c65ae</string>
+				<string>d4417b7134de1935873fc891126bc92a4db523e51ab7d4116294d32e3a33ae5fb8ed28f14146f4cac4fbdfdfc87816351d04492c0edf1e1356bfa1e3df1b8d64</string>
 			</dict>
 		</dict>
 	</lib>

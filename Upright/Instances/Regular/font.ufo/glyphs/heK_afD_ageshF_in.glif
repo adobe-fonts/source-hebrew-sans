@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heKafDageshFin" format="2">
 	<unicode hex="FB3A"/>
-	<advance width="540"/>
+	<advance width="474"/>
+	<outline>
+		<component base="heKafFin"/>
+		<component base="heDagesh" xOffset="150" yOffset="-32"/>
+	</outline>
 </glyph>

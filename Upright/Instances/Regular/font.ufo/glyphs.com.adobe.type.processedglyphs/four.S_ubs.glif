@@ -4,25 +4,25 @@
 	<advance width="367"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="105" y="7" type="line"/>
-			<point x="165" y="98" type="line"/>
-			<point x="218" y="181" type="line"/>
-			<point x="222" y="181" type="line"/>
-			<point x="217" y="73" type="line"/>
-			<point x="217" y="7" type="line"/>
+			<point name="hintSet0000" x="109" y="0" type="line"/>
+			<point x="170" y="98" type="line"/>
+			<point x="220" y="179" type="line"/>
+			<point x="224" y="179" type="line"/>
+			<point x="220" y="70" type="line"/>
+			<point x="220" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="217" y="-150" type="line"/>
-			<point x="274" y="-150" type="line"/>
-			<point x="274" y="-50" type="line"/>
-			<point x="332" y="-50" type="line"/>
-			<point x="332" y="7" type="line"/>
-			<point x="274" y="7" type="line"/>
-			<point x="274" y="240" type="line"/>
-			<point x="202" y="240" type="line"/>
-			<point x="38" y="-5" type="line"/>
-			<point x="38" y="-50" type="line"/>
-			<point x="217" y="-50" type="line"/>
+			<point x="220" y="-150" type="line"/>
+			<point x="278" y="-150" type="line"/>
+			<point x="278" y="-46" type="line"/>
+			<point x="336" y="-46" type="line"/>
+			<point x="336" y="0" type="line"/>
+			<point x="278" y="0" type="line"/>
+			<point x="278" y="240" type="line"/>
+			<point x="206" y="240" type="line"/>
+			<point x="42" y="-13" type="line"/>
+			<point x="42" y="-46" type="line"/>
+			<point x="220" y="-46" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -36,14 +36,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -50 57</string>
-							<string>hstem 181 59</string>
-							<string>vstem 217 57</string>
+							<string>hstem -46 46</string>
+							<string>hstem 179 61</string>
+							<string>vstem 220 58</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w367l1057l16598l218181l222181l21773l2177l217-150l274-150l274-50l332-50l3327l2747l274240l202240l38-5l38-50l217-50</string>
+				<string>w367l1090l17098l220179l224179l22070l2200l220-150l278-150l278-46l336-46l3360l2780l278240l206240l42-13l42-46l220-46</string>
 			</dict>
 		</dict>
 	</lib>

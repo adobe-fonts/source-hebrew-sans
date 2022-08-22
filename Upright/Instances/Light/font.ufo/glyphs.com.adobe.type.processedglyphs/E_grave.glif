@@ -18,12 +18,14 @@
 			<point x="97" y="659" type="line"/>
 		</contour>
 		<contour>
-			<point x="304" y="706" type="line"/>
-			<point x="324" y="729" type="line"/>
-			<point x="199" y="852" type="line"/>
-			<point x="171" y="819" type="line"/>
+			<point x="316" y="709" type="line"/>
+			<point x="362" y="709" type="line"/>
+			<point x="224" y="833" type="line"/>
+			<point x="162" y="833" type="line"/>
+			<point x="159" y="828" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="300" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -43,7 +45,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w515l970l4680l46840l14340l143330l407330l407370l143370l143619l458619l458659l97659l304706l324729l199852l171819</string>
+				<string>w515l970l4680l46840l14340l143330l407330l407370l143370l143619l458619l458659l97659l316709l362709l224833l162833l159828</string>
 			</dict>
 		</dict>
 	</lib>

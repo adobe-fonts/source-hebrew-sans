@@ -11,23 +11,22 @@
 		</contour>
 		<contour>
 			<point name="hintSet0004" x="144" y="562" type="curve"/>
-			<point x="198" y="562"/>
-			<point x="236" y="598"/>
-			<point x="236" y="648" type="curve"/>
-			<point x="236" y="698"/>
-			<point x="198" y="734"/>
+			<point x="200" y="562"/>
+			<point x="238" y="596"/>
+			<point x="238" y="648" type="curve"/>
+			<point x="238" y="700"/>
+			<point x="200" y="734"/>
 			<point x="144" y="734" type="curve"/>
-			<point x="90" y="734"/>
-			<point x="52" y="698"/>
-			<point x="52" y="648" type="curve"/>
-			<point x="52" y="598"/>
-			<point x="90" y="562"/>
+			<point x="88" y="734"/>
+			<point x="50" y="700"/>
+			<point x="50" y="648" type="curve"/>
+			<point x="50" y="596"/>
+			<point x="88" y="562"/>
 		</contour>
 	</outline>
-	<anchor name="belowLC" x="144" y="-20"/>
-	<anchor name="ogonekLC" x="190" y="0"/>
-	<anchor name="aboveUC" x="144" y="730"/>
-	<anchor name="baseLC" x="144" y="0"/>
+	<anchor name="aboveLC" x="144" y="722"/>
+	<anchor name="belowLC" x="144" y="-22"/>
+	<anchor name="ogonekLC" x="140" y="0"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -53,12 +52,12 @@
 							<string>hstem 21 -21</string>
 							<string>hstem 500 -20</string>
 							<string>hstem 562 172</string>
-							<string>vstem 52 184</string>
+							<string>vstem 50 188</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w288l580l2300l230500l58500c144562198562236598c236648236698198734c1447349073452698c526485259890562</string>
+				<string>w288l580l2300l230500l58500c144562200562238596c238648238700200734c1447348873450700c506485059688562</string>
 			</dict>
 		</dict>
 	</lib>

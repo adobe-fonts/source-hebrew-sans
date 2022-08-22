@@ -2,38 +2,12 @@
 <glyph name="heSheva" format="2">
 	<unicode hex="05B0"/>
 	<outline>
-		<contour>
-			<point x="0" y="-160" type="curve" smooth="yes"/>
-			<point x="22" y="-160"/>
-			<point x="42" y="-144"/>
-			<point x="42" y="-118" type="curve" smooth="yes"/>
-			<point x="42" y="-93"/>
-			<point x="22" y="-75"/>
-			<point x="0" y="-75" type="curve" smooth="yes"/>
-			<point x="-22" y="-75"/>
-			<point x="-42" y="-93"/>
-			<point x="-42" y="-118" type="curve" smooth="yes"/>
-			<point x="-42" y="-143"/>
-			<point x="-22" y="-160"/>
-		</contour>
-		<contour>
-			<point x="0" y="-285" type="curve" smooth="yes"/>
-			<point x="22" y="-285"/>
-			<point x="42" y="-269"/>
-			<point x="42" y="-243" type="curve" smooth="yes"/>
-			<point x="42" y="-218"/>
-			<point x="22" y="-200"/>
-			<point x="0" y="-200" type="curve" smooth="yes"/>
-			<point x="-22" y="-200"/>
-			<point x="-42" y="-218"/>
-			<point x="-42" y="-243" type="curve" smooth="yes"/>
-			<point x="-42" y="-268"/>
-			<point x="-22" y="-285"/>
-		</contour>
+		<component base="dotbelowcmb" xScale="0.55392" yScale="0.55392" yOffset="-34"/>
+		<component base="dotbelowcmb" xScale="0.55392" yScale="0.55392" yOffset="-152"/>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-33" y="-30"/>
-	<anchor name="_belowRightHE" x="33" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-108" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-23"/>
+	<anchor name="_belowLeftHE" x="-33" y="-23"/>
+	<anchor name="_belowRightHE" x="33" y="-23"/>
+	<anchor name="belowPrimaryHE" x="-108" y="-23"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-23"/>
 </glyph>

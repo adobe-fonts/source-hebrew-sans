@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heVav" format="2">
 	<unicode hex="05D5"/>
-	<advance width="276"/>
+	<advance width="274"/>
 	<outline>
 		<contour>
-			<point x="146" y="0" type="line"/>
+			<point x="144" y="0" type="line"/>
 			<point x="174" y="0" type="line"/>
 			<point x="174" y="390" type="line" smooth="yes"/>
 			<point x="174" y="514"/>
 			<point x="130" y="546"/>
 			<point x="38" y="546" type="curve" smooth="yes"/>
 			<point x="4" y="546" type="line"/>
-			<point x="4" y="516" type="line"/>
-			<point x="32" y="516" type="line" smooth="yes"/>
-			<point x="110" y="516"/>
-			<point x="146" y="495"/>
-			<point x="146" y="384" type="curve" smooth="yes"/>
+			<point x="4" y="518" type="line"/>
+			<point x="30" y="518" type="line" smooth="yes"/>
+			<point x="108" y="518"/>
+			<point x="144" y="497"/>
+			<point x="144" y="386" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="110" y="590"/>
-	<anchor name="belowSecondaryHE" x="170" y="-30"/>
-	<anchor name="centerHE" x="55" y="255"/>
+	<anchor name="aboveHE" x="90" y="590"/>
+	<anchor name="belowSecondaryHE" x="160" y="-30"/>
+	<anchor name="centerHE" x="40" y="260"/>
 	<anchor name="holamHE" x="0" y="590"/>
-	<anchor name="aboveLeftHE" x="110" y="560"/>
+	<anchor name="aboveLeftHE" x="90" y="590"/>
 </glyph>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePatah.short" format="2">
 	<outline>
-		<contour>
-			<point x="86" y="-80" type="line"/>
-			<point x="-86" y="-80" type="line"/>
-			<point x="-86" y="-132" type="line"/>
-			<point x="86" y="-132" type="line"/>
-		</contour>
+		<component base="hePatah" xScale="0.82"/>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-85" y="-30"/>
-	<anchor name="_belowRightHE" x="85" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-155" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="10" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
+	<anchor name="_belowLeftHE" x="-85" y="-22"/>
+	<anchor name="_belowRightHE" x="85" y="-22"/>
+	<anchor name="belowPrimaryHE" x="-155" y="-22"/>
+	<anchor name="_belowSecondaryHE" x="10" y="-22"/>
 </glyph>

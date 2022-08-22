@@ -5,31 +5,31 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="73" y="0" type="line"/>
-			<point x="186" y="0" type="line"/>
-			<point x="186" y="125" type="line"/>
+			<point x="187" y="0" type="line"/>
+			<point x="187" y="126" type="line"/>
 			<point x="263" y="213" type="line"/>
 			<point x="389" y="0" type="line"/>
 			<point x="514" y="0" type="line"/>
-			<point x="329" y="291" type="line"/>
+			<point x="330" y="290" type="line"/>
 			<point x="497" y="491" type="line"/>
-			<point x="371" y="491" type="line"/>
-			<point x="189" y="265" type="line"/>
-			<point x="186" y="265" type="line"/>
-			<point x="186" y="706" type="line"/>
+			<point x="370" y="491" type="line"/>
+			<point x="190" y="266" type="line"/>
+			<point x="187" y="266" type="line"/>
+			<point x="187" y="706" type="line"/>
 			<point x="73" y="706" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0013" x="283" y="-217" type="curve"/>
-			<point x="323" y="-217"/>
-			<point x="351" y="-190"/>
-			<point x="351" y="-151" type="curve"/>
-			<point x="351" y="-113"/>
-			<point x="323" y="-86"/>
-			<point x="283" y="-86" type="curve"/>
+			<point name="hintSet0013" x="284" y="-217" type="curve"/>
+			<point x="325" y="-217"/>
+			<point x="353" y="-191"/>
+			<point x="353" y="-151" type="curve"/>
+			<point x="353" y="-112"/>
+			<point x="325" y="-86"/>
+			<point x="284" y="-86" type="curve"/>
 			<point x="243" y="-86"/>
-			<point x="215" y="-113"/>
+			<point x="215" y="-112"/>
 			<point x="215" y="-151" type="curve"/>
-			<point x="215" y="-190"/>
+			<point x="215" y="-191"/>
 			<point x="243" y="-217"/>
 		</contour>
 	</outline>
@@ -48,7 +48,7 @@
 							<string>hstem 21 -21</string>
 							<string>hstem 491 -20</string>
 							<string>hstem 706 -20</string>
-							<string>vstem 73 113</string>
+							<string>vstem 73 114</string>
 						</array>
 					</dict>
 					<dict>
@@ -60,13 +60,13 @@
 							<string>hstem 21 -21</string>
 							<string>hstem 491 -20</string>
 							<string>hstem 706 -20</string>
-							<string>vstem 73 113</string>
-							<string>vstem 215 136</string>
+							<string>vstem 73 114</string>
+							<string>vstem 215 138</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>77cd9a4943909f155fdb3a137d1381e09e2f9f4a1030677ee1baa6fac35ea14a979bef6561d2e5ec189ff34df6a03223ce4f963d6103930bf2ed17ca5555ed00</string>
+				<string>e04cde2bcf84952bd4c25d36041a3b610b9829402413af9d071c3344239dd4c6c3b13ee8bfb8e1e764117f6a3d91e7d61a2680896aa14ecee57216c86d97f48d</string>
 			</dict>
 		</dict>
 	</lib>

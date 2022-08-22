@@ -2,12 +2,7 @@
 <glyph name="heRafe" format="2">
 	<unicode hex="05BF"/>
 	<outline>
-		<contour>
-			<point x="-101" y="645" type="line"/>
-			<point x="101" y="645" type="line"/>
-			<point x="101" y="684" type="line"/>
-			<point x="-101" y="684" type="line"/>
-		</contour>
+		<component base="macroncmb" xScale="0.75" yOffset="40"/>
 	</outline>
 	<anchor name="_aboveHE" x="0" y="590"/>
 </glyph>

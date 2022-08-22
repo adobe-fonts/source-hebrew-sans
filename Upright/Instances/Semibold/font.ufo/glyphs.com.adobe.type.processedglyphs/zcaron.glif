@@ -16,14 +16,14 @@
 			<point x="34" y="62" type="line"/>
 		</contour>
 		<contour>
-			<point x="184" y="576" type="line"/>
-			<point x="300" y="576" type="line"/>
-			<point x="411" y="711" type="line"/>
-			<point x="366" y="753" type="line"/>
-			<point x="244" y="651" type="line"/>
-			<point x="240" y="651" type="line"/>
-			<point x="118" y="753" type="line"/>
-			<point x="73" y="711" type="line"/>
+			<point x="186" y="570" type="line"/>
+			<point x="290" y="570" type="line"/>
+			<point x="424" y="744" type="line"/>
+			<point x="334" y="744" type="line"/>
+			<point name="hintSet0014" x="240" y="650" type="line"/>
+			<point x="236" y="650" type="line"/>
+			<point name="hintSet0016" x="142" y="744" type="line"/>
+			<point x="52" y="744" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -39,14 +39,35 @@
 						<array>
 							<string>hstem 0 92</string>
 							<string>hstem 400 91</string>
-							<string>hstem 576 75</string>
-							<string>hstem 711 -20</string>
-							<string>vstem 34 384</string>
+							<string>hstem 570 174</string>
+							<string>vstem 34 390</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 92</string>
+							<string>hstem 400 91</string>
+							<string>hstem 570 80</string>
+							<string>vstem 34 390</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0016</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 92</string>
+							<string>hstem 400 91</string>
+							<string>hstem 570 174</string>
+							<string>vstem 34 390</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w443l340l4180l41892l17992l410430l410491l60491l60400l266400l3462l184576l300576l411711l366753l244651l240651l118753l73711</string>
+				<string>w443l340l4180l41892l17992l410430l410491l60491l60400l266400l3462l186570l290570l424744l334744l240650l236650l142744l52744</string>
 			</dict>
 		</dict>
 	</lib>

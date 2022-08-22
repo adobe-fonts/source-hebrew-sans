@@ -10,12 +10,14 @@
 			<point x="90" y="656" type="line"/>
 		</contour>
 		<contour>
-			<point x="114" y="697" type="line"/>
-			<point x="266" y="812" type="line"/>
-			<point x="219" y="867" type="line"/>
-			<point x="77" y="739" type="line"/>
+			<point x="55" y="706" type="line"/>
+			<point x="129" y="706" type="line"/>
+			<point x="292" y="832" type="line"/>
+			<point x="288" y="841" type="line"/>
+			<point x="187" y="841" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="132" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -29,12 +31,13 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 656 -20</string>
+							<string>hstem 832 9</string>
 							<string>vstem 90 83</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w263l900l1730l173656l90656l114697l266812l219867l77739</string>
+				<string>w263l900l1730l173656l90656l55706l129706l292832l288841l187841</string>
 			</dict>
 		</dict>
 	</lib>

@@ -3,21 +3,21 @@
 	<unicode hex="05C2"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="0" y="630" type="curve"/>
-			<point x="20" y="630"/>
-			<point x="36" y="645"/>
-			<point x="36" y="666" type="curve"/>
-			<point x="36" y="687"/>
-			<point x="20" y="702"/>
-			<point x="0" y="702" type="curve"/>
-			<point x="-20" y="702"/>
-			<point x="-36" y="687"/>
-			<point x="-36" y="666" type="curve"/>
-			<point x="-36" y="645"/>
-			<point x="-20" y="630"/>
+			<point name="hintSet0000" x="0" y="633" type="curve"/>
+			<point x="21" y="633"/>
+			<point x="36" y="648"/>
+			<point x="36" y="672" type="curve"/>
+			<point x="36" y="694"/>
+			<point x="21" y="709"/>
+			<point x="0" y="709" type="curve"/>
+			<point x="-21" y="709"/>
+			<point x="-36" y="694"/>
+			<point x="-36" y="672" type="curve"/>
+			<point x="-36" y="648"/>
+			<point x="-21" y="633"/>
 		</contour>
 	</outline>
-	<anchor name="_sinHE" x="0" y="584"/>
+	<anchor name="_sinHE" x="0" y="590"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -29,13 +29,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 630 72</string>
+							<string>hstem 633 76</string>
 							<string>vstem -36 72</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0c06302063036645c366663668720702c0702-20702-36687c-36666-36645-20630</string>
+				<string>w0c06332163336648c366723669421709c0709-21709-36694c-36672-36648-21633</string>
 			</dict>
 		</dict>
 	</lib>

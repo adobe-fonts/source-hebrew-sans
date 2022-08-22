@@ -2,42 +2,42 @@
 <glyph name="heHatafQamatsQatan" format="2">
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="-77" y="-295" type="line"/>
-			<point x="-35" y="-295" type="line"/>
-			<point x="-39" y="-128" type="line"/>
-			<point x="19" y="-128" type="line"/>
-			<point x="19" y="-89" type="line"/>
-			<point x="-133" y="-89" type="line"/>
-			<point x="-133" y="-128" type="line"/>
-			<point x="-73" y="-128" type="line"/>
+			<point name="hintSet0000" x="-74" y="-312" type="line"/>
+			<point x="-46" y="-312" type="line"/>
+			<point x="-46" y="-136" type="line"/>
+			<point x="16" y="-136" type="line"/>
+			<point x="16" y="-108" type="line"/>
+			<point x="-136" y="-108" type="line"/>
+			<point x="-136" y="-136" type="line"/>
+			<point x="-74" y="-136" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0008" x="98" y="-155" type="curve"/>
-			<point x="118" y="-155"/>
-			<point x="133" y="-140"/>
-			<point x="133" y="-120" type="curve"/>
-			<point x="133" y="-100"/>
-			<point x="118" y="-85"/>
-			<point x="98" y="-85" type="curve"/>
-			<point x="78" y="-85"/>
-			<point x="63" y="-100"/>
-			<point x="63" y="-120" type="curve"/>
-			<point x="63" y="-140"/>
-			<point x="78" y="-155"/>
+			<point name="hintSet0008" x="100" y="-157" type="curve"/>
+			<point x="116" y="-157"/>
+			<point x="129" y="-144"/>
+			<point x="129" y="-125" type="curve"/>
+			<point x="129" y="-107"/>
+			<point x="116" y="-94"/>
+			<point x="100" y="-94" type="curve"/>
+			<point x="84" y="-94"/>
+			<point x="71" y="-107"/>
+			<point x="71" y="-125" type="curve"/>
+			<point x="71" y="-144"/>
+			<point x="84" y="-157"/>
 		</contour>
 		<contour>
-			<point x="98" y="-276" type="curve"/>
-			<point x="118" y="-276"/>
-			<point x="133" y="-261"/>
-			<point x="133" y="-241" type="curve"/>
-			<point x="133" y="-221"/>
-			<point x="118" y="-206"/>
-			<point x="98" y="-206" type="curve"/>
-			<point x="78" y="-206"/>
-			<point x="63" y="-221"/>
-			<point x="63" y="-241" type="curve"/>
-			<point x="63" y="-261"/>
-			<point x="78" y="-276"/>
+			<point x="100" y="-267" type="curve"/>
+			<point x="116" y="-267"/>
+			<point x="129" y="-254"/>
+			<point x="129" y="-235" type="curve"/>
+			<point x="129" y="-217"/>
+			<point x="116" y="-204"/>
+			<point x="100" y="-204" type="curve"/>
+			<point x="84" y="-204"/>
+			<point x="71" y="-217"/>
+			<point x="71" y="-235" type="curve"/>
+			<point x="71" y="-254"/>
+			<point x="84" y="-267"/>
 		</contour>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
@@ -56,8 +56,8 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -128 39</string>
-							<string>vstem -75 38</string>
+							<string>hstem -136 28</string>
+							<string>vstem -74 28</string>
 						</array>
 					</dict>
 					<dict>
@@ -65,15 +65,15 @@
 						<string>hintSet0008</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -276 70</string>
-							<string>hstem -155 70</string>
-							<string>vstem -75 38</string>
-							<string>vstem 63 70</string>
+							<string>hstem -267 63</string>
+							<string>hstem -157 63</string>
+							<string>vstem -74 28</string>
+							<string>vstem 71 58</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>43b4bc43359e0a7471d85fab4202a5e24670836f5de6f7b0cabc70197604799e38f6bf008f40be478ce94630a4c0c6fc55aa877c9586225817da8b0d583f8cd3</string>
+				<string>08509050760804ac9b3af8f2f42387156c457fc2e4e40681e99ad615cb804f4b23b2145171c2737326c224d2f20de4aeb9f4ec6e1bd9a609a6aafe52261bf24e</string>
 			</dict>
 		</dict>
 	</lib>

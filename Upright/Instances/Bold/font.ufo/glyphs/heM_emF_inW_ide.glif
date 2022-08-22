@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heMemFinWide" format="2">
 	<unicode hex="FB26"/>
-	<advance width="540"/>
+	<advance width="1469"/>
+	<outline>
+		<contour>
+			<point x="153" y="0" type="line"/>
+			<point x="1392" y="0" type="line"/>
+			<point x="1392" y="352" type="line" smooth="yes"/>
+			<point x="1392" y="506"/>
+			<point x="1311" y="564"/>
+			<point x="1192" y="564" type="curve" smooth="yes"/>
+			<point x="59" y="564" type="line"/>
+			<point x="59" y="417" type="line"/>
+			<point x="1131" y="417" type="line" smooth="yes"/>
+			<point x="1214" y="417"/>
+			<point x="1265" y="387"/>
+			<point x="1265" y="283" type="curve" smooth="yes"/>
+			<point x="1265" y="140" type="line"/>
+			<point x="153" y="140" type="line"/>
+		</contour>
+		<contour>
+			<point x="98" y="0" type="line"/>
+			<point x="224" y="0" type="line"/>
+			<point x="224" y="417" type="line"/>
+			<point x="118" y="417" type="line"/>
+			<point x="106" y="376"/>
+			<point x="98" y="333"/>
+			<point x="98" y="278" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="736" y="590"/>
+	<anchor name="belowPrimaryHE" x="738" y="-23"/>
+	<anchor name="centerHE" x="738" y="280"/>
+	<anchor name="aboveLeftHE" x="33" y="590"/>
 </glyph>

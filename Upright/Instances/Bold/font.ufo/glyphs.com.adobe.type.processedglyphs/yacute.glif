@@ -25,18 +25,19 @@
 			<point x="183" y="-52"/>
 			<point x="158" y="-78"/>
 			<point x="109" y="-78" type="curve"/>
-			<point x="98" y="-78"/>
-			<point x="85" y="-74"/>
-			<point x="76" y="-72" type="curve"/>
-			<point name="hintSet0014" x="50" y="-184" type="line"/>
-			<point name="hintSet0015" x="70" y="-190"/>
+			<point x="99" y="-78"/>
+			<point x="91" y="-78"/>
+			<point x="76" y="-74" type="curve"/>
+			<point x="50" y="-182" type="line"/>
+			<point x="70" y="-190"/>
 			<point x="90" y="-194"/>
 		</contour>
 		<contour>
-			<point x="280" y="572" type="line"/>
-			<point x="461" y="729" type="line"/>
-			<point x="362" y="826" type="line"/>
-			<point x="208" y="644" type="line"/>
+			<point name="hintSet0016" x="180" y="570" type="line"/>
+			<point x="292" y="570" type="line"/>
+			<point name="hintSet0018" x="458" y="737" type="line"/>
+			<point x="450" y="753" type="line"/>
+			<point x="295" y="753" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -52,32 +53,35 @@
 						<array>
 							<string>hstem -194 116</string>
 							<string>hstem 496 -20</string>
+							<string>hstem 737 16</string>
 							<string>vstem 12 497</string>
 						</array>
 					</dict>
 					<dict>
 						<key>pointTag</key>
-						<string>hintSet0014</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -163 -21</string>
-							<string>hstem 496 -20</string>
-							<string>vstem 12 497</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0015</string>
+						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
 							<string>hstem -194 116</string>
 							<string>hstem 496 -20</string>
+							<string>hstem 570 183</string>
+							<string>vstem 12 497</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0018</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -194 116</string>
+							<string>hstem 496 -20</string>
+							<string>hstem 737 16</string>
 							<string>vstem 12 497</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9cc58bd30d1141092c65155f55e67b3d1cf364de012813d8ad1329e81d7e3a257dbf97100f34d29048a41a1c9c568e6b1a37187f1e0677018ae762b8f2e99270</string>
+				<string>f22247449a858e74afac577b39fa5bf22135fff2cc2fa6387029436255db9f6cd27bd26d87b36896648b1af61ab951244e36cce1f9b5968898d3a4f9e2906787</string>
 			</dict>
 		</dict>
 	</lib>

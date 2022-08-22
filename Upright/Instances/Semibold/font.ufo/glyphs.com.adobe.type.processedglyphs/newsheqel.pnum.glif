@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="newsheqel.pnum" format="2">
+	<advance width="763"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="81" y="0" type="line"/>
+			<point x="189" y="0" type="line"/>
+			<point x="189" y="554" type="line"/>
+			<point x="306" y="554" type="line"/>
+			<point x="370" y="554"/>
+			<point x="410" y="530"/>
+			<point x="410" y="450" type="curve"/>
+			<point x="410" y="182" type="line"/>
+			<point x="518" y="182" type="line"/>
+			<point x="518" y="477" type="line"/>
+			<point x="518" y="594"/>
+			<point x="455" y="636"/>
+			<point x="356" y="636" type="curve"/>
+			<point x="81" y="636" type="line"/>
+		</contour>
+		<contour>
+			<point x="246" y="0" type="line"/>
+			<point x="517" y="0" type="line"/>
+			<point x="618" y="0"/>
+			<point x="682" y="43"/>
+			<point x="682" y="159" type="curve"/>
+			<point x="682" y="636" type="line"/>
+			<point x="574" y="636" type="line"/>
+			<point x="574" y="186" type="line"/>
+			<point x="574" y="107"/>
+			<point x="532" y="82"/>
+			<point x="466" y="82" type="curve"/>
+			<point x="354" y="82" type="line"/>
+			<point x="354" y="455" type="line"/>
+			<point x="246" y="455" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="256" y="279" angle="90" identifier="51LWLohGsJ"/>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 82</string>
+							<string>hstem 554 82</string>
+							<string>vstem 81 108</string>
+							<string>vstem 246 108</string>
+							<string>vstem 410 108</string>
+							<string>vstem 574 108</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>8de382d1b8bb177260109c4783c470ecf436081be9218db600c7d0779a51bfe74c2fb6c736225a86620c05a8ff7168014c9a4bb97a1643e035ec0535f5289a95</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

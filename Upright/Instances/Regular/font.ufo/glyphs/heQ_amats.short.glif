@@ -2,19 +2,19 @@
 <glyph name="heQamats.short" format="2">
 	<outline>
 		<contour>
-			<point x="79" y="-86" type="line"/>
-			<point x="-80" y="-86" type="line"/>
-			<point x="-80" y="-129" type="line"/>
-			<point x="-18" y="-129" type="line"/>
-			<point x="-27" y="-222" type="line"/>
-			<point x="27" y="-222" type="line"/>
-			<point x="18" y="-129" type="line"/>
-			<point x="79" y="-129" type="line"/>
+			<point x="-21" y="-241" type="line"/>
+			<point x="21" y="-241" type="line"/>
+			<point x="21" y="-139" type="line"/>
+			<point x="81" y="-139" type="line"/>
+			<point x="81" y="-96" type="line"/>
+			<point x="-81" y="-96" type="line"/>
+			<point x="-81" y="-139" type="line"/>
+			<point x="-21" y="-139" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-79" y="-30"/>
-	<anchor name="_belowRightHE" x="79" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-142" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-27"/>
+	<anchor name="_belowLeftHE" x="-79" y="-27"/>
+	<anchor name="_belowRightHE" x="79" y="-27"/>
+	<anchor name="belowPrimaryHE" x="-142" y="-27"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-27"/>
 </glyph>

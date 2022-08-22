@@ -3,34 +3,34 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="0" y="697" type="curve"/>
-			<point x="67" y="697"/>
-			<point x="114" y="736"/>
-			<point x="114" y="796" type="curve"/>
-			<point x="114" y="856"/>
-			<point x="67" y="894"/>
+			<point x="84" y="697"/>
+			<point x="132" y="735"/>
+			<point x="132" y="796" type="curve"/>
+			<point x="132" y="856"/>
+			<point x="84" y="894"/>
 			<point x="0" y="894" type="curve"/>
-			<point x="-68" y="894"/>
-			<point x="-114" y="856"/>
-			<point x="-114" y="796" type="curve"/>
-			<point x="-114" y="736"/>
-			<point x="-68" y="697"/>
+			<point x="-84" y="894"/>
+			<point x="-132" y="856"/>
+			<point x="-132" y="796" type="curve"/>
+			<point x="-132" y="735"/>
+			<point x="-84" y="697"/>
 		</contour>
 		<contour>
-			<point x="0" y="752" type="curve"/>
-			<point x="-23" y="752"/>
-			<point x="-42" y="769"/>
-			<point x="-42" y="796" type="curve"/>
-			<point x="-42" y="822"/>
-			<point x="-23" y="839"/>
-			<point x="0" y="839" type="curve"/>
-			<point x="23" y="839"/>
-			<point x="42" y="822"/>
-			<point x="42" y="796" type="curve"/>
-			<point x="42" y="769"/>
-			<point x="23" y="752"/>
+			<point x="0" y="750" type="curve"/>
+			<point x="-26" y="750"/>
+			<point x="-43" y="768"/>
+			<point x="-43" y="796" type="curve"/>
+			<point x="-43" y="823"/>
+			<point x="-26" y="841"/>
+			<point x="0" y="841" type="curve"/>
+			<point x="26" y="841"/>
+			<point x="43" y="823"/>
+			<point x="43" y="796" type="curve"/>
+			<point x="43" y="768"/>
+			<point x="26" y="750"/>
 		</contour>
 	</outline>
-	<anchor name="_aboveUC" x="0" y="672"/>
+	<anchor name="_aboveUC" x="0" y="674"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -42,15 +42,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 697 55</string>
-							<string>hstem 839 55</string>
-							<string>vstem -114 72</string>
-							<string>vstem 42 72</string>
+							<string>hstem 697 53</string>
+							<string>hstem 841 53</string>
+							<string>vstem -132 89</string>
+							<string>vstem 43 89</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>e2f65d660c151b72d940564efdd9b16804925e0b139bacae279578c72e876647d12f6003db68be0d038902afe7fd54b212da0e8d9faf0fffd3c55a1f90ecaeb5</string>
+				<string>d785c1b7a9cb7fe31f4456d35177b4f5adb15f6264e9e2966131fec4aa6380aed541fe150b22c07cd3776b9016105f5bc54ba45daeabf6b2d5ac2bec5511d0b6</string>
 			</dict>
 		</dict>
 	</lib>

@@ -4,31 +4,31 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="186" y="215" type="curve"/>
-			<point x="274" y="215"/>
-			<point x="335" y="286"/>
-			<point x="335" y="409" type="curve"/>
-			<point x="335" y="531"/>
-			<point x="274" y="601"/>
-			<point x="186" y="601" type="curve"/>
-			<point x="98" y="601"/>
-			<point x="37" y="531"/>
-			<point x="37" y="409" type="curve"/>
-			<point x="37" y="286"/>
-			<point x="98" y="215"/>
+			<point x="278" y="215"/>
+			<point x="342" y="291"/>
+			<point x="342" y="423" type="curve"/>
+			<point x="342" y="554"/>
+			<point x="278" y="629"/>
+			<point x="186" y="629" type="curve"/>
+			<point x="94" y="629"/>
+			<point x="30" y="554"/>
+			<point x="30" y="423" type="curve"/>
+			<point x="30" y="291"/>
+			<point x="94" y="215"/>
 		</contour>
 		<contour>
-			<point x="186" y="294" type="curve"/>
-			<point x="141" y="294"/>
-			<point x="107" y="331"/>
-			<point x="107" y="409" type="curve"/>
-			<point x="107" y="487"/>
-			<point x="141" y="522"/>
-			<point x="186" y="522" type="curve"/>
-			<point x="231" y="522"/>
-			<point x="265" y="487"/>
-			<point x="265" y="409" type="curve"/>
-			<point x="265" y="331"/>
-			<point x="231" y="294"/>
+			<point x="186" y="282" type="curve"/>
+			<point x="144" y="282"/>
+			<point x="113" y="325"/>
+			<point x="113" y="423" type="curve"/>
+			<point x="113" y="521"/>
+			<point x="144" y="562"/>
+			<point x="186" y="562" type="curve"/>
+			<point x="228" y="562"/>
+			<point x="259" y="521"/>
+			<point x="259" y="423" type="curve"/>
+			<point x="259" y="325"/>
+			<point x="228" y="282"/>
 		</contour>
 	</outline>
 	<lib>
@@ -42,15 +42,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 215 79</string>
-							<string>hstem 522 79</string>
-							<string>vstem 37 70</string>
-							<string>vstem 265 70</string>
+							<string>hstem 215 67</string>
+							<string>hstem 562 67</string>
+							<string>vstem 30 83</string>
+							<string>vstem 259 83</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>93fa764d975ffa644a489bdbc6d79b399491bd70bcd6904f287f0199ea495663c968f5ae6dc500fb5ee3f758a7d0c0042ec6eeccd3ca562dcb81424c62ec7d42</string>
+				<string>4904bfc1132eed8631c9e14bbbf181bc5480111410cf82aa7b797d603c44eee4674cb74659a3182d97e983a36e5591ba4e0f95d146269f2fc412d05b0b9cc5a8</string>
 			</dict>
 		</dict>
 	</lib>

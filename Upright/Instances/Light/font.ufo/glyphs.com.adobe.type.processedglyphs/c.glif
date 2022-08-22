@@ -5,11 +5,11 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="270" y="-12" type="curve"/>
-			<point x="331" y="-12"/>
-			<point x="382" y="15"/>
-			<point x="423" y="51" type="curve"/>
-			<point x="400" y="82" type="line"/>
-			<point x="367" y="52"/>
+			<point x="333" y="-12"/>
+			<point x="383" y="14"/>
+			<point x="423" y="54" type="curve"/>
+			<point x="400" y="80" type="line"/>
+			<point x="369" y="49"/>
 			<point x="323" y="27"/>
 			<point x="272" y="27" type="curve"/>
 			<point x="167" y="27"/>
@@ -18,12 +18,12 @@
 			<point x="98" y="366"/>
 			<point x="174" y="453"/>
 			<point x="272" y="453" type="curve"/>
-			<point x="319" y="453"/>
-			<point x="355" y="431"/>
-			<point x="386" y="402" type="curve"/>
+			<point x="321" y="453"/>
+			<point x="359" y="435"/>
+			<point x="388" y="406" type="curve"/>
 			<point x="412" y="433" type="line"/>
-			<point x="379" y="463"/>
-			<point x="337" y="492"/>
+			<point x="379" y="467"/>
+			<point x="336" y="492"/>
 			<point x="271" y="492" type="curve"/>
 			<point x="154" y="492"/>
 			<point x="52" y="400"/>
@@ -32,9 +32,10 @@
 			<point x="146" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="269" y="502"/>
-	<anchor name="belowLC" x="266" y="-20"/>
-	<anchor name="baseLC" x="267" y="0"/>
+	<anchor name="aboveLC" x="271" y="504"/>
+	<anchor name="aboverightLC" x="411" y="504"/>
+	<anchor name="baseLC" x="269" y="0"/>
+	<anchor name="belowLC" x="269" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -53,7 +54,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9cd8f7d80590ea331b9d33ead304f70ec216bc15881f8789bc9c3d8b142ef74f77b83a978636126ed05802f24bd4fccd9fbb15c3f8e0f4006e73862b61b49a8b</string>
+				<string>853c2ad9d7a28c132c18f725a63f42af75ea6064488ed95e71cd11fadff0d0b4e60aa59c84603066325e55ddb538a70552d8fd6fd92d76eec3a0059edb8bd83e</string>
 			</dict>
 		</dict>
 	</lib>

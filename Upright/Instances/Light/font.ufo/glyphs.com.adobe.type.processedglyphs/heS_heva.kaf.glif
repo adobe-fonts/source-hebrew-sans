@@ -2,35 +2,35 @@
 <glyph name="heSheva.kaf" format="2">
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="0" y="-84" type="curve"/>
-			<point x="-20" y="-84"/>
-			<point x="-36" y="-99"/>
-			<point x="-36" y="-120" type="curve"/>
-			<point x="-36" y="-140"/>
-			<point x="-20" y="-156"/>
-			<point x="0" y="-156" type="curve"/>
-			<point x="20" y="-156"/>
-			<point x="36" y="-140"/>
-			<point x="36" y="-120" type="curve"/>
-			<point x="36" y="-99"/>
-			<point x="20" y="-84"/>
+			<point name="hintSet0000" x="0" y="-159" type="curve"/>
+			<point x="19" y="-159"/>
+			<point x="33" y="-146"/>
+			<point x="33" y="-124" type="curve"/>
+			<point x="33" y="-104"/>
+			<point x="19" y="-91"/>
+			<point x="0" y="-91" type="curve"/>
+			<point x="-19" y="-91"/>
+			<point x="-33" y="-104"/>
+			<point x="-33" y="-124" type="curve"/>
+			<point x="-33" y="-146"/>
+			<point x="-19" y="-159"/>
 		</contour>
 		<contour>
-			<point x="0" y="-205" type="curve"/>
-			<point x="-20" y="-205"/>
-			<point x="-36" y="-221"/>
-			<point x="-36" y="-241" type="curve"/>
-			<point x="-36" y="-262"/>
-			<point x="-20" y="-277"/>
-			<point x="0" y="-277" type="curve"/>
-			<point x="20" y="-277"/>
-			<point x="36" y="-262"/>
-			<point x="36" y="-241" type="curve"/>
-			<point x="36" y="-221"/>
-			<point x="20" y="-205"/>
+			<point x="0" y="-270" type="curve"/>
+			<point x="19" y="-270"/>
+			<point x="33" y="-257"/>
+			<point x="33" y="-235" type="curve"/>
+			<point x="33" y="-215"/>
+			<point x="19" y="-202"/>
+			<point x="0" y="-202" type="curve"/>
+			<point x="-19" y="-202"/>
+			<point x="-33" y="-215"/>
+			<point x="-33" y="-235" type="curve"/>
+			<point x="-33" y="-257"/>
+			<point x="-19" y="-270"/>
 		</contour>
 	</outline>
-	<anchor name="_centerSecondaryHE" x="0" y="-30"/>
+	<anchor name="_centerSecondaryHE" x="0" y="-29"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -42,14 +42,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -277 72</string>
-							<string>hstem -156 72</string>
-							<string>vstem -36 72</string>
+							<string>hstem -270 68</string>
+							<string>hstem -159 68</string>
+							<string>vstem -33 66</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>e2a0a34b5b7fe2e35ec958dc181cff196fbe792f71e97137a6db23b21fb5f9092640d15196c9592c247c8a4c9348b8b527a714d8ee20b8e21b9a2c0d86ef35d4</string>
+				<string>9c197be73898954f4a90d5143b18104868fe952d4e817be7b678861473a40ab68d77bdfb22998b46f42aa6d89de041b3b8d7a0d9cb34acf5620f021587ea1dfa</string>
 			</dict>
 		</dict>
 	</lib>

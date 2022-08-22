@@ -16,10 +16,10 @@
 			<point x="40" y="70" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0010" x="142" y="-180" type="line"/>
-			<point x="422" y="-180" type="line"/>
-			<point x="422" y="-104" type="line"/>
-			<point x="142" y="-104" type="line"/>
+			<point name="hintSet0010" x="142" y="-168" type="line"/>
+			<point x="422" y="-168" type="line"/>
+			<point x="422" y="-92" type="line"/>
+			<point x="142" y="-92" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -33,7 +33,7 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -180 76</string>
+							<string>hstem -168 76</string>
 							<string>hstem 0 98</string>
 							<string>hstem 556 98</string>
 							<string>vstem 40 462</string>
@@ -44,7 +44,7 @@
 						<string>hintSet0010</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -180 76</string>
+							<string>hstem -168 76</string>
 							<string>hstem 0 98</string>
 							<string>hstem 556 98</string>
 							<string>vstem 142 280</string>
@@ -52,7 +52,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w540l400l5020l50298l18398l500584l500654l69654l69556l356556l4070l142-180l422-180l422-104l142-104</string>
+				<string>w540l400l5020l50298l18398l500584l500654l69654l69556l356556l4070l142-168l422-168l422-92l142-92</string>
 			</dict>
 		</dict>
 	</lib>

@@ -4,34 +4,34 @@
 	<advance width="515"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="210" y="0" type="line"/>
-			<point x="307" y="0" type="line"/>
+			<point name="hintSet0000" x="206" y="0" type="line"/>
+			<point x="303" y="0" type="line"/>
 			<point x="515" y="656" type="line"/>
 			<point x="430" y="656" type="line"/>
-			<point x="325" y="302" type="line"/>
-			<point x="302" y="224"/>
-			<point x="286" y="162"/>
-			<point x="262" y="85" type="curve"/>
-			<point x="258" y="85" type="line"/>
-			<point x="233" y="162"/>
-			<point x="218" y="224"/>
-			<point x="194" y="302" type="curve"/>
+			<point x="321" y="302" type="line"/>
+			<point x="297" y="223"/>
+			<point x="281" y="163"/>
+			<point x="258" y="85" type="curve"/>
+			<point x="254" y="85" type="line"/>
+			<point x="231" y="163"/>
+			<point x="213" y="223"/>
+			<point x="190" y="302" type="curve"/>
 			<point x="89" y="656" type="line"/>
 			<point x="0" y="656" type="line"/>
 		</contour>
 		<contour>
-			<point x="258" y="-206" type="curve"/>
-			<point x="289" y="-206"/>
-			<point x="312" y="-184"/>
-			<point x="312" y="-152" type="curve"/>
-			<point x="312" y="-121"/>
-			<point x="289" y="-98"/>
-			<point x="258" y="-98" type="curve"/>
-			<point x="227" y="-98"/>
-			<point x="204" y="-121"/>
-			<point x="204" y="-152" type="curve"/>
-			<point x="204" y="-184"/>
-			<point x="227" y="-206"/>
+			<point x="256" y="-206" type="curve"/>
+			<point x="288" y="-206"/>
+			<point x="311" y="-185"/>
+			<point x="311" y="-152" type="curve"/>
+			<point x="311" y="-120"/>
+			<point x="288" y="-98"/>
+			<point x="256" y="-98" type="curve"/>
+			<point x="224" y="-98"/>
+			<point x="201" y="-120"/>
+			<point x="201" y="-152" type="curve"/>
+			<point x="201" y="-185"/>
+			<point x="224" y="-206"/>
 		</contour>
 	</outline>
 	<lib>
@@ -48,12 +48,12 @@
 							<string>hstem -206 108</string>
 							<string>hstem 0 85</string>
 							<string>hstem 656 -20</string>
-							<string>vstem 204 108</string>
+							<string>vstem 201 110</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>ef4d7934be7e8ceb99e00456ea7a0b268ef72df0f1bbca4b9f8f8485b6b3d8f5e80913df5b09c2011de88b7868a78de608bdb340e3328f6baad179903e6b96c0</string>
+				<string>dbd4ee0a417cb4b7e07c6af8a247ba55e15f8b70af71a5811e1ec8c2b902d3a18b184d231e1a7276609fca893a622e8036baaf1ce815f7cc7457558f2e3642ce</string>
 			</dict>
 		</dict>
 	</lib>

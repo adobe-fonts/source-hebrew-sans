@@ -4,17 +4,17 @@
 	<advance width="380"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="116" y="-150" type="curve"/>
-			<point x="240" y="-150" type="line"/>
-			<point name="hintSet0002" x="246" y="-34"/>
-			<point x="270" y="32"/>
-			<point x="352" y="136" type="curve"/>
-			<point x="352" y="220" type="line"/>
-			<point x="50" y="220" type="line"/>
-			<point x="50" y="108" type="line"/>
-			<point x="220" y="108" type="line"/>
-			<point name="hintSet0007" x="158" y="26"/>
-			<point x="122" y="-44"/>
+			<point name="hintSet0000" x="112" y="-150" type="curve"/>
+			<point x="244" y="-150" type="line"/>
+			<point name="hintSet0002" x="250" y="-20"/>
+			<point x="266" y="64"/>
+			<point x="352" y="174" type="curve"/>
+			<point x="352" y="240" type="line"/>
+			<point x="50" y="240" type="line"/>
+			<point x="50" y="136" type="line"/>
+			<point x="214" y="136" type="line"/>
+			<point name="hintSet0007" x="150" y="36"/>
+			<point x="118" y="-34"/>
 		</contour>
 	</outline>
 	<lib>
@@ -28,8 +28,8 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 108 112</string>
-							<string>vstem 116 124</string>
+							<string>hstem 136 104</string>
+							<string>vstem 112 132</string>
 						</array>
 					</dict>
 					<dict>
@@ -37,7 +37,7 @@
 						<string>hintSet0002</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 108 112</string>
+							<string>hstem 136 104</string>
 							<string>vstem 50 302</string>
 						</array>
 					</dict>
@@ -46,13 +46,13 @@
 						<string>hintSet0007</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 108 112</string>
-							<string>vstem 116 124</string>
+							<string>hstem 136 104</string>
+							<string>vstem 112 132</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w380c116-150l240-150246-3427032c352136l352220l50220l50108l22010815826122-44</string>
+				<string>w380c112-150l244-150250-2026664c352174l352240l50240l50136l21413615036118-34</string>
 			</dict>
 		</dict>
 	</lib>

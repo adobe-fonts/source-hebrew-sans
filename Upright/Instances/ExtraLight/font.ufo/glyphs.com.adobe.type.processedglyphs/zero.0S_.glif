@@ -18,33 +18,34 @@
 		</contour>
 		<contour>
 			<point x="236" y="-12" type="curve"/>
-			<point x="353" y="-12"/>
-			<point x="418" y="93"/>
-			<point x="418" y="276" type="curve"/>
-			<point x="418" y="458"/>
-			<point x="353" y="558"/>
+			<point x="356" y="-12"/>
+			<point x="422" y="93"/>
+			<point x="422" y="276" type="curve"/>
+			<point x="422" y="458"/>
+			<point x="356" y="558"/>
 			<point x="236" y="558" type="curve"/>
-			<point x="119" y="558"/>
-			<point x="54" y="458"/>
-			<point x="54" y="276" type="curve"/>
-			<point x="54" y="93"/>
-			<point x="119" y="-12"/>
+			<point x="116" y="558"/>
+			<point x="50" y="458"/>
+			<point x="50" y="276" type="curve"/>
+			<point x="50" y="93"/>
+			<point x="116" y="-12"/>
 		</contour>
 		<contour>
-			<point x="236" y="18" type="curve"/>
-			<point x="142" y="18"/>
-			<point x="82" y="111"/>
+			<point x="236" y="16" type="curve"/>
+			<point x="142" y="16"/>
+			<point x="82" y="110"/>
 			<point x="82" y="276" type="curve"/>
-			<point x="82" y="439"/>
-			<point x="142" y="528"/>
-			<point x="236" y="528" type="curve"/>
-			<point x="330" y="528"/>
-			<point x="390" y="439"/>
+			<point x="82" y="440"/>
+			<point x="142" y="530"/>
+			<point x="236" y="530" type="curve"/>
+			<point x="330" y="530"/>
+			<point x="390" y="440"/>
 			<point x="390" y="276" type="curve"/>
-			<point x="390" y="111"/>
-			<point x="330" y="18"/>
+			<point x="390" y="110"/>
+			<point x="330" y="16"/>
 		</contour>
 	</outline>
+	<guideline x="236" y="270" angle="90" identifier="DqkeknlTI0"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -56,17 +57,17 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -12 30</string>
+							<string>hstem -12 28</string>
 							<string>hstem 214 116</string>
-							<string>hstem 528 30</string>
-							<string>vstem 54 28</string>
+							<string>hstem 530 28</string>
+							<string>vstem 50 32</string>
 							<string>vstem 184 104</string>
-							<string>vstem 390 28</string>
+							<string>vstem 390 32</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>0612dd6ab412024c85c4327ee370c8eab0813885394b2312d392850be34a0c71cc7d00eddd3a48681aeca7321914382b707ce08a55ca2477cf3f128be6ec010a</string>
+				<string>d417c63bdf475f469713202b63f513179b9569e3455d9136f93f964ce72ed1f4d43e8c2e455e5c64e300ee59373f2859a77268893df3171db9151e4d17793daf</string>
 			</dict>
 		</dict>
 	</lib>

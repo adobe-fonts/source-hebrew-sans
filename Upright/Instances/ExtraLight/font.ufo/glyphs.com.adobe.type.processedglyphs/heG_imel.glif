@@ -4,26 +4,26 @@
 	<advance width="370"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="264" y="0" type="line"/>
+			<point name="hintSet0000" x="262" y="0" type="line"/>
 			<point x="292" y="0" type="line"/>
-			<point x="256" y="426" type="line"/>
-			<point x="249" y="504"/>
-			<point x="215" y="546"/>
-			<point x="142" y="546" type="curve"/>
+			<point x="256" y="420" type="line"/>
+			<point x="249" y="502"/>
+			<point x="212" y="546"/>
+			<point x="136" y="546" type="curve"/>
 			<point x="74" y="546" type="line"/>
-			<point x="74" y="516" type="line"/>
-			<point x="132" y="516" type="line"/>
-			<point x="199" y="516"/>
-			<point x="226" y="490"/>
-			<point x="232" y="416" type="curve"/>
-			<point x="251" y="166" type="line"/>
-			<point x="231" y="89"/>
-			<point x="143" y="30"/>
-			<point x="54" y="22" type="curve"/>
+			<point x="74" y="518" type="line"/>
+			<point x="124" y="518" type="line"/>
+			<point x="194" y="518"/>
+			<point x="224" y="490"/>
+			<point x="230" y="412" type="curve"/>
+			<point x="250" y="160" type="line"/>
+			<point x="226" y="85"/>
+			<point x="141" y="27"/>
+			<point x="54" y="20" type="curve"/>
 			<point x="54" y="-8" type="line"/>
-			<point x="146" y="-3"/>
-			<point x="227" y="60"/>
-			<point x="255" y="122" type="curve"/>
+			<point x="144" y="-3"/>
+			<point x="224" y="57"/>
+			<point x="253" y="118" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -37,14 +37,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -8 30</string>
-							<string>hstem 516 30</string>
+							<string>hstem -8 28</string>
+							<string>hstem 518 28</string>
 							<string>vstem 54 238</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w370l2640l2920l256426249504215546c142546l74546l74516l132516199516226490c232416l2511662318914330c5422l54-8146-322760c255122</string>
+				<string>w370l2620l2920l256420249502212546c136546l74546l74518l124518194518224490c230412l2501602268514127c5420l54-8144-322457c253118</string>
 			</dict>
 		</dict>
 	</lib>

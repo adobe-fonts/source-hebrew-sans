@@ -6,13 +6,13 @@
 		<contour>
 			<point name="hintSet0000" x="158" y="196" type="line"/>
 			<point x="186" y="196" type="line"/>
-			<point name="hintSet0002" x="186" y="546" type="line"/>
-			<point x="160" y="546" type="line"/>
-			<point name="hintSet0004" x="138" y="528"/>
-			<point x="112" y="516"/>
-			<point x="76" y="508" type="curve"/>
-			<point x="76" y="486" type="line"/>
-			<point x="158" y="486" type="line"/>
+			<point name="hintSet0002" x="186" y="586" type="line"/>
+			<point x="160" y="586" type="line"/>
+			<point name="hintSet0004" x="138" y="568"/>
+			<point x="112" y="556"/>
+			<point x="76" y="548" type="curve"/>
+			<point x="76" y="526" type="line"/>
+			<point x="158" y="526" type="line"/>
 		</contour>
 		<contour>
 			<point x="188" y="-12" type="line"/>
@@ -31,15 +31,15 @@
 		<contour>
 			<point x="622" y="0" type="line"/>
 			<point x="650" y="0" type="line"/>
-			<point x="650" y="116" type="line"/>
-			<point x="708" y="116" type="line"/>
+			<point x="650" y="118" type="line"/>
+			<point x="708" y="118" type="line"/>
 			<point x="708" y="144" type="line"/>
 			<point x="650" y="144" type="line"/>
 			<point x="650" y="390" type="line"/>
 			<point x="628" y="390" type="line"/>
 			<point x="446" y="134" type="line"/>
-			<point x="446" y="116" type="line"/>
-			<point x="622" y="116" type="line"/>
+			<point x="446" y="118" type="line"/>
+			<point x="622" y="118" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -53,8 +53,8 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 116 28</string>
-							<string>hstem 486 22</string>
+							<string>hstem 118 26</string>
+							<string>hstem 526 22</string>
 							<string>vstem 158 28</string>
 							<string>vstem 622 28</string>
 						</array>
@@ -64,8 +64,8 @@
 						<string>hintSet0002</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 116 28</string>
-							<string>hstem 486 60</string>
+							<string>hstem 118 26</string>
+							<string>hstem 526 60</string>
 							<string>vstem 158 28</string>
 							<string>vstem 622 28</string>
 						</array>
@@ -75,16 +75,16 @@
 						<string>hintSet0004</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 116 28</string>
+							<string>hstem 118 26</string>
 							<string>hstem 340 50</string>
-							<string>hstem 486 22</string>
+							<string>hstem 526 22</string>
 							<string>vstem 158 28</string>
 							<string>vstem 622 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>78a50bca0db62f1a90bd74cebe40fce4b08eef61bce73df59312b612f446ad8e593accf8d2ac0c2b117ec2b97423822d1715036c311dc7bb0ae5ec5d9458e656</string>
+				<string>a4771e66204d7f426df0b1411196ec6423e76c2e73bb3bf4804ad86246ab15215701f2e46c1fa0bba509f25fe8e6ea0c3cb41a1b94b79d0b7d0566f9801d18a5</string>
 			</dict>
 		</dict>
 	</lib>

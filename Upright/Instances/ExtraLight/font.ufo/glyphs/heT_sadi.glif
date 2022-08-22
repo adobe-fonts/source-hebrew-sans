@@ -4,22 +4,6 @@
 	<advance width="502"/>
 	<outline>
 		<contour>
-			<point x="54" y="0" type="line"/>
-			<point x="452" y="0" type="line"/>
-			<point x="458" y="28" type="line"/>
-			<point x="54" y="28" type="line"/>
-		</contour>
-		<contour>
-			<point x="436" y="10" type="curve"/>
-			<point x="458" y="28" type="line"/>
-			<point x="274" y="193"/>
-			<point x="143" y="355"/>
-			<point x="58" y="552" type="curve"/>
-			<point x="24" y="544" type="line"/>
-			<point x="116" y="341"/>
-			<point x="256" y="165"/>
-		</contour>
-		<contour>
 			<point x="272" y="204" type="line"/>
 			<point x="374" y="292"/>
 			<point x="444" y="387"/>
@@ -35,11 +19,25 @@
 			<point x="416" y="450" type="curve" smooth="yes"/>
 			<point x="416" y="394"/>
 			<point x="358" y="310"/>
-			<point x="252" y="222" type="curve"/>
+			<point x="252" y="224" type="curve"/>
+		</contour>
+		<contour>
+			<point x="54" y="0" type="line"/>
+			<point x="452" y="0" type="line"/>
+			<point x="458" y="24" type="line"/>
+			<point x="274" y="190"/>
+			<point x="130" y="364"/>
+			<point x="58" y="550" type="curve"/>
+			<point x="24" y="546" type="line"/>
+			<point x="104" y="358"/>
+			<point x="239" y="182"/>
+			<point x="434" y="10" type="curve"/>
+			<point x="444" y="28" type="line"/>
+			<point x="54" y="28" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="230" y="590"/>
+	<anchor name="aboveHE" x="240" y="590"/>
 	<anchor name="belowPrimaryHE" x="240" y="-30"/>
-	<anchor name="centerHE" x="135" y="170"/>
-	<anchor name="aboveLeftHE" x="-5" y="590"/>
+	<anchor name="centerHE" x="130" y="160"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
 </glyph>

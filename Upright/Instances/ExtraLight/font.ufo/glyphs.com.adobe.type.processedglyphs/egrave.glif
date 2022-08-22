@@ -9,20 +9,20 @@
 			<point x="410" y="398"/>
 			<point x="410" y="266" type="curve"/>
 			<point x="87" y="266" type="line"/>
-			<point x="97" y="398"/>
-			<point x="180" y="462"/>
+			<point x="97" y="397"/>
+			<point x="181" y="462"/>
 		</contour>
 		<contour>
 			<point name="hintSet0004" x="272" y="-12" type="curve"/>
 			<point x="344" y="-12"/>
-			<point x="384" y="12"/>
+			<point x="384" y="10"/>
 			<point x="420" y="34" type="curve"/>
-			<point x="406" y="60" type="line"/>
-			<point x="370" y="34"/>
+			<point x="406" y="56" type="line"/>
+			<point x="372" y="32"/>
 			<point x="328" y="16"/>
 			<point x="274" y="16" type="curve"/>
 			<point x="168" y="16"/>
-			<point x="86" y="100"/>
+			<point x="87" y="103"/>
 			<point x="86" y="238" type="curve"/>
 			<point x="438" y="238" type="line"/>
 			<point x="440" y="250"/>
@@ -38,10 +38,11 @@
 			<point x="152" y="-12"/>
 		</contour>
 		<contour>
-			<point x="294" y="574" type="line"/>
-			<point x="312" y="590" type="line"/>
-			<point x="180" y="744" type="line"/>
-			<point x="156" y="724" type="line"/>
+			<point x="300" y="570" type="line"/>
+			<point x="330" y="570" type="line"/>
+			<point x="190" y="720" type="line"/>
+			<point x="152" y="720" type="line"/>
+			<point x="150" y="716" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -58,7 +59,6 @@
 							<string>hstem -12 28</string>
 							<string>hstem 238 28</string>
 							<string>hstem 462 28</string>
-							<string>hstem 724 -20</string>
 							<string>vstem 54 33</string>
 							<string>vstem 410 30</string>
 						</array>
@@ -71,14 +71,13 @@
 							<string>hstem -12 28</string>
 							<string>hstem 238 28</string>
 							<string>hstem 462 28</string>
-							<string>hstem 724 -20</string>
 							<string>vstem 54 32</string>
 							<string>vstem 410 30</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>100d019343ca65c4e26ce0e56ce681f16360819830f6007e7489eb7c8e66eeefe9ec6c3e7dc7dbfa86568bdfd8c9dcdfdc3a6ac38a10120f18d61cb775116557</string>
+				<string>33fe6afaf77da2d956e5cd279373e0d788497d6dc7abc64d61d610b38fd63d23a929b369863506ce351d5987e7a85299dfb7744c3575a0ff675411cbfedea997</string>
 			</dict>
 		</dict>
 	</lib>

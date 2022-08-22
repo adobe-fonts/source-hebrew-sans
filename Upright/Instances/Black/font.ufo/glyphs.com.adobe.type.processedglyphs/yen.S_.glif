@@ -4,13 +4,13 @@
 	<advance width="540"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="196" y="0" type="line"/>
-			<point x="344" y="0" type="line"/>
-			<point x="344" y="120" type="line"/>
+			<point name="hintSet0000" x="184" y="0" type="line"/>
+			<point x="356" y="0" type="line"/>
+			<point name="hintSet0002" x="356" y="120" type="line"/>
 			<point x="506" y="120" type="line"/>
 			<point x="506" y="204" type="line"/>
-			<point x="344" y="204" type="line"/>
-			<point x="344" y="248" type="line"/>
+			<point x="356" y="204" type="line"/>
+			<point x="356" y="248" type="line"/>
 			<point x="506" y="248" type="line"/>
 			<point x="506" y="332" type="line"/>
 			<point x="392" y="332" type="line"/>
@@ -29,11 +29,11 @@
 			<point x="148" y="332" type="line"/>
 			<point x="34" y="332" type="line"/>
 			<point x="34" y="248" type="line"/>
-			<point x="196" y="248" type="line"/>
-			<point x="196" y="204" type="line"/>
+			<point x="184" y="248" type="line"/>
+			<point x="184" y="204" type="line"/>
 			<point x="34" y="204" type="line"/>
 			<point x="34" y="120" type="line"/>
-			<point x="196" y="120" type="line"/>
+			<point x="184" y="120" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -47,14 +47,24 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
+							<string>hstem 0 204</string>
+							<string>hstem 248 84</string>
+							<string>vstem 184 172</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0002</string>
+						<key>stems</key>
+						<array>
 							<string>hstem 120 84</string>
 							<string>hstem 248 84</string>
-							<string>vstem 196 148</string>
+							<string>vstem 184 172</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>2a4b1987a9e667898f5e78a02cb9d17a65df4f986bd0b76b28ba7aa778de401bd3501554b92020e6022f7dbedd397aeadf231c789ce35a8160237f73947e2326</string>
+				<string>7ce057df081ced4f28998ed7759720490747879e8f669c981ce0000bce69715fe848997fa80b65c12bf9b3091a52515e097bce88e872090446f91af141a177d0</string>
 			</dict>
 		</dict>
 	</lib>

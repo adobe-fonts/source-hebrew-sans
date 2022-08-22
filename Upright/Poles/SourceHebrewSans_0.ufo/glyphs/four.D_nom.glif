@@ -8,8 +8,8 @@
 			<point x="252" y="390" type="line"/>
 			<point x="230" y="390" type="line"/>
 			<point x="48" y="134" type="line"/>
-			<point x="48" y="116" type="line"/>
-			<point x="310" y="116" type="line"/>
+			<point x="48" y="118" type="line"/>
+			<point x="310" y="118" type="line"/>
 			<point x="310" y="144" type="line"/>
 			<point x="88" y="144" type="line"/>
 			<point x="166" y="256" type="line"/>
@@ -27,6 +27,8 @@
 				<integer>1</integer>
 				<integer>1</integer>
 			</array>
+			<key>public.markColor</key>
+			<string>0.9883,0.4005,0.9993,1</string>
 		</dict>
 	</lib>
 </glyph>

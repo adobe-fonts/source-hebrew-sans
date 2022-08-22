@@ -27,12 +27,14 @@
 			<point x="100" y="-12"/>
 		</contour>
 		<contour>
-			<point x="280" y="572" type="line"/>
-			<point x="364" y="656" type="line"/>
-			<point x="206" y="844" type="line"/>
-			<point x="90" y="730" type="line"/>
+			<point name="hintSet0014" x="250" y="570" type="line"/>
+			<point x="380" y="570" type="line"/>
+			<point name="hintSet0016" x="270" y="760" type="line"/>
+			<point x="90" y="760" type="line"/>
+			<point x="80" y="742" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="280" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -46,6 +48,7 @@
 						<array>
 							<string>hstem 9 -21</string>
 							<string>hstem 500 -20</string>
+							<string>hstem 742 18</string>
 							<string>vstem 54 172</string>
 							<string>vstem 348 172</string>
 						</array>
@@ -57,6 +60,7 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 500 -20</string>
+							<string>hstem 742 18</string>
 							<string>vstem 54 172</string>
 							<string>vstem 348 172</string>
 						</array>
@@ -68,6 +72,7 @@
 						<array>
 							<string>hstem -12 146</string>
 							<string>hstem 500 -20</string>
+							<string>hstem 742 18</string>
 							<string>vstem 54 172</string>
 							<string>vstem 348 172</string>
 						</array>
@@ -79,13 +84,38 @@
 						<array>
 							<string>hstem 9 -21</string>
 							<string>hstem 500 -20</string>
+							<string>hstem 742 18</string>
+							<string>vstem 54 172</string>
+							<string>vstem 348 172</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 500 -20</string>
+							<string>hstem 570 190</string>
+							<string>vstem 54 172</string>
+							<string>vstem 348 172</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0016</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 500 -20</string>
+							<string>hstem 742 18</string>
 							<string>vstem 54 172</string>
 							<string>vstem 348 172</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>009b85b42e71015d82eecd347bf2c41da524bace2c2a0bd572160a3d4ec1d1311c1f162e2f76e438dab53477148db93186a8e97393bdcd9993fa6950e0456422</string>
+				<string>9b494d1f90560b4ad8acff92d8d1fbaa7a4ed464caaae8f1aff8d0922a37c206e58dab0d8bbbe7462c32a72fcd609a877bd64f21340997d7d037be8c085804a3</string>
 			</dict>
 		</dict>
 	</lib>

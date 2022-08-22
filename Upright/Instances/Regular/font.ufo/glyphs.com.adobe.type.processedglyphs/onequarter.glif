@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="2">
 	<unicode hex="00BC"/>
-	<advance width="796"/>
+	<advance width="781"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="159" y="171" type="line"/>
-			<point x="223" y="171" type="line"/>
-			<point x="223" y="561" type="line"/>
-			<point x="171" y="561" type="line"/>
-			<point x="144" y="541"/>
-			<point x="118" y="529"/>
-			<point x="74" y="521" type="curve"/>
-			<point x="74" y="479" type="line"/>
-			<point x="159" y="479" type="line"/>
+			<point name="hintSet0000" x="148" y="266" type="line"/>
+			<point x="212" y="266" type="line"/>
+			<point x="212" y="656" type="line"/>
+			<point x="160" y="656" type="line"/>
+			<point x="133" y="636"/>
+			<point x="107" y="624"/>
+			<point x="63" y="616" type="curve"/>
+			<point x="63" y="574" type="line"/>
+			<point x="148" y="574" type="line"/>
 		</contour>
 		<contour>
-			<point x="188" y="-12" type="line"/>
-			<point x="244" y="-12" type="line"/>
-			<point x="606" y="668" type="line"/>
-			<point x="550" y="668" type="line"/>
+			<point x="181" y="-12" type="line"/>
+			<point x="237" y="-12" type="line"/>
+			<point x="599" y="668" type="line"/>
+			<point x="543" y="668" type="line"/>
 		</contour>
 		<contour>
-			<point x="537" y="150" type="line"/>
-			<point x="598" y="248" type="line"/>
-			<point x="648" y="329" type="line"/>
-			<point x="652" y="329" type="line"/>
-			<point x="648" y="220" type="line"/>
-			<point x="648" y="150" type="line"/>
+			<point x="522" y="150" type="line"/>
+			<point x="583" y="248" type="line"/>
+			<point x="633" y="329" type="line"/>
+			<point x="637" y="329" type="line"/>
+			<point x="633" y="220" type="line"/>
+			<point x="633" y="150" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0017" x="648" y="0" type="line"/>
-			<point x="706" y="0" type="line"/>
-			<point name="hintSet0019" x="706" y="104" type="line"/>
-			<point x="764" y="104" type="line"/>
-			<point x="764" y="150" type="line"/>
-			<point x="706" y="150" type="line"/>
-			<point x="706" y="390" type="line"/>
-			<point x="634" y="390" type="line"/>
-			<point x="470" y="137" type="line"/>
-			<point x="470" y="104" type="line"/>
-			<point x="648" y="104" type="line"/>
+			<point name="hintSet0017" x="633" y="0" type="line"/>
+			<point x="691" y="0" type="line"/>
+			<point name="hintSet0019" x="691" y="104" type="line"/>
+			<point x="749" y="104" type="line"/>
+			<point x="749" y="150" type="line"/>
+			<point x="691" y="150" type="line"/>
+			<point x="691" y="390" type="line"/>
+			<point x="619" y="390" type="line"/>
+			<point x="455" y="137" type="line"/>
+			<point x="455" y="104" type="line"/>
+			<point x="633" y="104" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -56,9 +56,9 @@
 							<string>hstem 9 -21</string>
 							<string>hstem 104 46</string>
 							<string>hstem 329 61</string>
-							<string>hstem 479 82</string>
-							<string>vstem 159 64</string>
-							<string>vstem 648 58</string>
+							<string>hstem 574 82</string>
+							<string>vstem 148 64</string>
+							<string>vstem 633 58</string>
 						</array>
 					</dict>
 					<dict>
@@ -68,9 +68,9 @@
 						<array>
 							<string>hstem 0 150</string>
 							<string>hstem 329 61</string>
-							<string>hstem 479 82</string>
-							<string>vstem 159 64</string>
-							<string>vstem 648 58</string>
+							<string>hstem 574 82</string>
+							<string>vstem 148 64</string>
+							<string>vstem 633 58</string>
 						</array>
 					</dict>
 					<dict>
@@ -81,14 +81,14 @@
 							<string>hstem 9 -21</string>
 							<string>hstem 104 46</string>
 							<string>hstem 329 61</string>
-							<string>hstem 479 82</string>
-							<string>vstem 159 64</string>
-							<string>vstem 648 58</string>
+							<string>hstem 574 82</string>
+							<string>vstem 148 64</string>
+							<string>vstem 633 58</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>1abeea6fc2dc0b230945b470544418a0ac126b98173e852efe2827b2170291d94e0e5343b9a772d02b8a1120b57984b4099419e947434af0c6080796388329e8</string>
+				<string>35b5689ebb426d1d4d8b86801d0aaa8d1bd1145a2196733912a75bdacd907d8fe8ed5b9f3be702d5432dccc240bcd68ee749f0f4d689049c5408f1580facdb18</string>
 			</dict>
 		</dict>
 	</lib>

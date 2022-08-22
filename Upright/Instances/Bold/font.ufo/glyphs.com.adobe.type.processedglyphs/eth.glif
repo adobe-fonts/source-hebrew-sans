@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eth" format="2">
 	<unicode hex="00F0"/>
-	<advance width="560"/>
+	<advance width="557"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="176" y="228" type="curve"/>
@@ -10,8 +10,8 @@
 			<point x="275" y="346" type="curve"/>
 			<point x="309" y="346"/>
 			<point x="342" y="336"/>
-			<point x="372" y="303" type="curve"/>
-			<point x="373" y="288"/>
+			<point x="371" y="303" type="curve"/>
+			<point x="372" y="289"/>
 			<point x="373" y="274"/>
 			<point x="373" y="258" type="curve"/>
 			<point x="373" y="155"/>
@@ -25,29 +25,29 @@
 			<point x="420" y="-12"/>
 			<point x="510" y="105"/>
 			<point x="510" y="266" type="curve"/>
-			<point x="510" y="415"/>
-			<point x="454" y="521"/>
-			<point x="375" y="601" type="curve"/>
-			<point x="495" y="662" type="line"/>
-			<point x="457" y="727" type="line"/>
-			<point x="314" y="655" type="line"/>
-			<point x="270" y="688"/>
-			<point x="223" y="716"/>
-			<point x="176" y="740" type="curve"/>
-			<point x="112" y="651" type="line"/>
-			<point x="145" y="634"/>
-			<point x="175" y="617"/>
-			<point x="202" y="598" type="curve"/>
-			<point x="86" y="540" type="line"/>
-			<point x="124" y="475" type="line"/>
-			<point x="266" y="546" type="line"/>
-			<point x="305" y="509"/>
-			<point x="333" y="466"/>
-			<point x="351" y="413" type="curve"/>
-			<point x="323" y="443"/>
+			<point x="510" y="418"/>
+			<point x="452" y="526"/>
+			<point x="369" y="605" type="curve"/>
+			<point x="484" y="662" type="line"/>
+			<point x="447" y="728" type="line"/>
+			<point x="305" y="657" type="line"/>
+			<point x="257" y="690"/>
+			<point x="205" y="717"/>
+			<point x="153" y="740" type="curve"/>
+			<point x="89" y="651" type="line"/>
+			<point x="126" y="635"/>
+			<point x="159" y="617"/>
+			<point x="189" y="599" type="curve"/>
+			<point x="76" y="542" type="line"/>
+			<point x="112" y="476" type="line"/>
+			<point x="257" y="548" type="line"/>
+			<point x="298" y="511"/>
+			<point x="328" y="468"/>
+			<point x="348" y="417" type="curve"/>
+			<point x="321" y="444"/>
 			<point x="284" y="455"/>
-			<point x="245" y="455" type="curve"/>
-			<point x="141" y="455"/>
+			<point x="249" y="455" type="curve"/>
+			<point x="142" y="455"/>
 			<point x="42" y="371"/>
 			<point x="42" y="228" type="curve"/>
 			<point x="42" y="81"/>
@@ -73,7 +73,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>3e760f6093e00b24184a0a4a7de1819b55c65c96e9cc617892e447354fd3781fd5b10a789c93ea5d81e6c5525b00330d858dbd19886794f82bd36d04759dcfe3</string>
+				<string>95e958a05635b4b9d9c899083a09497d5ea93650f1f01a606780e6fe9031e60646721f919a9e9377004fb86c6f728008a19da4c4f22838cb5a4001351656cf23</string>
 			</dict>
 		</dict>
 	</lib>

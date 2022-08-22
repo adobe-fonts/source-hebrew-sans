@@ -19,12 +19,14 @@
 			<point x="77" y="652" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0013" x="184" y="-188" type="line"/>
-			<point name="hintSet0014" x="480" y="-188" type="line"/>
-			<point x="480" y="-95" type="line"/>
-			<point name="hintSet0016" x="184" y="-95" type="line"/>
+			<point name="hintSet0013" x="184" y="-170" type="line"/>
+			<point x="480" y="-170" type="line"/>
+			<point x="480" y="-77" type="line"/>
+			<point x="184" y="-77" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboverightUC" x="525" y="674"/>
+	<anchor name="aboveUC" x="319" y="674"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -36,7 +38,7 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -188 93</string>
+							<string>hstem -170 93</string>
 							<string>hstem 21 -21</string>
 							<string>hstem 652 -20</string>
 							<string>vstem 77 147</string>
@@ -47,29 +49,7 @@
 						<string>hintSet0013</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -188 93</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 652 -20</string>
-							<string>vstem 184 40</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0014</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -188 93</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 652 -20</string>
-							<string>vstem 184 296</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0016</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -188 93</string>
+							<string>hstem -170 93</string>
 							<string>hstem 21 -21</string>
 							<string>hstem 652 -20</string>
 							<string>vstem 184 40</string>
@@ -77,7 +57,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w614l770l2240l224175l300275l4590l6200l387392l584652l422652l228385l224385l224652l77652l184-188l480-188l480-95l184-95</string>
+				<string>w614l770l2240l224175l300275l4590l6200l387392l584652l422652l228385l224385l224652l77652l184-170l480-170l480-77l184-77</string>
 			</dict>
 		</dict>
 	</lib>

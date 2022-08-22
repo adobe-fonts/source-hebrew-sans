@@ -6,30 +6,32 @@
 		<contour>
 			<point name="hintSet0000" x="334" y="-12" type="curve"/>
 			<point x="502" y="-12"/>
-			<point x="591" y="83"/>
-			<point x="591" y="302" type="curve"/>
+			<point x="591" y="81"/>
+			<point x="591" y="294" type="curve"/>
 			<point x="591" y="652" type="line"/>
 			<point x="449" y="652" type="line"/>
-			<point x="449" y="287" type="line"/>
-			<point x="449" y="159"/>
+			<point x="449" y="279" type="line"/>
+			<point x="449" y="157"/>
 			<point x="407" y="115"/>
 			<point x="334" y="115" type="curve"/>
 			<point x="261" y="115"/>
-			<point x="221" y="159"/>
-			<point x="221" y="287" type="curve"/>
+			<point x="221" y="157"/>
+			<point x="221" y="279" type="curve"/>
 			<point x="221" y="652" type="line"/>
 			<point x="73" y="652" type="line"/>
-			<point x="73" y="302" type="line"/>
-			<point x="73" y="83"/>
+			<point x="73" y="294" type="line"/>
+			<point x="73" y="81"/>
 			<point x="165" y="-12"/>
 		</contour>
 		<contour>
-			<point x="342" y="680" type="line"/>
-			<point x="408" y="754" type="line"/>
-			<point x="237" y="894" type="line"/>
-			<point x="159" y="799" type="line"/>
+			<point name="hintSet0011" x="297" y="702" type="line"/>
+			<point x="418" y="702" type="line"/>
+			<point name="hintSet0013" x="295" y="855" type="line"/>
+			<point x="130" y="855" type="line"/>
+			<point x="121" y="839" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="332" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -43,13 +45,38 @@
 						<array>
 							<string>hstem -12 127</string>
 							<string>hstem 652 -20</string>
+							<string>hstem 839 16</string>
+							<string>vstem 73 148</string>
+							<string>vstem 449 142</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0011</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 127</string>
+							<string>hstem 652 -20</string>
+							<string>hstem 702 153</string>
+							<string>vstem 73 148</string>
+							<string>vstem 449 142</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0013</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 127</string>
+							<string>hstem 652 -20</string>
+							<string>hstem 839 16</string>
 							<string>vstem 73 148</string>
 							<string>vstem 449 142</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>f213dec6902d0e2bfb06b6ba0425c17451b413f7c7765986305f9cd02ef8d4f5d7bf1f6bdf8aed71c133eeeff3ffe5329ff929da01cc6e11e13534c7c730501b</string>
+				<string>4d403b97170cd5e7abb267d25eaea38004e4fc90ce6bb1b9a153d5aa290705483f0578a62eee669281fe4eebe618a5789a4c3dd7420c5cbf034e8f283a426253</string>
 			</dict>
 		</dict>
 	</lib>

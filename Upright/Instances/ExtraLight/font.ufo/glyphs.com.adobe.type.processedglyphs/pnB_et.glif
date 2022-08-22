@@ -6,30 +6,34 @@
 		<contour>
 			<point name="hintSet0000" x="82" y="0" type="line"/>
 			<point x="400" y="0" type="line"/>
-			<point x="400" y="548" type="line"/>
-			<point x="238" y="548" type="line"/>
-			<point x="112" y="548"/>
-			<point x="44" y="494"/>
-			<point x="44" y="388" type="curve"/>
-			<point x="44" y="282"/>
-			<point x="122" y="240"/>
-			<point x="242" y="240" type="curve"/>
-			<point x="372" y="240" type="line"/>
+			<point x="400" y="512" type="line"/>
+			<point x="238" y="512" type="line"/>
+			<point x="112" y="512"/>
+			<point x="44" y="461"/>
+			<point x="44" y="362" type="curve"/>
+			<point x="44" y="262"/>
+			<point x="122" y="222"/>
+			<point x="242" y="222" type="curve"/>
+			<point x="372" y="222" type="line"/>
 			<point x="372" y="30" type="line"/>
 			<point x="82" y="30" type="line"/>
 		</contour>
 		<contour>
-			<point x="252" y="270" type="line"/>
-			<point x="133" y="270"/>
-			<point x="72" y="305"/>
-			<point x="72" y="390" type="curve"/>
-			<point x="72" y="478"/>
-			<point x="131" y="518"/>
-			<point x="248" y="518" type="curve"/>
-			<point x="372" y="518" type="line"/>
-			<point x="372" y="270" type="line"/>
+			<point x="252" y="252" type="line"/>
+			<point x="133" y="252"/>
+			<point x="72" y="285"/>
+			<point x="72" y="364" type="curve"/>
+			<point x="72" y="445"/>
+			<point x="131" y="482"/>
+			<point x="248" y="482" type="curve"/>
+			<point x="372" y="482" type="line"/>
+			<point x="372" y="252" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveHE" x="250" y="590"/>
+	<anchor name="centerHE" x="240" y="390"/>
+	<anchor name="aboveLeftHE" x="40" y="590"/>
+	<anchor name="belowPrimaryHE" x="240" y="-30"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -42,15 +46,15 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 30</string>
-							<string>hstem 240 30</string>
-							<string>hstem 518 30</string>
+							<string>hstem 222 30</string>
+							<string>hstem 482 30</string>
 							<string>vstem 44 28</string>
 							<string>vstem 372 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>61c108afcbd4b3b78ae2f8beaaab059ade25efc00a8c9aa3a3a6aad6e7fdf5641c73d30dcc7e735cff9d1057ac47ba7141a8e7492f6c2de15de57ab52feb84de</string>
+				<string>8b43dab1bc73767ffed7b750e6453959029bb34ecb2a83623c9153c1356b7b3a801e6270b9761d0cc5b35d613fafa235d04db2bc03e6eca959f0d683044f18ce</string>
 			</dict>
 		</dict>
 	</lib>

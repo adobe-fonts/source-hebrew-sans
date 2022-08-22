@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heQof" format="2">
 	<unicode hex="05E7"/>
-	<advance width="602"/>
+	<advance width="619"/>
 	<outline>
 		<contour>
-			<point x="350" y="-12" type="line"/>
-			<point x="493" y="136"/>
-			<point x="561" y="267"/>
-			<point x="561" y="406" type="curve" smooth="yes"/>
-			<point x="561" y="511"/>
-			<point x="511" y="564"/>
-			<point x="358" y="564" type="curve" smooth="yes"/>
+			<point x="367" y="-12" type="line"/>
+			<point x="509" y="138"/>
+			<point x="577" y="267"/>
+			<point x="577" y="406" type="curve" smooth="yes"/>
+			<point x="577" y="511"/>
+			<point x="527" y="564"/>
+			<point x="374" y="564" type="curve" smooth="yes"/>
 			<point x="69" y="564" type="line"/>
-			<point x="69" y="417" type="line"/>
-			<point x="343" y="417" type="line" smooth="yes"/>
-			<point x="409" y="417"/>
-			<point x="434" y="404"/>
-			<point x="434" y="355" type="curve" smooth="yes"/>
-			<point x="434" y="273"/>
-			<point x="378" y="187"/>
-			<point x="260" y="88" type="curve"/>
+			<point x="69" y="437" type="line"/>
+			<point x="335" y="437" type="line" smooth="yes"/>
+			<point x="400" y="437"/>
+			<point x="425" y="421"/>
+			<point x="425" y="357" type="curve" smooth="yes"/>
+			<point x="425" y="267"/>
+			<point x="381" y="168"/>
+			<point x="277" y="71" type="curve"/>
 		</contour>
 		<contour>
-			<point x="98" y="-200" type="line"/>
-			<point x="224" y="-200" type="line"/>
-			<point x="224" y="320" type="line"/>
-			<point x="118" y="320" type="line"/>
-			<point x="106" y="279"/>
-			<point x="98" y="236"/>
-			<point x="98" y="180" type="curve" smooth="yes"/>
+			<point x="98" y="-164" type="line"/>
+			<point x="245" y="-164" type="line"/>
+			<point x="245" y="339" type="line"/>
+			<point x="135" y="339" type="line"/>
+			<point x="112" y="300"/>
+			<point x="98" y="237"/>
+			<point x="98" y="183" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="277" y="541"/>
-	<anchor name="belowLeftHE" x="258" y="-30"/>
-	<anchor name="centerHE" x="272" y="272"/>
-	<anchor name="aboveLeftHE" x="0" y="541"/>
-	<anchor name="belowLeftHECXT" x="339" y="-30"/>
+	<anchor name="aboveHE" x="313" y="590"/>
+	<anchor name="belowLeftHE" x="258" y="-23"/>
+	<anchor name="centerHE" x="315" y="304"/>
+	<anchor name="aboveLeftHE" x="33" y="590"/>
+	<anchor name="belowLeftHECXT" x="339" y="-23"/>
 </glyph>

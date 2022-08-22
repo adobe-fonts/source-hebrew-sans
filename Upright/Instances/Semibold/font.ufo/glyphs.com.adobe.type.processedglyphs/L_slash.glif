@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
 	<unicode hex="0141"/>
-	<advance width="507"/>
+	<advance width="522"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="89" y="0" type="line"/>
-			<point x="477" y="0" type="line"/>
-			<point x="477" y="98" type="line"/>
-			<point x="205" y="98" type="line"/>
-			<point x="205" y="277" type="line"/>
-			<point x="412" y="389" type="line"/>
-			<point x="372" y="460" type="line"/>
-			<point x="205" y="368" type="line"/>
-			<point x="205" y="654" type="line"/>
-			<point x="89" y="654" type="line"/>
-			<point x="89" y="316" type="line"/>
-			<point x="-15" y="258" type="line"/>
-			<point x="26" y="188" type="line"/>
-			<point x="89" y="225" type="line"/>
+			<point name="hintSet0000" x="105" y="0" type="line"/>
+			<point x="493" y="0" type="line"/>
+			<point x="493" y="98" type="line"/>
+			<point x="221" y="98" type="line"/>
+			<point x="221" y="285" type="line"/>
+			<point x="432" y="380" type="line"/>
+			<point x="398" y="457" type="line"/>
+			<point x="221" y="378" type="line"/>
+			<point x="221" y="654" type="line"/>
+			<point x="105" y="654" type="line"/>
+			<point x="105" y="327" type="line"/>
+			<point x="-9" y="277" type="line"/>
+			<point x="24" y="199" type="line"/>
+			<point x="105" y="234" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -33,12 +33,12 @@
 						<array>
 							<string>hstem 0 98</string>
 							<string>hstem 654 -20</string>
-							<string>vstem 89 116</string>
+							<string>vstem 105 116</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w507l890l4770l47798l20598l205277l412389l372460l205368l205654l89654l89316l-15258l26188l89225</string>
+				<string>w522l1050l4930l49398l22198l221285l432380l398457l221378l221654l105654l105327l-9277l24199l105234</string>
 			</dict>
 		</dict>
 	</lib>

@@ -25,40 +25,40 @@
 			<point x="172" y="-124"/>
 			<point x="132" y="-178"/>
 			<point x="73" y="-178" type="curve"/>
-			<point x="59" y="-178"/>
-			<point x="44" y="-174"/>
-			<point x="34" y="-170" type="curve"/>
-			<point x="24" y="-209" type="line"/>
+			<point x="61" y="-178"/>
+			<point x="46" y="-175"/>
+			<point x="36" y="-171" type="curve"/>
+			<point x="24" y="-208" type="line"/>
 			<point x="37" y="-215"/>
 			<point x="55" y="-219"/>
 		</contour>
 		<contour>
-			<point x="141" y="598" type="curve"/>
-			<point x="162" y="598"/>
-			<point x="178" y="614"/>
-			<point x="178" y="635" type="curve"/>
-			<point x="178" y="656"/>
-			<point x="162" y="672"/>
-			<point x="141" y="672" type="curve"/>
-			<point x="120" y="672"/>
-			<point x="104" y="656"/>
-			<point x="104" y="635" type="curve"/>
-			<point x="104" y="614"/>
-			<point x="120" y="598"/>
+			<point x="137" y="598" type="curve"/>
+			<point x="158" y="598"/>
+			<point x="174" y="614"/>
+			<point x="174" y="635" type="curve"/>
+			<point x="174" y="656"/>
+			<point x="158" y="672"/>
+			<point x="137" y="672" type="curve"/>
+			<point x="116" y="672"/>
+			<point x="100" y="656"/>
+			<point x="100" y="635" type="curve"/>
+			<point x="100" y="614"/>
+			<point x="116" y="598"/>
 		</contour>
 		<contour>
-			<point x="319" y="598" type="curve"/>
-			<point x="340" y="598"/>
-			<point x="356" y="614"/>
-			<point x="356" y="635" type="curve"/>
-			<point x="356" y="656"/>
-			<point x="340" y="672"/>
-			<point x="319" y="672" type="curve"/>
-			<point x="298" y="672"/>
-			<point x="282" y="656"/>
-			<point x="282" y="635" type="curve"/>
-			<point x="282" y="614"/>
-			<point x="298" y="598"/>
+			<point x="315" y="598" type="curve"/>
+			<point x="336" y="598"/>
+			<point x="352" y="614"/>
+			<point x="352" y="635" type="curve"/>
+			<point x="352" y="656"/>
+			<point x="336" y="672"/>
+			<point x="315" y="672" type="curve"/>
+			<point x="294" y="672"/>
+			<point x="278" y="656"/>
+			<point x="278" y="635" type="curve"/>
+			<point x="278" y="614"/>
+			<point x="294" y="598"/>
 		</contour>
 	</outline>
 	<lib>
@@ -75,13 +75,13 @@
 							<string>hstem -219 41</string>
 							<string>hstem 480 -20</string>
 							<string>hstem 598 74</string>
-							<string>vstem 104 74</string>
-							<string>vstem 282 74</string>
+							<string>vstem 100 74</string>
+							<string>vstem 278 74</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9c1aba5175f99d8ac110a49f06268e7c2403bfaecb6dfa556b56ae5293e47a794f1c69fa12b996734a4e31cf9294dbcc5c98a4da2e2bd1cf2d13b2aa2e2c534f</string>
+				<string>50878d44b119ff6c0a173c33edbd0e58fa439c5ef0895a2b1925698079bec99bc294e81d5061ff48c9ae3fccc7df3ad156564eb9563b1f6172f1444885f5878b</string>
 			</dict>
 		</dict>
 	</lib>

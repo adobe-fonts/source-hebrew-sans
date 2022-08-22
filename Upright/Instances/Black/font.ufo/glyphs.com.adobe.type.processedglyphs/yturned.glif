@@ -33,9 +33,8 @@
 			<point x="188" y="512" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="276" y="520"/>
-	<anchor name="belowLC" x="272" y="-20"/>
-	<anchor name="aboveUC" x="271" y="730"/>
+	<anchor name="aboveUC" x="300" y="722"/>
+	<anchor name="belowLC" x="270" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>

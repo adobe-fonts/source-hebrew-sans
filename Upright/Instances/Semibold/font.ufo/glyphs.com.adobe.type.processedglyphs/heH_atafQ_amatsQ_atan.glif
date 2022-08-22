@@ -2,48 +2,20 @@
 <glyph name="heHatafQamatsQatan" format="2">
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="-83" y="-300" type="line"/>
-			<point x="-33" y="-300" type="line"/>
-			<point x="-37" y="-130" type="line"/>
-			<point x="20" y="-130" type="line"/>
-			<point x="20" y="-84" type="line"/>
-			<point x="-138" y="-84" type="line"/>
-			<point x="-138" y="-130" type="line"/>
-			<point x="-79" y="-130" type="line"/>
-		</contour>
-		<contour>
-			<point name="hintSet0008" x="108" y="-159" type="curve"/>
-			<point x="129" y="-159"/>
-			<point x="148" y="-143"/>
-			<point x="148" y="-118" type="curve"/>
-			<point x="148" y="-95"/>
-			<point x="129" y="-78"/>
-			<point x="108" y="-78" type="curve"/>
-			<point x="86" y="-78"/>
-			<point x="67" y="-95"/>
-			<point x="67" y="-118" type="curve"/>
-			<point x="67" y="-142"/>
-			<point x="86" y="-159"/>
-		</contour>
-		<contour>
-			<point x="108" y="-283" type="curve"/>
-			<point x="129" y="-283"/>
-			<point x="148" y="-267"/>
-			<point x="148" y="-242" type="curve"/>
-			<point x="148" y="-219"/>
-			<point x="129" y="-202"/>
-			<point x="108" y="-202" type="curve"/>
-			<point x="86" y="-202"/>
-			<point x="67" y="-219"/>
-			<point x="67" y="-242" type="curve"/>
-			<point x="67" y="-266"/>
-			<point x="86" y="-283"/>
+			<point name="hintSet0000" x="-86" y="-305" type="line"/>
+			<point x="-34" y="-305" type="line"/>
+			<point x="-34" y="-141" type="line"/>
+			<point x="24" y="-141" type="line"/>
+			<point x="24" y="-89" type="line"/>
+			<point x="-144" y="-89" type="line"/>
+			<point x="-144" y="-141" type="line"/>
+			<point x="-86" y="-141" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-136" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-202" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="31" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-25"/>
+	<anchor name="_belowLeftHE" x="-136" y="-25"/>
+	<anchor name="belowPrimaryHE" x="-202" y="-25"/>
+	<anchor name="_belowSecondaryHE" x="31" y="-25"/>
 	<guideline x="-140" identifier="U6xRWkmqEO"/>
 	<lib>
 		<dict>
@@ -56,24 +28,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -130 46</string>
-							<string>vstem -81 46</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0008</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -283 81</string>
-							<string>hstem -159 81</string>
-							<string>vstem -81 46</string>
-							<string>vstem 67 81</string>
+							<string>hstem -141 52</string>
+							<string>vstem -86 52</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>2a8ccf9c090b33c4f9bc0526050c88b7629c5e9fb4d4fb8840456dd3a3f8ffa6007bed44595307c4be7f862eb83e14cb13df36098f065931451bc2d3dca162ab</string>
+				<string>w0l-86-305l-34-305l-34-141l24-141l24-89l-144-89l-144-141l-86-141</string>
 			</dict>
 		</dict>
 	</lib>

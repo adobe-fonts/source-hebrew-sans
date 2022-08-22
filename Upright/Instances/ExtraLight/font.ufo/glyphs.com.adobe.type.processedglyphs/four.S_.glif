@@ -4,26 +4,26 @@
 	<advance width="472"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="60" y="148" type="line"/>
-			<point x="260" y="420" type="line"/>
-			<point x="280" y="448"/>
-			<point x="298" y="474"/>
-			<point x="314" y="498" type="curve"/>
-			<point x="318" y="498" type="line"/>
-			<point x="316" y="470"/>
-			<point x="314" y="420"/>
-			<point x="314" y="392" type="curve"/>
-			<point x="314" y="148" type="line"/>
+			<point name="hintSet0000" x="60" y="150" type="line"/>
+			<point x="260" y="426" type="line"/>
+			<point x="280" y="454"/>
+			<point x="298" y="480"/>
+			<point x="314" y="504" type="curve"/>
+			<point x="318" y="504" type="line"/>
+			<point x="316" y="476"/>
+			<point x="314" y="426"/>
+			<point x="314" y="398" type="curve"/>
+			<point x="314" y="150" type="line"/>
 		</contour>
 		<contour>
-			<point x="314" y="-40" type="line"/>
-			<point x="342" y="-40" type="line"/>
+			<point x="314" y="-52" type="line"/>
+			<point x="342" y="-52" type="line"/>
 			<point x="342" y="122" type="line"/>
 			<point x="440" y="122" type="line"/>
-			<point x="440" y="148" type="line"/>
-			<point x="342" y="148" type="line"/>
-			<point x="342" y="546" type="line"/>
-			<point x="322" y="546" type="line"/>
+			<point x="440" y="150" type="line"/>
+			<point x="342" y="150" type="line"/>
+			<point x="342" y="552" type="line"/>
+			<point x="322" y="552" type="line"/>
 			<point x="20" y="138" type="line"/>
 			<point x="20" y="122" type="line"/>
 			<point x="314" y="122" type="line"/>
@@ -40,14 +40,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 122 26</string>
-							<string>hstem 498 48</string>
+							<string>hstem 122 28</string>
+							<string>hstem 504 48</string>
 							<string>vstem 314 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a0f4f95f37f4eae05bac7b3abbf052c39353180e5d91014f9706413938f3376e65c4311a40fc9a3828eb6871780d636824aeec8fb17ef19c1a8441290d4ceafb</string>
+				<string>b6cc116bf1bafcc215236aa333f67233f7775ec1b23717f47e1bb474cfe62ce9ee94080ff9296f555aa60c1816d4732cd9a9b6838398080f37ff4b01f731822d</string>
 			</dict>
 		</dict>
 	</lib>

@@ -4,26 +4,26 @@
 	<advance width="535"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="294" y="-203" type="curve"/>
-			<point x="315" y="-203"/>
-			<point x="344" y="-193"/>
-			<point x="359" y="-180" type="curve"/>
-			<point x="343" y="-154" type="line"/>
-			<point x="330" y="-164"/>
-			<point x="317" y="-168"/>
-			<point x="300" y="-168" type="curve"/>
-			<point x="275" y="-168"/>
-			<point x="251" y="-151"/>
-			<point x="251" y="-116" type="curve"/>
-			<point x="251" y="-73"/>
-			<point x="281" y="-30"/>
-			<point x="328" y="4" type="curve"/>
-			<point x="284" y="4" type="line"/>
-			<point x="248" y="-25"/>
-			<point x="213" y="-71"/>
-			<point x="213" y="-122" type="curve"/>
-			<point x="213" y="-176"/>
-			<point x="248" y="-203"/>
+			<point name="hintSet0000" x="281" y="-213" type="curve"/>
+			<point x="312" y="-213"/>
+			<point x="338" y="-199"/>
+			<point x="355" y="-184" type="curve"/>
+			<point x="339" y="-157" type="line"/>
+			<point x="322" y="-170"/>
+			<point x="308" y="-176"/>
+			<point x="286" y="-176" type="curve"/>
+			<point x="257" y="-176"/>
+			<point x="230" y="-159"/>
+			<point x="230" y="-119" type="curve"/>
+			<point x="230" y="-77"/>
+			<point x="263" y="-33"/>
+			<point x="305" y="4" type="curve"/>
+			<point x="264" y="4" type="line"/>
+			<point x="228" y="-28"/>
+			<point x="191" y="-74"/>
+			<point x="191" y="-125" type="curve"/>
+			<point x="191" y="-186"/>
+			<point x="231" y="-213"/>
 		</contour>
 	</outline>
 	<lib>
@@ -37,13 +37,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -203 35</string>
-							<string>vstem 213 38</string>
+							<string>hstem -213 37</string>
+							<string>vstem 191 39</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>3e13c688d487c442c19404748e9af8808eb796f22b5cb4a21478c7ce7cfebb2efaf3a2247dd8a8d43a7983174b0585e6b51d04d7056ea5cee60d54413fb7a60a</string>
+				<string>66334b16d53944754bcf57987707b841f0aa61d9c78620557654436136ab1484b9a3962548f786d9e471eb5b0b0691f81e4a8e11378d0779fccaacc6d38d074c</string>
 			</dict>
 		</dict>
 	</lib>

@@ -11,11 +11,13 @@
 		</contour>
 		<contour>
 			<point x="-2" y="728" type="line"/>
-			<point x="284" y="728" type="line"/>
-			<point x="284" y="804" type="line"/>
+			<point x="286" y="728" type="line"/>
+			<point x="286" y="804" type="line"/>
 			<point x="-2" y="804" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveUC" x="142" y="812"/>
+	<anchor name="belowLC" x="142" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -35,7 +37,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w282l830l1990l199654l83654l-2728l284728l284804l-2804</string>
+				<string>w282l830l1990l199654l83654l-2728l286728l286804l-2804</string>
 			</dict>
 		</dict>
 	</lib>

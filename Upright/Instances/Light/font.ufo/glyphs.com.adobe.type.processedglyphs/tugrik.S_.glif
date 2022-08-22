@@ -3,30 +3,30 @@
 	<advance width="479"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="218" y="0" type="line"/>
-			<point x="258" y="0" type="line"/>
-			<point x="258" y="198" type="line"/>
-			<point x="407" y="275" type="line"/>
-			<point x="390" y="304" type="line"/>
-			<point x="258" y="236" type="line"/>
-			<point x="258" y="317" type="line"/>
-			<point x="407" y="393" type="line"/>
-			<point x="390" y="422" type="line"/>
-			<point x="258" y="354" type="line"/>
-			<point x="258" y="508" type="line"/>
-			<point x="441" y="508" type="line"/>
+			<point name="hintSet0000" x="216" y="0" type="line"/>
+			<point x="259" y="0" type="line"/>
+			<point x="259" y="200" type="line"/>
+			<point x="407" y="277" type="line"/>
+			<point x="390" y="305" type="line"/>
+			<point x="259" y="238" type="line"/>
+			<point x="259" y="318" type="line"/>
+			<point x="407" y="395" type="line"/>
+			<point x="390" y="424" type="line"/>
+			<point x="259" y="356" type="line"/>
+			<point x="259" y="511" type="line"/>
+			<point x="441" y="511" type="line"/>
 			<point x="441" y="548" type="line"/>
 			<point x="34" y="548" type="line"/>
-			<point x="34" y="508" type="line"/>
-			<point x="218" y="508" type="line"/>
-			<point x="218" y="335" type="line"/>
-			<point x="69" y="255" type="line"/>
-			<point x="85" y="226" type="line"/>
-			<point x="218" y="298" type="line"/>
-			<point x="218" y="217" type="line"/>
-			<point x="69" y="137" type="line"/>
-			<point x="85" y="108" type="line"/>
-			<point x="218" y="179" type="line"/>
+			<point x="34" y="511" type="line"/>
+			<point x="216" y="511" type="line"/>
+			<point x="216" y="336" type="line"/>
+			<point x="69" y="257" type="line"/>
+			<point x="85" y="228" type="line"/>
+			<point x="216" y="298" type="line"/>
+			<point x="216" y="218" type="line"/>
+			<point x="69" y="138" type="line"/>
+			<point x="85" y="110" type="line"/>
+			<point x="216" y="180" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -40,13 +40,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 508 40</string>
-							<string>vstem 218 40</string>
+							<string>hstem 511 37</string>
+							<string>vstem 216 43</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>26dafa5e7a4ea12bcbbdd1883e8bb388fa998a682c1c90c9bebd93e666888e089fd805e008d10479f545e1b46448ec49c6d7f76aa24f8f85ddb9bc66a88797a8</string>
+				<string>8b0b7cb57f253f118b62681cb947b7837d830245292177f08cbbc4995041ea0fba30a4bbf3e8e3aba0b1d65f42f5299d2984718b56d288a5dc8e9d0fdf0c4515</string>
 			</dict>
 		</dict>
 	</lib>

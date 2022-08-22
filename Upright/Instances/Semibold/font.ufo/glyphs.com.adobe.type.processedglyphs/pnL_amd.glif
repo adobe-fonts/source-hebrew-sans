@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnLamd" format="2">
 	<unicode hex="1090B"/>
-	<advance width="454"/>
+	<advance width="469"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="83" y="0" type="line"/>
-			<point x="422" y="0" type="line"/>
-			<point x="422" y="115" type="line"/>
-			<point x="183" y="115" type="line"/>
-			<point x="183" y="559" type="line"/>
-			<point x="83" y="559" type="line"/>
+			<point name="hintSet0000" x="95" y="0" type="line"/>
+			<point x="434" y="0" type="line"/>
+			<point x="434" y="115" type="line"/>
+			<point x="195" y="115" type="line"/>
+			<point x="195" y="692" type="line"/>
+			<point x="95" y="692" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -24,12 +24,12 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 115</string>
-							<string>vstem 83 100</string>
+							<string>vstem 95 100</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w454l830l4220l422115l183115l183559l83559</string>
+				<string>w469l950l4340l434115l195115l195692l95692</string>
 			</dict>
 		</dict>
 	</lib>

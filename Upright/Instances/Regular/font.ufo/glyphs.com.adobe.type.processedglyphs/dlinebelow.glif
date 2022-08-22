@@ -40,10 +40,10 @@
 			<point x="311" y="57"/>
 		</contour>
 		<contour>
-			<point name="hintSet0018" x="162" y="-170" type="line"/>
-			<point x="428" y="-170" type="line"/>
-			<point x="428" y="-113" type="line"/>
-			<point x="162" y="-113" type="line"/>
+			<point name="hintSet0018" x="141" y="-165" type="line"/>
+			<point x="407" y="-165" type="line"/>
+			<point x="407" y="-108" type="line"/>
+			<point x="141" y="-108" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -57,7 +57,7 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -170 57</string>
+							<string>hstem -165 57</string>
 							<string>hstem -12 69</string>
 							<string>hstem 429 69</string>
 							<string>hstem 712 -20</string>
@@ -70,7 +70,7 @@
 						<string>hintSet0001</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -170 57</string>
+							<string>hstem -165 57</string>
 							<string>hstem -12 69</string>
 							<string>hstem 429 69</string>
 							<string>hstem 712 -20</string>
@@ -83,7 +83,7 @@
 						<string>hintSet0003</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -170 57</string>
+							<string>hstem -165 57</string>
 							<string>hstem 21 -21</string>
 							<string>hstem 429 69</string>
 							<string>hstem 712 -20</string>
@@ -96,7 +96,7 @@
 						<string>hintSet0004</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -170 57</string>
+							<string>hstem -165 57</string>
 							<string>hstem 21 -21</string>
 							<string>hstem 429 69</string>
 							<string>hstem 712 -20</string>
@@ -109,7 +109,7 @@
 						<string>hintSet0011</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -170 57</string>
+							<string>hstem -165 57</string>
 							<string>hstem -12 69</string>
 							<string>hstem 429 69</string>
 							<string>hstem 712 -20</string>
@@ -122,17 +122,17 @@
 						<string>hintSet0018</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -170 57</string>
+							<string>hstem -165 57</string>
 							<string>hstem -12 69</string>
 							<string>hstem 429 69</string>
 							<string>hstem 712 -20</string>
 							<string>vstem 47 85</string>
-							<string>vstem 162 266</string>
+							<string>vstem 141 266</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>b0d80f83adf8d5759fd711f9fd8ac9add3c14a6e51630822d64e622eae87e0723f2c8f1289a526acb43553731358c64ae30f55cbf6dc34256cc4dddcd26e12b6</string>
+				<string>ba534882d0245e850940b11dcc06d7dcf1f0c1fd05b06b6af61d5deafb9938e5056dfbfedc7efef02ec7cbadd219e43678b1f9ebc21671bd7d53fcca3dd0b870</string>
 			</dict>
 		</dict>
 	</lib>

@@ -7,15 +7,15 @@
 			<point name="hintSet0000" x="66" y="0" type="line"/>
 			<point x="488" y="0" type="line"/>
 			<point x="488" y="144" type="line"/>
-			<point x="362" y="144" type="line"/>
-			<point x="362" y="568" type="line"/>
+			<point x="374" y="144" type="line"/>
+			<point x="374" y="568" type="line"/>
 			<point x="248" y="568" type="line"/>
 			<point x="200" y="538"/>
 			<point x="154" y="520"/>
 			<point x="82" y="506" type="curve"/>
 			<point x="82" y="394" type="line"/>
-			<point x="214" y="394" type="line"/>
-			<point x="214" y="144" type="line"/>
+			<point x="202" y="394" type="line"/>
+			<point x="202" y="144" type="line"/>
 			<point x="66" y="144" type="line"/>
 		</contour>
 	</outline>
@@ -32,12 +32,12 @@
 						<array>
 							<string>hstem 0 144</string>
 							<string>hstem 394 174</string>
-							<string>vstem 214 148</string>
+							<string>vstem 202 172</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w540l660l4880l488144l362144l362568l248568200538154520c82506l82394l214394l214144l66144</string>
+				<string>w540l660l4880l488144l374144l374568l248568200538154520c82506l82394l202394l202144l66144</string>
 			</dict>
 		</dict>
 	</lib>

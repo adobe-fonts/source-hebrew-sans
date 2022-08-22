@@ -6,24 +6,24 @@
 		<contour>
 			<point name="hintSet0000" x="48" y="0" type="line"/>
 			<point x="503" y="0" type="line"/>
-			<point x="503" y="111" type="line"/>
-			<point x="450" y="111" type="line"/>
-			<point x="454" y="172"/>
-			<point x="456" y="231"/>
+			<point x="503" y="100" type="line"/>
+			<point x="449" y="100" type="line"/>
+			<point x="453" y="164"/>
+			<point x="456" y="227"/>
 			<point x="456" y="301" type="curve"/>
 			<point x="456" y="484"/>
 			<point x="380" y="559"/>
 			<point x="231" y="559" type="curve"/>
 			<point x="68" y="559" type="line"/>
-			<point x="68" y="444" type="line"/>
-			<point x="180" y="444" type="line"/>
-			<point x="308" y="444"/>
-			<point x="356" y="392"/>
-			<point x="356" y="238" type="curve"/>
-			<point x="356" y="191"/>
-			<point x="354" y="156"/>
-			<point x="351" y="111" type="curve"/>
-			<point x="48" y="111" type="line"/>
+			<point x="68" y="459" type="line"/>
+			<point x="166" y="459" type="line"/>
+			<point x="293" y="459"/>
+			<point x="340" y="411"/>
+			<point x="340" y="267" type="curve"/>
+			<point x="340" y="206"/>
+			<point x="340" y="159"/>
+			<point x="336" y="100" type="curve"/>
+			<point x="48" y="100" type="line"/>
 		</contour>
 		<contour>
 			<point x="198" y="236" type="curve"/>
@@ -51,16 +51,16 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 111</string>
+							<string>hstem 0 100</string>
 							<string>hstem 236 92</string>
-							<string>hstem 444 115</string>
+							<string>hstem 459 100</string>
 							<string>vstem 150 96</string>
-							<string>vstem 356 100</string>
+							<string>vstem 340 116</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>6dfeaabdab2cec0fed27d225eb78d4d902c963d05c77f4e35797780d90725cb148e1fb4587b1d3ecd6a77abc7f739906b7aa617afff3a3e28a2185331bd579cd</string>
+				<string>f85a2337fb26607aa82697e421fa47fca5d6a8053801f2d7a6396e8439fe34e2835c3907162f06a573d85d2f1c40c212a93c848430da247f94c27ddee2f609d4</string>
 			</dict>
 		</dict>
 	</lib>

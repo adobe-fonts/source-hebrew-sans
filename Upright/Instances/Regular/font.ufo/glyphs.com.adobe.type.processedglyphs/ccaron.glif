@@ -4,44 +4,45 @@
 	<advance width="456"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="274" y="-12" type="curve"/>
-			<point x="332" y="-12"/>
-			<point x="387" y="11"/>
-			<point x="431" y="50" type="curve"/>
-			<point x="395" y="105" type="line"/>
-			<point x="365" y="78"/>
+			<point name="hintSet0000" x="277" y="-12" type="curve"/>
+			<point x="340" y="-12"/>
+			<point x="390" y="14"/>
+			<point x="431" y="53" type="curve"/>
+			<point x="395" y="102" type="line"/>
+			<point x="366" y="75"/>
 			<point x="326" y="56"/>
-			<point x="281" y="56" type="curve"/>
+			<point x="282" y="56" type="curve"/>
 			<point x="192" y="56"/>
 			<point x="131" y="131"/>
 			<point x="131" y="242" type="curve"/>
 			<point x="131" y="354"/>
-			<point x="195" y="430"/>
+			<point x="196" y="430"/>
 			<point x="283" y="430" type="curve"/>
-			<point x="322" y="430"/>
-			<point x="352" y="412"/>
-			<point x="380" y="387" type="curve"/>
-			<point x="422" y="441" type="line"/>
-			<point x="388" y="472"/>
-			<point x="344" y="498"/>
+			<point x="325" y="430"/>
+			<point x="357" y="415"/>
+			<point x="382" y="391" type="curve"/>
+			<point x="421" y="440" type="line"/>
+			<point x="388" y="474"/>
+			<point x="343" y="498"/>
 			<point x="280" y="498" type="curve"/>
 			<point x="155" y="498"/>
 			<point x="46" y="405"/>
 			<point x="46" y="242" type="curve"/>
 			<point x="46" y="81"/>
-			<point x="145" y="-12"/>
+			<point x="146" y="-12"/>
 		</contour>
 		<contour>
-			<point x="231" y="574" type="line"/>
-			<point x="313" y="574" type="line"/>
-			<point x="427" y="714" type="line"/>
-			<point x="392" y="746" type="line"/>
-			<point x="274" y="633" type="line"/>
-			<point x="270" y="633" type="line"/>
-			<point x="152" y="746" type="line"/>
-			<point x="117" y="714" type="line"/>
+			<point x="238" y="570" type="line"/>
+			<point x="310" y="570" type="line"/>
+			<point x="446" y="735" type="line"/>
+			<point x="379" y="735" type="line"/>
+			<point name="hintSet0015" x="276" y="632" type="line"/>
+			<point x="272" y="632" type="line"/>
+			<point name="hintSet0017" x="169" y="735" type="line"/>
+			<point x="102" y="735" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboverightLC" x="503" y="509"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -55,14 +56,35 @@
 						<array>
 							<string>hstem -12 68</string>
 							<string>hstem 430 68</string>
-							<string>hstem 574 59</string>
-							<string>hstem 714 -20</string>
+							<string>hstem 570 165</string>
+							<string>vstem 46 85</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0015</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 68</string>
+							<string>hstem 430 68</string>
+							<string>hstem 570 62</string>
+							<string>vstem 46 85</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0017</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 68</string>
+							<string>hstem 430 68</string>
+							<string>hstem 570 165</string>
 							<string>vstem 46 85</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>313b7a3afa611181e095d909180077be577cb8057bb51541ebb8f8651aae9167eb2a2987ad43c5dbbc654a3f0727cb59b2dd161a7357230e2f087eee36a1625d</string>
+				<string>2d572faea36dfc5d68b335a9fd0e00812bb70650c38909c102698027bd07e7b936f7910fa08c11657f2c1f60bf8b80fbedf9b3b19d371dbd9d8263ae4404be26</string>
 			</dict>
 		</dict>
 	</lib>

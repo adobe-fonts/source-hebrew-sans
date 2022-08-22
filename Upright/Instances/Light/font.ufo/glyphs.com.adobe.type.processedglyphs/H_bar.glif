@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="2">
 	<unicode hex="0126"/>
-	<advance width="672"/>
+	<advance width="679"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="117" y="0" type="line"/>
@@ -10,25 +10,25 @@
 			<point x="516" y="330" type="line"/>
 			<point x="516" y="0" type="line"/>
 			<point x="562" y="0" type="line"/>
-			<point x="562" y="495" type="line"/>
-			<point x="635" y="495" type="line"/>
-			<point x="635" y="528" type="line"/>
-			<point x="562" y="528" type="line"/>
+			<point x="562" y="493" type="line"/>
+			<point x="653" y="493" type="line"/>
+			<point x="653" y="530" type="line"/>
+			<point x="562" y="530" type="line"/>
 			<point name="hintSet0010" x="562" y="659" type="line"/>
 			<point x="516" y="659" type="line"/>
-			<point name="hintSet0012" x="516" y="528" type="line"/>
-			<point x="163" y="528" type="line"/>
+			<point name="hintSet0012" x="516" y="530" type="line"/>
+			<point x="163" y="530" type="line"/>
 			<point name="hintSet0014" x="163" y="659" type="line"/>
 			<point x="117" y="659" type="line"/>
-			<point name="hintSet0016" x="117" y="528" type="line"/>
-			<point x="36" y="524" type="line"/>
-			<point x="36" y="495" type="line"/>
-			<point x="117" y="495" type="line"/>
+			<point name="hintSet0016" x="117" y="530" type="line"/>
+			<point x="22" y="526" type="line"/>
+			<point x="22" y="493" type="line"/>
+			<point x="117" y="493" type="line"/>
 		</contour>
 		<contour>
 			<point x="163" y="370" type="line"/>
-			<point x="163" y="495" type="line"/>
-			<point x="516" y="495" type="line"/>
+			<point x="163" y="493" type="line"/>
+			<point x="516" y="493" type="line"/>
 			<point x="516" y="370" type="line"/>
 		</contour>
 	</outline>
@@ -45,7 +45,7 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 330 40</string>
-							<string>hstem 495 33</string>
+							<string>hstem 493 37</string>
 							<string>vstem 117 46</string>
 							<string>vstem 516 46</string>
 						</array>
@@ -57,7 +57,7 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 330 40</string>
-							<string>hstem 495 164</string>
+							<string>hstem 493 166</string>
 							<string>vstem 117 46</string>
 							<string>vstem 516 46</string>
 						</array>
@@ -69,7 +69,7 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 330 40</string>
-							<string>hstem 495 33</string>
+							<string>hstem 493 37</string>
 							<string>vstem 117 46</string>
 							<string>vstem 516 46</string>
 						</array>
@@ -81,7 +81,7 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 330 40</string>
-							<string>hstem 495 164</string>
+							<string>hstem 493 166</string>
 							<string>vstem 117 46</string>
 							<string>vstem 516 46</string>
 						</array>
@@ -93,14 +93,14 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 330 40</string>
-							<string>hstem 495 33</string>
+							<string>hstem 493 37</string>
 							<string>vstem 117 46</string>
 							<string>vstem 516 46</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>864c0227865f66600604554926248ec61021138b115e2fc20ca5e2da0a21e2911966b3a3d774d4b1d1bf789fb7d81ba7ac74a0eee37c14a7648d7558457d4113</string>
+				<string>82cf8fd82eecc0adbdf325732745dd3587c51d0b9316946d975ae0fc2d2724130f66f814d634eb6a1b4999ae559011eba35591744b12c53b7a7a67c7b55c4ae2</string>
 			</dict>
 		</dict>
 	</lib>

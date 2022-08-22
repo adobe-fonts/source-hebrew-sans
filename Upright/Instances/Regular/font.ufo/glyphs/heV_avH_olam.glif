@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heVavHolam" format="2">
 	<unicode hex="FB4B"/>
-	<advance width="540"/>
+	<advance width="304"/>
+	<outline>
+		<component base="heVav"/>
+		<component base="heHolam" xOffset="116"/>
+	</outline>
 </glyph>

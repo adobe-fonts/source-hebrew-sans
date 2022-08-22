@@ -6,17 +6,17 @@
 		<contour>
 			<point name="hintSet0000" x="79" y="0" type="line"/>
 			<point x="439" y="0" type="line"/>
-			<point x="439" y="69" type="line"/>
-			<point x="301" y="69" type="line"/>
-			<point x="301" y="554" type="line"/>
+			<point x="439" y="71" type="line"/>
+			<point x="307" y="71" type="line"/>
+			<point x="307" y="554" type="line"/>
 			<point x="244" y="554" type="line"/>
 			<point name="hintSet0006" x="209" y="533"/>
 			<point x="167" y="517"/>
 			<point x="109" y="507" type="curve"/>
-			<point x="109" y="453" type="line"/>
-			<point name="hintSet0008" x="229" y="453" type="line"/>
-			<point x="229" y="69" type="line"/>
-			<point x="79" y="69" type="line"/>
+			<point x="109" y="452" type="line"/>
+			<point name="hintSet0008" x="225" y="452" type="line"/>
+			<point x="225" y="71" type="line"/>
+			<point x="79" y="71" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -30,9 +30,9 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 69</string>
-							<string>hstem 453 101</string>
-							<string>vstem 229 72</string>
+							<string>hstem 0 71</string>
+							<string>hstem 452 102</string>
+							<string>vstem 225 82</string>
 						</array>
 					</dict>
 					<dict>
@@ -40,9 +40,9 @@
 						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 69</string>
-							<string>hstem 453 101</string>
-							<string>vstem 109 192</string>
+							<string>hstem 0 71</string>
+							<string>hstem 452 102</string>
+							<string>vstem 109 198</string>
 						</array>
 					</dict>
 					<dict>
@@ -50,14 +50,14 @@
 						<string>hintSet0008</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 69</string>
-							<string>hstem 453 101</string>
-							<string>vstem 229 72</string>
+							<string>hstem 0 71</string>
+							<string>hstem 452 102</string>
+							<string>vstem 225 82</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w497l790l4390l43969l30169l301554l244554209533167517c109507l109453l229453l22969l7969</string>
+				<string>w497l790l4390l43971l30771l307554l244554209533167517c109507l109452l225452l22571l7971</string>
 			</dict>
 		</dict>
 	</lib>

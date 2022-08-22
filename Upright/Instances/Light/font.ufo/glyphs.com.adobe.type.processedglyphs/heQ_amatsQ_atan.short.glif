@@ -2,21 +2,21 @@
 <glyph name="heQamatsQatan.short" format="2">
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="76" y="-88" type="line"/>
-			<point x="-78" y="-88" type="line"/>
-			<point x="-78" y="-128" type="line"/>
-			<point x="-18" y="-128" type="line"/>
-			<point x="-22" y="-296" type="line"/>
-			<point x="22" y="-296" type="line"/>
-			<point x="18" y="-128" type="line"/>
-			<point x="76" y="-128" type="line"/>
+			<point name="hintSet0000" x="-16" y="-311" type="line"/>
+			<point x="16" y="-311" type="line"/>
+			<point x="16" y="-137" type="line"/>
+			<point x="77" y="-137" type="line"/>
+			<point x="77" y="-105" type="line"/>
+			<point x="-77" y="-105" type="line"/>
+			<point x="-77" y="-137" type="line"/>
+			<point x="-16" y="-137" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-76" y="-30"/>
-	<anchor name="_belowRightHE" x="76" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-137" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-29"/>
+	<anchor name="_belowLeftHE" x="-76" y="-29"/>
+	<anchor name="_belowRightHE" x="76" y="-29"/>
+	<anchor name="belowPrimaryHE" x="-137" y="-29"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-29"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -28,13 +28,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -128 40</string>
-							<string>vstem -20 40</string>
+							<string>hstem -137 32</string>
+							<string>vstem -16 32</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0l76-88l-78-88l-78-128l-18-128l-22-296l22-296l18-128l76-128</string>
+				<string>w0l-16-311l16-311l16-137l77-137l77-105l-77-105l-77-137l-16-137</string>
 			</dict>
 		</dict>
 	</lib>

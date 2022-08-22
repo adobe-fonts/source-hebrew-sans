@@ -4,37 +4,38 @@
 	<advance width="582"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="349" y="-12" type="curve"/>
+			<point name="hintSet0000" x="353" y="-12" type="curve"/>
 			<point x="434" y="-12"/>
-			<point x="506" y="21"/>
-			<point x="560" y="84" type="curve"/>
-			<point x="482" y="176" type="line"/>
-			<point x="450" y="142"/>
-			<point x="408" y="115"/>
-			<point x="355" y="115" type="curve"/>
-			<point x="259" y="115"/>
+			<point x="502" y="19"/>
+			<point x="558" y="82" type="curve"/>
+			<point x="484" y="169" type="line"/>
+			<point x="454" y="138"/>
+			<point x="413" y="115"/>
+			<point x="363" y="115" type="curve"/>
+			<point x="264" y="115"/>
 			<point x="197" y="193"/>
 			<point x="197" y="327" type="curve"/>
-			<point x="197" y="458"/>
-			<point x="268" y="537"/>
+			<point x="197" y="456"/>
+			<point x="269" y="537"/>
 			<point x="357" y="537" type="curve"/>
 			<point x="404" y="537"/>
-			<point x="439" y="515"/>
-			<point x="472" y="485" type="curve"/>
+			<point x="439" y="520"/>
+			<point x="472" y="490" type="curve"/>
 			<point x="550" y="579" type="line"/>
-			<point x="506" y="624"/>
+			<point x="506" y="626"/>
 			<point x="438" y="664"/>
 			<point x="354" y="664" type="curve"/>
 			<point x="189" y="664"/>
 			<point x="46" y="538"/>
 			<point x="46" y="322" type="curve"/>
 			<point x="46" y="103"/>
-			<point x="184" y="-12"/>
+			<point x="186" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="aboveUC" x="343" y="672"/>
-	<anchor name="belowLC" x="350" y="-20"/>
-	<anchor name="baseLC" x="350" y="0"/>
+	<anchor name="aboverightUC" x="493" y="674"/>
+	<anchor name="aboveUC" x="345" y="674"/>
+	<anchor name="baseLC" x="348" y="0"/>
+	<anchor name="belowLC" x="348" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -53,7 +54,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>fba40bf604f13b2f882514dbaa48fe97a402be7da28a797b4e3e6a300ddc3a52ef62348f24e60215f270914dae9c7a5efd87d92dc0ab666c1e71898cb0fc4039</string>
+				<string>dc315ca7952b554a343e4ebfcc454744276f8dc0f1dfaceca55c99c1d943aa6d39feb9f22296a5cd283530714289a8f454716392a1d813399db6323e61f6999c</string>
 			</dict>
 		</dict>
 	</lib>

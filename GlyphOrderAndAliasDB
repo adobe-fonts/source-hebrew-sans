@@ -286,13 +286,6 @@ six.U	six.Sups	uni2076
 seven.U	seven.Sups	uni2077
 eight.U	eight.Sups	uni2078
 nine.U	nine.Sups	uni2079
-plus.U	plus.Sups	uni207A
-minus.U	minus.Sups	uni207B
-equal.U	equal.Sups	uni207C,uni02ED
-parenleft.U	parenleft.Sups	uni207D
-parenright.U	parenright.Sups	uni207E
-period.U	period.Sups
-comma.U	comma.Sups
 zero.B	zero.Subs	uni2080
 one.B	one.Subs	uni2081
 two.B	two.Subs	uni2082
@@ -303,13 +296,6 @@ six.B	six.Subs	uni2086
 seven.B	seven.Subs	uni2087
 eight.B	eight.Subs	uni2088
 nine.B	nine.Subs	uni2089
-plus.B	plus.Subs	uni208A
-minus.B	minus.Subs	uni208B
-equal.B	equal.Subs	uni208C
-parenleft.B	parenleft.Subs	uni208D
-parenright.B	parenright.Subs	uni208E
-period.B	period.Subs
-comma.B	comma.Subs
 zero.D	zero.Dnom
 one.D	one.Dnom
 two.D	two.Dnom
@@ -320,8 +306,6 @@ six.D	six.Dnom
 seven.D	seven.Dnom
 eight.D	eight.Dnom
 nine.D	nine.Dnom
-parenleft.D	parenleft.Dnom
-parenright.D	parenright.Dnom
 zero.N	zero.Numr
 one.N	one.Numr
 two.N	two.Numr
@@ -332,10 +316,6 @@ six.N	six.Numr
 seven.N	seven.Numr
 eight.N	eight.Numr
 nine.N	nine.Numr
-parenleft.N	parenleft.Numr
-parenright.N	parenright.Numr
-period.N	period.Numr
-comma.N	comma.Numr
 ampersand	ampersand.S
 exclam	exclam.S
 exclamdown	exclamdown.S
@@ -360,6 +340,7 @@ at	at.S
 numbersign	numbersign.S
 copyright	copyright.S
 uni20AA	newsheqel.S
+uni20AA.P	newsheqel.P
 dollar	dollar.S
 sterling	sterling.S
 yen	yen.S
@@ -654,11 +635,11 @@ six.u	six.sups
 seven.u	seven.sups
 eight.u	eight.sups
 nine.u	nine.sups
-plus.u	plus.sups
-minus.u	minus.sups
-equal.u	equal.sups
-parenleft.u	parenleft.sups
-parenright.u	parenright.sups
+plus.u	plus.sups	uni207A
+minus.u	minus.sups	uni207B
+equal.u	equal.sups	uni207C,uni02ED
+parenleft.u	parenleft.sups	uni207D
+parenright.u	parenright.sups	uni207E
 period.u	period.sups
 comma.u	comma.sups
 zero.b	zero.subs
@@ -671,11 +652,11 @@ six.b	six.subs
 seven.b	seven.subs
 eight.b	eight.subs
 nine.b	nine.subs
-plus.b	plus.subs
-minus.b	minus.subs
-equal.b	equal.subs
-parenleft.b	parenleft.subs
-parenright.b	parenright.subs
+plus.b	plus.subs	uni208A
+minus.b	minus.subs	uni208B
+equal.b	equal.subs	uni208C
+parenleft.b	parenleft.subs	uni208D
+parenright.b	parenright.subs	uni208E
 period.b	period.subs
 comma.b	comma.subs
 zero.d	zero.dnom
@@ -750,6 +731,7 @@ trademark	trademark
 registered	registered
 currency	currency
 uni20AA.l	newsheqel
+uni20AA.p	newsheqel.pnum
 dollar.l	dollar
 sterling.l	sterling
 yen.l	yen

@@ -4,36 +4,36 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="185" y="-12" type="curve"/>
-			<point x="265" y="-12"/>
-			<point x="324" y="41"/>
-			<point x="324" y="117" type="curve"/>
-			<point x="324" y="194"/>
-			<point x="273" y="235"/>
-			<point x="190" y="235" type="curve"/>
-			<point x="173" y="235"/>
-			<point x="159" y="230"/>
-			<point x="148" y="225" type="curve"/>
-			<point x="155" y="284" type="line"/>
-			<point x="307" y="284" type="line"/>
-			<point x="307" y="362" type="line"/>
-			<point x="86" y="362" type="line"/>
-			<point x="70" y="182" type="line"/>
-			<point x="109" y="160" type="line"/>
-			<point x="130" y="170"/>
-			<point x="149" y="179"/>
-			<point x="178" y="179" type="curve"/>
-			<point x="221" y="179"/>
-			<point x="250" y="160"/>
-			<point x="250" y="122" type="curve"/>
-			<point x="250" y="88"/>
-			<point x="222" y="62"/>
-			<point x="180" y="62" type="curve"/>
-			<point x="140" y="62"/>
-			<point x="112" y="72"/>
-			<point x="84" y="97" type="curve"/>
-			<point x="41" y="40" type="line"/>
-			<point x="77" y="6"/>
-			<point x="119" y="-12"/>
+			<point x="269" y="-12"/>
+			<point x="330" y="44"/>
+			<point x="330" y="123" type="curve"/>
+			<point x="330" y="205"/>
+			<point x="273" y="252"/>
+			<point x="203" y="252" type="curve"/>
+			<point x="187" y="252"/>
+			<point x="167" y="248"/>
+			<point x="149" y="242" type="curve"/>
+			<point x="157" y="316" type="line"/>
+			<point x="313" y="316" type="line"/>
+			<point x="313" y="390" type="line"/>
+			<point x="88" y="390" type="line"/>
+			<point x="70" y="199" type="line"/>
+			<point x="109" y="172" type="line"/>
+			<point x="129" y="188"/>
+			<point x="148" y="199"/>
+			<point x="175" y="199" type="curve"/>
+			<point x="215" y="199"/>
+			<point x="245" y="172"/>
+			<point x="245" y="127" type="curve"/>
+			<point x="245" y="86"/>
+			<point x="216" y="55"/>
+			<point x="177" y="55" type="curve"/>
+			<point x="138" y="55"/>
+			<point x="110" y="73"/>
+			<point x="85" y="108" type="curve"/>
+			<point x="31" y="66" type="line"/>
+			<point x="64" y="18"/>
+			<point x="116" y="-12"/>
 		</contour>
 	</outline>
 	<lib>
@@ -47,16 +47,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -12 74</string>
-							<string>hstem 179 56</string>
-							<string>hstem 284 78</string>
-							<string>vstem 78 73.5</string>
-							<string>vstem 250 74</string>
+							<string>hstem -12 67</string>
+							<string>hstem 199 53</string>
+							<string>hstem 316 74</string>
+							<string>vstem 245 85</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>54259617795a92924da8ee49d65937330d1642d546755a857622f7e3350b820caa1f2394a8a1198221bf404a67478bf68f6755e5a47b16b41f8f07b5cb780fd0</string>
+				<string>680199c924c14b41ab48c3c717907b047f60498e40eb58773b23460ec2e47cc05969a2e07f2374e364d5ecf7f17e2bc748d2bfb3dbb787098cc76f146ca48c8c</string>
 			</dict>
 		</dict>
 	</lib>

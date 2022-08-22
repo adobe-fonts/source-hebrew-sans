@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heYodHiriq" format="2">
 	<unicode hex="FB1D"/>
-	<advance width="540"/>
+	<advance width="298"/>
+	<outline>
+		<component base="heYod"/>
+		<component base="heHiriq" xOffset="113" yOffset="208"/>
+	</outline>
 </glyph>

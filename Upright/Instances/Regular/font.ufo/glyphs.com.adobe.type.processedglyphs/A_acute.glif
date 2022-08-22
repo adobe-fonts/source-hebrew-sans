@@ -26,10 +26,11 @@
 			<point x="225" y="656" type="line"/>
 		</contour>
 		<contour>
-			<point x="253" y="697" type="line"/>
-			<point x="405" y="812" type="line"/>
-			<point x="358" y="867" type="line"/>
-			<point x="216" y="739" type="line"/>
+			<point x="194" y="706" type="line"/>
+			<point x="268" y="706" type="line"/>
+			<point x="431" y="832" type="line"/>
+			<point x="427" y="841" type="line"/>
+			<point x="326" y="841" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -46,12 +47,13 @@
 							<string>hstem 21 -21</string>
 							<string>hstem 200 67</string>
 							<string>hstem 588 68</string>
+							<string>hstem 832 9</string>
 							<string>vstem 3 538</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>d118a283435debee793aec909a8a3cdca8bada38e84dd48b3093ce1de7d12eadd2fb1e51defb81977a9c4c2f382d7707a0093ab63eca54e6808929ecb5d306b0</string>
+				<string>15aaf37d60e1a244b74770269703ee33cba42418551fae2d6efab88e97e8ef2fc86df4479e112427598e81baacb419155bd13fb136fea94d596d048105733035</string>
 			</dict>
 		</dict>
 	</lib>

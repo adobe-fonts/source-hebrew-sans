@@ -5,31 +5,37 @@
 	<outline>
 		<contour>
 			<point x="294" y="-12" type="curve" smooth="yes"/>
-			<point x="418" y="-12"/>
-			<point x="516" y="127"/>
-			<point x="516" y="390" type="curve" smooth="yes"/>
-			<point x="516" y="507"/>
-			<point x="480" y="546"/>
-			<point x="406" y="546" type="curve" smooth="yes"/>
+			<point x="410" y="-12"/>
+			<point x="516" y="105"/>
+			<point x="516" y="330" type="curve" smooth="yes"/>
+			<point x="516" y="493"/>
+			<point x="438" y="546"/>
+			<point x="286" y="546" type="curve" smooth="yes"/>
 			<point x="4" y="546" type="line"/>
-			<point x="4" y="516" type="line"/>
-			<point x="402" y="516" type="line" smooth="yes"/>
-			<point x="462" y="516"/>
-			<point x="490" y="488"/>
-			<point x="490" y="390" type="curve" smooth="yes"/>
-			<point x="490" y="146"/>
-			<point x="394" y="20"/>
-			<point x="294" y="20" type="curve" smooth="yes"/>
-			<point x="180" y="20"/>
-			<point x="102" y="198"/>
-			<point x="100" y="530" type="curve"/>
-			<point x="74" y="524" type="line"/>
-			<point x="76" y="168"/>
-			<point x="162" y="-12"/>
+			<point x="4" y="518" type="line"/>
+			<point x="278" y="518" type="line" smooth="yes"/>
+			<point x="421" y="518"/>
+			<point x="486" y="477"/>
+			<point x="486" y="330" type="curve" smooth="yes"/>
+			<point x="486" y="123"/>
+			<point x="392" y="16"/>
+			<point x="294" y="16" type="curve" smooth="yes"/>
+			<point x="196" y="16"/>
+			<point x="114" y="110"/>
+			<point x="114" y="320" type="curve" smooth="yes"/>
+			<point x="114" y="381"/>
+			<point x="122" y="450"/>
+			<point x="142" y="530" type="curve"/>
+			<point x="114" y="524" type="line"/>
+			<point x="96" y="446"/>
+			<point x="86" y="378"/>
+			<point x="86" y="316" type="curve" smooth="yes"/>
+			<point x="86" y="94"/>
+			<point x="180" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="305" y="590"/>
-	<anchor name="belowPrimaryHE" x="315" y="-30"/>
-	<anchor name="centerHE" x="305" y="300"/>
-	<anchor name="aboveLeftHE" x="-10" y="590"/>
+	<anchor name="aboveHE" x="290" y="590"/>
+	<anchor name="belowPrimaryHE" x="290" y="-30"/>
+	<anchor name="centerHE" x="290" y="290"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
 </glyph>

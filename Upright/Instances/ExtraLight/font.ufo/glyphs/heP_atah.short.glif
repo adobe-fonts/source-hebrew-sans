@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePatah.short" format="2">
 	<outline>
-		<contour>
-			<point x="76" y="-89" type="line"/>
-			<point x="-76" y="-89" type="line"/>
-			<point x="-76" y="-128" type="line"/>
-			<point x="76" y="-128" type="line"/>
-		</contour>
+		<component base="hePatah" xScale="0.88"/>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
 	<anchor name="_belowLeftHE" x="-75" y="-30"/>

@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePeFin" format="2">
 	<unicode hex="05E3"/>
-	<advance width="618"/>
+	<advance width="602"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="402" y="-200" type="line"/>
-			<point x="550" y="-200" type="line"/>
-			<point x="550" y="342" type="line"/>
-			<point x="550" y="522"/>
-			<point x="454" y="580"/>
-			<point x="314" y="580" type="curve"/>
-			<point x="194" y="580"/>
-			<point x="82" y="496"/>
-			<point x="82" y="342" type="curve"/>
-			<point x="82" y="232"/>
-			<point x="136" y="158"/>
-			<point x="260" y="158" type="curve"/>
-			<point x="312" y="158" type="line"/>
-			<point x="312" y="330" type="line"/>
-			<point name="hintSet0008" x="284" y="330" type="line"/>
-			<point x="244" y="330"/>
-			<point x="230" y="340"/>
-			<point x="230" y="364" type="curve"/>
-			<point x="230" y="389"/>
-			<point x="258" y="408"/>
-			<point x="288" y="408" type="curve"/>
-			<point x="364" y="408"/>
-			<point x="402" y="388"/>
-			<point x="402" y="270" type="curve"/>
+			<point name="hintSet0000" x="358" y="-156" type="curve"/>
+			<point x="530" y="-156" type="line"/>
+			<point x="536" y="-4"/>
+			<point x="538" y="160"/>
+			<point x="538" y="302" type="curve"/>
+			<point x="538" y="512"/>
+			<point x="434" y="580"/>
+			<point x="284" y="580" type="curve"/>
+			<point x="158" y="580"/>
+			<point x="42" y="496"/>
+			<point x="42" y="342" type="curve"/>
+			<point x="42" y="232"/>
+			<point x="96" y="158"/>
+			<point x="220" y="158" type="curve"/>
+			<point name="hintSet0006" x="258" y="158" type="line"/>
+			<point x="258" y="306" type="line"/>
+			<point x="254" y="306" type="line"/>
+			<point name="hintSet0009" x="228" y="306"/>
+			<point x="214" y="324"/>
+			<point x="214" y="362" type="curve"/>
+			<point x="214" y="406"/>
+			<point x="246" y="432"/>
+			<point x="284" y="432" type="curve"/>
+			<point x="338" y="432"/>
+			<point x="366" y="408"/>
+			<point x="366" y="272" type="curve"/>
+			<point x="366" y="140"/>
+			<point x="364" y="-13"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="265" y="530"/>
-	<anchor name="belowRightHE" x="285" y="-30"/>
-	<anchor name="centerHE" x="285" y="155"/>
-	<anchor name="aboveLeftHE" x="15" y="530"/>
+	<anchor name="aboveHE" x="285" y="590"/>
+	<anchor name="belowRightHE" x="245" y="-22"/>
+	<anchor name="centerHE" x="320" y="240"/>
+	<anchor name="aboveLeftHE" x="40" y="590"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -45,26 +49,37 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 158 172</string>
-							<string>hstem 408 172</string>
-							<string>vstem 82 230</string>
-							<string>vstem 402 148</string>
+							<string>hstem 158 148</string>
+							<string>hstem 432 148</string>
+							<string>vstem 42 172</string>
+							<string>vstem 366 172</string>
 						</array>
 					</dict>
 					<dict>
 						<key>pointTag</key>
-						<string>hintSet0008</string>
+						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 158 172</string>
-							<string>hstem 408 172</string>
-							<string>vstem 82 148</string>
-							<string>vstem 402 148</string>
+							<string>hstem 158 148</string>
+							<string>hstem 432 148</string>
+							<string>vstem 42 216</string>
+							<string>vstem 366 172</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0009</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 158 148</string>
+							<string>hstem 432 148</string>
+							<string>vstem 42 172</string>
+							<string>vstem 366 172</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>49cc18fbc0984b75752c7b982c6cb0d1d449e1d64edebb847344a91b3657adc42517b619199429e3c4ac94b46dfd541754206ccf49cde9c278bf70cd4511f130</string>
+				<string>855a6e972aea6ab0779d844aff08c4cddadaeebe47fc74811494a3547b9345b4b8fec9d6d7c23c740fa4bd1d1fa549dc3fb20e8e2f4e745da37eda6f165a3b91</string>
 			</dict>
 		</dict>
 	</lib>

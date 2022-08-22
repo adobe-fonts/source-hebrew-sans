@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnTau" format="2">
 	<unicode hex="10915"/>
-	<advance width="518"/>
+	<advance width="511"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="223" y="0" type="line"/>
 			<point x="295" y="0" type="line"/>
-			<point x="295" y="240" type="line"/>
-			<point x="491" y="240" type="line"/>
-			<point x="491" y="323" type="line"/>
-			<point x="295" y="323" type="line"/>
-			<point x="295" y="554" type="line"/>
-			<point x="223" y="554" type="line"/>
-			<point x="223" y="323" type="line"/>
-			<point x="27" y="323" type="line"/>
-			<point x="27" y="240" type="line"/>
-			<point x="223" y="240" type="line"/>
+			<point x="295" y="222" type="line"/>
+			<point x="491" y="222" type="line"/>
+			<point x="491" y="305" type="line"/>
+			<point x="295" y="305" type="line"/>
+			<point x="295" y="518" type="line"/>
+			<point x="223" y="518" type="line"/>
+			<point x="223" y="305" type="line"/>
+			<point x="27" y="305" type="line"/>
+			<point x="27" y="222" type="line"/>
+			<point x="223" y="222" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -29,13 +29,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 240 83</string>
+							<string>hstem 222 83</string>
 							<string>vstem 223 72</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w518l2230l2950l295240l491240l491323l295323l295554l223554l223323l27323l27240l223240</string>
+				<string>w511l2230l2950l295222l491222l491305l295305l295518l223518l223305l27305l27222l223222</string>
 			</dict>
 		</dict>
 	</lib>

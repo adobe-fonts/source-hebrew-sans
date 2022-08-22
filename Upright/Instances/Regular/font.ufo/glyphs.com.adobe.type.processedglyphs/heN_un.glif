@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heNun" format="2">
 	<unicode hex="05E0"/>
-	<advance width="414"/>
+	<advance width="413"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="50" y="0" type="line"/>
 			<point x="323" y="0" type="line"/>
-			<point x="323" y="383" type="line"/>
-			<point x="323" y="514"/>
-			<point x="267" y="554"/>
-			<point x="169" y="554" type="curve"/>
+			<point x="323" y="377" type="line"/>
+			<point x="323" y="513"/>
+			<point x="264" y="554"/>
+			<point x="159" y="554" type="curve"/>
 			<point x="78" y="554" type="line"/>
-			<point x="78" y="472" type="line"/>
-			<point x="138" y="472" type="line"/>
-			<point x="213" y="472"/>
-			<point x="251" y="450"/>
-			<point x="251" y="349" type="curve"/>
-			<point x="251" y="78" type="line"/>
-			<point x="50" y="78" type="line"/>
+			<point x="78" y="481" type="line"/>
+			<point x="122" y="481" type="line"/>
+			<point x="201" y="481"/>
+			<point x="241" y="459"/>
+			<point x="241" y="353" type="curve"/>
+			<point x="241" y="72" type="line"/>
+			<point x="50" y="72" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="177" y="568"/>
-	<anchor name="belowPrimaryHE" x="164" y="-30"/>
-	<anchor name="centerHE" x="124" y="270"/>
-	<anchor name="aboveLeftHE" x="12" y="568"/>
-	<anchor name="belowPrimaryHECXT" x="191" y="-30"/>
+	<anchor name="aboveHE" x="195" y="590"/>
+	<anchor name="belowPrimaryHE" x="178" y="-27"/>
+	<anchor name="centerHE" x="144" y="280"/>
+	<anchor name="aboveLeftHE" x="28" y="590"/>
+	<anchor name="belowPrimaryHECXT" x="206" y="-27"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -36,14 +36,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 78</string>
-							<string>hstem 472 82</string>
-							<string>vstem 251 72</string>
+							<string>hstem 0 72</string>
+							<string>hstem 481 73</string>
+							<string>vstem 241 82</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w414l500l3230l323383323514267554c169554l78554l78472l138472213472251450c251349l25178l5078</string>
+				<string>w413l500l3230l323377323513264554c159554l78554l78481l122481201481241459c241353l24172l5072</string>
 			</dict>
 		</dict>
 	</lib>

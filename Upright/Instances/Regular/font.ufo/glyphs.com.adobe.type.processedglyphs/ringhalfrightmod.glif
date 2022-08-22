@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringhalfrightmod" format="2">
 	<unicode hex="02BE"/>
-	<advance width="166"/>
+	<advance width="242"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="30" y="549" type="line"/>
-			<point x="109" y="546"/>
-			<point x="151" y="585"/>
-			<point x="151" y="646" type="curve"/>
-			<point x="151" y="707"/>
-			<point x="109" y="746"/>
-			<point x="30" y="743" type="curve"/>
-			<point x="30" y="708" type="line"/>
-			<point x="83" y="708"/>
-			<point x="103" y="683"/>
-			<point x="103" y="646" type="curve"/>
-			<point x="103" y="609"/>
-			<point x="83" y="583"/>
-			<point x="30" y="584" type="curve"/>
+			<point name="hintSet0000" x="45" y="453" type="line"/>
+			<point x="151" y="449"/>
+			<point x="208" y="498"/>
+			<point x="208" y="586" type="curve"/>
+			<point x="208" y="675"/>
+			<point x="151" y="723"/>
+			<point x="45" y="718" type="curve"/>
+			<point x="45" y="668" type="line"/>
+			<point x="113" y="668"/>
+			<point x="144" y="639"/>
+			<point x="144" y="586" type="curve"/>
+			<point x="144" y="532"/>
+			<point x="113" y="503"/>
+			<point x="45" y="503" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -31,14 +31,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 549 35</string>
-							<string>hstem 708 35</string>
-							<string>vstem 103 48</string>
+							<string>hstem 453 50</string>
+							<string>hstem 668 50</string>
+							<string>vstem 144 64</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w166l30549109546151585c151646151707109746c30743l3070883708103683c10364610360983583c30584</string>
+				<string>w242l45453151449208498c208586208675151723c45718l45668113668144639c144586144532113503c45503</string>
 			</dict>
 		</dict>
 	</lib>

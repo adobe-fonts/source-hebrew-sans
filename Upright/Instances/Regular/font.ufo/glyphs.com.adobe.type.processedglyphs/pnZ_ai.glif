@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnZai" format="2">
 	<unicode hex="10906"/>
-	<advance width="498"/>
+	<advance width="487"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="45" y="0" type="line"/>
-			<point x="454" y="0" type="line"/>
-			<point x="454" y="82" type="line"/>
-			<point x="157" y="82" type="line"/>
-			<point x="451" y="504" type="line"/>
-			<point x="451" y="554" type="line"/>
-			<point x="72" y="554" type="line"/>
-			<point x="72" y="472" type="line"/>
-			<point x="339" y="472" type="line"/>
-			<point x="45" y="50" type="line"/>
+			<point name="hintSet0000" x="58" y="0" type="line"/>
+			<point x="446" y="0" type="line"/>
+			<point x="446" y="82" type="line"/>
+			<point x="158" y="82" type="line"/>
+			<point name="hintSet0004" x="443" y="468" type="line"/>
+			<point name="hintSet0005" x="433" y="518" type="line"/>
+			<point x="76" y="518" type="line"/>
+			<point x="76" y="436" type="line"/>
+			<point x="334" y="436" type="line"/>
+			<point x="48" y="50" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -28,13 +28,33 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 82</string>
-							<string>hstem 472 82</string>
-							<string>vstem 45 409</string>
+							<string>hstem 436 82</string>
+							<string>vstem 48 398</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0004</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 82</string>
+							<string>hstem 468 50</string>
+							<string>vstem 48 398</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0005</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 82</string>
+							<string>hstem 436 82</string>
+							<string>vstem 48 398</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w498l450l4540l45482l15782l451504l451554l72554l72472l339472l4550</string>
+				<string>w487l580l4460l44682l15882l443468l433518l76518l76436l334436l4850</string>
 			</dict>
 		</dict>
 	</lib>

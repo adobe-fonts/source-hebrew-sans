@@ -3,39 +3,39 @@
 	<unicode hex="05B0"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="0" y="-161" type="curve"/>
-			<point x="23" y="-161"/>
-			<point x="44" y="-145"/>
-			<point x="44" y="-117" type="curve"/>
-			<point x="44" y="-91"/>
-			<point x="23" y="-73"/>
-			<point x="0" y="-73" type="curve"/>
-			<point x="-23" y="-73"/>
-			<point x="-44" y="-91"/>
-			<point x="-44" y="-117" type="curve"/>
-			<point x="-44" y="-144"/>
-			<point x="-23" y="-161"/>
+			<point name="hintSet0000" x="0" y="-156" type="curve"/>
+			<point x="27" y="-156"/>
+			<point x="45" y="-140"/>
+			<point x="45" y="-115" type="curve"/>
+			<point x="45" y="-90"/>
+			<point x="27" y="-74"/>
+			<point x="0" y="-74" type="curve"/>
+			<point x="-27" y="-74"/>
+			<point x="-45" y="-90"/>
+			<point x="-45" y="-115" type="curve"/>
+			<point x="-45" y="-140"/>
+			<point x="-27" y="-156"/>
 		</contour>
 		<contour>
-			<point x="0" y="-287" type="curve"/>
-			<point x="23" y="-287"/>
-			<point x="44" y="-271"/>
-			<point x="44" y="-243" type="curve"/>
-			<point x="44" y="-217"/>
-			<point x="23" y="-199"/>
-			<point x="0" y="-199" type="curve"/>
-			<point x="-23" y="-199"/>
-			<point x="-44" y="-217"/>
-			<point x="-44" y="-243" type="curve"/>
-			<point x="-44" y="-270"/>
-			<point x="-23" y="-287"/>
+			<point x="0" y="-276" type="curve"/>
+			<point x="27" y="-276"/>
+			<point x="45" y="-260"/>
+			<point x="45" y="-235" type="curve"/>
+			<point x="45" y="-210"/>
+			<point x="27" y="-194"/>
+			<point x="0" y="-194" type="curve"/>
+			<point x="-27" y="-194"/>
+			<point x="-45" y="-210"/>
+			<point x="-45" y="-235" type="curve"/>
+			<point x="-45" y="-260"/>
+			<point x="-27" y="-276"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-35" y="-30"/>
-	<anchor name="_belowRightHE" x="35" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-110" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
+	<anchor name="_belowLeftHE" x="-35" y="-22"/>
+	<anchor name="_belowRightHE" x="35" y="-22"/>
+	<anchor name="belowPrimaryHE" x="-110" y="-22"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -47,14 +47,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -287 88</string>
-							<string>hstem -161 88</string>
-							<string>vstem -44 88</string>
+							<string>hstem -276 82</string>
+							<string>hstem -156 82</string>
+							<string>vstem -45 90</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>b01e35786cc5e6d45e72ceb35cae1216ab1f44facb92ef596bf3bd426f94bd16de291433045c0b3bbdd068c602e768f7c949f90eae3ae96da4f91db0d0305e32</string>
+				<string>fa44beb200d693d7e4c6ac819e815f0c24959fdb7b5af1babbc485726ff551b3510a1dd78f9d4162da499f481a5300eca65de08c42a4fa69a956614e5f33ea99</string>
 			</dict>
 		</dict>
 	</lib>

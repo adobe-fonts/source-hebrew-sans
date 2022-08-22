@@ -3,25 +3,25 @@
 	<advance width="367"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="105" y="157" type="line"/>
-			<point x="165" y="248" type="line"/>
-			<point x="218" y="331" type="line"/>
-			<point x="222" y="331" type="line"/>
-			<point x="217" y="223" type="line"/>
-			<point x="217" y="157" type="line"/>
+			<point name="hintSet0000" x="109" y="150" type="line"/>
+			<point x="170" y="248" type="line"/>
+			<point x="220" y="329" type="line"/>
+			<point x="224" y="329" type="line"/>
+			<point x="220" y="220" type="line"/>
+			<point x="220" y="150" type="line"/>
 		</contour>
 		<contour>
-			<point x="217" y="0" type="line"/>
-			<point x="274" y="0" type="line"/>
-			<point x="274" y="100" type="line"/>
-			<point x="332" y="100" type="line"/>
-			<point x="332" y="157" type="line"/>
-			<point x="274" y="157" type="line"/>
-			<point x="274" y="390" type="line"/>
-			<point x="202" y="390" type="line"/>
-			<point x="38" y="145" type="line"/>
-			<point x="38" y="100" type="line"/>
-			<point x="217" y="100" type="line"/>
+			<point x="220" y="0" type="line"/>
+			<point x="278" y="0" type="line"/>
+			<point x="278" y="104" type="line"/>
+			<point x="336" y="104" type="line"/>
+			<point x="336" y="150" type="line"/>
+			<point x="278" y="150" type="line"/>
+			<point x="278" y="390" type="line"/>
+			<point x="206" y="390" type="line"/>
+			<point x="42" y="137" type="line"/>
+			<point x="42" y="104" type="line"/>
+			<point x="220" y="104" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -35,14 +35,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 100 57</string>
-							<string>hstem 331 59</string>
-							<string>vstem 217 57</string>
+							<string>hstem 104 46</string>
+							<string>hstem 329 61</string>
+							<string>vstem 220 58</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w367l105157l165248l218331l222331l217223l217157l2170l2740l274100l332100l332157l274157l274390l202390l38145l38100l217100</string>
+				<string>w367l109150l170248l220329l224329l220220l220150l2200l2780l278104l336104l336150l278150l278390l206390l42137l42104l220104</string>
 			</dict>
 		</dict>
 	</lib>

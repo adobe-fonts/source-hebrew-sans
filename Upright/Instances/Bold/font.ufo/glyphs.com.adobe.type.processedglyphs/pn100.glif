@@ -3,12 +3,12 @@
 	<advance width="507"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="287" y="0" type="line"/>
+			<point name="hintSet0000" x="267" y="0" type="line"/>
 			<point x="414" y="0" type="line"/>
 			<point x="414" y="528" type="line"/>
 			<point x="56" y="528" type="line"/>
-			<point x="56" y="381" type="line"/>
-			<point x="287" y="381" type="line"/>
+			<point x="56" y="401" type="line"/>
+			<point x="267" y="401" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -22,13 +22,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 381 147</string>
-							<string>vstem 287 127</string>
+							<string>hstem 401 127</string>
+							<string>vstem 267 147</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w507l2870l4140l414528l56528l56381l287381</string>
+				<string>w507l2670l4140l414528l56528l56401l267401</string>
 			</dict>
 		</dict>
 	</lib>

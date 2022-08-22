@@ -16,10 +16,10 @@
 			<point x="27" y="24" type="line"/>
 		</contour>
 		<contour>
-			<point x="95" y="-160" type="line"/>
-			<point x="341" y="-160" type="line"/>
-			<point x="341" y="-124" type="line"/>
-			<point x="95" y="-124" type="line"/>
+			<point x="91" y="-163" type="line"/>
+			<point x="337" y="-163" type="line"/>
+			<point x="337" y="-127" type="line"/>
+			<point x="91" y="-127" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -33,7 +33,7 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -160 36</string>
+							<string>hstem -163 36</string>
 							<string>hstem 0 39</string>
 							<string>hstem 442 38</string>
 							<string>vstem 27 351</string>
@@ -41,7 +41,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w404l270l3780l37839l8539l368457l368480l58480l58442l311442l2724l95-160l341-160l341-124l95-124</string>
+				<string>w404l270l3780l37839l8539l368457l368480l58480l58442l311442l2724l91-163l337-163l337-127l91-127</string>
 			</dict>
 		</dict>
 	</lib>

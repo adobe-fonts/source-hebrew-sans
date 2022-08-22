@@ -8,7 +8,7 @@
 			<point x="286" y="0" type="line"/>
 			<point x="342" y="228" type="line"/>
 			<point name="hintSet0003" x="353" y="274"/>
-			<point x="362" y="320"/>
+			<point x="363" y="320"/>
 			<point x="371" y="372" type="curve"/>
 			<point x="375" y="372" type="line"/>
 			<point x="386" y="320"/>
@@ -40,8 +40,9 @@
 			<point x="24" y="491" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="374" y="512"/>
-	<anchor name="belowLC" x="374" y="-20"/>
+	<anchor name="aboveLC" x="374" y="514"/>
+	<anchor name="aboverightLC" x="682" y="514"/>
+	<anchor name="belowLC" x="374" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -70,7 +71,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9531be3d3da2e9a1f19d356833ec69f2e13a30eec583557c1536fd7e3d70801781617b4c1aa508608de7b8939aac748b3bbf39d9e907aa13f6b1af0384938964</string>
+				<string>bc9645d11f3aa50aff7ce0845531a6d23a414383577e92522991a2e9fb1356f0052425f836a402d8d687f08f0290e90a1b0cdc4d42e3d0d7f3b5fa43fabf74ac</string>
 			</dict>
 		</dict>
 	</lib>

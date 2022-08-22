@@ -2,17 +2,12 @@
 <glyph name="hePatah" format="2">
 	<unicode hex="05B7"/>
 	<outline>
-		<contour>
-			<point x="-102" y="-128" type="line"/>
-			<point x="102" y="-128" type="line"/>
-			<point x="102" y="-88" type="line"/>
-			<point x="-102" y="-88" type="line"/>
-		</contour>
+		<component base="heRafe" xScale="0.959" yOffset="-784"/>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-101" y="-30"/>
-	<anchor name="_belowRightHE" x="101" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-162" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="19" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-29"/>
+	<anchor name="_belowLeftHE" x="-101" y="-29"/>
+	<anchor name="_belowRightHE" x="101" y="-29"/>
+	<anchor name="belowPrimaryHE" x="-162" y="-29"/>
+	<anchor name="_belowSecondaryHE" x="19" y="-29"/>
 	<guideline x="-152" identifier="QGO5vhQEkK"/>
 </glyph>

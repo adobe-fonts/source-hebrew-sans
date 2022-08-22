@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heBetRafe" format="2">
 	<unicode hex="FB4C"/>
-	<advance width="540"/>
+	<advance width="525"/>
+	<outline>
+		<component base="heBet"/>
+		<component base="heRafe" xOffset="224"/>
+	</outline>
 </glyph>

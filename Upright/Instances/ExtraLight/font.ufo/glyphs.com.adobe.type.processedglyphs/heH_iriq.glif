@@ -3,18 +3,18 @@
 	<unicode hex="05B4"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="0" y="-155" type="curve"/>
-			<point x="20" y="-155"/>
-			<point x="35" y="-140"/>
-			<point x="35" y="-120" type="curve"/>
-			<point x="35" y="-100"/>
-			<point x="20" y="-85"/>
-			<point x="0" y="-85" type="curve"/>
-			<point x="-20" y="-85"/>
-			<point x="-35" y="-100"/>
-			<point x="-35" y="-120" type="curve"/>
-			<point x="-35" y="-140"/>
-			<point x="-20" y="-155"/>
+			<point name="hintSet0000" x="0" y="-190" type="curve"/>
+			<point x="18" y="-190"/>
+			<point x="32" y="-176"/>
+			<point x="32" y="-154" type="curve"/>
+			<point x="32" y="-134"/>
+			<point x="18" y="-120"/>
+			<point x="0" y="-120" type="curve"/>
+			<point x="-18" y="-120"/>
+			<point x="-32" y="-134"/>
+			<point x="-32" y="-154" type="curve"/>
+			<point x="-32" y="-176"/>
+			<point x="-18" y="-190"/>
 		</contour>
 	</outline>
 	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
@@ -34,13 +34,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -155 70</string>
-							<string>vstem -35 70</string>
+							<string>hstem -190 70</string>
+							<string>vstem -32 64</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0c0-15520-15535-140c35-12035-10020-85c0-85-20-85-35-100c-35-120-35-140-20-155</string>
+				<string>w0c0-19018-19032-176c32-15432-13418-120c0-120-18-120-32-134c-32-154-32-176-18-190</string>
 			</dict>
 		</dict>
 	</lib>

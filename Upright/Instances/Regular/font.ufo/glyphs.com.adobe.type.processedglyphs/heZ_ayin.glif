@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heZayin" format="2">
 	<unicode hex="05D6"/>
-	<advance width="318"/>
+	<advance width="326"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="8" y="472" type="line"/>
-			<point x="122" y="472" type="line"/>
-			<point x="111" y="443"/>
-			<point x="104" y="412"/>
-			<point x="104" y="372" type="curve"/>
-			<point x="104" y="298"/>
-			<point x="117" y="162"/>
-			<point x="133" y="0" type="curve"/>
-			<point x="206" y="0" type="line"/>
-			<point x="186" y="173"/>
-			<point x="175" y="298"/>
-			<point x="175" y="377" type="curve"/>
-			<point x="175" y="413"/>
-			<point x="175" y="440"/>
-			<point x="181" y="472" type="curve"/>
-			<point x="278" y="472" type="line"/>
-			<point x="278" y="554" type="line"/>
-			<point x="8" y="554" type="line"/>
+			<point name="hintSet0000" x="11" y="482" type="line"/>
+			<point x="131" y="482" type="line"/>
+			<point x="108" y="443"/>
+			<point x="102" y="410"/>
+			<point x="102" y="369" type="curve"/>
+			<point x="102" y="308"/>
+			<point x="120" y="157"/>
+			<point x="141" y="0" type="curve"/>
+			<point x="224" y="0" type="line"/>
+			<point x="200" y="168"/>
+			<point x="183" y="307"/>
+			<point x="183" y="374" type="curve"/>
+			<point x="183" y="413"/>
+			<point x="184" y="451"/>
+			<point x="193" y="482" type="curve"/>
+			<point x="282" y="482" type="line"/>
+			<point x="282" y="554" type="line"/>
+			<point x="11" y="554" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -35,13 +35,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 472 82</string>
-							<string>vstem 104 71</string>
+							<string>hstem 482 72</string>
+							<string>vstem 102 81</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w318l8472l122472111443104412c104372104298117162c1330l2060186173175298c175377175413175440c181472l278472l278554l8554</string>
+				<string>w326l11482l131482108443102410c102369102308120157c1410l2240200168183307c183374183413184451c193482l282482l282554l11554</string>
 			</dict>
 		</dict>
 	</lib>

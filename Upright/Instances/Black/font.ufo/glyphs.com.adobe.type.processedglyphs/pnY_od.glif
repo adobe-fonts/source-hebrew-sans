@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnYod" format="2">
 	<unicode hex="10909"/>
-	<advance width="544"/>
+	<advance width="510"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="112" y="0" type="line"/>
-			<point x="472" y="0" type="line"/>
-			<point x="472" y="172" type="line"/>
-			<point x="304" y="172" type="line"/>
-			<point x="470" y="464" type="line"/>
-			<point x="470" y="568" type="line"/>
-			<point x="58" y="568" type="line"/>
-			<point x="58" y="396" type="line"/>
-			<point x="278" y="396" type="line"/>
-			<point x="251" y="348" type="line"/>
-			<point x="82" y="348" type="line"/>
-			<point x="82" y="224" type="line"/>
-			<point x="180" y="224" type="line"/>
-			<point x="112" y="104" type="line"/>
+			<point name="hintSet0000" x="88" y="0" type="line"/>
+			<point name="hintSet0001" x="468" y="0" type="line"/>
+			<point x="468" y="172" type="line"/>
+			<point x="310" y="172" type="line"/>
+			<point x="394" y="228"/>
+			<point x="466" y="300"/>
+			<point x="466" y="378" type="curve"/>
+			<point x="466" y="462"/>
+			<point x="420" y="532"/>
+			<point x="286" y="532" type="curve"/>
+			<point x="74" y="532" type="line"/>
+			<point x="74" y="380" type="line"/>
+			<point x="244" y="380" type="line"/>
+			<point x="285" y="380"/>
+			<point x="306" y="369"/>
+			<point x="314" y="348" type="curve"/>
+			<point x="118" y="348" type="line"/>
+			<point x="118" y="216" type="line"/>
+			<point x="196" y="216" type="line"/>
+			<point x="161" y="195"/>
+			<point x="118" y="171"/>
+			<point x="68" y="144" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -32,14 +40,25 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 172</string>
-							<string>hstem 224 124</string>
-							<string>hstem 396 172</string>
-							<string>vstem 112 360</string>
+							<string>hstem 216 132</string>
+							<string>hstem 380 152</string>
+							<string>vstem 68 400</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0001</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 172</string>
+							<string>hstem 216 132</string>
+							<string>hstem 380 152</string>
+							<string>vstem 118 350</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w544l1120l4720l472172l304172l470464l470568l58568l58396l278396l251348l82348l82224l180224l112104</string>
+				<string>61b5f1b292a008ad1e8bbf651e5059e7589f3b073db396fb29b14e0347f3677cb5dcdef109ed95da44d34347f49d37a0580b9b89c28e659cf1907c4cf338752b</string>
 			</dict>
 		</dict>
 	</lib>

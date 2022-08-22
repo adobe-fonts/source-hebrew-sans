@@ -29,10 +29,10 @@
 		<contour>
 			<point x="253" y="27" type="curve"/>
 			<point x="172" y="27"/>
-			<point x="114" y="115"/>
-			<point x="111" y="346" type="curve"/>
-			<point x="395" y="346" type="line"/>
-			<point x="392" y="115"/>
+			<point x="114" y="114"/>
+			<point x="111" y="345" type="curve"/>
+			<point x="395" y="345" type="line"/>
+			<point x="392" y="114"/>
 			<point x="334" y="27"/>
 		</contour>
 	</outline>
@@ -48,7 +48,7 @@
 						<key>stems</key>
 						<array>
 							<string>hstem -12 39</string>
-							<string>hstem 346 37</string>
+							<string>hstem 345 38</string>
 							<string>hstem 692 39</string>
 							<string>vstem 66 45</string>
 							<string>vstem 395 45</string>
@@ -56,7 +56,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>3e63fa98484e785bd790d6ef5c754df1d07a2b56371f9331552d66de426c7360c239ccd71031e675726de3138a69ce13f5237224d62cc462c4a0e5d3c75e9920</string>
+				<string>138cb00b10a0e4e14344448a4ae657c2c7e6d6f97837c0f2011fc574e63a298f4a651994799d96d661922ff6067c16b69e464cd8795b66b14127c7aaccfb9719</string>
 			</dict>
 		</dict>
 	</lib>

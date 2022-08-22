@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heHeMapiq" format="2">
 	<unicode hex="FB34"/>
-	<advance width="540"/>
+	<advance width="625"/>
+	<outline>
+		<component base="heHe"/>
+		<component base="heDagesh" xOffset="313" yOffset="-19"/>
+	</outline>
 </glyph>

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnDelt" format="2">
 	<unicode hex="10903"/>
-	<advance width="551"/>
+	<advance width="546"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="316" y="82" type="line"/>
-			<point x="190" y="82"/>
-			<point x="132" y="151"/>
-			<point x="132" y="279" type="curve"/>
-			<point x="132" y="400"/>
-			<point x="190" y="472"/>
-			<point x="316" y="472" type="curve"/>
-			<point x="389" y="472" type="line"/>
-			<point x="389" y="82" type="line"/>
+			<point name="hintSet0000" x="332" y="61" type="line"/>
+			<point x="194" y="61"/>
+			<point x="131" y="132"/>
+			<point x="131" y="256" type="curve"/>
+			<point x="131" y="373"/>
+			<point x="194" y="445"/>
+			<point x="332" y="445" type="curve"/>
+			<point x="375" y="445" type="line"/>
+			<point x="375" y="61" type="line"/>
 		</contour>
 		<contour>
-			<point x="313" y="0" type="curve"/>
-			<point x="389" y="0" type="line"/>
-			<point x="389" y="-120" type="line"/>
-			<point x="461" y="-120" type="line"/>
-			<point x="461" y="555" type="line"/>
-			<point x="317" y="555" type="line"/>
-			<point x="152" y="555"/>
-			<point x="58" y="461"/>
-			<point x="58" y="279" type="curve"/>
-			<point x="58" y="97"/>
-			<point x="152" y="0"/>
+			<point x="338" y="-12" type="curve"/>
+			<point x="375" y="-12" type="line"/>
+			<point x="375" y="-185" type="line"/>
+			<point x="456" y="-185" type="line"/>
+			<point x="456" y="518" type="line"/>
+			<point x="342" y="518" type="line"/>
+			<point x="158" y="518"/>
+			<point x="53" y="428"/>
+			<point x="53" y="256" type="curve"/>
+			<point x="53" y="83"/>
+			<point x="158" y="-12"/>
 		</contour>
 	</outline>
 	<lib>
@@ -39,15 +39,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 82</string>
-							<string>hstem 472 83</string>
-							<string>vstem 58 74</string>
-							<string>vstem 389 72</string>
+							<string>hstem -12 73</string>
+							<string>hstem 445 73</string>
+							<string>vstem 53 78</string>
+							<string>vstem 375 81</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w551l3168219082132151c132279132400190472c316472l389472l38982c3130l3890l389-120l461-120l461555l31755515255558461c5827958971520</string>
+				<string>86e433486b91f094014c78022593c8434da89f3c99a7e88a074e14b69072bf08997cd0beff77e200f3fc632e222168fb3d01d32629d0a37d1a635b8d4b405447</string>
 			</dict>
 		</dict>
 	</lib>

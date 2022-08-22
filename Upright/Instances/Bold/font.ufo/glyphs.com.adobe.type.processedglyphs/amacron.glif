@@ -16,10 +16,10 @@
 			<point x="398" y="508"/>
 			<point x="271" y="508" type="curve"/>
 			<point x="193" y="508"/>
-			<point x="122" y="481"/>
+			<point x="122" y="482"/>
 			<point x="59" y="443" type="curve"/>
-			<point x="112" y="346" type="line"/>
-			<point x="160" y="374"/>
+			<point x="112" y="348" type="line"/>
+			<point x="160" y="375"/>
 			<point x="201" y="391"/>
 			<point x="243" y="391" type="curve"/>
 			<point x="297" y="391"/>
@@ -44,12 +44,14 @@
 			<point x="273" y="102"/>
 		</contour>
 		<contour>
-			<point name="hintSet0018" x="137" y="592" type="line"/>
-			<point x="433" y="592" type="line"/>
-			<point x="433" y="685" type="line"/>
-			<point x="137" y="685" type="line"/>
+			<point name="hintSet0018" x="128" y="592" type="line"/>
+			<point x="424" y="592" type="line"/>
+			<point x="424" y="685" type="line"/>
+			<point x="128" y="685" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveLC" x="276" y="691"/>
+	<anchor name="belowLC" x="256" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -100,12 +102,12 @@
 							<string>hstem 21 -21</string>
 							<string>hstem 391 117</string>
 							<string>hstem 592 93</string>
-							<string>vstem 137 296</string>
+							<string>vstem 128 296</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a767d5b49982b8bc62bc09b18562784f4c1d41c85a59f9c557e248b79dd438fc5f8917b9be7fe564e9a3c8ba60890439c90e1b52ac96bdb45e135ed9ea91e5ef</string>
+				<string>73a618b7eb85b4f3aa38d571d87b8746b31dc1fb7d9a0dc1189fe150d0b95db39ddbebf0e896b71eb95880c4fbc968717b5c3f248281667abf87cf043236d830</string>
 			</dict>
 		</dict>
 	</lib>

@@ -4,37 +4,38 @@
 	<advance width="456"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="274" y="-12" type="curve"/>
-			<point x="332" y="-12"/>
-			<point x="387" y="11"/>
-			<point x="431" y="50" type="curve"/>
-			<point x="395" y="105" type="line"/>
-			<point x="365" y="78"/>
+			<point name="hintSet0000" x="277" y="-12" type="curve"/>
+			<point x="340" y="-12"/>
+			<point x="390" y="14"/>
+			<point x="431" y="53" type="curve"/>
+			<point x="395" y="102" type="line"/>
+			<point x="366" y="75"/>
 			<point x="326" y="56"/>
-			<point x="281" y="56" type="curve"/>
+			<point x="282" y="56" type="curve"/>
 			<point x="192" y="56"/>
 			<point x="131" y="131"/>
 			<point x="131" y="242" type="curve"/>
 			<point x="131" y="354"/>
-			<point x="195" y="430"/>
+			<point x="196" y="430"/>
 			<point x="283" y="430" type="curve"/>
-			<point x="322" y="430"/>
-			<point x="352" y="412"/>
-			<point x="380" y="387" type="curve"/>
-			<point x="422" y="441" type="line"/>
-			<point x="388" y="472"/>
-			<point x="344" y="498"/>
+			<point x="325" y="430"/>
+			<point x="357" y="415"/>
+			<point x="382" y="391" type="curve"/>
+			<point x="421" y="440" type="line"/>
+			<point x="388" y="474"/>
+			<point x="343" y="498"/>
 			<point x="280" y="498" type="curve"/>
 			<point x="155" y="498"/>
 			<point x="46" y="405"/>
 			<point x="46" y="242" type="curve"/>
 			<point x="46" y="81"/>
-			<point x="145" y="-12"/>
+			<point x="146" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="272" y="507"/>
-	<anchor name="belowLC" x="267" y="-20"/>
-	<anchor name="baseLC" x="271" y="0"/>
+	<anchor name="aboveLC" x="274" y="509"/>
+	<anchor name="aboverightLC" x="414" y="509"/>
+	<anchor name="baseLC" x="266" y="0"/>
+	<anchor name="belowLC" x="266" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -53,7 +54,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>aba5f7b18dee7bb523e8fee036618ca501caac886c3e393d6a7788ed60d6b3e01278107b48f470d86804ee7d6584df5a1728bce78194fe80e7a8a3856ed6d3d3</string>
+				<string>7062c4b9a275374905c40162c6c9858ac62a063822b003427e74aca1602f80ddd4c7348955e2dd85a38464f43b052191de27e4f0bfb4ac4ecd193014664addae</string>
 			</dict>
 		</dict>
 	</lib>

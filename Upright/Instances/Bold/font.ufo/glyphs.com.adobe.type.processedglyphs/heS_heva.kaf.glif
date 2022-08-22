@@ -2,35 +2,35 @@
 <glyph name="heSheva.kaf" format="2">
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="0" y="-75" type="curve"/>
-			<point x="-22" y="-75"/>
-			<point x="-42" y="-93"/>
-			<point x="-42" y="-118" type="curve"/>
-			<point x="-42" y="-143"/>
-			<point x="-22" y="-160"/>
-			<point x="0" y="-160" type="curve"/>
-			<point x="22" y="-160"/>
-			<point x="42" y="-144"/>
-			<point x="42" y="-118" type="curve"/>
-			<point x="42" y="-93"/>
-			<point x="22" y="-75"/>
+			<point name="hintSet0000" x="0" y="-159" type="curve"/>
+			<point x="27" y="-159"/>
+			<point x="46" y="-143"/>
+			<point x="46" y="-117" type="curve"/>
+			<point x="46" y="-91"/>
+			<point x="27" y="-74"/>
+			<point x="0" y="-74" type="curve"/>
+			<point x="-27" y="-74"/>
+			<point x="-46" y="-91"/>
+			<point x="-46" y="-117" type="curve"/>
+			<point x="-46" y="-143"/>
+			<point x="-27" y="-159"/>
 		</contour>
 		<contour>
-			<point x="0" y="-200" type="curve"/>
-			<point x="-22" y="-200"/>
-			<point x="-42" y="-218"/>
-			<point x="-42" y="-243" type="curve"/>
-			<point x="-42" y="-268"/>
-			<point x="-22" y="-285"/>
-			<point x="0" y="-285" type="curve"/>
-			<point x="22" y="-285"/>
-			<point x="42" y="-269"/>
-			<point x="42" y="-243" type="curve"/>
-			<point x="42" y="-218"/>
-			<point x="22" y="-200"/>
+			<point x="0" y="-277" type="curve"/>
+			<point x="27" y="-277"/>
+			<point x="46" y="-261"/>
+			<point x="46" y="-235" type="curve"/>
+			<point x="46" y="-209"/>
+			<point x="27" y="-192"/>
+			<point x="0" y="-192" type="curve"/>
+			<point x="-27" y="-192"/>
+			<point x="-46" y="-209"/>
+			<point x="-46" y="-235" type="curve"/>
+			<point x="-46" y="-261"/>
+			<point x="-27" y="-277"/>
 		</contour>
 	</outline>
-	<anchor name="_centerSecondaryHE" x="0" y="-30"/>
+	<anchor name="_centerSecondaryHE" x="0" y="-23"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -42,14 +42,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -285 85</string>
-							<string>hstem -160 85</string>
-							<string>vstem -42 84</string>
+							<string>hstem -277 85</string>
+							<string>hstem -159 85</string>
+							<string>vstem -46 92</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>16e75ba8fec5b71848d7092c3bbfaa26131f477e295ea6488169b7d55432d1d83bcdb15202315384d20c7c723483b088e537e11025f293f0f076b4fc469a6601</string>
+				<string>85c2fa90470e046a5f340232120dc2f46fc597b43035c24ffc155ac99c764af2f02a0ff4310e3b941d09b1b194f6a5af8f6313983e07b56b54df8d223593a2d4</string>
 			</dict>
 		</dict>
 	</lib>

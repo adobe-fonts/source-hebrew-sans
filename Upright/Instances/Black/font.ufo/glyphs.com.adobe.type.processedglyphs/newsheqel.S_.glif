@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="newsheqel.S" format="2">
-	<unicode hex="20AA"/>
 	<advance width="540"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="4" y="0" type="line"/>
 			<point x="134" y="0" type="line"/>
-			<point x="134" y="424" type="line"/>
-			<point x="190" y="424" type="line"/>
-			<point x="249" y="424"/>
-			<point x="286" y="402"/>
-			<point x="286" y="332" type="curve"/>
-			<point x="286" y="222" type="line"/>
-			<point x="370" y="222" type="line"/>
+			<point x="134" y="450" type="line"/>
+			<point x="190" y="450" type="line"/>
+			<point x="249" y="450"/>
+			<point x="286" y="428"/>
+			<point x="286" y="358" type="curve"/>
+			<point x="286" y="196" type="line"/>
+			<point x="370" y="196" type="line"/>
 			<point x="370" y="400" type="line"/>
 			<point x="370" y="523"/>
 			<point x="301" y="568"/>
@@ -27,13 +26,13 @@
 			<point x="536" y="168" type="curve"/>
 			<point x="536" y="568" type="line"/>
 			<point x="406" y="568" type="line"/>
-			<point x="406" y="236" type="line"/>
-			<point x="406" y="166"/>
-			<point x="368" y="144"/>
-			<point x="308" y="144" type="curve"/>
-			<point x="254" y="144" type="line"/>
-			<point x="254" y="346" type="line"/>
-			<point x="170" y="346" type="line"/>
+			<point x="406" y="210" type="line"/>
+			<point x="406" y="140"/>
+			<point x="368" y="118"/>
+			<point x="308" y="118" type="curve"/>
+			<point x="254" y="118" type="line"/>
+			<point x="254" y="372" type="line"/>
+			<point x="170" y="372" type="line"/>
 		</contour>
 	</outline>
 	<guideline x="270" y="284" angle="90" identifier="51LWLohGsJ"/>
@@ -48,9 +47,9 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 144</string>
-							<string>hstem 222 124</string>
-							<string>hstem 424 144</string>
+							<string>hstem 0 118</string>
+							<string>hstem 196 176</string>
+							<string>hstem 450 118</string>
 							<string>vstem 4 130</string>
 							<string>vstem 170 84</string>
 							<string>vstem 286 84</string>
@@ -59,7 +58,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>78621714c7da0a139af51488fbcd4f65c68dede02f38d104accb4b9ec0b860440ca482d57da0fb4a3c542a042f2eaa3575819d608f0e72bf415c320fba506163</string>
+				<string>805920bf14a667be415b37f758b94869a3f54bfba7789c587014ff87df66da208765c485c8aa179adc32ff42eae3b2369cb0cddbb328bfd6943eec118e96c772</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnYod" format="2">
 	<unicode hex="10909"/>
-	<advance width="531"/>
+	<advance width="496"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="108" y="0" type="line"/>
-			<point x="463" y="0" type="line"/>
-			<point x="463" y="147" type="line"/>
-			<point x="274" y="147" type="line"/>
-			<point x="460" y="475" type="line"/>
-			<point x="460" y="564" type="line"/>
-			<point x="62" y="564" type="line"/>
-			<point x="62" y="417" type="line"/>
-			<point x="295" y="417" type="line"/>
-			<point x="252" y="341" type="line"/>
-			<point x="84" y="341" type="line"/>
-			<point x="84" y="233" type="line"/>
-			<point x="190" y="233" type="line"/>
-			<point x="108" y="89" type="line"/>
+			<point name="hintSet0000" x="85" y="0" type="line"/>
+			<point x="455" y="0" type="line"/>
+			<point x="455" y="147" type="line"/>
+			<point x="277" y="147" type="line"/>
+			<point x="370" y="215"/>
+			<point x="446" y="296"/>
+			<point x="446" y="376" type="curve"/>
+			<point x="446" y="460"/>
+			<point x="399" y="528"/>
+			<point x="269" y="528" type="curve"/>
+			<point x="71" y="528" type="line"/>
+			<point x="71" y="398" type="line"/>
+			<point x="231" y="398" type="line"/>
+			<point x="292" y="398"/>
+			<point x="316" y="376"/>
+			<point x="318" y="337" type="curve"/>
+			<point x="110" y="337" type="line"/>
+			<point x="110" y="223" type="line"/>
+			<point x="225" y="223" type="line"/>
+			<point x="185" y="194"/>
+			<point x="132" y="161"/>
+			<point x="68" y="122" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -32,14 +40,14 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 147</string>
-							<string>hstem 233 108</string>
-							<string>hstem 417 147</string>
-							<string>vstem 62 401</string>
+							<string>hstem 223 114</string>
+							<string>hstem 398 130</string>
+							<string>vstem 318 128</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w531l1080l4630l463147l274147l460475l460564l62564l62417l295417l252341l84341l84233l190233l10889</string>
+				<string>89cfd3472e9a49665a0931ec377531f28cc53d0b0776fea8483ce838efc1df81cd2eca57f78170b4364a876800550b10bc32fe37e58fa6abeeb294c18c4d6451</string>
 			</dict>
 		</dict>
 	</lib>

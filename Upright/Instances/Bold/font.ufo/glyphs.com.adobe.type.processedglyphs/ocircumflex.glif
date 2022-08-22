@@ -32,16 +32,18 @@
 			<point x="338" y="107"/>
 		</contour>
 		<contour>
-			<point x="151" y="561" type="line"/>
-			<point x="276" y="653" type="line"/>
-			<point x="280" y="653" type="line"/>
-			<point x="405" y="561" type="line"/>
-			<point x="461" y="613" type="line"/>
-			<point x="353" y="744" type="line"/>
-			<point x="203" y="744" type="line"/>
-			<point x="95" y="613" type="line"/>
+			<point x="79" y="570" type="line"/>
+			<point x="191" y="570" type="line"/>
+			<point name="hintSet0012" x="276" y="656" type="line"/>
+			<point x="280" y="656" type="line"/>
+			<point name="hintSet0014" x="365" y="570" type="line"/>
+			<point x="477" y="570" type="line"/>
+			<point x="346" y="753" type="line"/>
+			<point x="210" y="753" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboverightLC" x="552" y="518"/>
+	<anchor name="belowLC" x="278" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -55,14 +57,38 @@
 						<array>
 							<string>hstem -12 119</string>
 							<string>hstem 389 119</string>
-							<string>hstem 653 91</string>
+							<string>hstem 570 183</string>
+							<string>vstem 36 151</string>
+							<string>vstem 369 150</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0012</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 119</string>
+							<string>hstem 389 119</string>
+							<string>hstem 656 97</string>
+							<string>vstem 36 151</string>
+							<string>vstem 369 150</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 119</string>
+							<string>hstem 389 119</string>
+							<string>hstem 570 183</string>
 							<string>vstem 36 151</string>
 							<string>vstem 369 150</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>5b615fda29331a684a1c82a88867f131d419840155c62335363589ac2e1a87f618df60ba5ea97241212393475aeb0031e5595fade6da750cdf6bddf4a970378f</string>
+				<string>5877250560b3307bc4da5609697d3971d7f5841556a93d413380b17f2e23d7fba859a53146e6bb1698a47d58e5d096cb6145cca3215869ada89ea034e9169e2b</string>
 			</dict>
 		</dict>
 	</lib>

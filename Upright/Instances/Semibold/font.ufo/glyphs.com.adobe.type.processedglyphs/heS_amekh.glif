@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heSamekh" format="2">
 	<unicode hex="05E1"/>
-	<advance width="605"/>
+	<advance width="623"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="317" y="-12" type="curve"/>
-			<point x="460" y="-12"/>
-			<point x="565" y="150"/>
-			<point x="565" y="374" type="curve"/>
-			<point x="565" y="506"/>
-			<point x="524" y="559"/>
-			<point x="414" y="559" type="curve"/>
-			<point x="4" y="559" type="line"/>
-			<point x="4" y="444" type="line"/>
-			<point x="74" y="444" type="line"/>
-			<point x="80" y="132"/>
-			<point x="182" y="-12"/>
+			<point name="hintSet0000" x="198" y="301" type="curve"/>
+			<point x="198" y="357"/>
+			<point x="201" y="406"/>
+			<point x="209" y="459" type="curve"/>
+			<point x="307" y="459" type="line"/>
+			<point x="415" y="459"/>
+			<point x="458" y="422"/>
+			<point x="458" y="322" type="curve"/>
+			<point x="458" y="188"/>
+			<point x="403" y="88"/>
+			<point x="325" y="88" type="curve"/>
+			<point x="254" y="88"/>
+			<point x="198" y="152"/>
 		</contour>
 		<contour>
-			<point x="386" y="444" type="line"/>
-			<point x="443" y="444"/>
-			<point x="466" y="418"/>
-			<point x="466" y="350" type="curve"/>
-			<point x="466" y="206"/>
-			<point x="406" y="103"/>
-			<point x="328" y="103" type="curve"/>
-			<point x="250" y="103"/>
-			<point x="185" y="190"/>
-			<point x="174" y="444" type="curve"/>
+			<point x="323" y="-12" type="curve"/>
+			<point x="481" y="-12"/>
+			<point x="577" y="142"/>
+			<point x="577" y="350" type="curve"/>
+			<point x="577" y="501"/>
+			<point x="511" y="559"/>
+			<point x="346" y="559" type="curve"/>
+			<point x="16" y="559" type="line"/>
+			<point x="16" y="459" type="line"/>
+			<point x="121" y="459" type="line"/>
+			<point x="100" y="401"/>
+			<point x="85" y="344"/>
+			<point x="85" y="280" type="curve"/>
+			<point x="85" y="122"/>
+			<point x="163" y="-12"/>
 		</contour>
 	</outline>
 	<lib>
@@ -41,15 +47,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -12 115</string>
-							<string>hstem 444 115</string>
-							<string>vstem 74 100</string>
-							<string>vstem 466 99</string>
+							<string>hstem -12 100</string>
+							<string>hstem 459 100</string>
+							<string>vstem 85 113</string>
+							<string>vstem 458 119</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>4d7c4ced78ea4089f245819654ec6aeb5cd515af97b7ff7e37b805a1597439fe80e6b5eb51007c9a7c661491de39c8305b1f3ec18930459996c49b40496bc0d0</string>
+				<string>abbf217ed398ded04f9d70aca9ae94bf2bd2fc998f53655305e7e59e83a94426c1169cae61df90544c9435b655372b0a2263fed005d08e37c0e51cd4757fcb90</string>
 			</dict>
 		</dict>
 	</lib>

@@ -3,15 +3,15 @@
 	<advance width="367"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="176" y="0" type="line"/>
-			<point x="232" y="0" type="line"/>
-			<point x="232" y="357" type="line"/>
-			<point x="184" y="357" type="line"/>
-			<point x="157" y="337"/>
-			<point x="131" y="325"/>
-			<point x="87" y="317" type="curve"/>
-			<point x="87" y="275" type="line"/>
-			<point x="176" y="275" type="line"/>
+			<point name="hintSet0000" x="172" y="0" type="line"/>
+			<point x="236" y="0" type="line"/>
+			<point x="236" y="390" type="line"/>
+			<point x="184" y="390" type="line"/>
+			<point x="157" y="370"/>
+			<point x="131" y="358"/>
+			<point x="87" y="350" type="curve"/>
+			<point x="87" y="308" type="line"/>
+			<point x="172" y="308" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -25,13 +25,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 275 82</string>
-							<string>vstem 176 56</string>
+							<string>hstem 308 82</string>
+							<string>vstem 172 64</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w367l1760l2320l232357l184357157337131325c87317l87275l176275</string>
+				<string>w367l1720l2360l236390l184390157370131358c87350l87308l172308</string>
 			</dict>
 		</dict>
 	</lib>

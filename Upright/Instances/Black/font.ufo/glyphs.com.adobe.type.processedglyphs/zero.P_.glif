@@ -4,31 +4,31 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="298" y="-12" type="curve"/>
-			<point x="434" y="-12"/>
-			<point x="544" y="94"/>
+			<point x="444" y="-12"/>
+			<point x="544" y="100"/>
 			<point x="544" y="288" type="curve"/>
-			<point x="544" y="482"/>
-			<point x="434" y="580"/>
+			<point x="544" y="474"/>
+			<point x="444" y="580"/>
 			<point x="298" y="580" type="curve"/>
-			<point x="162" y="580"/>
-			<point x="52" y="482"/>
+			<point x="152" y="580"/>
+			<point x="52" y="474"/>
 			<point x="52" y="288" type="curve"/>
-			<point x="52" y="94"/>
-			<point x="162" y="-12"/>
+			<point x="52" y="100"/>
+			<point x="152" y="-12"/>
 		</contour>
 		<contour>
-			<point x="298" y="138" type="curve"/>
-			<point x="248" y="138"/>
-			<point x="196" y="184"/>
-			<point x="196" y="288" type="curve"/>
-			<point x="196" y="394"/>
-			<point x="248" y="430"/>
-			<point x="298" y="430" type="curve"/>
-			<point x="348" y="430"/>
-			<point x="400" y="394"/>
-			<point x="400" y="288" type="curve"/>
-			<point x="400" y="184"/>
-			<point x="348" y="138"/>
+			<point x="298" y="120" type="curve"/>
+			<point x="254" y="120"/>
+			<point x="224" y="149"/>
+			<point x="224" y="288" type="curve"/>
+			<point x="224" y="424"/>
+			<point x="254" y="448"/>
+			<point x="298" y="448" type="curve"/>
+			<point x="342" y="448"/>
+			<point x="372" y="424"/>
+			<point x="372" y="288" type="curve"/>
+			<point x="372" y="149"/>
+			<point x="342" y="120"/>
 		</contour>
 	</outline>
 	<lib>
@@ -42,15 +42,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -12 150</string>
-							<string>hstem 430 150</string>
-							<string>vstem 52 144</string>
-							<string>vstem 400 144</string>
+							<string>hstem -12 132</string>
+							<string>hstem 448 132</string>
+							<string>vstem 52 172</string>
+							<string>vstem 372 172</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>4969091cc2939a4b4e12bdd304b961aa04fcfc6a4c3b70fcc64ba87e77b80086d44155ab12b9996fc35c7f881819ee31f7e624db03fe446b50635331061a70ce</string>
+				<string>d227d7cf1b2c958ce6ff32bb73d173f054a6c8d7d62708ee2662cfe40c1f55579c730198aa2a62a69ffcc014eaac3bda928dacc8ec21aaea8f7d0820ee507b0b</string>
 			</dict>
 		</dict>
 	</lib>

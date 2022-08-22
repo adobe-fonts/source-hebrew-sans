@@ -27,10 +27,10 @@
 			<point x="73" y="706" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0013" x="152" y="-180" type="line"/>
-			<point x="432" y="-180" type="line"/>
-			<point x="432" y="-104" type="line"/>
-			<point x="152" y="-104" type="line"/>
+			<point name="hintSet0013" x="152" y="-168" type="line"/>
+			<point x="432" y="-168" type="line"/>
+			<point x="432" y="-92" type="line"/>
+			<point x="152" y="-92" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -44,7 +44,7 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -180 76</string>
+							<string>hstem -168 76</string>
 							<string>hstem 21 -21</string>
 							<string>hstem 404 99</string>
 							<string>hstem 706 -20</string>
@@ -57,7 +57,7 @@
 						<string>hintSet0013</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -180 76</string>
+							<string>hstem -168 76</string>
 							<string>hstem 21 -21</string>
 							<string>hstem 404 99</string>
 							<string>hstem 706 -20</string>
@@ -67,11 +67,11 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>dc7364e450a47dc537e74bd57dea2731caaf290a08f615a7a4e4f6aa36a356d317ddc8e5a7ee39703e274ab08f60945075538dfb663b242a8a34b7f9930c8ce5</string>
+				<string>1527c68abdcea0285846c759f61becca9c3a612a569188882766688d3d797ffd321646027ca7cc59da5395569505fc430967cb23d4f4adc219f5b1a1e793d9aa</string>
 			</dict>
 		</dict>
 	</lib>
 	<note>
-		No casing form in font.
-	</note>
+No casing form in font.
+</note>
 </glyph>

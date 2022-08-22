@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bulletoperator" format="2">
 	<unicode hex="2219"/>
-	<advance width="502"/>
+	<advance width="497"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="248" y="263" type="curve"/>
-			<point x="280" y="263"/>
-			<point x="307" y="289"/>
-			<point x="307" y="325" type="curve"/>
-			<point x="307" y="363"/>
-			<point x="280" y="389"/>
-			<point x="248" y="389" type="curve"/>
-			<point x="215" y="389"/>
-			<point x="188" y="363"/>
-			<point x="188" y="325" type="curve"/>
-			<point x="188" y="289"/>
-			<point x="215" y="263"/>
+			<point name="hintSet0000" x="249" y="263" type="curve"/>
+			<point x="281" y="263"/>
+			<point x="308" y="289"/>
+			<point x="308" y="325" type="curve"/>
+			<point x="308" y="363"/>
+			<point x="281" y="389"/>
+			<point x="249" y="389" type="curve"/>
+			<point x="216" y="389"/>
+			<point x="189" y="363"/>
+			<point x="189" y="325" type="curve"/>
+			<point x="189" y="289"/>
+			<point x="216" y="263"/>
 		</contour>
 	</outline>
 	<lib>
@@ -30,12 +30,12 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 263 126</string>
-							<string>vstem 188 119</string>
+							<string>vstem 189 119</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w502c248263280263307289c307325307363280389c248389215389188363c188325188289215263</string>
+				<string>w497c249263281263308289c308325308363281389c249389216389189363c189325189289216263</string>
 			</dict>
 		</dict>
 	</lib>

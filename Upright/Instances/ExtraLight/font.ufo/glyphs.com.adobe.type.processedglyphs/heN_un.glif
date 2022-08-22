@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heNun" format="2">
 	<unicode hex="05E0"/>
-	<advance width="392"/>
+	<advance width="390"/>
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="54" y="0" type="line"/>
 			<point x="290" y="0" type="line"/>
-			<point x="290" y="390" type="line"/>
-			<point x="290" y="514"/>
-			<point x="246" y="546"/>
-			<point x="154" y="546" type="curve"/>
+			<point x="290" y="380" type="line"/>
+			<point x="290" y="512"/>
+			<point x="243" y="546"/>
+			<point x="144" y="546" type="curve"/>
 			<point x="74" y="546" type="line"/>
-			<point x="74" y="516" type="line"/>
-			<point x="148" y="516" type="line"/>
-			<point x="226" y="516"/>
-			<point x="262" y="495"/>
-			<point x="262" y="384" type="curve"/>
-			<point x="262" y="28" type="line"/>
+			<point x="74" y="517" type="line"/>
+			<point x="136" y="517" type="line"/>
+			<point x="222" y="517"/>
+			<point x="260" y="495"/>
+			<point x="260" y="375" type="curve"/>
+			<point x="260" y="28" type="line"/>
 			<point x="54" y="28" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="aboveHE" x="175" y="590"/>
 	<anchor name="belowPrimaryHE" x="160" y="-30"/>
-	<anchor name="centerHE" x="130" y="285"/>
+	<anchor name="centerHE" x="150" y="280"/>
 	<anchor name="aboveLeftHE" x="10" y="590"/>
 	<anchor name="belowPrimaryHECXT" x="180" y="-30"/>
 	<lib>
@@ -37,13 +37,13 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 0 28</string>
-							<string>hstem 516 30</string>
-							<string>vstem 262 28</string>
+							<string>hstem 517 29</string>
+							<string>vstem 260 30</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w392l540l2900l290390290514246546c154546l74546l74516l148516226516262495c262384l26228l5428</string>
+				<string>w390l540l2900l290380290512243546c144546l74546l74517l136517222517260495c260375l26028l5428</string>
 			</dict>
 		</dict>
 	</lib>

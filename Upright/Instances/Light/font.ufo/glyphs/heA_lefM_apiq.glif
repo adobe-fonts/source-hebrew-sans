@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heAlefMapiq" format="2">
 	<unicode hex="FB30"/>
-	<advance width="540"/>
+	<advance width="596"/>
+	<outline>
+		<component base="heAlef"/>
+		<component base="heDagesh" xOffset="253" yOffset="-158"/>
+	</outline>
 </glyph>

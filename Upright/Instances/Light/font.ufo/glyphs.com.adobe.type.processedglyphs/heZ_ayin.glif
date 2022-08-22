@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heZayin" format="2">
 	<unicode hex="05D6"/>
-	<advance width="285"/>
+	<advance width="287"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="5" y="504" type="line"/>
-			<point x="115" y="504" type="line"/>
-			<point x="106" y="476"/>
-			<point x="101" y="448"/>
-			<point x="101" y="411" type="curve"/>
-			<point x="101" y="329"/>
-			<point x="116" y="172"/>
-			<point x="132" y="0" type="curve"/>
-			<point x="172" y="0" type="line"/>
-			<point x="153" y="181"/>
-			<point x="141" y="337"/>
-			<point x="141" y="413" type="curve"/>
-			<point x="141" y="444"/>
-			<point x="141" y="473"/>
-			<point x="147" y="504" type="curve"/>
-			<point x="242" y="504" type="line"/>
-			<point x="242" y="548" type="line"/>
-			<point x="5" y="548" type="line"/>
+			<point name="hintSet0000" x="6" y="508" type="line"/>
+			<point x="116" y="508" type="line"/>
+			<point x="104" y="476"/>
+			<point x="99" y="449"/>
+			<point x="99" y="410" type="curve"/>
+			<point x="99" y="346"/>
+			<point x="120" y="171"/>
+			<point x="142" y="0" type="curve"/>
+			<point x="186" y="0" type="line"/>
+			<point x="162" y="180"/>
+			<point x="143" y="348"/>
+			<point x="143" y="412" type="curve"/>
+			<point x="143" y="445"/>
+			<point x="143" y="477"/>
+			<point x="150" y="508" type="curve"/>
+			<point x="243" y="508" type="line"/>
+			<point x="243" y="548" type="line"/>
+			<point x="6" y="548" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -35,13 +35,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 504 44</string>
-							<string>vstem 101 40</string>
+							<string>hstem 508 40</string>
+							<string>vstem 99 44</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w285l5504l115504106476101448c101411101329116172c1320l1720153181141337c141413141444141473c147504l242504l242548l5548</string>
+				<string>w287l6508l11650810447699449c9941099346120171c1420l1860162180143348c143412143445143477c150508l243508l243548l6548</string>
 			</dict>
 		</dict>
 	</lib>

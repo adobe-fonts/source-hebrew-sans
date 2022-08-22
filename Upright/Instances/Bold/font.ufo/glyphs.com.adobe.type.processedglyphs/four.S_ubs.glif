@@ -4,25 +4,25 @@
 	<advance width="376"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="126" y="24" type="line"/>
-			<point x="164" y="88" type="line"/>
-			<point x="211" y="170" type="line"/>
-			<point x="215" y="170" type="line"/>
-			<point x="209" y="53" type="line"/>
-			<point x="209" y="24" type="line"/>
+			<point name="hintSet0000" x="134" y="7" type="line"/>
+			<point x="176" y="88" type="line"/>
+			<point x="216" y="165" type="line"/>
+			<point x="220" y="165" type="line"/>
+			<point x="214" y="48" type="line"/>
+			<point x="214" y="7" type="line"/>
 		</contour>
 		<contour>
-			<point x="209" y="-150" type="line"/>
-			<point x="301" y="-150" type="line"/>
-			<point x="301" y="-70" type="line"/>
-			<point x="359" y="-70" type="line"/>
-			<point x="359" y="24" type="line"/>
-			<point x="301" y="24" type="line"/>
-			<point x="301" y="240" type="line"/>
-			<point x="167" y="240" type="line"/>
-			<point x="27" y="9" type="line"/>
-			<point x="27" y="-70" type="line"/>
-			<point x="209" y="-70" type="line"/>
+			<point x="214" y="-150" type="line"/>
+			<point x="310" y="-150" type="line"/>
+			<point x="310" y="-63" type="line"/>
+			<point x="368" y="-63" type="line"/>
+			<point x="368" y="7" type="line"/>
+			<point x="310" y="7" type="line"/>
+			<point x="310" y="240" type="line"/>
+			<point x="176" y="240" type="line"/>
+			<point x="35" y="-9" type="line"/>
+			<point x="35" y="-63" type="line"/>
+			<point x="214" y="-63" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -36,14 +36,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -70 94</string>
-							<string>hstem 170 70</string>
-							<string>vstem 209 92</string>
+							<string>hstem -63 70</string>
+							<string>hstem 165 75</string>
+							<string>vstem 214 96</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w376l12624l16488l211170l215170l20953l20924l209-150l301-150l301-70l359-70l35924l30124l301240l167240l279l27-70l209-70</string>
+				<string>w376l1347l17688l216165l220165l21448l2147l214-150l310-150l310-63l368-63l3687l3107l310240l176240l35-9l35-63l214-63</string>
 			</dict>
 		</dict>
 	</lib>

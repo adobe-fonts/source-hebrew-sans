@@ -16,10 +16,10 @@
 			<point x="373" y="492"/>
 			<point x="260" y="492" type="curve"/>
 			<point x="182" y="492"/>
-			<point x="115" y="454"/>
+			<point x="115" y="456"/>
 			<point x="81" y="430" type="curve"/>
-			<point x="101" y="397" type="line"/>
-			<point x="134" y="421"/>
+			<point x="101" y="399" type="line"/>
+			<point x="134" y="422"/>
 			<point x="190" y="453"/>
 			<point x="254" y="453" type="curve"/>
 			<point x="349" y="453"/>
@@ -44,35 +44,34 @@
 			<point x="260" y="26"/>
 		</contour>
 		<contour>
-			<point name="hintSet0018" x="263" y="548" type="curve"/>
-			<point x="319" y="548"/>
-			<point x="360" y="587"/>
-			<point x="360" y="643" type="curve"/>
-			<point x="360" y="700"/>
-			<point x="319" y="739"/>
-			<point x="263" y="739" type="curve"/>
-			<point x="207" y="739"/>
-			<point x="166" y="700"/>
-			<point x="166" y="643" type="curve"/>
-			<point x="166" y="587"/>
-			<point x="207" y="548"/>
+			<point name="hintSet0018" x="262" y="548" type="curve"/>
+			<point x="318" y="548"/>
+			<point x="359" y="587"/>
+			<point x="359" y="643" type="curve"/>
+			<point x="359" y="700"/>
+			<point x="318" y="739"/>
+			<point x="262" y="739" type="curve"/>
+			<point x="206" y="739"/>
+			<point x="165" y="700"/>
+			<point x="165" y="643" type="curve"/>
+			<point x="165" y="587"/>
+			<point x="206" y="548"/>
 		</contour>
 		<contour>
-			<point x="263" y="574" type="curve"/>
-			<point x="227" y="574"/>
-			<point x="198" y="601"/>
-			<point x="198" y="643" type="curve"/>
-			<point x="198" y="686"/>
-			<point x="227" y="713"/>
-			<point x="263" y="713" type="curve"/>
-			<point x="299" y="713"/>
-			<point x="328" y="686"/>
-			<point x="328" y="643" type="curve"/>
-			<point x="328" y="601"/>
-			<point x="299" y="574"/>
+			<point x="262" y="574" type="curve"/>
+			<point x="226" y="574"/>
+			<point x="197" y="601"/>
+			<point x="197" y="643" type="curve"/>
+			<point x="197" y="686"/>
+			<point x="226" y="713"/>
+			<point x="262" y="713" type="curve"/>
+			<point x="298" y="713"/>
+			<point x="327" y="686"/>
+			<point x="327" y="643" type="curve"/>
+			<point x="327" y="601"/>
+			<point x="298" y="574"/>
 		</contour>
 	</outline>
-	<anchor name="ogonekLC" x="401" y="0"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -89,7 +88,7 @@
 							<string>hstem 548 26</string>
 							<string>hstem 713 26</string>
 							<string>vstem 58 45</string>
-							<string>vstem 166 32</string>
+							<string>vstem 165 32</string>
 							<string>vstem 368 44</string>
 						</array>
 					</dict>
@@ -103,7 +102,7 @@
 							<string>hstem 548 26</string>
 							<string>hstem 713 26</string>
 							<string>vstem 58 45</string>
-							<string>vstem 166 32</string>
+							<string>vstem 165 32</string>
 							<string>vstem 372 40</string>
 						</array>
 					</dict>
@@ -117,7 +116,7 @@
 							<string>hstem 548 26</string>
 							<string>hstem 713 26</string>
 							<string>vstem 58 45</string>
-							<string>vstem 166 32</string>
+							<string>vstem 165 32</string>
 							<string>vstem 372 40</string>
 						</array>
 					</dict>
@@ -131,7 +130,7 @@
 							<string>hstem 548 26</string>
 							<string>hstem 713 26</string>
 							<string>vstem 58 45</string>
-							<string>vstem 166 32</string>
+							<string>vstem 165 32</string>
 							<string>vstem 368 44</string>
 						</array>
 					</dict>
@@ -145,7 +144,7 @@
 							<string>hstem 548 26</string>
 							<string>hstem 713 26</string>
 							<string>vstem 58 45</string>
-							<string>vstem 166 32</string>
+							<string>vstem 165 32</string>
 							<string>vstem 368 44</string>
 						</array>
 					</dict>
@@ -159,14 +158,14 @@
 							<string>hstem 548 26</string>
 							<string>hstem 713 26</string>
 							<string>vstem 58 45</string>
-							<string>vstem 166 32</string>
-							<string>vstem 328 32</string>
+							<string>vstem 165 32</string>
+							<string>vstem 327 32</string>
 							<string>vstem 368 44</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>dd50a222ddca38cb0676f7541a90202c516ada59c0436be4386152c3d590ee6578491d99e63fcf2510eb6fa7dbd8ad740e13f0853ea8737d21507ff3924002d1</string>
+				<string>56e77fcdaa264d77cfd1bf12be7eded8f1313df7a3a06c43a86e771092584f4e4dddd7af0198e88e3d18214acb7a40484aed1510ca6619de28b1bd66f1b445a9</string>
 			</dict>
 		</dict>
 	</lib>

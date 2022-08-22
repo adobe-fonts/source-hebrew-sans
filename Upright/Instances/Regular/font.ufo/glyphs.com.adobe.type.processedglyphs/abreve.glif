@@ -16,9 +16,9 @@
 			<point x="383" y="498"/>
 			<point x="264" y="498" type="curve"/>
 			<point x="186" y="498"/>
-			<point x="118" y="464"/>
+			<point x="118" y="465"/>
 			<point x="73" y="435" type="curve"/>
-			<point x="105" y="378" type="line"/>
+			<point x="105" y="380" type="line"/>
 			<point x="143" y="404"/>
 			<point x="194" y="430"/>
 			<point x="250" y="430" type="curve"/>
@@ -44,22 +44,23 @@
 			<point x="265" y="54"/>
 		</contour>
 		<contour>
-			<point name="hintSet0018" x="271" y="571" type="curve"/>
-			<point x="378" y="571"/>
-			<point x="422" y="648"/>
-			<point x="427" y="722" type="curve"/>
-			<point x="376" y="730" type="line"/>
-			<point x="368" y="679"/>
-			<point x="336" y="626"/>
-			<point x="271" y="626" type="curve"/>
-			<point x="206" y="626"/>
-			<point x="174" y="679"/>
-			<point x="166" y="730" type="curve"/>
-			<point x="115" y="722" type="line"/>
-			<point x="120" y="648"/>
-			<point x="164" y="571"/>
+			<point name="hintSet0018" x="267" y="569" type="curve"/>
+			<point x="374" y="569"/>
+			<point x="418" y="647"/>
+			<point x="423" y="720" type="curve"/>
+			<point x="372" y="729" type="line"/>
+			<point x="364" y="677"/>
+			<point x="332" y="625"/>
+			<point x="267" y="625" type="curve"/>
+			<point x="202" y="625"/>
+			<point x="170" y="677"/>
+			<point x="162" y="729" type="curve"/>
+			<point x="111" y="720" type="line"/>
+			<point x="116" y="647"/>
+			<point x="160" y="569"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="247" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -73,8 +74,8 @@
 						<array>
 							<string>hstem -12 66</string>
 							<string>hstem 430 68</string>
-							<string>hstem 571 55</string>
-							<string>hstem 722 -20</string>
+							<string>hstem 569 56</string>
+							<string>hstem 720 -20</string>
 							<string>vstem 52 80</string>
 							<string>vstem 350 83</string>
 						</array>
@@ -86,8 +87,8 @@
 						<array>
 							<string>hstem -12 66</string>
 							<string>hstem 430 68</string>
-							<string>hstem 571 55</string>
-							<string>hstem 722 -20</string>
+							<string>hstem 569 56</string>
+							<string>hstem 720 -20</string>
 							<string>vstem 52 80</string>
 							<string>vstem 361.5 71.5</string>
 						</array>
@@ -99,8 +100,8 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 430 68</string>
-							<string>hstem 571 55</string>
-							<string>hstem 722 -20</string>
+							<string>hstem 569 56</string>
+							<string>hstem 720 -20</string>
 							<string>vstem 52 80</string>
 							<string>vstem 361.5 71.5</string>
 						</array>
@@ -112,8 +113,8 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 430 68</string>
-							<string>hstem 571 55</string>
-							<string>hstem 722 -20</string>
+							<string>hstem 569 56</string>
+							<string>hstem 720 -20</string>
 							<string>vstem 52 80</string>
 							<string>vstem 350 83</string>
 						</array>
@@ -125,8 +126,8 @@
 						<array>
 							<string>hstem -12 66</string>
 							<string>hstem 430 68</string>
-							<string>hstem 571 55</string>
-							<string>hstem 722 -20</string>
+							<string>hstem 569 56</string>
+							<string>hstem 720 -20</string>
 							<string>vstem 52 80</string>
 							<string>vstem 350 83</string>
 						</array>
@@ -138,15 +139,15 @@
 						<array>
 							<string>hstem -12 66</string>
 							<string>hstem 430 68</string>
-							<string>hstem 571 55</string>
-							<string>hstem 722 -20</string>
-							<string>vstem 115 51</string>
-							<string>vstem 376 51</string>
+							<string>hstem 569 56</string>
+							<string>hstem 720 -20</string>
+							<string>vstem 111 51</string>
+							<string>vstem 372 51</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>d9cd6b900b91eca9dece6070e3e2d32e34c4a8cdc4e53c1a090c5a725169f73a19688e7548b1289ca98270b7a3faf3095e092905be1fa5f04375688c6a461279</string>
+				<string>2e702e60fc7c72da9695dd222970f0726a0d487d0fc7567aaaabc708a8ba01e9c4e0353111091001da759bf9c1d5b6224aebf0570df327b58230b45f980186f3</string>
 			</dict>
 		</dict>
 	</lib>

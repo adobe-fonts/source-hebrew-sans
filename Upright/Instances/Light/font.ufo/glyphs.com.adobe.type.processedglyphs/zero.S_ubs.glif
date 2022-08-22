@@ -5,31 +5,31 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="181" y="-162" type="curve"/>
-			<point x="266" y="-162"/>
-			<point x="319" y="-94"/>
-			<point x="319" y="27" type="curve"/>
-			<point x="319" y="146"/>
-			<point x="266" y="214"/>
-			<point x="181" y="214" type="curve"/>
-			<point x="96" y="214"/>
-			<point x="43" y="146"/>
-			<point x="43" y="27" type="curve"/>
-			<point x="43" y="-94"/>
-			<point x="96" y="-162"/>
+			<point x="268" y="-162"/>
+			<point x="322" y="-88"/>
+			<point x="322" y="46" type="curve"/>
+			<point x="322" y="178"/>
+			<point x="268" y="252"/>
+			<point x="181" y="252" type="curve"/>
+			<point x="94" y="252"/>
+			<point x="40" y="178"/>
+			<point x="40" y="46" type="curve"/>
+			<point x="40" y="-88"/>
+			<point x="94" y="-162"/>
 		</contour>
 		<contour>
-			<point x="181" y="-124" type="curve"/>
-			<point x="118" y="-124"/>
-			<point x="78" y="-68"/>
-			<point x="78" y="27" type="curve"/>
-			<point x="78" y="122"/>
-			<point x="118" y="176"/>
-			<point x="181" y="176" type="curve"/>
-			<point x="244" y="176"/>
-			<point x="284" y="122"/>
-			<point x="284" y="27" type="curve"/>
-			<point x="284" y="-68"/>
-			<point x="244" y="-124"/>
+			<point x="181" y="-129" type="curve"/>
+			<point x="119" y="-129"/>
+			<point x="79" y="-65"/>
+			<point x="79" y="46" type="curve"/>
+			<point x="79" y="157"/>
+			<point x="119" y="219"/>
+			<point x="181" y="219" type="curve"/>
+			<point x="243" y="219"/>
+			<point x="283" y="157"/>
+			<point x="283" y="46" type="curve"/>
+			<point x="283" y="-65"/>
+			<point x="243" y="-129"/>
 		</contour>
 	</outline>
 	<lib>
@@ -43,15 +43,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -162 38</string>
-							<string>hstem 176 38</string>
-							<string>vstem 43 35</string>
-							<string>vstem 284 35</string>
+							<string>hstem -162 33</string>
+							<string>hstem 219 33</string>
+							<string>vstem 40 39</string>
+							<string>vstem 283 39</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>89da645966f5e384634047c5f66a654fcb9f0c4c91989a87462554b8e73679f79c6e1d68c9ae7b28c1858d52a5a1f356c151d2b4a68920742873cd04d5a5a914</string>
+				<string>25ae22d13ee9240c43dd91dcd770277faa05996c584ad7d73721c1c8a0a18477001a2d67942984c43981b99a2933f957dbfe63d960897bf4fc52301b5a733f6c</string>
 			</dict>
 		</dict>
 	</lib>

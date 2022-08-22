@@ -4,25 +4,25 @@
 	<advance width="367"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="105" y="534" type="line"/>
-			<point x="165" y="625" type="line"/>
-			<point x="218" y="708" type="line"/>
-			<point x="222" y="708" type="line"/>
-			<point x="217" y="600" type="line"/>
-			<point x="217" y="534" type="line"/>
+			<point name="hintSet0000" x="109" y="527" type="line"/>
+			<point x="170" y="625" type="line"/>
+			<point x="220" y="706" type="line"/>
+			<point x="224" y="706" type="line"/>
+			<point x="220" y="597" type="line"/>
+			<point x="220" y="527" type="line"/>
 		</contour>
 		<contour>
-			<point x="217" y="377" type="line"/>
-			<point x="274" y="377" type="line"/>
-			<point x="274" y="477" type="line"/>
-			<point x="332" y="477" type="line"/>
-			<point x="332" y="534" type="line"/>
-			<point x="274" y="534" type="line"/>
-			<point x="274" y="767" type="line"/>
-			<point x="202" y="767" type="line"/>
-			<point x="38" y="522" type="line"/>
-			<point x="38" y="477" type="line"/>
-			<point x="217" y="477" type="line"/>
+			<point x="220" y="377" type="line"/>
+			<point x="278" y="377" type="line"/>
+			<point x="278" y="481" type="line"/>
+			<point x="336" y="481" type="line"/>
+			<point x="336" y="527" type="line"/>
+			<point x="278" y="527" type="line"/>
+			<point x="278" y="767" type="line"/>
+			<point x="206" y="767" type="line"/>
+			<point x="42" y="514" type="line"/>
+			<point x="42" y="481" type="line"/>
+			<point x="220" y="481" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -36,14 +36,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 477 57</string>
-							<string>hstem 708 59</string>
-							<string>vstem 217 57</string>
+							<string>hstem 481 46</string>
+							<string>hstem 706 61</string>
+							<string>vstem 220 58</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w367l105534l165625l218708l222708l217600l217534l217377l274377l274477l332477l332534l274534l274767l202767l38522l38477l217477</string>
+				<string>w367l109527l170625l220706l224706l220597l220527l220377l278377l278481l336481l336527l278527l278767l206767l42514l42481l220481</string>
 			</dict>
 		</dict>
 	</lib>

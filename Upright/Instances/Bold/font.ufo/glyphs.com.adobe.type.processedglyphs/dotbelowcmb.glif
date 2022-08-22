@@ -4,20 +4,20 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="0" y="-226" type="curve"/>
-			<point x="48" y="-226"/>
-			<point x="81" y="-194"/>
-			<point x="81" y="-149" type="curve"/>
-			<point x="81" y="-104"/>
-			<point x="48" y="-72"/>
+			<point x="49" y="-226"/>
+			<point x="83" y="-196"/>
+			<point x="83" y="-149" type="curve"/>
+			<point x="83" y="-103"/>
+			<point x="49" y="-72"/>
 			<point x="0" y="-72" type="curve"/>
-			<point x="-48" y="-72"/>
-			<point x="-81" y="-104"/>
-			<point x="-81" y="-149" type="curve"/>
-			<point x="-81" y="-194"/>
-			<point x="-48" y="-226"/>
+			<point x="-49" y="-72"/>
+			<point x="-83" y="-103"/>
+			<point x="-83" y="-149" type="curve"/>
+			<point x="-83" y="-196"/>
+			<point x="-49" y="-226"/>
 		</contour>
 	</outline>
-	<anchor name="_belowLC" x="0" y="-20"/>
+	<anchor name="_belowLC" x="0" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -30,12 +30,12 @@
 						<key>stems</key>
 						<array>
 							<string>hstem -226 154</string>
-							<string>vstem -81 162</string>
+							<string>vstem -83 166</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0c0-22648-22681-194c81-14981-10448-72c0-72-48-72-81-104c-81-149-81-194-48-226</string>
+				<string>w0c0-22649-22683-196c83-14983-10349-72c0-72-49-72-83-103c-83-149-83-196-49-226</string>
 			</dict>
 		</dict>
 	</lib>

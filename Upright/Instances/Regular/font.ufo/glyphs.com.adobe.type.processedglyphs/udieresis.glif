@@ -27,32 +27,32 @@
 			<point x="121" y="-12"/>
 		</contour>
 		<contour>
-			<point name="hintSet0014" x="180" y="587" type="curve"/>
-			<point x="208" y="587"/>
-			<point x="229" y="609"/>
-			<point x="229" y="637" type="curve"/>
-			<point x="229" y="665"/>
-			<point x="208" y="687"/>
-			<point x="180" y="687" type="curve"/>
-			<point x="151" y="687"/>
-			<point x="130" y="665"/>
-			<point x="130" y="637" type="curve"/>
-			<point x="130" y="609"/>
-			<point x="151" y="587"/>
+			<point name="hintSet0014" x="175" y="587" type="curve"/>
+			<point x="203" y="587"/>
+			<point x="224" y="609"/>
+			<point x="224" y="637" type="curve"/>
+			<point x="224" y="665"/>
+			<point x="203" y="687"/>
+			<point x="175" y="687" type="curve"/>
+			<point x="146" y="687"/>
+			<point x="125" y="665"/>
+			<point x="125" y="637" type="curve"/>
+			<point x="125" y="609"/>
+			<point x="146" y="587"/>
 		</contour>
 		<contour>
-			<point x="372" y="587" type="curve"/>
-			<point x="401" y="587"/>
-			<point x="422" y="609"/>
-			<point x="422" y="637" type="curve"/>
-			<point x="422" y="665"/>
-			<point x="401" y="687"/>
-			<point x="372" y="687" type="curve"/>
-			<point x="344" y="687"/>
-			<point x="323" y="665"/>
-			<point x="323" y="637" type="curve"/>
-			<point x="323" y="609"/>
-			<point x="344" y="587"/>
+			<point x="367" y="587" type="curve"/>
+			<point x="396" y="587"/>
+			<point x="417" y="609"/>
+			<point x="417" y="637" type="curve"/>
+			<point x="417" y="665"/>
+			<point x="396" y="687"/>
+			<point x="367" y="687" type="curve"/>
+			<point x="339" y="687"/>
+			<point x="318" y="665"/>
+			<point x="318" y="637" type="curve"/>
+			<point x="318" y="609"/>
+			<point x="339" y="587"/>
 		</contour>
 	</outline>
 	<lib>
@@ -129,13 +129,13 @@
 							<string>hstem -12 71</string>
 							<string>hstem 486 -20</string>
 							<string>hstem 587 100</string>
-							<string>vstem 130 99</string>
-							<string>vstem 323 99</string>
+							<string>vstem 125 99</string>
+							<string>vstem 318 99</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>8ba5f7c2ea11bd4978330c36f39a7d9254c303d6ba73c42293f85adb78204598569090d6dbe0cdebf3b57c6affa97a6cd6e461040aa77790c6dafed2273c0a14</string>
+				<string>eda5ac3e69e25849a7cfad2b61181bc5ce9de86192bbd7527d4faf02c5d1f8c48870a1453b43c9a1b4bab6461a2109597f3044b3e0cb6c40219d0241256fab5f</string>
 			</dict>
 		</dict>
 	</lib>

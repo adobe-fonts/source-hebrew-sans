@@ -4,26 +4,26 @@
 	<advance width="376"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="262" y="0" type="line"/>
+			<point name="hintSet0000" x="257" y="0" type="line"/>
 			<point x="302" y="0" type="line"/>
-			<point x="266" y="423" type="line"/>
-			<point x="259" y="504"/>
-			<point x="224" y="548"/>
-			<point x="145" y="548" type="curve"/>
-			<point x="75" y="548" type="line"/>
-			<point x="75" y="504" type="line"/>
-			<point x="132" y="504" type="line"/>
-			<point x="197" y="504"/>
-			<point x="225" y="479"/>
-			<point x="231" y="405" type="curve"/>
-			<point x="248" y="177" type="line"/>
-			<point x="228" y="101"/>
-			<point x="143" y="44"/>
-			<point x="53" y="37" type="curve"/>
+			<point x="266" y="417" type="line"/>
+			<point x="258" y="502"/>
+			<point x="220" y="548"/>
+			<point x="139" y="548" type="curve"/>
+			<point x="73" y="548" type="line"/>
+			<point x="73" y="508" type="line"/>
+			<point x="122" y="508" type="line"/>
+			<point x="190" y="508"/>
+			<point x="220" y="480"/>
+			<point x="226" y="404" type="curve"/>
+			<point x="245" y="162" type="line"/>
+			<point x="219" y="92"/>
+			<point x="138" y="40"/>
+			<point x="53" y="33" type="curve"/>
 			<point x="53" y="-8" type="line"/>
-			<point x="145" y="-3"/>
-			<point x="225" y="60"/>
-			<point x="253" y="122" type="curve"/>
+			<point x="141" y="-3"/>
+			<point x="218" y="54"/>
+			<point x="248" y="113" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -37,14 +37,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -8 45</string>
-							<string>hstem 504 44</string>
+							<string>hstem -8 41</string>
+							<string>hstem 508 40</string>
 							<string>vstem 53 249</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w376l2620l3020l266423259504224548c145548l75548l75504l132504197504225479c231405l24817722810114344c5337l53-8145-322560c253122</string>
+				<string>w376l2570l3020l266417258502220548c139548l73548l73508l122508190508220480c226404l2451622199213840c5333l53-8141-321854c248113</string>
 			</dict>
 		</dict>
 	</lib>

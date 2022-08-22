@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heShinDotted" format="2">
 	<unicode hex="FB2A"/>
-	<advance width="540"/>
+	<advance width="709"/>
+	<outline>
+		<component base="heShin"/>
+		<component base="heShinDot" xOffset="598" yOffset="-30"/>
+	</outline>
 </glyph>

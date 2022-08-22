@@ -3,8 +3,8 @@
 	<unicode hex="00BD"/>
 	<advance width="860"/>
 	<outline>
-		<component base="one.dnom"/>
-		<component base="fraction" xOffset="380"/>
+		<component base="one.dnom" xOffset="-32" yOffset="260"/>
+		<component base="fraction" xOffset="346"/>
 		<component base="two.dnom" xOffset="480"/>
 	</outline>
 </glyph>

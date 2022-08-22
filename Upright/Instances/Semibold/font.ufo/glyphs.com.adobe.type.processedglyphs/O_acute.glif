@@ -32,12 +32,15 @@
 			<point x="440" y="89"/>
 		</contour>
 		<contour>
-			<point x="323" y="688" type="line"/>
-			<point x="491" y="805" type="line"/>
-			<point x="429" y="881" type="line"/>
-			<point x="272" y="746" type="line"/>
+			<point name="hintSet0010" x="255" y="704" type="line"/>
+			<point x="353" y="704" type="line"/>
+			<point name="hintSet0012" x="523" y="836" type="line"/>
+			<point x="516" y="848" type="line"/>
+			<point x="383" y="848" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboverightUC" x="590" y="676"/>
+	<anchor name="belowLC" x="337" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -51,13 +54,38 @@
 						<array>
 							<string>hstem -12 101</string>
 							<string>hstem 565 101</string>
+							<string>hstem 836 12</string>
+							<string>vstem 49 119</string>
+							<string>vstem 506 120</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0010</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 101</string>
+							<string>hstem 565 101</string>
+							<string>hstem 704 144</string>
+							<string>vstem 49 119</string>
+							<string>vstem 506 120</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0012</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 101</string>
+							<string>hstem 565 101</string>
+							<string>hstem 836 12</string>
 							<string>vstem 49 119</string>
 							<string>vstem 506 120</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>c142173440b63cd0d0e23f78598f1037936d4f108f332269715027fbd62613ee3b39e37533c03a6b38e48e08973157e5728aea9b00647548a78c964b13943026</string>
+				<string>30a740ed7978a7e16b0ed31243acc075d3c0eb0c4d657c060d9dddb9f412f130e871a8c43f334cff1a052d609b5ca15d58c78ee75a771036865bf84ba2c2e8ac</string>
 			</dict>
 		</dict>
 	</lib>

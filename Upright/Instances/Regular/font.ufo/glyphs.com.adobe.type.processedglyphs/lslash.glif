@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
 	<unicode hex="0142"/>
-	<advance width="262"/>
+	<advance width="299"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="173" y="-12" type="curve"/>
-			<point x="195" y="-12"/>
-			<point x="209" y="-9"/>
-			<point x="220" y="-4" type="curve"/>
-			<point x="209" y="58" type="line"/>
-			<point x="200" y="56"/>
-			<point x="196" y="56"/>
-			<point x="191" y="56" type="curve"/>
-			<point x="179" y="56"/>
-			<point x="168" y="66"/>
-			<point x="168" y="92" type="curve"/>
-			<point x="168" y="374" type="line"/>
-			<point x="252" y="426" type="line"/>
-			<point x="222" y="479" type="line"/>
-			<point x="168" y="444" type="line"/>
-			<point x="168" y="712" type="line"/>
-			<point x="86" y="712" type="line"/>
-			<point x="86" y="401" type="line"/>
-			<point x="-1" y="348" type="line"/>
-			<point x="29" y="295" type="line"/>
-			<point x="86" y="331" type="line"/>
-			<point x="86" y="98" type="line"/>
-			<point x="86" y="27"/>
-			<point x="111" y="-12"/>
+			<point name="hintSet0000" x="190" y="-9" type="curve"/>
+			<point x="210" y="-9"/>
+			<point x="226" y="-6"/>
+			<point x="237" y="-1" type="curve"/>
+			<point x="226" y="61" type="line"/>
+			<point x="218" y="59"/>
+			<point x="214" y="59"/>
+			<point x="209" y="59" type="curve"/>
+			<point x="196" y="59"/>
+			<point x="185" y="68"/>
+			<point x="185" y="94" type="curve"/>
+			<point x="185" y="393" type="line"/>
+			<point x="296" y="446" type="line"/>
+			<point x="267" y="500" type="line"/>
+			<point x="185" y="460" type="line"/>
+			<point x="185" y="712" type="line"/>
+			<point x="103" y="712" type="line"/>
+			<point x="103" y="423" type="line"/>
+			<point x="-6" y="370" type="line"/>
+			<point x="22" y="316" type="line"/>
+			<point x="103" y="356" type="line"/>
+			<point x="103" y="100" type="line"/>
+			<point x="103" y="30"/>
+			<point x="128" y="-9"/>
 		</contour>
 	</outline>
 	<lib>
@@ -41,14 +41,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -12 68</string>
+							<string>hstem -9 68</string>
 							<string>hstem 712 -20</string>
-							<string>vstem 86 82</string>
+							<string>vstem 103 82</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>839d492da2183f00c3043d6958c0648c981d5bd17683d66d4763cbb57dc33d7779a10f8ffaa372d0cf32c4dbb9a915c7d672c39ac3a03cce2c5ae6d149c7ce26</string>
+				<string>7169c6f226a2314c78430a10cee2c4d68147f4c4f85781b86b1affc8cf3190dcc4062fccf8b2b5630f81891bdbe37a06ad27c64153812bdbe0ca4f1c16feb297</string>
 			</dict>
 		</dict>
 	</lib>

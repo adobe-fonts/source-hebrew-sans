@@ -32,10 +32,12 @@
 			<point x="322" y="107"/>
 		</contour>
 		<contour>
-			<point x="127" y="304" type="line"/>
-			<point x="422" y="304" type="line"/>
-			<point x="422" y="401" type="line"/>
-			<point x="127" y="401" type="line"/>
+			<point x="127" y="298" type="line"/>
+			<point x="422" y="298" type="line"/>
+			<point x="422" y="408" type="line"/>
+			<point x="127" y="408" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveUC" x="275" y="724"/>
+	<anchor name="belowLC" x="275" y="-22"/>
 </glyph>

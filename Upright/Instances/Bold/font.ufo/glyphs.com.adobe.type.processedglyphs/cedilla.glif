@@ -4,22 +4,22 @@
 	<advance width="555"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="176" y="-239" type="line"/>
-			<point x="301" y="-235"/>
-			<point x="373" y="-204"/>
-			<point x="373" y="-136" type="curve"/>
-			<point x="373" y="-94"/>
-			<point x="347" y="-73"/>
-			<point x="297" y="-61" type="curve"/>
-			<point x="325" y="4" type="line"/>
-			<point x="239" y="4" type="line"/>
-			<point name="hintSet0005" x="191" y="-94" type="line"/>
-			<point x="252" y="-102"/>
-			<point x="268" y="-116"/>
-			<point x="268" y="-136" type="curve"/>
-			<point x="268" y="-164"/>
-			<point x="243" y="-176"/>
-			<point x="165" y="-180" type="curve"/>
+			<point name="hintSet0000" x="177" y="-239" type="line"/>
+			<point x="302" y="-235"/>
+			<point x="374" y="-204"/>
+			<point x="374" y="-136" type="curve"/>
+			<point x="374" y="-94"/>
+			<point x="348" y="-73"/>
+			<point x="298" y="-61" type="curve"/>
+			<point x="326" y="4" type="line"/>
+			<point x="240" y="4" type="line"/>
+			<point name="hintSet0005" x="192" y="-94" type="line"/>
+			<point x="253" y="-102"/>
+			<point x="269" y="-116"/>
+			<point x="269" y="-136" type="curve"/>
+			<point x="269" y="-164"/>
+			<point x="244" y="-176"/>
+			<point x="166" y="-180" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -35,7 +35,7 @@
 						<array>
 							<string>hstem -239 59</string>
 							<string>hstem -61 65</string>
-							<string>vstem 268 105</string>
+							<string>vstem 269 105</string>
 						</array>
 					</dict>
 					<dict>
@@ -45,12 +45,12 @@
 						<array>
 							<string>hstem -239 59</string>
 							<string>hstem -94 98</string>
-							<string>vstem 268 105</string>
+							<string>vstem 269 105</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w555l176-239301-235373-204c373-136373-94347-73c297-61l3254l2394l191-94252-102268-116c268-136268-164243-176c165-180</string>
+				<string>w555l177-239302-235374-204c374-136374-94348-73c298-61l3264l2404l192-94253-102269-116c269-136269-164244-176c166-180</string>
 			</dict>
 		</dict>
 	</lib>

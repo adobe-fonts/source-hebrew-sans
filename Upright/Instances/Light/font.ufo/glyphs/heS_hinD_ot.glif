@@ -2,20 +2,7 @@
 <glyph name="heShinDot" format="2">
 	<unicode hex="05C1"/>
 	<outline>
-		<contour>
-			<point x="0" y="630" type="curve" smooth="yes"/>
-			<point x="20" y="630"/>
-			<point x="36" y="645"/>
-			<point x="36" y="666" type="curve" smooth="yes"/>
-			<point x="36" y="687"/>
-			<point x="20" y="702"/>
-			<point x="0" y="702" type="curve" smooth="yes"/>
-			<point x="-20" y="702"/>
-			<point x="-36" y="687"/>
-			<point x="-36" y="666" type="curve" smooth="yes"/>
-			<point x="-36" y="645"/>
-			<point x="-20" y="630"/>
-		</contour>
+		<component base="dotaccentcmb" xScale="0.95" yScale="0.95" yOffset="67"/>
 	</outline>
-	<anchor name="_shinHE" x="0" y="584"/>
+	<anchor name="_shinHE" x="0" y="590"/>
 </glyph>

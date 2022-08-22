@@ -3,26 +3,26 @@
 	<unicode hex="0328"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="24" y="-206" type="curve"/>
-			<point x="49" y="-206"/>
-			<point x="84" y="-194"/>
-			<point x="103" y="-179" type="curve"/>
-			<point x="81" y="-138" type="line"/>
-			<point x="70" y="-146"/>
-			<point x="57" y="-151"/>
-			<point x="41" y="-151" type="curve"/>
-			<point x="17" y="-151"/>
-			<point x="-5" y="-136"/>
-			<point x="-5" y="-105" type="curve"/>
-			<point name="hintSet0005" x="-5" y="-66"/>
-			<point x="20" y="-29"/>
-			<point x="63" y="3" type="curve"/>
-			<point x="5" y="3" type="line"/>
-			<point name="hintSet0007" x="-28" y="-22"/>
-			<point x="-66" y="-67"/>
-			<point x="-66" y="-121" type="curve"/>
-			<point x="-66" y="-177"/>
-			<point x="-26" y="-206"/>
+			<point name="hintSet0000" x="13" y="-215" type="curve"/>
+			<point x="46" y="-215"/>
+			<point x="79" y="-201"/>
+			<point x="100" y="-184" type="curve"/>
+			<point x="79" y="-139" type="line"/>
+			<point x="63" y="-150"/>
+			<point x="48" y="-156"/>
+			<point x="28" y="-156" type="curve"/>
+			<point x="2" y="-156"/>
+			<point x="-23" y="-141"/>
+			<point x="-23" y="-106" type="curve"/>
+			<point x="-23" y="-68"/>
+			<point x="5" y="-30"/>
+			<point x="44" y="3" type="curve"/>
+			<point x="-16" y="3" type="line"/>
+			<point x="-49" y="-24"/>
+			<point x="-87" y="-69"/>
+			<point x="-87" y="-122" type="curve"/>
+			<point x="-87" y="-186"/>
+			<point x="-43" y="-215"/>
 		</contour>
 	</outline>
 	<anchor name="_ogonekLC" x="0" y="0"/>
@@ -37,31 +37,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -206 55</string>
-							<string>vstem -66 61</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0005</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -206 209</string>
-							<string>vstem -66 61</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0007</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -206 55</string>
-							<string>vstem -66 61</string>
+							<string>hstem -215 59</string>
+							<string>vstem -87 64</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0c24-20649-20684-194c103-179l81-13870-14657-151c41-15117-151-5-136c-5-105-5-6620-29c633l53-28-22-66-67c-66-121-66-177-26-206</string>
+				<string>f903336d910d508b042729f8b43c8af15d947cbb889b03924eee312b50f431bf41c6399fa269a21e371ca7acd5d6373bd57dcb20b0f23f4fb404e53e6d152a62</string>
 			</dict>
 		</dict>
 	</lib>

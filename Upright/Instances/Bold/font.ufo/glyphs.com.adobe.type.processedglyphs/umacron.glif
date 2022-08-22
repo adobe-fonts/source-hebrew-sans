@@ -27,12 +27,14 @@
 			<point x="106" y="-12"/>
 		</contour>
 		<contour>
-			<point name="hintSet0014" x="145" y="592" type="line"/>
-			<point x="441" y="592" type="line"/>
-			<point x="441" y="685" type="line"/>
-			<point x="145" y="685" type="line"/>
+			<point name="hintSet0014" x="137" y="592" type="line"/>
+			<point x="433" y="592" type="line"/>
+			<point x="433" y="685" type="line"/>
+			<point x="137" y="685" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboveLC" x="285" y="691"/>
+	<anchor name="belowLC" x="278" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -83,13 +85,13 @@
 							<string>hstem 21 -21</string>
 							<string>hstem 496 -20</string>
 							<string>hstem 592 93</string>
-							<string>vstem 145 62</string>
-							<string>vstem 357 84</string>
+							<string>vstem 137 70</string>
+							<string>vstem 357 76</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>bc9d7aa85b027aab2ab341ae909a8f52c2ebd989ccea4bc7af77fee5df409c9f9ec9a9bf85009e10dab82368b32dacbdba5159506accf1188f8edac0d5ba3bbc</string>
+				<string>9fa2fc3554451c91966f8ffe620c4d19705a762ebab412303b533b0497ced5867e3e295dbfa6a73149ad21c229e57e6aaa269b63d2f61b043a84566abc1c3fe8</string>
 			</dict>
 		</dict>
 	</lib>

@@ -4,42 +4,40 @@
 	<advance width="552"/>
 	<outline>
 		<contour>
-			<point x="48" y="0" type="line"/>
-			<point x="499" y="0" type="line"/>
-			<point x="519" y="110" type="line"/>
-			<point x="48" y="110" type="line"/>
-		</contour>
-		<contour>
-			<point x="444" y="63" type="curve"/>
-			<point x="519" y="110" type="line"/>
-			<point x="329" y="217"/>
-			<point x="203" y="369"/>
-			<point x="131" y="566" type="curve"/>
-			<point x="10" y="526" type="line"/>
-			<point x="94" y="310"/>
-			<point x="237" y="170"/>
-		</contour>
-		<contour>
 			<point x="356" y="196" type="line"/>
-			<point x="463" y="281"/>
-			<point x="512" y="363"/>
+			<point x="463" y="280"/>
+			<point x="512" y="354"/>
 			<point x="512" y="434" type="curve" smooth="yes"/>
 			<point x="512" y="521"/>
 			<point x="470" y="559"/>
 			<point x="366" y="559" type="curve" smooth="yes"/>
-			<point x="298" y="559" type="line"/>
-			<point x="298" y="444" type="line"/>
-			<point x="322" y="444" type="line" smooth="yes"/>
-			<point x="393" y="444"/>
-			<point x="412" y="426"/>
-			<point x="412" y="389" type="curve" smooth="yes"/>
-			<point x="412" y="352"/>
-			<point x="377" y="306"/>
-			<point x="306" y="253" type="curve"/>
+			<point x="295" y="559" type="line"/>
+			<point x="295" y="463" type="line"/>
+			<point x="316" y="463" type="line" smooth="yes"/>
+			<point x="378" y="463"/>
+			<point x="394" y="443"/>
+			<point x="394" y="401" type="curve" smooth="yes"/>
+			<point x="394" y="360"/>
+			<point x="361" y="304"/>
+			<point x="300" y="254" type="curve"/>
+		</contour>
+		<contour>
+			<point x="48" y="0" type="line"/>
+			<point x="499" y="0" type="line"/>
+			<point x="517" y="96" type="line"/>
+			<point x="327" y="210"/>
+			<point x="180" y="358"/>
+			<point x="131" y="566" type="curve"/>
+			<point x="10" y="548" type="line"/>
+			<point x="74" y="353"/>
+			<point x="196" y="201"/>
+			<point x="360" y="87" type="curve"/>
+			<point x="384" y="100" type="line"/>
+			<point x="48" y="100" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="233" y="554"/>
-	<anchor name="belowPrimaryHE" x="243" y="-30"/>
-	<anchor name="centerHE" x="99" y="209"/>
-	<anchor name="aboveLeftHE" x="-11" y="554"/>
+	<anchor name="aboveHE" x="264" y="590"/>
+	<anchor name="belowPrimaryHE" x="270" y="-25"/>
+	<anchor name="centerHE" x="100" y="208"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
 </glyph>

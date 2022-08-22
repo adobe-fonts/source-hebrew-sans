@@ -27,12 +27,14 @@
 			<point x="106" y="-12"/>
 		</contour>
 		<contour>
-			<point x="283" y="572" type="line"/>
-			<point x="355" y="644" type="line"/>
-			<point x="201" y="826" type="line"/>
-			<point x="102" y="729" type="line"/>
+			<point name="hintSet0014" x="259" y="570" type="line"/>
+			<point x="371" y="570" type="line"/>
+			<point name="hintSet0016" x="256" y="753" type="line"/>
+			<point x="101" y="753" type="line"/>
+			<point x="93" y="737" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="278" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -46,6 +48,7 @@
 						<array>
 							<string>hstem -12 125</string>
 							<string>hstem 496 -20</string>
+							<string>hstem 737 16</string>
 							<string>vstem 60 147</string>
 							<string>vstem 357 147</string>
 						</array>
@@ -57,6 +60,7 @@
 						<array>
 							<string>hstem 21 -21</string>
 							<string>hstem 496 -20</string>
+							<string>hstem 737 16</string>
 							<string>vstem 60 147</string>
 							<string>vstem 357 147</string>
 						</array>
@@ -68,13 +72,38 @@
 						<array>
 							<string>hstem -12 125</string>
 							<string>hstem 496 -20</string>
+							<string>hstem 737 16</string>
+							<string>vstem 60 147</string>
+							<string>vstem 357 147</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 496 -20</string>
+							<string>hstem 570 183</string>
+							<string>vstem 60 147</string>
+							<string>vstem 357 147</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0016</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 496 -20</string>
+							<string>hstem 737 16</string>
 							<string>vstem 60 147</string>
 							<string>vstem 357 147</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>05a01a5025e9ee38828fe11072fd93b104578cc78126064c0902cd133b21f1ba1f6b195c70cb6f4471f88730a267edd2e24895cf4b51be7e64d542d7030b9da1</string>
+				<string>76ade13e7b8affe286bdd40efaa340a8f19eca4210ab9f101f40beb1c53743cfeaa8ad5992e54d6b983a3f65ed18fa37d8b90c473fc7aae6bc48ba2112ce227b</string>
 			</dict>
 		</dict>
 	</lib>

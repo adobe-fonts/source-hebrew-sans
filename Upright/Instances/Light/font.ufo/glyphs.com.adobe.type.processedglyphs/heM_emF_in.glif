@@ -5,26 +5,26 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="112" y="0" type="line"/>
-			<point x="536" y="0" type="line"/>
-			<point x="536" y="350" type="line"/>
-			<point x="536" y="495"/>
-			<point x="465" y="548"/>
-			<point x="357" y="548" type="curve"/>
+			<point x="538" y="0" type="line"/>
+			<point x="538" y="350" type="line"/>
+			<point x="538" y="495"/>
+			<point x="467" y="548"/>
+			<point x="359" y="548" type="curve"/>
 			<point x="37" y="548" type="line"/>
-			<point x="37" y="504" type="line"/>
-			<point x="120" y="504" type="line"/>
-			<point x="113" y="476"/>
-			<point x="112" y="446"/>
-			<point x="112" y="408" type="curve"/>
+			<point x="37" y="508" type="line"/>
+			<point x="122" y="508" type="line"/>
+			<point x="114" y="481"/>
+			<point x="112" y="448"/>
+			<point x="112" y="410" type="curve"/>
 		</contour>
 		<contour>
-			<point x="344" y="504" type="line"/>
-			<point x="437" y="504"/>
-			<point x="496" y="464"/>
-			<point x="496" y="337" type="curve"/>
-			<point x="496" y="42" type="line"/>
-			<point x="152" y="42" type="line"/>
-			<point x="152" y="504" type="line"/>
+			<point x="342" y="508" type="line"/>
+			<point x="435" y="508"/>
+			<point x="494" y="468"/>
+			<point x="494" y="341" type="curve"/>
+			<point x="494" y="40" type="line"/>
+			<point x="156" y="40" type="line"/>
+			<point x="156" y="508" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -38,15 +38,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 42</string>
-							<string>hstem 504 44</string>
-							<string>vstem 112 40</string>
-							<string>vstem 496 40</string>
+							<string>hstem 0 40</string>
+							<string>hstem 508 40</string>
+							<string>vstem 112 44</string>
+							<string>vstem 494 44</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w635l1120l5360l536350536495465548c357548l37548l37504l120504113476112446c112408l344504437504496464c496337l49642l15242l152504</string>
+				<string>w635l1120l5380l538350538495467548c359548l37548l37508l122508114481112448c112410l342508435508494468c494341l49440l15640l156508</string>
 			</dict>
 		</dict>
 	</lib>

@@ -3,17 +3,17 @@
 	<unicode hex="05B7"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="-111" y="-132" type="line"/>
-			<point x="111" y="-132" type="line"/>
-			<point x="111" y="-80" type="line"/>
-			<point x="-111" y="-80" type="line"/>
+			<point name="hintSet0000" x="-110" y="-144" type="line"/>
+			<point x="110" y="-144" type="line"/>
+			<point x="110" y="-76" type="line"/>
+			<point x="-110" y="-76" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-110" y="-30"/>
-	<anchor name="_belowRightHE" x="110" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-180" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="10" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
+	<anchor name="_belowLeftHE" x="-110" y="-22"/>
+	<anchor name="_belowRightHE" x="110" y="-22"/>
+	<anchor name="belowPrimaryHE" x="-180" y="-22"/>
+	<anchor name="_belowSecondaryHE" x="10" y="-22"/>
 	<guideline x="-170" identifier="QGO5vhQEkK"/>
 	<lib>
 		<dict>
@@ -26,13 +26,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -132 52</string>
-							<string>vstem -111 222</string>
+							<string>hstem -144 68</string>
+							<string>vstem -110 220</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0l-111-132l111-132l111-80l-111-80</string>
+				<string>w0l-110-144l110-144l110-76l-110-76</string>
 			</dict>
 		</dict>
 	</lib>

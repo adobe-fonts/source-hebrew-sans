@@ -4,13 +4,13 @@
 	<advance width="479"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="219" y="0" type="line"/>
-			<point x="259" y="0" type="line"/>
-			<point x="259" y="156" type="line"/>
-			<point x="429" y="156" type="line"/>
-			<point x="429" y="190" type="line"/>
-			<point x="259" y="190" type="line"/>
-			<point x="259" y="268" type="line"/>
+			<point name="hintSet0000" x="216" y="0" type="line"/>
+			<point x="261" y="0" type="line"/>
+			<point x="261" y="158" type="line"/>
+			<point x="429" y="158" type="line"/>
+			<point x="429" y="191" type="line"/>
+			<point x="261" y="191" type="line"/>
+			<point x="261" y="268" type="line"/>
 			<point x="429" y="268" type="line"/>
 			<point x="429" y="301" type="line"/>
 			<point x="275" y="301" type="line"/>
@@ -29,11 +29,11 @@
 			<point name="hintSet0018" x="202" y="301" type="line"/>
 			<point x="50" y="301" type="line"/>
 			<point x="50" y="268" type="line"/>
-			<point x="219" y="268" type="line"/>
-			<point x="219" y="190" type="line"/>
-			<point x="50" y="190" type="line"/>
-			<point x="50" y="156" type="line"/>
-			<point x="219" y="156" type="line"/>
+			<point x="216" y="268" type="line"/>
+			<point x="216" y="191" type="line"/>
+			<point x="50" y="191" type="line"/>
+			<point x="50" y="158" type="line"/>
+			<point x="216" y="158" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -47,9 +47,9 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 156 34</string>
+							<string>hstem 158 33</string>
 							<string>hstem 268 33</string>
-							<string>vstem 219 40</string>
+							<string>vstem 216 45</string>
 						</array>
 					</dict>
 					<dict>
@@ -57,9 +57,9 @@
 						<string>hintSet0013</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 156 34</string>
+							<string>hstem 158 33</string>
 							<string>hstem 268 38</string>
-							<string>vstem 219 40</string>
+							<string>vstem 216 45</string>
 						</array>
 					</dict>
 					<dict>
@@ -67,14 +67,14 @@
 						<string>hintSet0018</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 156 34</string>
+							<string>hstem 158 33</string>
 							<string>hstem 268 33</string>
-							<string>vstem 219 40</string>
+							<string>vstem 216 45</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a73ff541c75d1610bd1cc4972b494f7cb31c04c849489b28f989c880a95c37ffa4708fadd2e277e55bc9a532249b6683c78a6896ff8a2ea2813455c9d02d0a3c</string>
+				<string>42a60a6ba86e9d138594784e0c4bbfa6d1e2d237ec357428b6faed4727238a3322ccc57ef2ff2e64bd386a19cee05cd077ee4cf538837e27ed4f243b8a36cd6c</string>
 			</dict>
 		</dict>
 	</lib>

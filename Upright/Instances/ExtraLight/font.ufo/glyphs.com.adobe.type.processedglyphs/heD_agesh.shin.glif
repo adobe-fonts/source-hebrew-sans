@@ -2,21 +2,21 @@
 <glyph name="heDagesh.shin" format="2">
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="0" y="320" type="curve"/>
-			<point x="-20" y="320"/>
-			<point x="-35" y="305"/>
-			<point x="-35" y="285" type="curve"/>
-			<point x="-35" y="265"/>
-			<point x="-20" y="250"/>
-			<point x="0" y="250" type="curve"/>
-			<point x="20" y="250"/>
-			<point x="35" y="265"/>
-			<point x="35" y="285" type="curve"/>
-			<point x="35" y="305"/>
-			<point x="20" y="320"/>
+			<point name="hintSet0000" x="0" y="240" type="curve"/>
+			<point x="18" y="240"/>
+			<point x="32" y="254"/>
+			<point x="32" y="276" type="curve"/>
+			<point x="32" y="296"/>
+			<point x="18" y="310"/>
+			<point x="0" y="310" type="curve"/>
+			<point x="-18" y="310"/>
+			<point x="-32" y="296"/>
+			<point x="-32" y="276" type="curve"/>
+			<point x="-32" y="254"/>
+			<point x="-18" y="240"/>
 		</contour>
 	</outline>
-	<anchor name="_centerHE" x="0" y="285"/>
+	<anchor name="_centerHE" x="0" y="274"/>
 	<guideline y="285" identifier="0UuHlBomrk"/>
 	<lib>
 		<dict>
@@ -29,13 +29,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 250 70</string>
-							<string>vstem -35 70</string>
+							<string>hstem 240 70</string>
+							<string>vstem -32 64</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0c0320-20320-35305c-35285-35265-20250c02502025035265c352853530520320</string>
+				<string>w0c02401824032254c322763229618310c0310-18310-32296c-32276-32254-18240</string>
 			</dict>
 		</dict>
 	</lib>

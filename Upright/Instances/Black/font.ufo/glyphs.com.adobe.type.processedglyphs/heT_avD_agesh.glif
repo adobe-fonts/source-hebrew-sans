@@ -18,33 +18,33 @@
 			<point x="332" y="177"/>
 		</contour>
 		<contour>
-			<point x="472" y="0" type="line"/>
-			<point x="620" y="0" type="line"/>
-			<point x="620" y="352" type="line"/>
-			<point x="620" y="508"/>
-			<point x="536" y="568"/>
-			<point x="414" y="568" type="curve"/>
-			<point x="84" y="568" type="line"/>
-			<point x="84" y="396" type="line"/>
-			<point name="hintSet0011" x="138" y="396" type="line"/>
-			<point x="128" y="368"/>
-			<point x="120" y="332"/>
-			<point x="120" y="288" type="curve"/>
-			<point x="120" y="256"/>
-			<point x="122" y="222"/>
-			<point x="128" y="164" type="curve"/>
-			<point x="44" y="164" type="line"/>
+			<point x="468" y="0" type="line"/>
+			<point x="640" y="0" type="line"/>
+			<point x="640" y="352" type="line"/>
+			<point x="640" y="508"/>
+			<point x="556" y="568"/>
+			<point x="434" y="568" type="curve"/>
+			<point name="hintSet0009" x="84" y="568" type="line"/>
+			<point x="84" y="420" type="line"/>
+			<point name="hintSet0011" x="164" y="420" type="line"/>
+			<point x="138" y="378"/>
+			<point x="120" y="312"/>
+			<point x="120" y="256" type="curve"/>
+			<point x="120" y="236"/>
+			<point x="122" y="204"/>
+			<point x="128" y="148" type="curve"/>
+			<point x="44" y="148" type="line"/>
 			<point x="44" y="0" type="line"/>
-			<point name="hintSet0016" x="262" y="0" type="line"/>
-			<point x="284" y="124" type="line"/>
-			<point x="270" y="208"/>
-			<point x="262" y="266"/>
-			<point x="262" y="352" type="curve"/>
-			<point x="262" y="396" type="line"/>
-			<point x="342" y="396" type="line"/>
-			<point x="422" y="396"/>
-			<point x="472" y="368"/>
-			<point x="472" y="270" type="curve"/>
+			<point x="286" y="0" type="line"/>
+			<point x="304" y="108" type="line"/>
+			<point x="290" y="192"/>
+			<point x="292" y="254"/>
+			<point x="292" y="344" type="curve"/>
+			<point x="292" y="420" type="line"/>
+			<point x="338" y="420" type="line"/>
+			<point x="418" y="420"/>
+			<point x="468" y="392"/>
+			<point x="468" y="294" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -58,12 +58,23 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 164</string>
+							<string>hstem 0 148</string>
 							<string>hstem 177 86</string>
-							<string>hstem 396 172</string>
-							<string>vstem 84 178</string>
+							<string>hstem 420 148</string>
+							<string>vstem 120 172</string>
 							<string>vstem 313 94</string>
-							<string>vstem 472 148</string>
+							<string>vstem 468 172</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0009</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 148</string>
+							<string>hstem 420 148</string>
+							<string>vstem 84 208</string>
+							<string>vstem 468 172</string>
 						</array>
 					</dict>
 					<dict>
@@ -71,28 +82,15 @@
 						<string>hintSet0011</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 164</string>
-							<string>hstem 396 172</string>
-							<string>vstem 120 142</string>
-							<string>vstem 313 94</string>
-							<string>vstem 472 148</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0016</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 164</string>
-							<string>hstem 396 172</string>
-							<string>vstem 84 178</string>
-							<string>vstem 313 94</string>
-							<string>vstem 472 148</string>
+							<string>hstem 0 148</string>
+							<string>hstem 420 148</string>
+							<string>vstem 120 172</string>
+							<string>vstem 468 172</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>847c4ef23516a34bffdbdd8174f7400a0a74136f37b292728033efe7e39f6191ac45341b93ac824cddbfe3c7da8689fac5a55360ec93ad5f6cfcb645fde77fe8</string>
+				<string>26c1fabca0058cc81b006c2a45370064a1e19095b743d8fca3907e4a290c85bceb370f2e3d201b7aef4f3e2ec24d79b522d24ed9d7ab0bc9e7d19916a79e1d74</string>
 			</dict>
 		</dict>
 	</lib>

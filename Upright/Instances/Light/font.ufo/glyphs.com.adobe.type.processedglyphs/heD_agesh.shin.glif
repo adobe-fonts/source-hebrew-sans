@@ -2,21 +2,21 @@
 <glyph name="heDagesh.shin" format="2">
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="0" y="317" type="curve"/>
-			<point x="-20" y="317"/>
-			<point x="-36" y="302"/>
-			<point x="-36" y="282" type="curve"/>
-			<point x="-36" y="261"/>
-			<point x="-20" y="246"/>
-			<point x="0" y="246" type="curve"/>
-			<point x="20" y="246"/>
-			<point x="36" y="261"/>
-			<point x="36" y="282" type="curve"/>
-			<point x="36" y="302"/>
-			<point x="20" y="317"/>
+			<point name="hintSet0000" x="0" y="238" type="curve"/>
+			<point x="21" y="238"/>
+			<point x="36" y="253"/>
+			<point x="36" y="277" type="curve"/>
+			<point x="36" y="299"/>
+			<point x="21" y="314"/>
+			<point x="0" y="314" type="curve"/>
+			<point x="-21" y="314"/>
+			<point x="-36" y="299"/>
+			<point x="-36" y="277" type="curve"/>
+			<point x="-36" y="253"/>
+			<point x="-21" y="238"/>
 		</contour>
 	</outline>
-	<anchor name="_centerHE" x="0" y="282"/>
+	<anchor name="_centerHE" x="0" y="275"/>
 	<guideline y="285" identifier="0UuHlBomrk"/>
 	<lib>
 		<dict>
@@ -29,13 +29,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 246 71</string>
+							<string>hstem 238 76</string>
 							<string>vstem -36 72</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0c0317-20317-36302c-36282-36261-20246c02462024636261c362823630220317</string>
+				<string>w0c02382123836253c362773629921314c0314-21314-36299c-36277-36253-21238</string>
 			</dict>
 		</dict>
 	</lib>

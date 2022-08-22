@@ -18,22 +18,23 @@
 			<point x="97" y="659" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0012" x="283" y="710" type="curve"/>
-			<point x="371" y="710"/>
-			<point x="411" y="775"/>
-			<point x="419" y="834" type="curve"/>
-			<point x="386" y="839" type="line"/>
-			<point x="379" y="788"/>
-			<point x="347" y="743"/>
-			<point x="283" y="743" type="curve"/>
-			<point x="219" y="743"/>
-			<point x="187" y="788"/>
-			<point x="180" y="839" type="curve"/>
-			<point x="147" y="834" type="line"/>
-			<point x="155" y="775"/>
-			<point x="195" y="710"/>
+			<point name="hintSet0012" x="290" y="710" type="curve"/>
+			<point x="378" y="710"/>
+			<point x="418" y="775"/>
+			<point x="426" y="834" type="curve"/>
+			<point x="393" y="839" type="line"/>
+			<point x="386" y="789"/>
+			<point x="354" y="744"/>
+			<point x="290" y="744" type="curve"/>
+			<point x="226" y="744"/>
+			<point x="194" y="789"/>
+			<point x="187" y="839" type="curve"/>
+			<point x="154" y="834" type="line"/>
+			<point x="162" y="775"/>
+			<point x="202" y="710"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="300" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -48,7 +49,7 @@
 							<string>hstem 0 40</string>
 							<string>hstem 330 40</string>
 							<string>hstem 619 40</string>
-							<string>hstem 710 33</string>
+							<string>hstem 710 34</string>
 							<string>vstem 97 46</string>
 						</array>
 					</dict>
@@ -60,14 +61,15 @@
 							<string>hstem 0 40</string>
 							<string>hstem 330 40</string>
 							<string>hstem 619 40</string>
-							<string>hstem 710 33</string>
-							<string>vstem 147 33</string>
-							<string>vstem 386 33</string>
+							<string>hstem 710 34</string>
+							<string>vstem 97 46</string>
+							<string>vstem 154 33</string>
+							<string>vstem 393 33</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>f9542e8cd5b3e9c827c212c4c334df86a068233fca583f893a3d94f4d046cc553c4170d9ca83ad7f44988d3395621a3126f6a17eca9c3103dcb14797b1cb3fd6</string>
+				<string>7f39e96670700d6ccb6ab7c93bcecb18ce8435cc440e52958e7adf1ce0634545adca45d37f348d94c20ea5451bea7dd4207ad386cede9059e00c531def780499</string>
 			</dict>
 		</dict>
 	</lib>

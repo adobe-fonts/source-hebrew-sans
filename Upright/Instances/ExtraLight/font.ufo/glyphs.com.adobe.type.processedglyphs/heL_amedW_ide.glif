@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heLamedWide" format="2">
 	<unicode hex="FB25"/>
-	<advance width="1252"/>
+	<advance width="1256"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="558" y="-12" type="line"/>
-			<point x="964" y="102"/>
-			<point x="1194" y="252"/>
-			<point x="1194" y="396" type="curve"/>
-			<point x="1194" y="500"/>
-			<point x="1154" y="546"/>
-			<point x="1032" y="546" type="curve"/>
-			<point x="72" y="546" type="line"/>
-			<point x="72" y="736" type="line"/>
-			<point x="44" y="736" type="line"/>
-			<point x="44" y="516" type="line"/>
-			<point x="1026" y="516" type="line"/>
-			<point x="1126" y="516"/>
-			<point x="1166" y="490"/>
-			<point x="1166" y="398" type="curve"/>
-			<point x="1166" y="260"/>
-			<point x="950" y="130"/>
-			<point x="542" y="14" type="curve"/>
+			<point name="hintSet0000" x="562" y="-12" type="line"/>
+			<point x="968" y="102"/>
+			<point x="1198" y="252"/>
+			<point x="1198" y="396" type="curve"/>
+			<point x="1198" y="500"/>
+			<point x="1158" y="546"/>
+			<point x="1036" y="546" type="curve"/>
+			<point x="76" y="546" type="line"/>
+			<point x="76" y="736" type="line"/>
+			<point x="48" y="736" type="line"/>
+			<point x="48" y="516" type="line"/>
+			<point x="1030" y="516" type="line"/>
+			<point x="1130" y="516"/>
+			<point x="1170" y="490"/>
+			<point x="1170" y="398" type="curve"/>
+			<point x="1170" y="260"/>
+			<point x="954" y="130"/>
+			<point x="546" y="14" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="626" y="590"/>
-	<anchor name="centerHE" x="566" y="320"/>
-	<anchor name="belowLeftHE" x="566" y="-30"/>
-	<anchor name="aboveLeftHE" x="-84" y="590"/>
+	<anchor name="aboveHE" x="630" y="590"/>
+	<anchor name="belowLeftHE" x="570" y="-30"/>
+	<anchor name="centerHE" x="570" y="320"/>
+	<anchor name="aboveLeftHE" x="-80" y="590"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -40,13 +40,13 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 516 30</string>
-							<string>vstem 44 28</string>
-							<string>vstem 1166 28</string>
+							<string>vstem 48 28</string>
+							<string>vstem 1170 28</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>061d7a7fb247550f0a74dde24158e5f7f0d0cef30ec89cc988a5ff8ff78d17db7460f99410008c62787eebc8c10ec63089b838d9397be0f36867b2ed93d46b46</string>
+				<string>110af5497110f1e363c0b254008752059e83fe4b6bbbfa5ca136808c61acd1a394324ed382ca52c4880f811080f9d54ea17b036e1bf559a5cb1547ddeea960d6</string>
 			</dict>
 		</dict>
 	</lib>

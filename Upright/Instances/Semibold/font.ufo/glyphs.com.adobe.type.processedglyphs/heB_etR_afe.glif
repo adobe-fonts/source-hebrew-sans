@@ -12,24 +12,24 @@
 		<contour>
 			<point x="48" y="0" type="line"/>
 			<point name="hintSet0005" x="503" y="0" type="line"/>
-			<point x="503" y="111" type="line"/>
-			<point x="450" y="111" type="line"/>
-			<point x="454" y="172"/>
-			<point x="456" y="231"/>
+			<point x="503" y="100" type="line"/>
+			<point x="449" y="100" type="line"/>
+			<point x="453" y="164"/>
+			<point x="456" y="227"/>
 			<point x="456" y="301" type="curve"/>
 			<point x="456" y="484"/>
 			<point x="380" y="559"/>
 			<point x="231" y="559" type="curve"/>
 			<point x="68" y="559" type="line"/>
-			<point x="68" y="444" type="line"/>
-			<point x="180" y="444" type="line"/>
-			<point x="308" y="444"/>
-			<point x="356" y="392"/>
-			<point x="356" y="238" type="curve"/>
-			<point x="356" y="191"/>
-			<point x="354" y="156"/>
-			<point x="351" y="111" type="curve"/>
-			<point x="48" y="111" type="line"/>
+			<point x="68" y="459" type="line"/>
+			<point x="166" y="459" type="line"/>
+			<point x="293" y="459"/>
+			<point x="340" y="411"/>
+			<point x="340" y="267" type="curve"/>
+			<point x="340" y="206"/>
+			<point x="340" y="159"/>
+			<point x="336" y="100" type="curve"/>
+			<point x="48" y="100" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -43,8 +43,8 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 111</string>
-							<string>hstem 444 115</string>
+							<string>hstem 0 100</string>
+							<string>hstem 459 100</string>
 							<string>hstem 644 59</string>
 							<string>vstem 139 210</string>
 						</array>
@@ -54,15 +54,15 @@
 						<string>hintSet0005</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 111</string>
-							<string>hstem 444 115</string>
+							<string>hstem 0 100</string>
+							<string>hstem 459 100</string>
 							<string>hstem 644 59</string>
-							<string>vstem 356 100</string>
+							<string>vstem 340 116</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>522db920e4f3490bd4d20b70d8d7062c116d2614fe9e8db496297eb682e8e4df1e13e4e0e182c1dccec77b1c540056751af93bb5002262d29c0e1d0fc92a3e59</string>
+				<string>bb3ff44f11b8a11da58f70d8c2001b3f1c659534e9703af851b55fafbe43339a05c42adaee8ad7676518743b4cbca64dbe3cce5744bd5333fb18a038f7670e22</string>
 			</dict>
 		</dict>
 	</lib>

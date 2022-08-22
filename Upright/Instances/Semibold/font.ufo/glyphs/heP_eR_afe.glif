@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePeRafe" format="2">
 	<unicode hex="FB4E"/>
-	<advance width="540"/>
+	<advance width="594"/>
+	<outline>
+		<component base="hePe"/>
+		<component base="heRafe" xOffset="291"/>
+	</outline>
 </glyph>

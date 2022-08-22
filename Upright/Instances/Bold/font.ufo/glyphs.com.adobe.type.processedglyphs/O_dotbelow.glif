@@ -33,17 +33,17 @@
 		</contour>
 		<contour>
 			<point x="342" y="-226" type="curve"/>
-			<point x="390" y="-226"/>
-			<point x="423" y="-194"/>
-			<point x="423" y="-149" type="curve"/>
-			<point x="423" y="-104"/>
-			<point x="390" y="-72"/>
+			<point x="391" y="-226"/>
+			<point x="425" y="-196"/>
+			<point x="425" y="-149" type="curve"/>
+			<point x="425" y="-103"/>
+			<point x="391" y="-72"/>
 			<point x="342" y="-72" type="curve"/>
-			<point x="294" y="-72"/>
-			<point x="261" y="-104"/>
-			<point x="261" y="-149" type="curve"/>
-			<point x="261" y="-194"/>
-			<point x="294" y="-226"/>
+			<point x="293" y="-72"/>
+			<point x="259" y="-103"/>
+			<point x="259" y="-149" type="curve"/>
+			<point x="259" y="-196"/>
+			<point x="293" y="-226"/>
 		</contour>
 	</outline>
 	<lib>
@@ -61,13 +61,13 @@
 							<string>hstem -12 127</string>
 							<string>hstem 537 127</string>
 							<string>vstem 46 151</string>
-							<string>vstem 261 162</string>
+							<string>vstem 259 166</string>
 							<string>vstem 487 151</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>61e0fa844737da29e91ef5bd671e1c1531fc6d1380dcecc5c9c0a3a984d179123c9b6106e0f8f04ca628aeff39e7271433da22fbc6c770b10b7f91b413fdc9e8</string>
+				<string>e54c2095ba27a034b4ae610e4a99ba552baa0ace96e03b8fe7990b298b8fa8937678cf2249e3331299789442f6eff0932aa7dc98322e630b9c1c4677c84e587e</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heKafFin" format="2">
 	<unicode hex="05DA"/>
-	<advance width="502"/>
+	<advance width="510"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="298" y="-200" type="line"/>
-			<point x="425" y="-200" type="line"/>
-			<point x="425" y="352" type="line"/>
-			<point x="425" y="506"/>
-			<point x="343" y="564"/>
-			<point x="224" y="564" type="curve"/>
-			<point x="12" y="564" type="line"/>
-			<point x="12" y="417" type="line"/>
-			<point x="163" y="417" type="line"/>
-			<point x="246" y="417"/>
-			<point x="298" y="387"/>
-			<point x="298" y="283" type="curve"/>
+			<point name="hintSet0000" x="286" y="-164" type="line"/>
+			<point x="433" y="-164" type="line"/>
+			<point x="433" y="352" type="line"/>
+			<point x="433" y="506"/>
+			<point x="351" y="564"/>
+			<point x="232" y="564" type="curve"/>
+			<point x="20" y="564" type="line"/>
+			<point x="20" y="437" type="line"/>
+			<point x="152" y="437" type="line"/>
+			<point x="234" y="437"/>
+			<point x="286" y="407"/>
+			<point x="286" y="303" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="190" y="541"/>
-	<anchor name="centerSecondaryHE" x="145" y="316"/>
-	<anchor name="aboveLeftHE" x="-26" y="541"/>
-	<anchor name="belowPrimaryHE" x="145" y="-30"/>
+	<anchor name="aboveHE" x="211" y="590"/>
+	<anchor name="centerSecondaryHE" x="158" y="316"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
+	<anchor name="belowPrimaryHE" x="158" y="-23"/>
+	<anchor name="centerHE" x="158" y="227"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -33,13 +34,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 417 147</string>
-							<string>vstem 298 127</string>
+							<string>hstem 437 127</string>
+							<string>vstem 286 147</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w502l298-200l425-200l425352425506343564c224564l12564l12417l163417246417298387c298283</string>
+				<string>w510l286-164l433-164l433352433506351564c232564l20564l20437l152437234437286407c286303</string>
 			</dict>
 		</dict>
 	</lib>

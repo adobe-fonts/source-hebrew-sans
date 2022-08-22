@@ -5,28 +5,28 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="73" y="157" type="line"/>
-			<point x="258" y="411" type="line"/>
-			<point x="278" y="439"/>
-			<point x="297" y="468"/>
-			<point x="313" y="493" type="curve"/>
-			<point x="317" y="493" type="line"/>
-			<point x="315" y="463"/>
-			<point x="313" y="412"/>
-			<point x="313" y="383" type="curve"/>
-			<point x="313" y="157" type="line"/>
+			<point x="258" y="416" type="line"/>
+			<point x="277" y="445"/>
+			<point x="296" y="473"/>
+			<point x="312" y="498" type="curve"/>
+			<point x="316" y="498" type="line"/>
+			<point x="314" y="469"/>
+			<point x="312" y="418"/>
+			<point x="312" y="388" type="curve"/>
+			<point x="312" y="157" type="line"/>
 		</contour>
 		<contour>
-			<point x="313" y="-40" type="line"/>
-			<point x="353" y="-40" type="line"/>
+			<point x="312" y="-51" type="line"/>
+			<point x="353" y="-51" type="line"/>
 			<point x="353" y="119" type="line"/>
 			<point x="448" y="119" type="line"/>
 			<point x="448" y="157" type="line"/>
 			<point x="353" y="157" type="line"/>
-			<point x="353" y="548" type="line"/>
-			<point x="313" y="548" type="line"/>
+			<point x="353" y="554" type="line"/>
+			<point x="312" y="554" type="line"/>
 			<point x="20" y="144" type="line"/>
 			<point x="20" y="119" type="line"/>
-			<point x="313" y="119" type="line"/>
+			<point x="312" y="119" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -41,13 +41,13 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 119 38</string>
-							<string>hstem 493 55</string>
-							<string>vstem 313 40</string>
+							<string>hstem 498 56</string>
+							<string>vstem 312 41</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>619e7768c0315e44623d66bd5ea02823bf85a4c9cb631ccd98952557e5d8f132de4a1d9db8f24d68a652a7dad687b167a7a905d42835dc4740ba8a9b899808d1</string>
+				<string>3970a8c4fe091146e10bf55918a7120db07af86940b02d589fa28f50655dd9988a88daf8c4265b328e6f8e08ef0caff007630c1a60ab782f8e51c993edda3041</string>
 			</dict>
 		</dict>
 	</lib>

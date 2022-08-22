@@ -4,44 +4,45 @@
 	<advance width="770"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="178" y="0" type="line"/>
-			<point x="228" y="0" type="line"/>
+			<point name="hintSet0000" x="176" y="0" type="line"/>
+			<point x="226" y="0" type="line"/>
 			<point x="346" y="452" type="line"/>
 			<point x="358" y="504"/>
-			<point x="372" y="549"/>
+			<point x="371" y="549"/>
 			<point x="383" y="601" type="curve"/>
 			<point x="387" y="601" type="line"/>
 			<point x="398" y="549"/>
 			<point x="410" y="504"/>
 			<point x="422" y="452" type="curve"/>
-			<point x="542" y="0" type="line"/>
-			<point x="593" y="0" type="line"/>
+			<point x="540" y="0" type="line"/>
+			<point x="591" y="0" type="line"/>
 			<point x="740" y="659" type="line"/>
 			<point x="695" y="659" type="line"/>
-			<point x="612" y="271" type="line"/>
-			<point x="597" y="199"/>
-			<point x="584" y="128"/>
-			<point x="569" y="56" type="curve"/>
-			<point x="565" y="56" type="line"/>
-			<point x="547" y="128"/>
-			<point x="530" y="199"/>
-			<point x="512" y="271" type="curve"/>
+			<point x="610" y="271" type="line"/>
+			<point x="595" y="199"/>
+			<point x="582" y="128"/>
+			<point x="567" y="56" type="curve"/>
+			<point x="563" y="56" type="line"/>
+			<point x="545" y="128"/>
+			<point x="528" y="199"/>
+			<point x="510" y="271" type="curve"/>
 			<point x="409" y="659" type="line"/>
 			<point x="362" y="659" type="line"/>
-			<point x="259" y="271" type="line"/>
-			<point x="241" y="199"/>
-			<point x="224" y="127"/>
-			<point x="208" y="56" type="curve"/>
-			<point x="204" y="56" type="line"/>
-			<point x="189" y="127"/>
-			<point x="174" y="199"/>
-			<point x="159" y="271" type="curve"/>
+			<point x="257" y="271" type="line"/>
+			<point x="239" y="199"/>
+			<point x="222" y="127"/>
+			<point x="206" y="56" type="curve"/>
+			<point x="202" y="56" type="line"/>
+			<point x="187" y="127"/>
+			<point x="172" y="199"/>
+			<point x="157" y="271" type="curve"/>
 			<point x="76" y="659" type="line"/>
 			<point x="28" y="659" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveUC" x="385" y="679"/>
-	<anchor name="belowLC" x="389" y="-20"/>
+	<anchor name="aboverightUC" x="713" y="681"/>
+	<anchor name="aboveUC" x="385" y="681"/>
+	<anchor name="belowLC" x="388" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -60,7 +61,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>44382800459687c2c31bea00dbf2a0035d208d8e745f156f9a1d41f9148823716d634d8fef3fbe8c990f8864a409dbabca83e81d8356717bcccdb046959fbeb5</string>
+				<string>af8cd5ea0b5f263c2279a4823a77bd60eadfc73471d586e89ed108c97a737627960276c8b0a09c78760bf1c471a00507e1ef111ae7aae381568f44ddb1a896ae</string>
 			</dict>
 		</dict>
 	</lib>

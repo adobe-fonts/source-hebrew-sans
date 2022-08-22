@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heHiriq" format="2">
 	<unicode hex="05B4"/>
-	<outline>
-		<contour>
-			<point x="0" y="-156" type="curve" smooth="yes"/>
-			<point x="20" y="-156"/>
-			<point x="36" y="-140"/>
-			<point x="36" y="-120" type="curve" smooth="yes"/>
-			<point x="36" y="-99"/>
-			<point x="20" y="-84"/>
-			<point x="0" y="-84" type="curve" smooth="yes"/>
-			<point x="-20" y="-84"/>
-			<point x="-36" y="-99"/>
-			<point x="-36" y="-120" type="curve" smooth="yes"/>
-			<point x="-36" y="-140"/>
-			<point x="-20" y="-156"/>
-		</contour>
-	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-26" y="-30"/>
-	<anchor name="_belowRightHE" x="26" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-101" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-29"/>
+	<anchor name="_belowLeftHE" x="-26" y="-29"/>
+	<anchor name="_belowRightHE" x="26" y="-29"/>
+	<anchor name="belowPrimaryHE" x="-101" y="-29"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-29"/>
 	<guideline y="-133" identifier="4QcKMXi29o"/>
 </glyph>

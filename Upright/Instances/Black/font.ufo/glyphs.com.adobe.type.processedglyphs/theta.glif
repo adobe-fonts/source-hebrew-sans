@@ -18,22 +18,22 @@
 			<point x="140" y="-12"/>
 		</contour>
 		<contour>
-			<point x="280" y="570" type="curve"/>
-			<point x="314" y="570"/>
-			<point x="343" y="549"/>
-			<point x="349" y="406" type="curve"/>
-			<point x="211" y="406" type="line"/>
-			<point x="217" y="549"/>
-			<point x="246" y="570"/>
+			<point name="hintSet0005" x="280" y="570" type="curve"/>
+			<point x="313" y="570"/>
+			<point x="342" y="550"/>
+			<point x="349" y="414" type="curve"/>
+			<point x="211" y="414" type="line"/>
+			<point x="218" y="550"/>
+			<point x="247" y="570"/>
 		</contour>
 		<contour>
-			<point x="280" y="126" type="curve"/>
-			<point x="246" y="126"/>
-			<point x="217" y="156"/>
-			<point x="211" y="294" type="curve"/>
-			<point x="349" y="294" type="line"/>
-			<point x="343" y="156"/>
-			<point x="314" y="126"/>
+			<point name="hintSet0009" x="280" y="126" type="curve"/>
+			<point x="247" y="126"/>
+			<point x="218" y="155"/>
+			<point x="212" y="286" type="curve"/>
+			<point x="348" y="286" type="line"/>
+			<point x="342" y="155"/>
+			<point x="313" y="126"/>
 		</contour>
 	</outline>
 	<lib>
@@ -48,15 +48,39 @@
 						<key>stems</key>
 						<array>
 							<string>hstem -12 138</string>
-							<string>hstem 294 112</string>
+							<string>hstem 286 128</string>
+							<string>hstem 570 138</string>
+							<string>vstem 44 167</string>
+							<string>vstem 348 168</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0005</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 138</string>
+							<string>hstem 286 128</string>
 							<string>hstem 570 138</string>
 							<string>vstem 44 167</string>
 							<string>vstem 349 167</string>
 						</array>
 					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0009</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 138</string>
+							<string>hstem 286 128</string>
+							<string>hstem 570 138</string>
+							<string>vstem 44 168</string>
+							<string>vstem 348 168</string>
+						</array>
+					</dict>
 				</array>
 				<key>id</key>
-				<string>af6d393c361b9250876ffcc89bf872630efbb45f2de592bf355528178eeca193c5bd946558ddd1bcc05a0f0dec7a70f23c17545df15d9feb7d7ca018e914280f</string>
+				<string>e8f09c87c31e917c21ced92569e6f35ffa5189ddc4684006466d664aaad1302ca0d723cee7aad1abc60368528f59fb6454fa1a540cc8246ff0287d53dc9a0690</string>
 			</dict>
 		</dict>
 	</lib>

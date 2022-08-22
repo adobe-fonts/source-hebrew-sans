@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heGeresh" format="2">
 	<unicode hex="05F3"/>
-	<advance width="270"/>
+	<advance width="300"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="41" y="324" type="line"/>
-			<point x="136" y="328" type="line"/>
-			<point x="243" y="586" type="line"/>
-			<point x="113" y="580" type="line"/>
+			<point name="hintSet0000" x="140" y="331" type="line"/>
+			<point x="195" y="399"/>
+			<point x="234" y="504"/>
+			<point x="234" y="611" type="curve"/>
+			<point x="234" y="626"/>
+			<point x="234" y="639"/>
+			<point x="232" y="653" type="curve"/>
+			<point x="83" y="653" type="line"/>
+			<point x="89" y="620"/>
+			<point x="92" y="587"/>
+			<point x="92" y="556" type="curve"/>
+			<point x="92" y="476"/>
+			<point x="83" y="422"/>
+			<point x="62" y="356" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -21,13 +31,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 326 257</string>
-							<string>vstem 41 202</string>
+							<string>hstem 331 322</string>
+							<string>vstem 92 142</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w270l41324l136328l243586l113580</string>
+				<string>w300l140331195399234504c234611234626234639c232653l836538962092587c925569247683422c62356</string>
 			</dict>
 		</dict>
 	</lib>

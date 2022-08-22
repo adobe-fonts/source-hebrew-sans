@@ -7,29 +7,31 @@
 			<point name="hintSet0000" x="316" y="-12" type="curve"/>
 			<point x="430" y="-12"/>
 			<point x="539" y="47"/>
-			<point x="539" y="253" type="curve"/>
+			<point x="539" y="252" type="curve"/>
 			<point x="539" y="659" type="line"/>
 			<point x="496" y="659" type="line"/>
-			<point x="496" y="258" type="line"/>
-			<point x="496" y="83"/>
+			<point x="496" y="257" type="line"/>
+			<point x="496" y="82"/>
 			<point x="411" y="30"/>
 			<point x="316" y="30" type="curve"/>
 			<point x="223" y="30"/>
-			<point x="141" y="83"/>
-			<point x="141" y="258" type="curve"/>
+			<point x="141" y="82"/>
+			<point x="141" y="257" type="curve"/>
 			<point x="141" y="659" type="line"/>
 			<point x="95" y="659" type="line"/>
-			<point x="95" y="253" type="line"/>
+			<point x="95" y="252" type="line"/>
 			<point x="95" y="47"/>
 			<point x="203" y="-12"/>
 		</contour>
 		<contour>
-			<point x="295" y="706" type="line"/>
-			<point x="428" y="819" type="line"/>
-			<point x="400" y="852" type="line"/>
-			<point x="275" y="729" type="line"/>
+			<point x="244" y="709" type="line"/>
+			<point x="290" y="709" type="line"/>
+			<point x="447" y="828" type="line"/>
+			<point x="444" y="833" type="line"/>
+			<point x="382" y="833" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="316" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -49,7 +51,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>0d4585cc0ea0ab65fa3db081f37f8ea979f63e3eeda507830e1dfc400e569960850dbd67951f492b9ea7476978049ce1ff6a1cf3e311011ec1e9123c8027097f</string>
+				<string>0e7bf0e81bca4ef13fa3d762bb64b0a595c741c3fecc12700a58fb3c17e80825ebba21e7e1855baf0782d696e68c688f47f1a76547024217212f74606ed73f50</string>
 			</dict>
 		</dict>
 	</lib>

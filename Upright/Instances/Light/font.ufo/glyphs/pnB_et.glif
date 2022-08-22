@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnBet" format="2">
 	<unicode hex="10901"/>
-	<advance width="511"/>
+	<advance width="508"/>
 	<outline>
 		<contour>
-			<point x="85" y="0" type="line"/>
-			<point x="412" y="0" type="line"/>
-			<point x="412" y="550" type="line"/>
-			<point x="243" y="550" type="line" smooth="yes"/>
-			<point x="119" y="550"/>
-			<point x="47" y="497"/>
-			<point x="47" y="389" type="curve" smooth="yes"/>
-			<point x="47" y="279"/>
-			<point x="128" y="238"/>
-			<point x="247" y="238" type="curve" smooth="yes"/>
-			<point x="372" y="238" type="line"/>
-			<point x="372" y="44" type="line"/>
-			<point x="85" y="44" type="line"/>
+			<point x="84" y="0" type="line"/>
+			<point x="411" y="0" type="line"/>
+			<point x="411" y="514" type="line"/>
+			<point x="244" y="514" type="line" smooth="yes"/>
+			<point x="119" y="514"/>
+			<point x="46" y="464"/>
+			<point x="46" y="362" type="curve" smooth="yes"/>
+			<point x="46" y="259"/>
+			<point x="128" y="220"/>
+			<point x="248" y="220" type="curve" smooth="yes"/>
+			<point x="371" y="220" type="line"/>
+			<point x="371" y="42" type="line"/>
+			<point x="84" y="42" type="line"/>
 		</contour>
 		<contour>
-			<point x="254" y="278" type="line" smooth="yes"/>
-			<point x="145" y="278"/>
-			<point x="89" y="310"/>
-			<point x="89" y="389" type="curve" smooth="yes"/>
-			<point x="89" y="469"/>
-			<point x="143" y="506"/>
-			<point x="250" y="506" type="curve" smooth="yes"/>
-			<point x="372" y="506" type="line"/>
-			<point x="372" y="278" type="line"/>
+			<point x="255" y="258" type="line" smooth="yes"/>
+			<point x="144" y="258"/>
+			<point x="88" y="289"/>
+			<point x="88" y="363" type="curve" smooth="yes"/>
+			<point x="88" y="438"/>
+			<point x="142" y="472"/>
+			<point x="251" y="472" type="curve" smooth="yes"/>
+			<point x="371" y="472" type="line"/>
+			<point x="371" y="258" type="line"/>
 		</contour>
 	</outline>
 </glyph>

@@ -3,13 +3,13 @@
 	<unicode hex="05BF"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="-102" y="638" type="line"/>
-			<point x="102" y="638" type="line"/>
-			<point x="102" y="679" type="line"/>
-			<point x="-102" y="679" type="line"/>
+			<point name="hintSet0000" x="-92" y="647" type="line"/>
+			<point x="92" y="647" type="line"/>
+			<point x="92" y="682" type="line"/>
+			<point x="-92" y="682" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_aboveHE" x="0" y="584"/>
+	<anchor name="_aboveHE" x="0" y="590"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -21,13 +21,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 638 41</string>
-							<string>vstem -102 204</string>
+							<string>hstem 647 35</string>
+							<string>vstem -92 184</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0l-102638l102638l102679l-102679</string>
+				<string>w0l-92647l92647l92682l-92682</string>
 			</dict>
 		</dict>
 	</lib>

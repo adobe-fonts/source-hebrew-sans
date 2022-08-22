@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heLamedWide" format="2">
 	<unicode hex="FB25"/>
-	<advance width="540"/>
+	<advance width="1315"/>
+	<outline>
+		<contour>
+			<point x="559" y="-12" type="line"/>
+			<point x="1060" y="130"/>
+			<point x="1274" y="216"/>
+			<point x="1274" y="406" type="curve" smooth="yes"/>
+			<point x="1274" y="512"/>
+			<point x="1224" y="564"/>
+			<point x="1071" y="564" type="curve" smooth="yes"/>
+			<point x="188" y="564" type="line"/>
+			<point x="188" y="724" type="line"/>
+			<point x="61" y="724" type="line"/>
+			<point x="61" y="417" type="line"/>
+			<point x="1056" y="417" type="line" smooth="yes"/>
+			<point x="1122" y="417"/>
+			<point x="1147" y="404"/>
+			<point x="1147" y="355" type="curve" smooth="yes"/>
+			<point x="1147" y="286"/>
+			<point x="966" y="211"/>
+			<point x="510" y="116" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="aboveHE" x="745" y="590"/>
+	<anchor name="belowLeftHE" x="562" y="-23"/>
+	<anchor name="centerHE" x="595" y="287"/>
+	<anchor name="aboveLeftHE" x="-31" y="590"/>
 </glyph>

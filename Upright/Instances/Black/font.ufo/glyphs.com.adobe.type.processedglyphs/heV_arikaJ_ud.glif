@@ -3,20 +3,20 @@
 	<unicode hex="FB1E"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="0" y="569" type="curve"/>
-			<point x="94" y="569"/>
-			<point x="142" y="632"/>
-			<point x="146" y="709" type="curve"/>
-			<point x="59" y="709" type="line"/>
-			<point name="hintSet0003" x="55" y="683"/>
-			<point x="42" y="655"/>
-			<point x="1" y="655" type="curve"/>
-			<point name="hintSet0004" x="-35" y="655"/>
-			<point x="-51" y="679"/>
-			<point x="-57" y="709" type="curve"/>
-			<point x="-145" y="709" type="line"/>
-			<point x="-143" y="634"/>
-			<point x="-98" y="569"/>
+			<point name="hintSet0000" x="0" y="568" type="curve"/>
+			<point x="99" y="568"/>
+			<point x="144" y="624"/>
+			<point x="146" y="703" type="curve"/>
+			<point x="66" y="716" type="line"/>
+			<point x="60" y="682"/>
+			<point x="40" y="657"/>
+			<point x="0" y="657" type="curve"/>
+			<point x="-40" y="657"/>
+			<point x="-60" y="682"/>
+			<point x="-66" y="716" type="curve"/>
+			<point x="-146" y="703" type="line"/>
+			<point x="-144" y="624"/>
+			<point x="-98" y="568"/>
 		</contour>
 	</outline>
 	<anchor name="_aboveHE" x="0" y="525"/>
@@ -32,31 +32,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 569 140</string>
-							<string>vstem -145 291</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0003</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 569 86</string>
-							<string>vstem -145 291</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0004</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 569 140</string>
-							<string>vstem -145 291</string>
+							<string>hstem 568 89</string>
+							<string>vstem 66 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0c056994569142632c146709l597095568342655c1655-35655-51679c-57709l-145709-143634-98569</string>
+				<string>w0c056899568144624c146703l667166068240657c0657-40657-60682c-66716l-146703-144624-98568</string>
 			</dict>
 		</dict>
 	</lib>

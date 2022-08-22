@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="newsheqel.P" format="2">
+	<advance width="880"/>
+	<outline>
+		<contour>
+			<point x="68" y="0" type="line"/>
+			<point x="228" y="0" type="line"/>
+			<point x="228" y="450" type="line"/>
+			<point x="360" y="450" type="line" smooth="yes"/>
+			<point x="419" y="450"/>
+			<point x="456" y="428"/>
+			<point x="456" y="358" type="curve" smooth="yes"/>
+			<point x="456" y="196" type="line"/>
+			<point x="616" y="196" type="line"/>
+			<point x="616" y="400" type="line" smooth="yes"/>
+			<point x="616" y="523"/>
+			<point x="547" y="568"/>
+			<point x="438" y="568" type="curve" smooth="yes"/>
+			<point x="68" y="568" type="line"/>
+		</contour>
+		<contour>
+			<point x="264" y="0" type="line"/>
+			<point x="634" y="0" type="line" smooth="yes"/>
+			<point x="743" y="0"/>
+			<point x="812" y="45"/>
+			<point x="812" y="168" type="curve" smooth="yes"/>
+			<point x="812" y="568" type="line"/>
+			<point x="652" y="568" type="line"/>
+			<point x="652" y="210" type="line" smooth="yes"/>
+			<point x="652" y="140"/>
+			<point x="614" y="118"/>
+			<point x="554" y="118" type="curve" smooth="yes"/>
+			<point x="424" y="118" type="line"/>
+			<point x="424" y="372" type="line"/>
+			<point x="264" y="372" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="270" y="284" angle="90" identifier="la2l8YmETM"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heMaqaf" format="2">
 	<unicode hex="05BE"/>
-	<advance width="330"/>
+	<advance width="337"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="36" y="449" type="line"/>
-			<point x="294" y="449" type="line"/>
-			<point x="294" y="537" type="line"/>
-			<point x="36" y="537" type="line"/>
+			<point name="hintSet0000" x="39" y="481" type="line"/>
+			<point x="298" y="481" type="line"/>
+			<point x="298" y="554" type="line"/>
+			<point x="39" y="554" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -21,13 +21,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 449 88</string>
-							<string>vstem 36 258</string>
+							<string>hstem 481 73</string>
+							<string>vstem 39 259</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w330l36449l294449l294537l36537</string>
+				<string>w337l39481l298481l298554l39554</string>
 			</dict>
 		</dict>
 	</lib>

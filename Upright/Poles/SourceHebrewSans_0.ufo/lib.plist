@@ -295,13 +295,6 @@
 					<string>seven.Sups</string>
 					<string>eight.Sups</string>
 					<string>nine.Sups</string>
-					<string>plus.Sups</string>
-					<string>minus.Sups</string>
-					<string>equal.Sups</string>
-					<string>parenleft.Sups</string>
-					<string>parenright.Sups</string>
-					<string>period.Sups</string>
-					<string>comma.Sups</string>
 					<string>zero.Subs</string>
 					<string>one.Subs</string>
 					<string>two.Subs</string>
@@ -312,13 +305,6 @@
 					<string>seven.Subs</string>
 					<string>eight.Subs</string>
 					<string>nine.Subs</string>
-					<string>plus.Subs</string>
-					<string>minus.Subs</string>
-					<string>equal.Subs</string>
-					<string>parenleft.Subs</string>
-					<string>parenright.Subs</string>
-					<string>period.Subs</string>
-					<string>comma.Subs</string>
 					<string>zero.Dnom</string>
 					<string>one.Dnom</string>
 					<string>two.Dnom</string>
@@ -329,8 +315,6 @@
 					<string>seven.Dnom</string>
 					<string>eight.Dnom</string>
 					<string>nine.Dnom</string>
-					<string>parenleft.Dnom</string>
-					<string>parenright.Dnom</string>
 					<string>zero.Numr</string>
 					<string>one.Numr</string>
 					<string>two.Numr</string>
@@ -341,10 +325,6 @@
 					<string>seven.Numr</string>
 					<string>eight.Numr</string>
 					<string>nine.Numr</string>
-					<string>parenleft.Numr</string>
-					<string>parenright.Numr</string>
-					<string>period.Numr</string>
-					<string>comma.Numr</string>
 					<string>ampersand.S</string>
 					<string>exclam.S</string>
 					<string>exclamdown.S</string>
@@ -369,6 +349,7 @@
 					<string>numbersign.S</string>
 					<string>copyright.S</string>
 					<string>newsheqel.S</string>
+					<string>newsheqel.P</string>
 					<string>dollar.S</string>
 					<string>sterling.S</string>
 					<string>yen.S</string>
@@ -759,6 +740,7 @@
 					<string>registered</string>
 					<string>currency</string>
 					<string>newsheqel</string>
+					<string>newsheqel.pnum</string>
 					<string>dollar</string>
 					<string>sterling</string>
 					<string>yen</string>
@@ -890,6 +872,26 @@
 					<string>ogonekcmb</string>
 					<string>tildeoverlaycmb</string>
 					<string>space.frac</string>
+					<string>comma.Numr</string>
+					<string>comma.Subs</string>
+					<string>comma.Sups</string>
+					<string>equal.Subs</string>
+					<string>equal.Sups</string>
+					<string>minus.Subs</string>
+					<string>minus.Sups</string>
+					<string>parenleft.Dnom</string>
+					<string>parenleft.Numr</string>
+					<string>parenleft.Subs</string>
+					<string>parenleft.Sups</string>
+					<string>parenright.Dnom</string>
+					<string>parenright.Numr</string>
+					<string>parenright.Subs</string>
+					<string>parenright.Sups</string>
+					<string>period.Numr</string>
+					<string>period.Subs</string>
+					<string>period.Sups</string>
+					<string>plus.Subs</string>
+					<string>plus.Sups</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -5360,13 +5362,6 @@
 			<string>seven.Sups</string>
 			<string>eight.Sups</string>
 			<string>nine.Sups</string>
-			<string>plus.Sups</string>
-			<string>minus.Sups</string>
-			<string>equal.Sups</string>
-			<string>parenleft.Sups</string>
-			<string>parenright.Sups</string>
-			<string>period.Sups</string>
-			<string>comma.Sups</string>
 			<string>zero.Subs</string>
 			<string>one.Subs</string>
 			<string>two.Subs</string>
@@ -5377,13 +5372,6 @@
 			<string>seven.Subs</string>
 			<string>eight.Subs</string>
 			<string>nine.Subs</string>
-			<string>plus.Subs</string>
-			<string>minus.Subs</string>
-			<string>equal.Subs</string>
-			<string>parenleft.Subs</string>
-			<string>parenright.Subs</string>
-			<string>period.Subs</string>
-			<string>comma.Subs</string>
 			<string>zero.Dnom</string>
 			<string>one.Dnom</string>
 			<string>two.Dnom</string>
@@ -5394,8 +5382,6 @@
 			<string>seven.Dnom</string>
 			<string>eight.Dnom</string>
 			<string>nine.Dnom</string>
-			<string>parenleft.Dnom</string>
-			<string>parenright.Dnom</string>
 			<string>zero.Numr</string>
 			<string>one.Numr</string>
 			<string>two.Numr</string>
@@ -5406,10 +5392,6 @@
 			<string>seven.Numr</string>
 			<string>eight.Numr</string>
 			<string>nine.Numr</string>
-			<string>parenleft.Numr</string>
-			<string>parenright.Numr</string>
-			<string>period.Numr</string>
-			<string>comma.Numr</string>
 			<string>ampersand.S</string>
 			<string>exclam.S</string>
 			<string>exclamdown.S</string>
@@ -5434,6 +5416,7 @@
 			<string>numbersign.S</string>
 			<string>copyright.S</string>
 			<string>newsheqel.S</string>
+			<string>newsheqel.P</string>
 			<string>dollar.S</string>
 			<string>sterling.S</string>
 			<string>yen.S</string>
@@ -5824,6 +5807,7 @@
 			<string>registered</string>
 			<string>currency</string>
 			<string>newsheqel</string>
+			<string>newsheqel.pnum</string>
 			<string>dollar</string>
 			<string>sterling</string>
 			<string>yen</string>
@@ -5955,6 +5939,26 @@
 			<string>ogonekcmb</string>
 			<string>tildeoverlaycmb</string>
 			<string>space.frac</string>
+			<string>comma.Numr</string>
+			<string>comma.Subs</string>
+			<string>comma.Sups</string>
+			<string>equal.Subs</string>
+			<string>equal.Sups</string>
+			<string>minus.Subs</string>
+			<string>minus.Sups</string>
+			<string>parenleft.Dnom</string>
+			<string>parenleft.Numr</string>
+			<string>parenleft.Subs</string>
+			<string>parenleft.Sups</string>
+			<string>parenright.Dnom</string>
+			<string>parenright.Numr</string>
+			<string>parenright.Subs</string>
+			<string>parenright.Sups</string>
+			<string>period.Numr</string>
+			<string>period.Subs</string>
+			<string>period.Sups</string>
+			<string>plus.Subs</string>
+			<string>plus.Sups</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>

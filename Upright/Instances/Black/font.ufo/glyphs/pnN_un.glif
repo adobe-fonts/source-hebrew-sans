@@ -1,3 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnNun" format="2">
+	<unicode hex="1090D"/>
+	<advance width="602"/>
+	<outline>
+		<contour>
+			<point x="382" y="-156" type="line"/>
+			<point x="530" y="-156" type="line"/>
+			<point x="530" y="532" type="line"/>
+			<point x="388" y="532" type="line"/>
+			<point x="388" y="406"/>
+			<point x="344" y="282"/>
+			<point x="274" y="282" type="curve" smooth="yes"/>
+			<point x="220" y="282"/>
+			<point x="184" y="308"/>
+			<point x="184" y="540" type="curve"/>
+			<point x="24" y="524" type="line"/>
+			<point x="24" y="190"/>
+			<point x="123" y="112"/>
+			<point x="246" y="112" type="curve" smooth="yes"/>
+			<point x="299" y="112"/>
+			<point x="356" y="134"/>
+			<point x="404" y="186" type="curve"/>
+			<point x="402" y="214" type="line"/>
+			<point x="384" y="114"/>
+			<point x="382" y="58"/>
+			<point x="382" y="4" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
 </glyph>

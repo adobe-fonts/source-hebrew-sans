@@ -4,31 +4,31 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="188" y="-12" type="curve"/>
-			<point x="277" y="-12"/>
-			<point x="342" y="61"/>
-			<point x="342" y="184" type="curve"/>
-			<point x="342" y="307"/>
-			<point x="277" y="378"/>
-			<point x="188" y="378" type="curve"/>
-			<point x="99" y="378"/>
-			<point x="34" y="307"/>
-			<point x="34" y="184" type="curve"/>
-			<point x="34" y="61"/>
-			<point x="99" y="-12"/>
+			<point x="282" y="-12"/>
+			<point x="351" y="65"/>
+			<point x="351" y="196" type="curve"/>
+			<point x="351" y="326"/>
+			<point x="282" y="402"/>
+			<point x="188" y="402" type="curve"/>
+			<point x="94" y="402"/>
+			<point x="26" y="326"/>
+			<point x="26" y="196" type="curve"/>
+			<point x="26" y="65"/>
+			<point x="94" y="-12"/>
 		</contour>
 		<contour>
-			<point x="188" y="86" type="curve"/>
-			<point x="152" y="86"/>
-			<point x="120" y="114"/>
-			<point x="120" y="184" type="curve"/>
-			<point x="120" y="254"/>
-			<point x="152" y="281"/>
-			<point x="188" y="281" type="curve"/>
-			<point x="225" y="281"/>
-			<point x="257" y="254"/>
-			<point x="257" y="184" type="curve"/>
-			<point x="257" y="114"/>
-			<point x="225" y="86"/>
+			<point x="188" y="70" type="curve"/>
+			<point x="155" y="70"/>
+			<point x="128" y="103"/>
+			<point x="128" y="196" type="curve"/>
+			<point x="128" y="289"/>
+			<point x="155" y="320"/>
+			<point x="188" y="320" type="curve"/>
+			<point x="221" y="320"/>
+			<point x="248" y="289"/>
+			<point x="248" y="196" type="curve"/>
+			<point x="248" y="103"/>
+			<point x="221" y="70"/>
 		</contour>
 	</outline>
 	<lib>
@@ -42,15 +42,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -12 98</string>
-							<string>hstem 281 97</string>
-							<string>vstem 34 86</string>
-							<string>vstem 257 85</string>
+							<string>hstem -12 82</string>
+							<string>hstem 320 82</string>
+							<string>vstem 26 102</string>
+							<string>vstem 248 103</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>47690fc7924503db4c6d2a272795a3ec5ca01ba552094619116b68693f45e0847453d416b85cf52b43a64be844085bb5854e62739851f9bad2a56db9c80684e5</string>
+				<string>f5eb276770d54278a4556da8b1009703fe18e98288d9c1e166aa94a8cff4e434543af71706bfd26e7f1a18ffdbd326c16ef14f37fc9a68e34f20d7b3faef0161</string>
 			</dict>
 		</dict>
 	</lib>

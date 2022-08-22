@@ -11,7 +11,9 @@
 			<point x="137" y="533"/>
 			<point x="135" y="596" type="curve"/>
 			<point x="139" y="596" type="line"/>
-			<point x="213" y="465" type="line"/>
+			<point x="162" y="553"/>
+			<point x="188" y="509"/>
+			<point x="213" y="465" type="curve"/>
 			<point x="491" y="0" type="line"/>
 			<point x="539" y="0" type="line"/>
 			<point x="539" y="659" type="line"/>
@@ -21,14 +23,15 @@
 			<point x="499" y="127"/>
 			<point x="501" y="63" type="curve"/>
 			<point x="497" y="63" type="line"/>
-			<point x="423" y="194" type="line"/>
+			<point x="474" y="106"/>
+			<point x="448" y="150"/>
+			<point x="423" y="194" type="curve"/>
 			<point x="145" y="659" type="line"/>
 			<point x="97" y="659" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveUC" x="323" y="679"/>
-	<anchor name="belowLC" x="318" y="-20"/>
-	<anchor name="baseLC" x="336" y="0"/>
+	<anchor name="aboveUC" x="331" y="681"/>
+	<anchor name="belowLC" x="323" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -48,7 +51,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a974b00a92f0da216799dc73aac77131a1a659bbde11974011a8a587fccfbfea31d6c6de1c93cd5f01bc9435fed13d03a3988b4d2d4ba6be6ccf3a619c464140</string>
+				<string>f0d1722281aa8b3fc3f9940963ccf42fccae8119e591e04b94d67da8f6952fda3eee4e3a0e490f2bb9b79d4be55acb729af1b519926cfe14dd0e6121cf39f749</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heResh" format="2">
 	<unicode hex="05E8"/>
-	<advance width="502"/>
+	<advance width="501"/>
 	<outline>
 		<contour>
-			<point x="298" y="0" type="line"/>
+			<point x="278" y="0" type="line"/>
 			<point x="425" y="0" type="line"/>
 			<point x="425" y="352" type="line" smooth="yes"/>
 			<point x="425" y="506"/>
 			<point x="343" y="564"/>
 			<point x="224" y="564" type="curve" smooth="yes"/>
 			<point x="12" y="564" type="line"/>
-			<point x="12" y="417" type="line"/>
-			<point x="163" y="417" type="line" smooth="yes"/>
-			<point x="246" y="417"/>
-			<point x="298" y="387"/>
-			<point x="298" y="283" type="curve" smooth="yes"/>
+			<point x="12" y="437" type="line"/>
+			<point x="143" y="437" type="line" smooth="yes"/>
+			<point x="226" y="437"/>
+			<point x="278" y="407"/>
+			<point x="278" y="303" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="178" y="541"/>
-	<anchor name="belowSecondaryHE" x="325" y="-30"/>
-	<anchor name="centerHE" x="144" y="201"/>
-	<anchor name="aboveLeftHE" x="-25" y="541"/>
+	<anchor name="aboveHE" x="219" y="590"/>
+	<anchor name="belowSecondaryHE" x="365" y="-23"/>
+	<anchor name="centerHE" x="150" y="227"/>
+	<anchor name="aboveLeftHE" x="-8" y="590"/>
 </glyph>

@@ -3,14 +3,14 @@
 	<unicode hex="200D"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="-116" y="785" type="line"/>
-			<point x="-116" y="858" type="line"/>
-			<point x="117" y="858" type="line"/>
-			<point x="117" y="785" type="line"/>
-			<point x="151" y="785" type="line"/>
-			<point x="151" y="894" type="line"/>
-			<point x="-150" y="894" type="line"/>
-			<point x="-150" y="785" type="line"/>
+			<point name="hintSet0000" x="-146" y="665" type="line"/>
+			<point x="-120" y="665" type="line"/>
+			<point x="-120" y="742" type="line"/>
+			<point x="120" y="742" type="line"/>
+			<point x="120" y="665" type="line"/>
+			<point x="146" y="665" type="line"/>
+			<point x="146" y="770" type="line"/>
+			<point x="-146" y="770" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -24,14 +24,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 858 36</string>
-							<string>vstem -150 34</string>
-							<string>vstem 117 34</string>
+							<string>hstem 742 28</string>
+							<string>vstem -146 26</string>
+							<string>vstem 120 26</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0l-116785l-116858l117858l117785l151785l151894l-150894l-150785</string>
+				<string>w0l-146665l-120665l-120742l120742l120665l146665l146770l-146770</string>
 			</dict>
 		</dict>
 	</lib>

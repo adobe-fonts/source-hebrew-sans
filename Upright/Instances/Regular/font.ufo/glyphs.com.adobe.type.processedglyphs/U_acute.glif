@@ -6,30 +6,32 @@
 		<contour>
 			<point name="hintSet0000" x="323" y="-12" type="curve"/>
 			<point x="457" y="-12"/>
-			<point x="558" y="60"/>
-			<point x="558" y="271" type="curve"/>
+			<point x="558" y="59"/>
+			<point x="558" y="267" type="curve"/>
 			<point x="558" y="656" type="line"/>
 			<point x="478" y="656" type="line"/>
-			<point x="478" y="269" type="line"/>
-			<point x="478" y="111"/>
+			<point x="478" y="265" type="line"/>
+			<point x="478" y="110"/>
 			<point x="410" y="61"/>
 			<point x="323" y="61" type="curve"/>
 			<point x="237" y="61"/>
-			<point x="170" y="111"/>
-			<point x="170" y="269" type="curve"/>
+			<point x="170" y="110"/>
+			<point x="170" y="265" type="curve"/>
 			<point x="170" y="656" type="line"/>
 			<point x="87" y="656" type="line"/>
-			<point x="87" y="271" type="line"/>
-			<point x="87" y="60"/>
+			<point x="87" y="267" type="line"/>
+			<point x="87" y="59"/>
 			<point x="189" y="-12"/>
 		</contour>
 		<contour>
-			<point x="305" y="697" type="line"/>
-			<point x="457" y="812" type="line"/>
-			<point x="410" y="867" type="line"/>
-			<point x="268" y="739" type="line"/>
+			<point x="245" y="706" type="line"/>
+			<point x="319" y="706" type="line"/>
+			<point x="482" y="832" type="line"/>
+			<point x="478" y="841" type="line"/>
+			<point x="377" y="841" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="belowLC" x="322" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -43,13 +45,14 @@
 						<array>
 							<string>hstem -12 73</string>
 							<string>hstem 656 -20</string>
+							<string>hstem 832 9</string>
 							<string>vstem 87 83</string>
 							<string>vstem 478 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>ff33b9db5648e3459b52f2f4b31be21be7f9183cbe92d5e3745dfa52f1c6188306c9af7ab16af7e9979c8b4a197cdc840596d0153bc99a3adb229f416e930081</string>
+				<string>68eac0a372790882711c439bd020de7e27815bb7521e5f013919919521ca17a555a45becf5dd3b06ea2076dd518c3cf8cb746651b8c90d25029a34a0084ff3dc</string>
 			</dict>
 		</dict>
 	</lib>

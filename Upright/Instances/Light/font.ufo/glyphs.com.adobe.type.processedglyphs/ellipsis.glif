@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="2">
 	<unicode hex="2026"/>
-	<advance width="999"/>
+	<advance width="931"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="166" y="-12" type="curve"/>
-			<point x="188" y="-12"/>
-			<point x="208" y="5"/>
-			<point x="208" y="33" type="curve"/>
-			<point x="208" y="62"/>
-			<point x="188" y="79"/>
-			<point x="166" y="79" type="curve"/>
-			<point x="144" y="79"/>
-			<point x="123" y="62"/>
-			<point x="123" y="33" type="curve"/>
-			<point x="123" y="5"/>
-			<point x="144" y="-12"/>
+			<point name="hintSet0000" x="147" y="-12" type="curve"/>
+			<point x="169" y="-12"/>
+			<point x="189" y="5"/>
+			<point x="189" y="33" type="curve"/>
+			<point x="189" y="62"/>
+			<point x="169" y="79"/>
+			<point x="147" y="79" type="curve"/>
+			<point x="125" y="79"/>
+			<point x="104" y="62"/>
+			<point x="104" y="33" type="curve"/>
+			<point x="104" y="5"/>
+			<point x="125" y="-12"/>
 		</contour>
 		<contour>
-			<point x="500" y="-12" type="curve"/>
-			<point x="522" y="-12"/>
-			<point x="542" y="5"/>
-			<point x="542" y="33" type="curve"/>
-			<point x="542" y="62"/>
-			<point x="522" y="79"/>
-			<point x="500" y="79" type="curve"/>
-			<point x="478" y="79"/>
-			<point x="457" y="62"/>
-			<point x="457" y="33" type="curve"/>
-			<point x="457" y="5"/>
-			<point x="478" y="-12"/>
+			<point x="484" y="-12" type="curve"/>
+			<point x="506" y="-12"/>
+			<point x="526" y="5"/>
+			<point x="526" y="33" type="curve"/>
+			<point x="526" y="62"/>
+			<point x="506" y="79"/>
+			<point x="484" y="79" type="curve"/>
+			<point x="462" y="79"/>
+			<point x="441" y="62"/>
+			<point x="441" y="33" type="curve"/>
+			<point x="441" y="5"/>
+			<point x="462" y="-12"/>
 		</contour>
 		<contour>
-			<point x="834" y="-12" type="curve"/>
-			<point x="856" y="-12"/>
-			<point x="876" y="5"/>
-			<point x="876" y="33" type="curve"/>
-			<point x="876" y="62"/>
-			<point x="856" y="79"/>
-			<point x="834" y="79" type="curve"/>
-			<point x="812" y="79"/>
-			<point x="791" y="62"/>
-			<point x="791" y="33" type="curve"/>
-			<point x="791" y="5"/>
-			<point x="812" y="-12"/>
+			<point x="821" y="-12" type="curve"/>
+			<point x="843" y="-12"/>
+			<point x="863" y="5"/>
+			<point x="863" y="33" type="curve"/>
+			<point x="863" y="62"/>
+			<point x="843" y="79"/>
+			<point x="821" y="79" type="curve"/>
+			<point x="799" y="79"/>
+			<point x="778" y="62"/>
+			<point x="778" y="33" type="curve"/>
+			<point x="778" y="5"/>
+			<point x="799" y="-12"/>
 		</contour>
 	</outline>
 	<lib>
@@ -58,12 +58,12 @@
 						<key>stems</key>
 						<array>
 							<string>hstem -12 91</string>
-							<string>vstem3 123 85 457 85 791 85</string>
+							<string>vstem3 104 85 441 85 778 85</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>7a6d2692d67df4a3989a1d8f538982ee51fa94956bb82546ae1d232d08368804417f16a5f1373af9188eea1d5cca7fbb0bc96a1a27bd119f6904bb13eaaf5756</string>
+				<string>cfecb288a93181f52971a49264cb739ab0ce600bc90e6af3c3ab227556cab798df30780a8816930580c1c08a78d26e639d9d49093a9e52deab6d0a6bad431ff7</string>
 			</dict>
 		</dict>
 	</lib>

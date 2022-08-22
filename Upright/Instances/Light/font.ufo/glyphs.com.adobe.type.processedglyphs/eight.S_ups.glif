@@ -5,59 +5,59 @@
 	<outline>
 		<contour>
 			<point name="hintSet0000" x="179" y="360" type="curve"/>
-			<point x="251" y="360"/>
-			<point x="306" y="404"/>
-			<point x="306" y="463" type="curve"/>
-			<point x="306" y="509"/>
-			<point x="282" y="533"/>
-			<point x="236" y="552" type="curve"/>
-			<point x="236" y="556" type="line"/>
-			<point name="hintSet0004" x="270" y="579"/>
-			<point x="292" y="604"/>
-			<point x="292" y="645" type="curve"/>
-			<point x="292" y="700"/>
-			<point x="243" y="736"/>
-			<point x="179" y="736" type="curve"/>
-			<point x="118" y="736"/>
-			<point x="70" y="698"/>
-			<point x="70" y="645" type="curve"/>
-			<point x="70" y="604"/>
-			<point x="93" y="582"/>
-			<point x="124" y="566" type="curve"/>
-			<point x="124" y="562" type="line"/>
-			<point name="hintSet0009" x="86" y="546"/>
-			<point x="53" y="512"/>
-			<point x="53" y="459" type="curve"/>
-			<point x="53" y="404"/>
-			<point x="102" y="360"/>
+			<point x="253" y="360"/>
+			<point x="310" y="408"/>
+			<point x="310" y="472" type="curve"/>
+			<point x="310" y="518"/>
+			<point x="283" y="547"/>
+			<point x="236" y="571" type="curve"/>
+			<point x="236" y="575" type="line"/>
+			<point name="hintSet0004" x="259" y="593"/>
+			<point x="296" y="623"/>
+			<point x="296" y="673" type="curve"/>
+			<point x="296" y="734"/>
+			<point x="245" y="774"/>
+			<point x="179" y="774" type="curve"/>
+			<point x="116" y="774"/>
+			<point x="66" y="732"/>
+			<point x="66" y="673" type="curve"/>
+			<point x="66" y="631"/>
+			<point x="90" y="607"/>
+			<point x="124" y="585" type="curve"/>
+			<point x="124" y="581" type="line"/>
+			<point name="hintSet0009" x="85" y="559"/>
+			<point x="49" y="520"/>
+			<point x="49" y="468" type="curve"/>
+			<point x="49" y="410"/>
+			<point x="100" y="360"/>
 		</contour>
 		<contour>
-			<point name="hintSet0011" x="206" y="566" type="curve"/>
-			<point x="149" y="583"/>
-			<point x="105" y="601"/>
-			<point x="105" y="644" type="curve"/>
-			<point x="105" y="676"/>
-			<point x="137" y="700"/>
-			<point x="179" y="700" type="curve"/>
-			<point x="223" y="700"/>
-			<point x="257" y="677"/>
-			<point x="257" y="645" type="curve"/>
-			<point x="257" y="613"/>
-			<point x="242" y="589"/>
+			<point name="hintSet0011" x="206" y="585" type="curve"/>
+			<point x="149" y="603"/>
+			<point x="104" y="627"/>
+			<point x="104" y="673" type="curve"/>
+			<point x="104" y="712"/>
+			<point x="138" y="740"/>
+			<point x="179" y="740" type="curve"/>
+			<point x="222" y="740"/>
+			<point x="258" y="714"/>
+			<point x="258" y="674" type="curve"/>
+			<point x="258" y="642"/>
+			<point x="241" y="612"/>
 		</contour>
 		<contour>
-			<point name="hintSet0016" x="180" y="396" type="curve"/>
-			<point x="122" y="396"/>
-			<point x="88" y="428"/>
-			<point x="88" y="462" type="curve"/>
-			<point x="88" y="502"/>
-			<point x="109" y="528"/>
-			<point x="152" y="547" type="curve"/>
-			<point x="213" y="524"/>
-			<point x="271" y="517"/>
-			<point x="271" y="461" type="curve"/>
-			<point x="271" y="426"/>
-			<point x="231" y="396"/>
+			<point name="hintSet0016" x="179" y="392" type="curve"/>
+			<point x="123" y="392"/>
+			<point x="87" y="431"/>
+			<point x="87" y="471" type="curve"/>
+			<point x="87" y="509"/>
+			<point x="109" y="542"/>
+			<point x="152" y="566" type="curve"/>
+			<point x="213" y="543"/>
+			<point x="272" y="529"/>
+			<point x="272" y="471" type="curve"/>
+			<point x="272" y="428"/>
+			<point x="230" y="392"/>
 		</contour>
 	</outline>
 	<lib>
@@ -71,10 +71,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 360 36</string>
-							<string>hstem 700 36</string>
-							<string>vstem 53 35</string>
-							<string>vstem 271 35</string>
+							<string>hstem 360 32</string>
+							<string>hstem 740 34</string>
+							<string>vstem 49 38</string>
+							<string>vstem 272 38</string>
 						</array>
 					</dict>
 					<dict>
@@ -82,10 +82,10 @@
 						<string>hintSet0004</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 360 36</string>
-							<string>hstem 700 36</string>
-							<string>vstem 70 35</string>
-							<string>vstem 257 35</string>
+							<string>hstem 360 32</string>
+							<string>hstem 740 34</string>
+							<string>vstem 66 38</string>
+							<string>vstem 258 38</string>
 						</array>
 					</dict>
 					<dict>
@@ -93,10 +93,10 @@
 						<string>hintSet0009</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 360 36</string>
-							<string>hstem 700 36</string>
-							<string>vstem 53 35</string>
-							<string>vstem 271 35</string>
+							<string>hstem 360 32</string>
+							<string>hstem 740 34</string>
+							<string>vstem 49 38</string>
+							<string>vstem 272 38</string>
 						</array>
 					</dict>
 					<dict>
@@ -104,10 +104,10 @@
 						<string>hintSet0011</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 360 36</string>
-							<string>hstem 700 36</string>
-							<string>vstem 70 35</string>
-							<string>vstem 257 35</string>
+							<string>hstem 360 32</string>
+							<string>hstem 740 34</string>
+							<string>vstem 66 38</string>
+							<string>vstem 258 38</string>
 						</array>
 					</dict>
 					<dict>
@@ -115,15 +115,15 @@
 						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 360 36</string>
-							<string>hstem 700 36</string>
-							<string>vstem 53 35</string>
-							<string>vstem 271 35</string>
+							<string>hstem 360 32</string>
+							<string>hstem 740 34</string>
+							<string>vstem 49 38</string>
+							<string>vstem 272 38</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>06953cdf1e17dfb1a73ac3dd66fa16f8c24c846e203e94e60c66b56a783620e9b416d6e1505379d56bc2057fb62cd03ab82382a0644bcb19a2fa90bdaa1b4bec</string>
+				<string>5823532e43f90528aaf50e6d3a02658e5fd585f054a7aea827eea91c9603de31c662dcca43341f800370e88e16899a73e82c5e3a4565459bce418f00918be602</string>
 			</dict>
 		</dict>
 	</lib>

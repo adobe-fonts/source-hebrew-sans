@@ -3,20 +3,20 @@
 	<unicode hex="FB1E"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="0" y="637" type="curve"/>
-			<point x="64" y="637"/>
-			<point x="111" y="676"/>
-			<point x="118" y="748" type="curve"/>
-			<point x="82" y="748" type="line"/>
-			<point x="76" y="713"/>
-			<point x="58" y="676"/>
-			<point x="0" y="676" type="curve"/>
-			<point x="-47" y="676"/>
-			<point x="-73" y="707"/>
-			<point x="-82" y="748" type="curve"/>
-			<point x="-119" y="748" type="line"/>
-			<point x="-114" y="697"/>
-			<point x="-79" y="637"/>
+			<point name="hintSet0000" x="0" y="636" type="curve"/>
+			<point x="80" y="636"/>
+			<point x="110" y="702"/>
+			<point x="116" y="752" type="curve"/>
+			<point x="90" y="756" type="line"/>
+			<point x="84" y="710"/>
+			<point x="56" y="666"/>
+			<point x="0" y="666" type="curve"/>
+			<point x="-56" y="666"/>
+			<point x="-84" y="710"/>
+			<point x="-90" y="756" type="curve"/>
+			<point x="-116" y="752" type="line"/>
+			<point x="-110" y="702"/>
+			<point x="-80" y="636"/>
 		</contour>
 	</outline>
 	<anchor name="_aboveHE" x="0" y="590"/>
@@ -32,13 +32,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 637 39</string>
-							<string>vstem -119 237</string>
+							<string>hstem 636 30</string>
+							<string>vstem -116 26</string>
+							<string>vstem 90 26</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0c063764637111676c118748l827487671358676c0676-47676-73707c-82748l-119748-114697-79637</string>
+				<string>w0c063680636110702c116752l907568471056666c0666-56666-84710c-90756l-116752-110702-80636</string>
 			</dict>
 		</dict>
 	</lib>

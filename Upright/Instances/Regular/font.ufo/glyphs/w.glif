@@ -8,9 +8,9 @@
 			<point x="255" y="0" type="line"/>
 			<point x="323" y="260" type="line"/>
 			<point x="336" y="306"/>
-			<point x="346" y="352"/>
-			<point x="357" y="401" type="curve"/>
-			<point x="361" y="401" type="line"/>
+			<point x="347" y="352"/>
+			<point x="357" y="402" type="curve"/>
+			<point x="361" y="402" type="line"/>
 			<point x="373" y="352"/>
 			<point x="382" y="307"/>
 			<point x="394" y="261" type="curve"/>
@@ -40,6 +40,7 @@
 			<point x="24" y="486" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="360" y="507"/>
-	<anchor name="belowLC" x="360" y="-20"/>
+	<anchor name="aboveLC" x="360" y="509"/>
+	<anchor name="aboverightLC" x="666" y="509"/>
+	<anchor name="belowLC" x="360" y="-22"/>
 </glyph>

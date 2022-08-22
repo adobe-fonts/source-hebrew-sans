@@ -32,12 +32,15 @@
 			<point x="460" y="30"/>
 		</contour>
 		<contour>
-			<point x="347" y="706" type="line"/>
-			<point x="367" y="729" type="line"/>
-			<point x="242" y="852" type="line"/>
-			<point x="214" y="819" type="line"/>
+			<point x="352" y="709" type="line"/>
+			<point x="398" y="709" type="line"/>
+			<point x="260" y="833" type="line"/>
+			<point x="198" y="833" type="line"/>
+			<point x="195" y="828" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboverightUC" x="520" y="681"/>
+	<anchor name="belowLC" x="326" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -57,7 +60,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9f851ec6333b7c019179fa957dffe81cb1727b39b4b48e5b77f839b5dee647aa6d086a732b9984cbb36df554ddaa0f7bd79fc661d7d06ccde2e03b18cf3416c0</string>
+				<string>2e278e25f358fa529f7a2b259e386b0f4e6e226eb3623db23709a2f652e0112c6e158904aab520fa4c8eaa5bce20a1e34b2096a550408f2a7f644bb7bd3aef82</string>
 			</dict>
 		</dict>
 	</lib>

@@ -32,12 +32,15 @@
 			<point x="355" y="56"/>
 		</contour>
 		<contour>
-			<point x="257" y="573" type="line"/>
-			<point x="414" y="726" type="line"/>
-			<point x="356" y="781" type="line"/>
-			<point x="215" y="614" type="line"/>
+			<point x="194" y="570" type="line"/>
+			<point x="260" y="570" type="line"/>
+			<point x="418" y="726" type="line"/>
+			<point x="413" y="735" type="line"/>
+			<point x="323" y="735" type="line"/>
 		</contour>
 	</outline>
+	<anchor name="aboverightLC" x="507" y="509"/>
+	<anchor name="belowLC" x="271" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -51,13 +54,14 @@
 						<array>
 							<string>hstem -12 68</string>
 							<string>hstem 430 68</string>
+							<string>hstem 726 9</string>
 							<string>vstem 46 85</string>
 							<string>vstem 411 85</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>da2ac916a01cfce490cacb01d52853e67ce4747c6769565494efeea5932e8fa81b3e2c012e23042dffcc489ba8284ea3dc1ff92b0a3dd141a5232094d1eb1ec4</string>
+				<string>2558f5a6a89cf686124a029b215211905bf8d70958bdde4c0c8a438cc21451ea7522cb59cdefd9ff1e8727816a6eac3cac3fb571431404607b86bce2677836bf</string>
 			</dict>
 		</dict>
 	</lib>

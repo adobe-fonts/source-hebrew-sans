@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heGershayim" format="2">
 	<unicode hex="05F4"/>
-	<advance width="371"/>
+	<advance width="360"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="192" y="416" type="line"/>
-			<point x="238" y="418" type="line"/>
-			<point x="338" y="640" type="line"/>
-			<point x="272" y="634" type="line"/>
+			<point name="hintSet0000" x="80" y="376" type="line"/>
+			<point x="115" y="444"/>
+			<point x="136" y="516"/>
+			<point x="136" y="600" type="curve"/>
+			<point x="136" y="611"/>
+			<point x="135" y="628"/>
+			<point x="134" y="635" type="curve"/>
+			<point x="89" y="635" type="line"/>
+			<point x="92" y="618"/>
+			<point x="92" y="607"/>
+			<point x="92" y="595" type="curve"/>
+			<point x="92" y="519"/>
+			<point x="80" y="454"/>
+			<point x="51" y="388" type="curve"/>
 		</contour>
 		<contour>
-			<point x="35" y="416" type="line"/>
-			<point x="82" y="418" type="line"/>
-			<point x="182" y="640" type="line"/>
-			<point x="115" y="634" type="line"/>
+			<point x="221" y="376" type="line"/>
+			<point x="256" y="444"/>
+			<point x="277" y="516"/>
+			<point x="277" y="600" type="curve"/>
+			<point x="277" y="611"/>
+			<point x="276" y="628"/>
+			<point x="275" y="635" type="curve"/>
+			<point x="230" y="635" type="line"/>
+			<point x="233" y="618"/>
+			<point x="233" y="607"/>
+			<point x="233" y="595" type="curve"/>
+			<point x="233" y="519"/>
+			<point x="221" y="454"/>
+			<point x="192" y="388" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -27,13 +47,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 416 224</string>
-							<string>vstem 35 303</string>
+							<string>hstem 376 259</string>
+							<string>vstem 92 44</string>
+							<string>vstem 233 44</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w371l192416l238418l338640l272634l35416l82418l182640l115634</string>
+				<string>1610ba147eaf5f5da58bc4157194aaf533efe16b0e57322fcca3591ee78700c569ac022c6587041de8996019394ee6662652ed9d32ffd57511f10160c9671e2b</string>
 			</dict>
 		</dict>
 	</lib>

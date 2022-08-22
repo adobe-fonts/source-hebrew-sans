@@ -18,13 +18,14 @@
 			<point x="77" y="652" type="line"/>
 		</contour>
 		<contour>
-			<point x="279" y="680" type="line"/>
-			<point x="462" y="799" type="line"/>
-			<point x="384" y="894" type="line"/>
-			<point x="213" y="754" type="line"/>
+			<point name="hintSet0012" x="204" y="702" type="line"/>
+			<point x="325" y="702" type="line"/>
+			<point name="hintSet0014" x="501" y="839" type="line"/>
+			<point x="492" y="855" type="line"/>
+			<point x="327" y="855" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="ogonekUC" x="394" y="0"/>
+	<anchor name="belowLC" x="300" y="-22"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -39,12 +40,37 @@
 							<string>hstem 0 124</string>
 							<string>hstem 274 123</string>
 							<string>hstem 528 124</string>
+							<string>hstem 839 16</string>
+							<string>vstem 77 147</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0012</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 124</string>
+							<string>hstem 274 123</string>
+							<string>hstem 528 124</string>
+							<string>hstem 702 153</string>
+							<string>vstem 77 147</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 124</string>
+							<string>hstem 274 123</string>
+							<string>hstem 528 124</string>
+							<string>hstem 839 16</string>
 							<string>vstem 77 147</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w548l770l4950l495124l224124l224274l446274l446397l224397l224528l485528l485652l77652l279680l462799l384894l213754</string>
+				<string>w548l770l4950l495124l224124l224274l446274l446397l224397l224528l485528l485652l77652l204702l325702l501839l492855l327855</string>
 			</dict>
 		</dict>
 	</lib>

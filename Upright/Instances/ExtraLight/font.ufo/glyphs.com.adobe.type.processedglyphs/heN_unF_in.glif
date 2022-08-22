@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heNunFin" format="2">
 	<unicode hex="05DF"/>
-	<advance width="276"/>
+	<advance width="274"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="146" y="-200" type="line"/>
-			<point x="174" y="-200" type="line"/>
-			<point x="174" y="390" type="line"/>
-			<point x="174" y="514"/>
-			<point x="130" y="546"/>
-			<point x="38" y="546" type="curve"/>
+			<point name="hintSet0000" x="144" y="-202" type="line"/>
+			<point x="174" y="-202" type="line"/>
+			<point x="174" y="380" type="line"/>
+			<point x="174" y="512"/>
+			<point x="128" y="546"/>
+			<point x="28" y="546" type="curve"/>
 			<point x="4" y="546" type="line"/>
-			<point x="4" y="516" type="line"/>
-			<point x="32" y="516" type="line"/>
-			<point x="110" y="516"/>
-			<point x="146" y="495"/>
-			<point x="146" y="384" type="curve"/>
+			<point x="4" y="518" type="line"/>
+			<point x="20" y="518" type="line"/>
+			<point x="106" y="518"/>
+			<point x="144" y="496"/>
+			<point x="144" y="376" type="curve"/>
 		</contour>
 	</outline>
 	<anchor name="aboveHE" x="110" y="590"/>
 	<anchor name="belowRightHE" x="90" y="-30"/>
-	<anchor name="aboveLeftHE" x="-10" y="590"/>
+	<anchor name="aboveLeftHE" x="0" y="590"/>
 	<lib>
 		<dict>
 			<key>com.adobe.type.autohint.v2</key>
@@ -32,13 +32,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 516 30</string>
-							<string>vstem 146 28</string>
+							<string>hstem 518 28</string>
+							<string>vstem 144 30</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w276l146-200l174-200l174390174514130546c38546l4546l4516l32516110516146495c146384</string>
+				<string>w274l144-202l174-202l174380174512128546c28546l4546l4518l20518106518144496c144376</string>
 			</dict>
 		</dict>
 	</lib>

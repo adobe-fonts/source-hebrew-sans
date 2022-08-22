@@ -3,20 +3,20 @@
 	<unicode hex="05C7"/>
 	<outline>
 		<contour>
-			<point x="-28" y="-304" type="line"/>
-			<point x="28" y="-304" type="line"/>
-			<point x="23" y="-132" type="line"/>
-			<point x="100" y="-132" type="line"/>
-			<point x="100" y="-80" type="line"/>
-			<point x="-102" y="-80" type="line"/>
-			<point x="-102" y="-132" type="line"/>
-			<point x="-23" y="-132" type="line"/>
+			<point x="-34" y="-300" type="line"/>
+			<point x="34" y="-300" type="line"/>
+			<point x="34" y="-144" type="line"/>
+			<point x="110" y="-144" type="line"/>
+			<point x="110" y="-76" type="line"/>
+			<point x="-110" y="-76" type="line"/>
+			<point x="-110" y="-144" type="line"/>
+			<point x="-34" y="-144" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_belowPrimaryHE" x="0" y="-30"/>
-	<anchor name="_belowLeftHE" x="-110" y="-30"/>
-	<anchor name="_belowRightHE" x="110" y="-30"/>
-	<anchor name="belowPrimaryHE" x="-170" y="-30"/>
-	<anchor name="_belowSecondaryHE" x="0" y="-30"/>
+	<anchor name="_belowPrimaryHE" x="0" y="-22"/>
+	<anchor name="_belowLeftHE" x="-110" y="-22"/>
+	<anchor name="_belowRightHE" x="110" y="-22"/>
+	<anchor name="belowPrimaryHE" x="-170" y="-22"/>
+	<anchor name="_belowSecondaryHE" x="0" y="-22"/>
 	<guideline y="46" identifier="0QQY0Nsl6b"/>
 </glyph>

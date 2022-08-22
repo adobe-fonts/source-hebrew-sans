@@ -3,23 +3,23 @@
 	<unicode hex="05BC"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="0" y="214" type="curve"/>
-			<point x="22" y="214"/>
-			<point x="42" y="230"/>
-			<point x="42" y="256" type="curve"/>
-			<point x="42" y="281"/>
-			<point x="22" y="299"/>
-			<point x="0" y="299" type="curve"/>
-			<point x="-22" y="299"/>
-			<point x="-42" y="281"/>
-			<point x="-42" y="256" type="curve"/>
-			<point x="-42" y="230"/>
-			<point x="-22" y="214"/>
+			<point name="hintSet0000" x="0" y="239" type="curve"/>
+			<point x="29" y="239"/>
+			<point x="49" y="256"/>
+			<point x="49" y="284" type="curve"/>
+			<point x="49" y="311"/>
+			<point x="29" y="329"/>
+			<point x="0" y="329" type="curve"/>
+			<point x="-29" y="329"/>
+			<point x="-49" y="311"/>
+			<point x="-49" y="284" type="curve"/>
+			<point x="-49" y="256"/>
+			<point x="-29" y="239"/>
 		</contour>
 	</outline>
-	<anchor name="_centerHE" x="0" y="256"/>
-	<anchor name="centerSecondaryHE" x="0" y="198"/>
-	<anchor name="_centerSecondaryHE" x="0" y="342"/>
+	<anchor name="_centerHE" x="0" y="282"/>
+	<anchor name="centerSecondaryHE" x="0" y="226"/>
+	<anchor name="_centerSecondaryHE" x="0" y="371"/>
 	<guideline y="285" identifier="znpAucETLd"/>
 	<lib>
 		<dict>
@@ -32,13 +32,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 214 85</string>
-							<string>vstem -42 84</string>
+							<string>hstem 239 90</string>
+							<string>vstem -49 98</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w0c02142221442230c422564228122299c0299-22299-42281c-42256-42230-22214</string>
+				<string>w0c02392923949256c492844931129329c0329-29329-49311c-49284-49256-29239</string>
 			</dict>
 		</dict>
 	</lib>

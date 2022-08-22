@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnWau" format="2">
 	<unicode hex="10905"/>
-	<advance width="581"/>
+	<advance width="553"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="258" y="-76" type="line"/>
-			<point x="324" y="-76" type="line"/>
-			<point x="324" y="185" type="line"/>
-			<point x="429" y="195"/>
-			<point x="504" y="264"/>
-			<point x="504" y="412" type="curve"/>
-			<point x="504" y="554" type="line"/>
-			<point x="434" y="554" type="line"/>
-			<point x="434" y="431" type="line"/>
-			<point x="434" y="314"/>
-			<point x="379" y="266"/>
-			<point x="294" y="266" type="curve"/>
-			<point x="287" y="266" type="line"/>
-			<point x="202" y="266"/>
-			<point x="147" y="314"/>
-			<point x="147" y="431" type="curve"/>
-			<point x="147" y="554" type="line"/>
-			<point x="78" y="554" type="line"/>
-			<point x="78" y="412" type="line"/>
-			<point x="78" y="264"/>
-			<point x="153" y="195"/>
-			<point x="258" y="185" type="curve"/>
+			<point name="hintSet0000" x="247" y="-185" type="line"/>
+			<point x="319" y="-185" type="line"/>
+			<point x="319" y="149" type="line"/>
+			<point x="436" y="169"/>
+			<point x="512" y="275"/>
+			<point x="513" y="518" type="curve"/>
+			<point x="436" y="518" type="line"/>
+			<point x="436" y="302"/>
+			<point x="380" y="229"/>
+			<point x="282" y="229" type="curve"/>
+			<point x="184" y="229"/>
+			<point x="127" y="303"/>
+			<point x="127" y="524" type="curve"/>
+			<point x="49" y="515" type="line"/>
+			<point x="51" y="263"/>
+			<point x="127" y="161"/>
+			<point x="247" y="148" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
@@ -39,15 +34,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -76 630</string>
-							<string>vstem 78 69</string>
-							<string>vstem 258 66</string>
-							<string>vstem 434 70</string>
+							<string>hstem -185 709</string>
+							<string>vstem 49 78</string>
+							<string>vstem 247 72</string>
+							<string>vstem 436 77</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>d7ea770dcba257bb4e242c0845bd5f6debf59d0a840040c417301c01eb222812aae4785a50ab8a986a3d82f96efa01513aae3755012b7ad09a3940a54d339ba0</string>
+				<string>w553l247-185l319-185l319149436169512275c513518l436518436302380229c282229184229127303c127524l4951551263127161c247148</string>
 			</dict>
 		</dict>
 	</lib>

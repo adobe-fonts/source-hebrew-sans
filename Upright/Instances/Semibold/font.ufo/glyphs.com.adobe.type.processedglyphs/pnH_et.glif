@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pnHet" format="2">
 	<unicode hex="10907"/>
-	<advance width="580"/>
+	<advance width="633"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="400" y="-120" type="line"/>
-			<point x="500" y="-120" type="line"/>
-			<point x="500" y="559" type="line"/>
-			<point x="183" y="559" type="line"/>
-			<point x="183" y="677" type="line"/>
-			<point x="83" y="677" type="line"/>
-			<point x="83" y="0" type="line"/>
-			<point x="400" y="0" type="line"/>
+			<point name="hintSet0000" x="450" y="-174" type="line"/>
+			<point x="550" y="-174" type="line"/>
+			<point x="550" y="523" type="line"/>
+			<point x="195" y="523" type="line"/>
+			<point x="195" y="692" type="line"/>
+			<point x="95" y="692" type="line"/>
+			<point x="95" y="0" type="line"/>
+			<point x="450" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="183" y="332" type="line"/>
-			<point x="183" y="444" type="line"/>
-			<point x="400" y="444" type="line"/>
-			<point x="400" y="332" type="line"/>
+			<point x="195" y="314" type="line"/>
+			<point x="195" y="420" type="line"/>
+			<point x="450" y="420" type="line"/>
+			<point x="450" y="314" type="line"/>
 		</contour>
 		<contour>
-			<point x="183" y="115" type="line"/>
-			<point x="183" y="241" type="line"/>
-			<point x="400" y="241" type="line"/>
-			<point x="400" y="115" type="line"/>
+			<point x="195" y="103" type="line"/>
+			<point x="195" y="223" type="line"/>
+			<point x="450" y="223" type="line"/>
+			<point x="450" y="103" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -37,16 +37,16 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 115</string>
-							<string>hstem 241 91</string>
-							<string>hstem 444 115</string>
-							<string>vstem 83 100</string>
-							<string>vstem 400 100</string>
+							<string>hstem 0 103</string>
+							<string>hstem 223 91</string>
+							<string>hstem 420 103</string>
+							<string>vstem 95 100</string>
+							<string>vstem 450 100</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w580l400-120l500-120l500559l183559l183677l83677l830l4000l183332l183444l400444l400332l183115l183241l400241l400115</string>
+				<string>w633l450-174l550-174l550523l195523l195692l95692l950l4500l195314l195420l450420l450314l195103l195223l450223l450103</string>
 			</dict>
 		</dict>
 	</lib>
