@@ -4,7 +4,7 @@
 	<advance width="522"/>
 	<outline>
 		<component base="heBet"/>
-		<component base="heRafe" xOffset="220"/>
+		<component base="heRafe" xOffset="220" yOffset="-20"/>
 	</outline>
 	<lib>
 		<dict>

@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heTav" format="2">
 	<unicode hex="05EA"/>
-	<advance width="712"/>
+	<advance width="682"/>
 	<outline>
 		<contour>
-			<point x="468" y="0" type="line"/>
-			<point x="640" y="0" type="line"/>
-			<point x="640" y="352" type="line" smooth="yes"/>
-			<point x="640" y="508"/>
-			<point x="556" y="568"/>
-			<point x="434" y="568" type="curve" smooth="yes"/>
-			<point x="84" y="568" type="line"/>
-			<point x="84" y="420" type="line"/>
-			<point x="338" y="420" type="line" smooth="yes"/>
-			<point x="418" y="420"/>
-			<point x="468" y="392"/>
-			<point x="468" y="294" type="curve" smooth="yes"/>
+			<point x="448" y="0" type="line"/>
+			<point x="620" y="0" type="line"/>
+			<point x="620" y="342" type="line" smooth="yes"/>
+			<point x="620" y="491"/>
+			<point x="540" y="548"/>
+			<point x="424" y="548" type="curve" smooth="yes"/>
+			<point x="84" y="548" type="line"/>
+			<point x="84" y="400" type="line"/>
+			<point x="328" y="400" type="line" smooth="yes"/>
+			<point x="402" y="400"/>
+			<point x="448" y="374"/>
+			<point x="448" y="284" type="curve" smooth="yes"/>
 		</contour>
 		<contour>
 			<point x="44" y="0" type="line"/>
 			<point x="286" y="0" type="line"/>
 			<point x="304" y="108" type="line"/>
-			<point x="290" y="192"/>
-			<point x="292" y="254"/>
-			<point x="292" y="344" type="curve" smooth="yes"/>
-			<point x="292" y="420" type="line"/>
-			<point x="164" y="420" type="line"/>
-			<point x="138" y="378"/>
-			<point x="120" y="312"/>
-			<point x="120" y="256" type="curve" smooth="yes"/>
-			<point x="120" y="236"/>
-			<point x="122" y="204"/>
+			<point x="294" y="166"/>
+			<point x="292" y="222"/>
+			<point x="292" y="304" type="curve" smooth="yes"/>
+			<point x="292" y="400" type="line"/>
+			<point x="164" y="400" type="line"/>
+			<point x="138" y="358"/>
+			<point x="122" y="284"/>
+			<point x="122" y="236" type="curve" smooth="yes"/>
+			<point x="122" y="200"/>
+			<point x="126" y="166"/>
 			<point x="128" y="148" type="curve"/>
 			<point x="44" y="148" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="350" y="590"/>
+	<anchor name="aboveHE" x="350" y="570"/>
 	<anchor name="belowPrimaryHE" x="360" y="-22"/>
 	<anchor name="centerHE" x="360" y="220"/>
-	<anchor name="aboveLeftHE" x="60" y="590"/>
+	<anchor name="aboveLeftHE" x="60" y="570"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
