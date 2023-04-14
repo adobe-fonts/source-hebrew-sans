@@ -4,8 +4,8 @@
 	<advance width="472"/>
 	<outline>
 		<contour>
-			<point x="314" y="-52" type="line"/>
-			<point x="342" y="-52" type="line"/>
+			<point x="314" y="-40" type="line"/>
+			<point x="342" y="-40" type="line"/>
 			<point x="342" y="552" type="line"/>
 			<point x="322" y="552" type="line"/>
 			<point x="20" y="138" type="line"/>
@@ -23,10 +23,4 @@
 			<point x="314" y="398" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.1313,0.9997,0.0236,1</string>
-		</dict>
-	</lib>
 </glyph>

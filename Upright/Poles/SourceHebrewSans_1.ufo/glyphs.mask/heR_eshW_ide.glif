@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heReshWide" format="2">
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="1092" y="0" type="line"/>
+			<point x="1240" y="0" type="line"/>
+			<point x="1240" y="352" type="line" smooth="yes"/>
+			<point x="1240" y="508"/>
+			<point x="1156" y="568"/>
+			<point x="1034" y="568" type="curve" smooth="yes"/>
+			<point x="14" y="568" type="line"/>
+			<point x="14" y="396" type="line"/>
+			<point x="962" y="396" type="line" smooth="yes"/>
+			<point x="1042" y="396"/>
+			<point x="1092" y="368"/>
+			<point x="1092" y="270" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

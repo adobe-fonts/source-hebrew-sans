@@ -47,6 +47,7 @@
 					<string>heMemFinWide</string>
 					<string>heReshWide</string>
 					<string>heTavWide</string>
+					<string>heAyin.swsh</string>
 					<string>heAlefPatah</string>
 					<string>heAlefQamats</string>
 					<string>heAlefMapiq</string>
@@ -274,6 +275,17 @@
 					<string>eight.S</string>
 					<string>nine.S</string>
 					<string>zero.0S</string>
+					<string>zero.T</string>
+					<string>one.T</string>
+					<string>two.T</string>
+					<string>three.T</string>
+					<string>four.T</string>
+					<string>five.T</string>
+					<string>six.T</string>
+					<string>seven.T</string>
+					<string>eight.T</string>
+					<string>nine.T</string>
+					<string>zero.0T</string>
 					<string>zero.P</string>
 					<string>one.P</string>
 					<string>two.P</string>
@@ -285,6 +297,17 @@
 					<string>eight.P</string>
 					<string>nine.P</string>
 					<string>zero.0P</string>
+					<string>zero.L</string>
+					<string>one.L</string>
+					<string>two.L</string>
+					<string>three.L</string>
+					<string>four.L</string>
+					<string>five.L</string>
+					<string>six.L</string>
+					<string>seven.L</string>
+					<string>eight.L</string>
+					<string>nine.L</string>
+					<string>zero.0L</string>
 					<string>zero.Sups</string>
 					<string>one.Sups</string>
 					<string>two.Sups</string>
@@ -878,6 +901,8 @@
 					<string>comma.Sups</string>
 					<string>equal.Subs</string>
 					<string>equal.Sups</string>
+					<string>heAlef.copy_1</string>
+					<string>heAlefWide.copy_1</string>
 					<string>minus.Subs</string>
 					<string>minus.Sups</string>
 					<string>parenleft.Dnom</string>
@@ -5305,6 +5330,7 @@
 			<string>heMemFinWide</string>
 			<string>heReshWide</string>
 			<string>heTavWide</string>
+			<string>heAyin.swsh</string>
 			<string>heAlefPatah</string>
 			<string>heAlefQamats</string>
 			<string>heAlefMapiq</string>
@@ -5532,6 +5558,17 @@
 			<string>eight.S</string>
 			<string>nine.S</string>
 			<string>zero.0S</string>
+			<string>zero.T</string>
+			<string>one.T</string>
+			<string>two.T</string>
+			<string>three.T</string>
+			<string>four.T</string>
+			<string>five.T</string>
+			<string>six.T</string>
+			<string>seven.T</string>
+			<string>eight.T</string>
+			<string>nine.T</string>
+			<string>zero.0T</string>
 			<string>zero.P</string>
 			<string>one.P</string>
 			<string>two.P</string>
@@ -5543,6 +5580,17 @@
 			<string>eight.P</string>
 			<string>nine.P</string>
 			<string>zero.0P</string>
+			<string>zero.L</string>
+			<string>one.L</string>
+			<string>two.L</string>
+			<string>three.L</string>
+			<string>four.L</string>
+			<string>five.L</string>
+			<string>six.L</string>
+			<string>seven.L</string>
+			<string>eight.L</string>
+			<string>nine.L</string>
+			<string>zero.0L</string>
 			<string>zero.Sups</string>
 			<string>one.Sups</string>
 			<string>two.Sups</string>
@@ -6136,6 +6184,8 @@
 			<string>comma.Sups</string>
 			<string>equal.Subs</string>
 			<string>equal.Sups</string>
+			<string>heAlef.copy_1</string>
+			<string>heAlefWide.copy_1</string>
 			<string>minus.Subs</string>
 			<string>minus.Sups</string>
 			<string>parenleft.Dnom</string>

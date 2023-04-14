@@ -4,38 +4,32 @@
 	<advance width="472"/>
 	<outline>
 		<contour>
-			<point x="47" y="0" type="line"/>
-			<point x="422" y="0" type="line"/>
-			<point x="422" y="28" type="line"/>
-			<point x="204" y="28" type="line" smooth="yes"/>
-			<point x="168" y="28"/>
-			<point x="132" y="26"/>
-			<point x="96" y="24" type="curve"/>
-			<point x="231" y="145"/>
-			<point x="384" y="282"/>
-			<point x="384" y="404" type="curve" smooth="yes"/>
-			<point x="384" y="500"/>
-			<point x="323" y="558"/>
-			<point x="224" y="558" type="curve" smooth="yes"/>
-			<point x="152" y="558"/>
-			<point x="108" y="540"/>
-			<point x="52" y="504" type="curve"/>
-			<point x="64" y="480" type="line"/>
-			<point x="124" y="518"/>
-			<point x="164" y="530"/>
-			<point x="222" y="530" type="curve" smooth="yes"/>
-			<point x="312" y="530"/>
-			<point x="354" y="479"/>
-			<point x="354" y="404" type="curve" smooth="yes"/>
-			<point x="354" y="294"/>
-			<point x="211" y="162"/>
-			<point x="47" y="20" type="curve"/>
+			<point x="57" y="0" type="line"/>
+			<point x="412" y="0" type="line"/>
+			<point x="412" y="28" type="line"/>
+			<point x="214" y="28" type="line" smooth="yes"/>
+			<point x="178" y="28"/>
+			<point x="142" y="26"/>
+			<point x="106" y="24" type="curve"/>
+			<point x="241" y="145"/>
+			<point x="394" y="282"/>
+			<point x="394" y="404" type="curve" smooth="yes"/>
+			<point x="394" y="500"/>
+			<point x="333" y="558"/>
+			<point x="234" y="558" type="curve" smooth="yes"/>
+			<point x="162" y="558"/>
+			<point x="118" y="540"/>
+			<point x="62" y="504" type="curve"/>
+			<point x="74" y="480" type="line"/>
+			<point x="136" y="518"/>
+			<point x="174" y="530"/>
+			<point x="232" y="530" type="curve" smooth="yes"/>
+			<point x="322" y="530"/>
+			<point x="364" y="479"/>
+			<point x="364" y="404" type="curve" smooth="yes"/>
+			<point x="364" y="294"/>
+			<point x="221" y="162"/>
+			<point x="57" y="20" type="curve"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.1313,0.9997,0.0236,1</string>
-		</dict>
-	</lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heBet" format="2">
 	<unicode hex="05D1"/>
-	<advance width="554"/>
+	<advance width="534"/>
 	<outline>
 		<contour>
 			<point x="44" y="0" type="line"/>
@@ -32,10 +32,4 @@
 	<anchor name="belowPrimaryHE" x="270" y="-22"/>
 	<anchor name="centerHE" x="190" y="280"/>
 	<anchor name="aboveLeftHE" x="40" y="570"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,1,0,1</string>
-		</dict>
-	</lib>
 </glyph>

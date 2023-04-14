@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heMemFin" format="2">
 	<unicode hex="05DD"/>
-	<advance width="668"/>
+	<advance width="664"/>
 	<outline>
 		<contour>
 			<point x="158" y="0" type="line"/>
-			<point x="606" y="0" type="line"/>
-			<point x="606" y="342" type="line" smooth="yes"/>
-			<point x="606" y="491"/>
-			<point x="526" y="548"/>
-			<point x="410" y="548" type="curve" smooth="yes"/>
+			<point x="602" y="0" type="line"/>
+			<point x="602" y="342" type="line" smooth="yes"/>
+			<point x="602" y="491"/>
+			<point x="522" y="548"/>
+			<point x="406" y="548" type="curve" smooth="yes"/>
 			<point x="64" y="548" type="line"/>
 			<point x="64" y="400" type="line"/>
-			<point x="314" y="400" type="line" smooth="yes"/>
-			<point x="388" y="400"/>
-			<point x="434" y="374"/>
-			<point x="434" y="284" type="curve" smooth="yes"/>
-			<point x="434" y="148" type="line"/>
+			<point x="310" y="400" type="line" smooth="yes"/>
+			<point x="384" y="400"/>
+			<point x="430" y="374"/>
+			<point x="430" y="284" type="curve" smooth="yes"/>
+			<point x="430" y="148" type="line"/>
 			<point x="158" y="148" type="line"/>
 		</contour>
 		<contour>
@@ -33,10 +33,4 @@
 	<anchor name="belowPrimaryHE" x="340" y="-22"/>
 	<anchor name="centerHE" x="340" y="280"/>
 	<anchor name="aboveLeftHE" x="40" y="570"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,1,0,1</string>
-		</dict>
-	</lib>
 </glyph>

@@ -38,6 +38,7 @@ uni05DC.j	heLamedWide	uniFB25
 uni05DD.j	heMemFinWide	uniFB26
 uni05E8.j	heReshWide	uniFB27
 uni05EA.j	heTavWide	uniFB28
+uni05E2.s	heAyin.swsh
 u05D005B7	heAlefPatah	uniFB2E
 u05D005B8	heAlefQamats	uniFB2F
 u05D005BC	heAlefMapiq	uniFB30
@@ -254,17 +255,28 @@ u1039B	ugI
 u1039C	ugU
 u1039D	ugSsu
 u1039F	ugword
-zero	zero.S
-one	one.S
-two	two.S
-three	three.S
-four	four.S
-five	five.S
-six	six.S
-seven	seven.S
-eight	eight.S
-nine	nine.S
+zero	zero.S	uni0030
+one	one.S	uni0031
+two	two.S	uni0032
+three	three.S	uni0033
+four	four.S	uni0034
+five	five.S	uni0035
+six	six.S	uni0036
+seven	seven.S	uni0037
+eight	eight.S	uni0038
+nine	nine.S	uni0039
 zero.0	zero.0S
+zero.T	zero.T
+one.T	one.T
+two.T	two.T
+three.T	three.T
+four.T	four.T
+five.T	five.T
+six.T	six.T
+seven.T	seven.T
+eight.T	eight.T
+nine.T	nine.T
+zero.0T	zero.0T
 zero.P	zero.P
 one.P	one.P
 two.P	two.P
@@ -276,6 +288,17 @@ seven.P	seven.P
 eight.P	eight.P
 nine.P	nine.P
 zero.0P	zero.0P
+zero.L	zero.L
+one.L	one.L
+two.L	two.L
+three.L	three.L
+four.L	four.L
+five.L	five.L
+six.L	six.L
+seven.L	seven.L
+eight.L	eight.L
+nine.L	nine.L
+zero.0L	zero.0L
 zero.U	zero.Sups	uni2070
 one.U	one.Sups	uni00B9
 two.U	two.Sups	uni00B2
@@ -735,7 +758,7 @@ uni20AA.p	newsheqel.pnum
 dollar.l	dollar
 sterling.l	sterling
 yen.l	yen
-yen.CN.l	yuan
+yen.CNl	yuan
 Euro.l	Euro
 cent.l	cent
 colonmonetary.l	colonmonetary

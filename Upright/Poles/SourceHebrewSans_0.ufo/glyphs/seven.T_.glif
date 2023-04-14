@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.T" format="2">
+	<advance width="472"/>
+	<outline>
+		<contour>
+			<point x="194" y="0" type="curve"/>
+			<point x="224" y="0" type="line"/>
+			<point x="234" y="220"/>
+			<point x="286" y="360"/>
+			<point x="430" y="548" type="curve"/>
+			<point x="430" y="566" type="line"/>
+			<point x="44" y="566" type="line"/>
+			<point x="44" y="538" type="line"/>
+			<point x="392" y="538" type="line"/>
+			<point x="270" y="374"/>
+			<point x="204" y="230"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0.4,1</string>
+		</dict>
+	</lib>
+</glyph>

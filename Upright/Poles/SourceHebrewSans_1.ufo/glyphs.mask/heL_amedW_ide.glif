@@ -22,5 +22,26 @@
 			<point x="950" y="231"/>
 			<point x="512" y="138" type="curve"/>
 		</contour>
+		<contour>
+			<point x="558" y="-12" type="line"/>
+			<point x="1080" y="136"/>
+			<point x="1290" y="208"/>
+			<point x="1290" y="408" type="curve" smooth="yes"/>
+			<point x="1290" y="514"/>
+			<point x="1238" y="568"/>
+			<point x="1078" y="568" type="curve" smooth="yes"/>
+			<point x="212" y="568" type="line"/>
+			<point x="212" y="722" type="line"/>
+			<point x="64" y="722" type="line"/>
+			<point x="64" y="396" type="line"/>
+			<point x="1062" y="396" type="line" smooth="yes"/>
+			<point x="1120" y="396"/>
+			<point x="1142" y="386"/>
+			<point x="1142" y="346" type="curve" smooth="yes"/>
+			<point x="1142" y="292"/>
+			<point x="968" y="228"/>
+			<point x="502" y="138" type="curve"/>
+		</contour>
+		<component base="heLamed"/>
 	</outline>
 </glyph>

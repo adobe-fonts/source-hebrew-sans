@@ -134,10 +134,11 @@ lookup SWAP_DIACRITICS {
 #OK
 feature aalt{
 	feature locl;
-#	feature lnum;
+	feature lnum;
 	feature pnum;
 	feature sups;
 	feature jalt;
+	feature swsh;
 	feature ss01;
 	feature ss02;
 	feature salt;
@@ -271,6 +272,17 @@ feature pnum {
 			} PNUM_LATIN;
 } pnum;
 #--------------------------------------
+@FIGURES_TABULAR_LINING = [ zero.T one.T two.T three.T four.T five.T six.T seven.T eight.T nine.T ];
+@FIGURES_PROPORTIONAL_LINING = [ zero.L one.L two.L three.L four.L five.L six.L seven.L eight.L nine.L ];
+
+feature lnum {
+	script hebr;
+		language dflt;
+			lookup LNUM {
+				sub [ @FIGURES_TABULAR @FIGURES_PROPORTIONAL ] by [ @FIGURES_TABULAR_LINING @FIGURES_PROPORTIONAL_LINING ];
+			} LNUM;
+} lnum;
+#--------------------------------------
 feature case {
 	sub @COMBINING_MARKS_LATN by @COMBINING_MARKS_LATN_CAP;
 	sub hlinebelow by H macronbelowcmb;
@@ -286,6 +298,12 @@ feature jalt { # justification alternates
 		sub @JALT_REGULAR by @JALT_WIDE;
 	} jalt1;
 } jalt;
+
+feature swsh { # justification alternates
+	lookup swsh1 { lookupflag RightToLeft;
+		sub heAyin by heAyin.swsh;
+	} swsh1;
+} swsh;
 
 feature ss01 { # stylistic set 1
 	lookup FIGS_LAT {
@@ -323,7 +341,7 @@ feature salt { # stylistic alternates
 } salt;
 
 feature zero {
-	sub [zero.S zero.P zero zero.pnum] by [zero.0S zero.0P zero.0 zero.0p];
+	sub [ zero.S zero.P zero zero.pnum zero.T zero.L ] by [ zero.0S zero.0P zero.0 zero.0p zero.0T zero.0L ];
 } zero;
 
 feature size {

@@ -3,7 +3,7 @@
 	<unicode hex="0025"/>
 	<advance width="798"/>
 	<outline>
-		<component base="zero.Dnom" yOffset="196"/>
+		<component base="zero.Dnom" yOffset="156"/>
 		<component base="fraction.S" xOffset="360"/>
 		<component base="zero.Dnom" xOffset="438"/>
 	</outline>
@@ -17,7 +17,7 @@
 				<integer>1</integer>
 			</array>
 			<key>public.markColor</key>
-			<string>0,0.5,1,1</string>
+			<string>0.9855,0.0093,0.9992,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heHeWide" format="2">
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="1252" y="0" type="line"/>
+			<point x="1400" y="0" type="line"/>
+			<point x="1400" y="352" type="line" smooth="yes"/>
+			<point x="1400" y="508"/>
+			<point x="1316" y="568"/>
+			<point x="1194" y="568" type="curve" smooth="yes"/>
+			<point x="64" y="568" type="line"/>
+			<point x="64" y="396" type="line"/>
+			<point x="1122" y="396" type="line" smooth="yes"/>
+			<point x="1202" y="396"/>
+			<point x="1252" y="368"/>
+			<point x="1252" y="270" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="94" y="0" type="line"/>
+			<point x="242" y="0" type="line"/>
+			<point x="242" y="316" type="line"/>
+			<point x="118" y="316" type="line"/>
+			<point x="104" y="272"/>
+			<point x="94" y="226"/>
+			<point x="94" y="166" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

@@ -66,14 +66,20 @@
 		<string>eight.D_nom.glif</string>
 		<key>eight.S</key>
 		<string>eight.S_.glif</string>
+		<key>eight.T</key>
+		<string>eight.T_.glif</string>
 		<key>five.Dnom</key>
 		<string>five.D_nom.glif</string>
 		<key>five.S</key>
 		<string>five.S_.glif</string>
+		<key>five.T</key>
+		<string>five.T_.glif</string>
 		<key>four.Dnom</key>
 		<string>four.D_nom.glif</string>
 		<key>four.S</key>
 		<string>four.S_.glif</string>
+		<key>four.T</key>
+		<string>four.T_.glif</string>
 		<key>franc.S</key>
 		<string>franc.S_.glif</string>
 		<key>gampersand</key>
@@ -82,14 +88,22 @@
 		<string>guarani.S_.glif</string>
 		<key>heAlef</key>
 		<string>heA_lef.glif</string>
+		<key>heAlef.copy_1</key>
+		<string>heA_lef.copy_1.glif</string>
 		<key>heAlefWide</key>
 		<string>heA_lefW_ide.glif</string>
+		<key>heAlefWide.copy_1</key>
+		<string>heA_lefW_ide.copy_1.glif</string>
 		<key>heAyin</key>
 		<string>heA_yin.glif</string>
+		<key>heAyin.swsh</key>
+		<string>heA_yin.swsh.glif</string>
 		<key>heBet</key>
 		<string>heB_et.glif</string>
 		<key>heDalet</key>
 		<string>heD_alet.glif</string>
+		<key>heDaletWide</key>
+		<string>heD_aletW_ide.glif</string>
 		<key>heGimel</key>
 		<string>heG_imel.glif</string>
 		<key>heHatafPatah</key>
@@ -102,6 +116,8 @@
 		<string>heH_atafS_egol.glif</string>
 		<key>heHe</key>
 		<string>heH_e.glif</string>
+		<key>heHeWide</key>
+		<string>heH_eW_ide.glif</string>
 		<key>heHet</key>
 		<string>heH_et.glif</string>
 		<key>heHiriq</key>
@@ -110,6 +126,8 @@
 		<string>heK_af.glif</string>
 		<key>heKafFin</key>
 		<string>heK_afF_in.glif</string>
+		<key>heKafWide</key>
+		<string>heK_afW_ide.glif</string>
 		<key>heLamed</key>
 		<string>heL_amed.glif</string>
 		<key>heLamedWide</key>
@@ -118,6 +136,8 @@
 		<string>heM_em.glif</string>
 		<key>heMemFin</key>
 		<string>heM_emF_in.glif</string>
+		<key>heMemFinWide</key>
+		<string>heM_emF_inW_ide.glif</string>
 		<key>heMeteg</key>
 		<string>heM_eteg.glif</string>
 		<key>heNun</key>
@@ -146,6 +166,8 @@
 		<string>heQ_ubuts.glif</string>
 		<key>heResh</key>
 		<string>heR_esh.glif</string>
+		<key>heReshWide</key>
+		<string>heR_eshW_ide.glif</string>
 		<key>heSamekh</key>
 		<string>heS_amekh.glif</string>
 		<key>heSegol</key>
@@ -158,6 +180,8 @@
 		<string>heS_hin.glif</string>
 		<key>heTav</key>
 		<string>heT_av.glif</string>
+		<key>heTavWide</key>
+		<string>heT_avW_ide.glif</string>
 		<key>heTet</key>
 		<string>heT_et.glif</string>
 		<key>heTsadi</key>
@@ -208,12 +232,18 @@
 		<string>nine.D_nom.glif</string>
 		<key>nine.S</key>
 		<string>nine.S_.glif</string>
+		<key>nine.T</key>
+		<string>nine.T_.glif</string>
 		<key>numbersign.S</key>
 		<string>numbersign.S_.glif</string>
+		<key>one.L</key>
+		<string>one.L_.glif</string>
 		<key>one.P</key>
 		<string>one.P_.glif</string>
 		<key>one.S</key>
 		<string>one.S_.glif</string>
+		<key>one.T</key>
+		<string>one.T_.glif</string>
 		<key>peseta.S</key>
 		<string>peseta.S_.glif</string>
 		<key>peso.S</key>
@@ -256,14 +286,20 @@
 		<string>section.S_.glif</string>
 		<key>seven.Dnom</key>
 		<string>seven.D_nom.glif</string>
+		<key>seven.L</key>
+		<string>seven.L_.glif</string>
 		<key>seven.P</key>
 		<string>seven.P_.glif</string>
 		<key>seven.S</key>
 		<string>seven.S_.glif</string>
+		<key>seven.T</key>
+		<string>seven.T_.glif</string>
 		<key>six.Dnom</key>
 		<string>six.D_nom.glif</string>
 		<key>six.S</key>
 		<string>six.S_.glif</string>
+		<key>six.T</key>
+		<string>six.T_.glif</string>
 		<key>sterling.S</key>
 		<string>sterling.S_.glif</string>
 		<key>tenge.S</key>
@@ -272,14 +308,20 @@
 		<string>three.D_nom.glif</string>
 		<key>three.S</key>
 		<string>three.S_.glif</string>
+		<key>three.T</key>
+		<string>three.T_.glif</string>
 		<key>tugrik.S</key>
 		<string>tugrik.S_.glif</string>
 		<key>two.Dnom</key>
 		<string>two.D_nom.glif</string>
+		<key>two.L</key>
+		<string>two.L_.glif</string>
 		<key>two.P</key>
 		<string>two.P_.glif</string>
 		<key>two.S</key>
 		<string>two.S_.glif</string>
+		<key>two.T</key>
+		<string>two.T_.glif</string>
 		<key>ugAin</key>
 		<string>ugA_in.glif</string>
 		<key>ugGhain</key>
@@ -308,9 +350,13 @@
 		<string>yen.S_.glif</string>
 		<key>yuan.S</key>
 		<string>yuan.S_.glif</string>
+		<key>zero.L</key>
+		<string>zero.L_.glif</string>
 		<key>zero.P</key>
 		<string>zero.P_.glif</string>
 		<key>zero.S</key>
 		<string>zero.S_.glif</string>
+		<key>zero.T</key>
+		<string>zero.T_.glif</string>
 	</dict>
 </plist>
