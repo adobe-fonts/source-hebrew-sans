@@ -38,14 +38,14 @@
 			<point x="54" y="16"/>
 		</contour>
 		<contour>
-			<point x="1310" y="-12" type="curve"/>
-			<point x="1374" y="130" type="line"/>
-			<point x="954" y="192"/>
-			<point x="380" y="382"/>
-			<point x="100" y="556" type="curve"/>
-			<point x="36" y="414" type="line"/>
-			<point x="316" y="240"/>
-			<point x="890" y="50"/>
+			<point x="1216" y="-12" type="curve"/>
+			<point x="1380" y="64" type="line"/>
+			<point x="846" y="244"/>
+			<point x="534" y="380"/>
+			<point x="182" y="556" type="curve"/>
+			<point x="22" y="490" type="line"/>
+			<point x="436" y="278"/>
+			<point x="752" y="140"/>
 		</contour>
 	</outline>
 	<anchor name="aboveHE" x="330" y="590"/>
@@ -53,10 +53,4 @@
 	<anchor name="aboveLeftHE" x="20" y="590"/>
 	<anchor name="centerHE" x="276" y="90"/>
 	<guideline x="88" y="472" angle="90" identifier="Xn6NvC9d08"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,1,0.4,1</string>
-		</dict>
-	</lib>
 </glyph>

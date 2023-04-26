@@ -1,37 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hePeFin" format="2">
 	<unicode hex="05E3"/>
-	<advance width="602"/>
+	<advance width="612"/>
 	<outline>
 		<contour>
-			<point x="366" y="-156" type="line"/>
-			<point x="538" y="-156" type="line"/>
-			<point x="538" y="282" type="line" smooth="yes"/>
-			<point x="538" y="492"/>
-			<point x="434" y="560"/>
-			<point x="284" y="560" type="curve" smooth="yes"/>
+			<point x="378" y="-156" type="line"/>
+			<point x="550" y="-156" type="line"/>
+			<point x="550" y="282" type="line" smooth="yes"/>
+			<point x="550" y="502"/>
+			<point x="450" y="560"/>
+			<point x="304" y="560" type="curve" smooth="yes"/>
 			<point x="158" y="560"/>
-			<point x="42" y="476"/>
-			<point x="42" y="322" type="curve" smooth="yes"/>
-			<point x="42" y="212"/>
-			<point x="96" y="138"/>
-			<point x="220" y="138" type="curve" smooth="yes"/>
-			<point x="258" y="138" type="line"/>
-			<point x="258" y="286" type="line"/>
-			<point x="254" y="286" type="line" smooth="yes"/>
-			<point x="228" y="286"/>
+			<point x="42" y="500"/>
+			<point x="42" y="343" type="curve" smooth="yes"/>
+			<point x="42" y="220"/>
+			<point x="120" y="138"/>
+			<point x="230" y="138" type="curve" smooth="yes"/>
+			<point x="268" y="138" type="line"/>
+			<point x="268" y="286" type="line"/>
+			<point x="264" y="286" type="line" smooth="yes"/>
+			<point x="232" y="286"/>
 			<point x="214" y="304"/>
-			<point x="214" y="342" type="curve" smooth="yes"/>
-			<point x="214" y="386"/>
+			<point x="214" y="348" type="curve" smooth="yes"/>
+			<point x="214" y="394"/>
 			<point x="246" y="412"/>
-			<point x="284" y="412" type="curve" smooth="yes"/>
-			<point x="338" y="412"/>
-			<point x="366" y="388"/>
-			<point x="366" y="252" type="curve" smooth="yes"/>
+			<point x="294" y="412" type="curve" smooth="yes"/>
+			<point x="346" y="412"/>
+			<point x="378" y="388"/>
+			<point x="378" y="272" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
 	<anchor name="aboveHE" x="285" y="570"/>
 	<anchor name="belowRightHE" x="245" y="-22"/>
 	<anchor name="centerHE" x="320" y="240"/>
 	<anchor name="aboveLeftHE" x="40" y="570"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0.4,1</string>
+		</dict>
+	</lib>
 </glyph>

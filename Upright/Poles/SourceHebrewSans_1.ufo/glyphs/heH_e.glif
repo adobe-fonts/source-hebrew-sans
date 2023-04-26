@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heHe" format="2">
 	<unicode hex="05D4"/>
-	<advance width="642"/>
+	<advance width="632"/>
 	<outline>
 		<contour>
-			<point x="408" y="0" type="line"/>
-			<point x="580" y="0" type="line"/>
-			<point x="580" y="342" type="line" smooth="yes"/>
-			<point x="580" y="491"/>
-			<point x="500" y="548"/>
-			<point x="384" y="548" type="curve" smooth="yes"/>
+			<point x="398" y="0" type="line"/>
+			<point x="570" y="0" type="line"/>
+			<point x="570" y="322" type="line" smooth="yes"/>
+			<point x="570" y="484"/>
+			<point x="478" y="548"/>
+			<point x="344" y="548" type="curve" smooth="yes"/>
 			<point x="54" y="548" type="line"/>
 			<point x="54" y="400" type="line"/>
-			<point x="288" y="400" type="line" smooth="yes"/>
-			<point x="362" y="400"/>
-			<point x="408" y="374"/>
-			<point x="408" y="284" type="curve" smooth="yes"/>
+			<point x="298" y="400" type="line" smooth="yes"/>
+			<point x="366" y="400"/>
+			<point x="398" y="386"/>
+			<point x="398" y="304" type="curve" smooth="yes"/>
 		</contour>
 		<contour>
 			<point x="84" y="0" type="line"/>
@@ -31,4 +31,10 @@
 	<anchor name="belowPrimaryHE" x="330" y="-22"/>
 	<anchor name="centerHE" x="330" y="220"/>
 	<anchor name="aboveLeftHE" x="30" y="570"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0.4,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heNunFin" format="2">
 	<unicode hex="05DF"/>
-	<advance width="356"/>
+	<advance width="346"/>
 	<outline>
 		<contour>
-			<point x="122" y="-156" type="line"/>
-			<point x="294" y="-156" type="line"/>
-			<point x="294" y="352" type="line" smooth="yes"/>
-			<point x="294" y="494"/>
-			<point x="218" y="548"/>
-			<point x="108" y="548" type="curve" smooth="yes"/>
+			<point x="112" y="0" type="line"/>
+			<point x="284" y="0" type="line"/>
+			<point x="284" y="372" type="line" smooth="yes"/>
+			<point x="284" y="500"/>
+			<point x="214" y="548"/>
+			<point x="114" y="548" type="curve" smooth="yes"/>
 			<point x="24" y="548" type="line"/>
 			<point x="24" y="400" type="line"/>
-			<point x="42" y="400" type="line" smooth="yes"/>
-			<point x="92" y="400"/>
-			<point x="122" y="376"/>
-			<point x="122" y="294" type="curve" smooth="yes"/>
+			<point x="38" y="400" type="line" smooth="yes"/>
+			<point x="91" y="400"/>
+			<point x="112" y="380"/>
+			<point x="112" y="314" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
 	<anchor name="aboveHE" x="160" y="570"/>
 	<anchor name="belowRightHE" x="100" y="-22"/>
 	<anchor name="aboveLeftHE" x="0" y="570"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0.4,1</string>
+		</dict>
+	</lib>
 </glyph>

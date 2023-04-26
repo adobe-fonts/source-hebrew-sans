@@ -1,39 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heTet" format="2">
 	<unicode hex="05D8"/>
-	<advance width="630"/>
+	<advance width="622"/>
 	<outline>
 		<contour>
-			<point x="302" y="-12" type="curve" smooth="yes"/>
-			<point x="501" y="-12"/>
-			<point x="592" y="140"/>
-			<point x="592" y="360" type="curve" smooth="yes"/>
-			<point x="592" y="496"/>
-			<point x="532" y="560"/>
-			<point x="400" y="560" type="curve" smooth="yes"/>
-			<point x="368" y="560"/>
-			<point x="340" y="558"/>
-			<point x="300" y="550" type="curve"/>
-			<point x="322" y="406" type="line"/>
-			<point x="334" y="410"/>
-			<point x="344" y="412"/>
-			<point x="356" y="412" type="curve" smooth="yes"/>
+			<point x="304" y="-12" type="curve" smooth="yes"/>
+			<point x="498" y="-12"/>
+			<point x="584" y="140"/>
+			<point x="584" y="360" type="curve" smooth="yes"/>
+			<point x="584" y="490"/>
+			<point x="508" y="560"/>
+			<point x="384" y="560" type="curve" smooth="yes"/>
+			<point x="346" y="560"/>
+			<point x="332" y="558"/>
+			<point x="292" y="550" type="curve"/>
+			<point x="314" y="406" type="line"/>
+			<point x="328" y="411"/>
+			<point x="340" y="412"/>
+			<point x="354" y="412" type="curve" smooth="yes"/>
 			<point x="394" y="412"/>
-			<point x="414" y="380"/>
-			<point x="414" y="312" type="curve" smooth="yes"/>
-			<point x="414" y="200"/>
-			<point x="395" y="136"/>
-			<point x="328" y="136" type="curve" smooth="yes"/>
-			<point x="281" y="136"/>
-			<point x="244" y="176"/>
-			<point x="244" y="556" type="curve"/>
-			<point x="44" y="540" type="line"/>
-			<point x="52" y="112"/>
-			<point x="146" y="-12"/>
+			<point x="412" y="390"/>
+			<point x="412" y="312" type="curve" smooth="yes"/>
+			<point x="412" y="200"/>
+			<point x="384" y="136"/>
+			<point x="322" y="136" type="curve" smooth="yes"/>
+			<point x="266" y="136"/>
+			<point x="220" y="176"/>
+			<point x="220" y="550" type="curve"/>
+			<point x="44" y="538" type="line"/>
+			<point x="44" y="112"/>
+			<point x="120" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="aboveHE" x="350" y="570"/>
-	<anchor name="belowPrimaryHE" x="340" y="-22"/>
-	<anchor name="centerHE" x="330" y="290"/>
-	<anchor name="aboveLeftHE" x="20" y="570"/>
+	<anchor name="aboveHE" x="346" y="570"/>
+	<anchor name="belowPrimaryHE" x="336" y="-22"/>
+	<anchor name="centerHE" x="326" y="290"/>
+	<anchor name="aboveLeftHE" x="16" y="570"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,0.4,1</string>
+		</dict>
+	</lib>
 </glyph>
